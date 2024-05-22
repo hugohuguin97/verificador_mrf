@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<body>
+
+<h1>Herramienta de validación para IMM-MAGE</h1>
+
+<h2>Introducción</h2>
+
+<p>IMM-MAGE es la nueva plataforma desarrollada por el equipo de expertos de
+SIEMENS y recientemente adquirida por el CENACE para la gestión de la base de
+datos que conforma el modelo matemático del SEN. Si bien, esta es una herramienta
+muy poderosa, su uso cotidiando nos ha permitido detectar errores en el modelo que
+la aplicación deja cargar sin emitir alertas o bloquear los procesos de
+actualización. Otra necesidad adicional, es la tarea de confirmar la integridad
+de la información después de la activiación de nuevos jobs, asegurandonos que los
+nuevos cambios que se integran no tendrán repercusiones graves en el modelo de
+red física y subsecuentemente en el modelo de red comercial. </p>
+
+<p>La herramienta de validación para IMM-MAGE se convierte en la predecesorá del
+<i><b>checklist</b></i> que se aplica para la validación de la integridad en la
+base de datos de SITRACEN. Esta nueva herramienta tiene un proposito similar al
+checklist, sin embargo, los paradigmas de ambos sistemas de información son muy
+diferentes y las limitaciones y alcances que cada uno de ellos tiene también
+difieren bastante. Hablando de IMM-MAGE, una de las afectaciones más importantes
+es la incapacidad que tenemos para realizar conexiones directas a la bases de
+datos, esta limitante nos obliga a exportar las tablas de modelo de forma
+manual (un trabajo tedioso y que aumenta la posibilidad de introducir errores
+humanos al proceso). Por el momento, es la unica forma que tenemos disponible para
+obtener información de modelo de IMM-MAGE y, aunque es tediosa, se buscó desarrollar
+una métodología de validación y exportación de datos que redujerá en la medida
+de lo posible la cantidad de operaciones manuales que deben realizarse para el
+completar el proceso.Hasta este momento, la herramienta esta diseñada para
+realizar las siguientes validaciones:</p>
+
+<ol>
+  <li>Validación a ligas de curvas de capabilidad</li>
+  <li>Validación de existencia de SteamTurbines a unidades del tipo Thermal y subtipo Fossil Fired Steam</li>
+  <li>Validación de mRID repetidos</li>
+  <li>Validación de valores Y1 y Y2 en curvas de capabilidad</li>
+  <li>Validación de ligas de voltaje base en transformadores</li>
+  <li>Validación de ligas de voltaje en líneas de transmisión</li>
+  <li>Validación de ligas a buses regulados</li>
+  <li>Validación de curvas del tipo <i>IncrementalHeatRateCurve</i></li>
+  <li>Validación de curvas del tipo <i>HydroGeneratingUnit</i></li>
+  <li>Validación de islas eléctricas aisladas</li>
+</ol>
+
+<p>Estas validaciones son importantes para el correcto comportamiento del sistema
+y aunque en un inicio su desarrollo se vió motivado por el proceso de congelamiento
+y exportación de la base de datos de producción para la inicialización de OTS, hoy
+en día se han convertido en parte fundamental del proceso diario de activación y
+verificación de jobs.</p>
+
+<h2>La exportación de datos</h2>
+
+<p>Dependiendo del sistema que se desea procesar, la exportación de datos se podrá
+realizar desde los servidores de calidad o de producción, de la misma manera la
+conexión deberá realizarse a GCN o GCA dependiendo de los servidores que se encuentren
+disponibles y de la disponibilidad de conexión a cada uno de ellos.</p>
+
+<h3>El primer paso es realizar la conexión a MAGE</h3>
+
+<p>La conexión se debe realizar desde las consolas del sistema SP7, para elegir
+un servidor y un ambiente de la forma más sencilla se recomienda usar la herramienta
+provista por el equipo de SCADA. Esta herramienta se llama <b>Ejecutar Ambientes SP7</b>
+y con un doble click en el icono despliega una intefaz como se muestra a continuación</p>
+
+<p><img src="ejecutar_ambientes.jpg"></p>
+
+<p>Utilizar la interface es muy intuitivo, solo es necesario elegir un ambiente y un
+servidor para MAGE. En caso de tener alguna duda sobre como configurar el programa
+o como utilizar algunas de sus funciones adicionales, se recomienda leer el manual
+que viene incluido con el software y cuyo nombre es <b>Manual Ejecutar ambientes SP7</b>.
+Una vez que se elige una instancia de MAGE es necesario ingresar las credenciales del
+usuario y dar click al botón <b><i>ok</i></b> para concretar la conexión. La terminal
+de inicio de sesión es similar a la que se muestra a continuación.</p>
+
+<p><img src="login.jpg"></p>
+
+<h3>Abrir el multi-instance editor</h3>
+
+<p>Una vez que se haya ingresado será necesario exportar la información requerida,
+para esto no es necesario crear un nuevo <i>job</i>, lo más común es abrir el visor
+de tiempo real. Esto se lográ con un doble click en cualquiera de las posiciones
+que se muestran en la siguiente imagen.</p>
+
+<p><img src="pagina_principal.jpg"></p>
+
+<p>Ya que esta abierta la ventana de tiempo real, para abrir el multi-instance editor
+se sigue la ruta editor/multi-instance editor. Para mayor referencia puede apoyarse
+de la siguiente iamgen.</p>
+
+<p><img src="abrir_multi-instance_editor.jpg"></p>
+
+<p>El multi-instance editor sirve para realizar consultas de uno o más tipos de
+elementos de MAGE. Esta ventana tiene dos secciones principales, la primera es el
+área de queryes; en esta sección se seleccionan los elementos y atributos que se
+desean agregar a los querys de busqueda, en segundo lugar está el área de
+resultados; en esta sección se muestran registros resultado de la aplicación
+de los queries y se encuentran los botones de filtrado y exportación de datos.</p>
+
+<p><img src="multi-instance_editor_generico.jpg"></p>
+
+<p>Esta herramienta es útil y poderosa, sin embargo, resulta muy laborioso exportar
+grandes cantidades de información, afortunadamente, el propio multi-instance
+editor cuenta con una utilidad más, la cual permite introducir querys en modo
+de texto. Para habilitar el modo de editor de texto solo es necesario marcar el
+checkbox que hace que la herramienta cambie entre el modo Wizard Editor y Query
+Editor.</p>
+</body>
+
+<h3>Ejecutar un query y exportar los datos</h3>
+
+<p>En el Query Editor se copia el query o grupo de querys que se quieran consultar
+a la base de datos, una vez cargado el query, se procede a dar clic en el boton
+Execute para iniciar la consulta, se recomienda también aumentar el limite a
+1000000 rows para evitar el truncamiento de algunos datos. Una vez terminada la
+consuta, el programa creará un panel de consulta por cada query realizado,
+a menos que se habilite el checkbox combine single-type tables, en cuyo caso se
+uniran las tablas compatibles en un solo panel</p>
+
+<p><img src="query_editor.jpg"></p>
+
+<h3>Exportación de los datos</h3>
+
+<p>La etapa final del proceso de exportación de datos consiste en la creación de
+los archivos csv, para realizar este paso es necesario elegir alguna de las
+pestañas en el área de resultados, una vez ahí, se selecciona el icono de archivo
+csv y se da clic en all data, se abrirá una ventana para escoger el nombre y la
+ubicación del archivo, después de proporcionar está información y dar clic en
+aceptar, el proceso habrá terminado.</p>
+
+<p><img src="guardar_archivo.jpg"></p>
+
+</html>

@@ -1,0 +1,1380 @@
+"ShuntCompensator:
+ID","ShuntCompensator:
+Name","ShuntCompensator:
+Description","ShuntCompensator:
+NAFlag","ShuntCompensator:
+ShortID","ShuntCompensator:
+InternalId","ShuntCompensator:
+Parent","ShuntCompensator:
+ObjectType"
+_19522656-cd49-481a-a2d0-5242ba388291,CP-01,01   AAN CP-1 T01 006.3,true,C1,748831,_d21a08d7-1fb2-4ad0-9f39-82232e0e42af,ShuntCompensator
+_f9ed1f24-0f10-4682-ad7b-4be79f0e5f90,CP-02,01   AAN CP-2 T02 006.3,true,C2,748833,_d21a08d7-1fb2-4ad0-9f39-82232e0e42af,ShuntCompensator
+_4d051b2f-0c69-488c-802b-2d2d15f285a6,CP-03,01   AAN CP-3      015.0,true,C3,748938,_24ffac54-fdcf-4d65-8102-3142cbf83505,ShuntCompensator
+_6ecf3c1d-aa3d-4729-b9ec-8830d5988982,CP-01,01   AGU CP-1 T01 012.6,true,C1,750464,_587ec8b8-789e-4721-976c-2c432e0d93f7,ShuntCompensator
+_38917273-b164-4c49-82a1-59944502638f,CP-02,01   AGU CP-2 T02 012.6,true,C2,750466,_587ec8b8-789e-4721-976c-2c432e0d93f7,ShuntCompensator
+_db6b44dc-569c-41f2-9648-e35bd1e7097d,CP-01,01   AGV CP-1 T01 006.3,true,C1,750813,_ac66defd-af0d-45ea-b354-94fcaa6bc024,ShuntCompensator
+_953431a2-0a9f-4038-9b4d-b2faf994038a,CP-02,01   AGV CP-2 T02 012.6,true,C2,750815,_ac66defd-af0d-45ea-b354-94fcaa6bc024,ShuntCompensator
+_b219d55f-c184-4924-ad50-f7614019fa57,CP-01,01   ANS CP-1 T01 012.6,true,C1,757538,_166bb403-f3dd-4b5b-a6a5-df8257b5f120,ShuntCompensator
+_459e53f2-b23b-47fd-bb58-fed5c1b4b3c3,CP-02,01   ANS CP-2 T02 012.6,true,C2,757540,_166bb403-f3dd-4b5b-a6a5-df8257b5f120,ShuntCompensator
+_757c5170-2549-4cb3-b6e2-f5403101eb11,CP-03,01   ANS CP-3 T03 012.6,true,C3,757542,_166bb403-f3dd-4b5b-a6a5-df8257b5f120,ShuntCompensator
+_35f87e18-9308-4503-833b-c9a80e0771d9,CP-04,01   ANS CP-4 T04 012.6,true,C4,757544,_166bb403-f3dd-4b5b-a6a5-df8257b5f120,ShuntCompensator
+_abe094e6-8717-47eb-9bd5-da7920bc0cc7,CP-01,01   APA CP -01    031.6,true,C1,758221,_150fb326-6df0-469b-bfb9-76a7ea9055ed,ShuntCompensator
+_5a24378b-fad0-4ea5-9cd8-412db6b3d8dc,CP-01,01   ARA CP-1 T01 012.6,true,C1,758738,_979352a2-fd7b-48c2-8963-26a1be2e8e23,ShuntCompensator
+_86f6d247-3c6c-4482-92da-b10a3649fdf4,CP-02,01   ARA CP-2 T02 012.6,true,C2,758740,_979352a2-fd7b-48c2-8963-26a1be2e8e23,ShuntCompensator
+_7eefc0ed-06e7-47e9-8450-d7826cdea89d,CP-04,01   ARA CP-2 T03 006.3,true,C4,758742,_979352a2-fd7b-48c2-8963-26a1be2e8e23,ShuntCompensator
+_399d12bb-342e-41e2-b4ea-db27057e7de9,CP-03,01   ARA CP-3 T04 006.3,true,C3,758744,_979352a2-fd7b-48c2-8963-26a1be2e8e23,ShuntCompensator
+_c495dab7-82af-42b4-a3ea-119ef60e2857,CP-01,01   ATE CP -01,true,C1,761226,_de4f1de7-42ce-4ac1-b1f7-bcf9b55b7492,ShuntCompensator
+_97c13dd7-7fa4-4925-a189-3f7dc78d71be,CP-02,01   ATE CP-2 T04 012.6,true,C2,761488,_779418b7-8112-49c1-be44-22fbad233cfa,ShuntCompensator
+_1f8c711a-de31-4548-b34a-6854f3a966fe,CP-03,01   ATE CP-3 T05 012.6,true,C3,761490,_779418b7-8112-49c1-be44-22fbad233cfa,ShuntCompensator
+_344bf493-a479-4978-ae0d-46311f6b4e8e,CP-04,01   ATE CP-4 T06 012.6,true,C4,761492,_779418b7-8112-49c1-be44-22fbad233cfa,ShuntCompensator
+_a1f1b083-6153-4cbb-80e5-ffdc8e78e5d7,CP-01,01   ATI CP-1 T01 012.6,true,C1,763297,_1f7734de-6e6c-4ea1-8b79-5c17921e1a75,ShuntCompensator
+_e94729c5-0e0e-4d7a-a57d-1d39a4cab8d8,CP-02,01   ATI CP-2 T02 012.6,true,C2,763299,_1f7734de-6e6c-4ea1-8b79-5c17921e1a75,ShuntCompensator
+_25bfd121-249d-4e57-b110-47e4de284e3b,CP-03,01   ATI CP-3 T03 012.6,true,C3,763301,_1f7734de-6e6c-4ea1-8b79-5c17921e1a75,ShuntCompensator
+_aaaf4283-1ba1-43c2-8042-48cbb42179f4,CP-01,01   ATK CP-1 T01 012.6,true,C1,763754,_fa34c0dd-a091-4212-8efa-2718a579cabf,ShuntCompensator
+_d4aead63-fea0-4387-94e1-6fd84434b657,CP-02,01   ATK CP-2 T02 012.6,true,C2,763756,_fa34c0dd-a091-4212-8efa-2718a579cabf,ShuntCompensator
+_372c458b-36fa-4f48-a600-80d646611612,CP-01,01   AUR CP-1 T05 012.6,true,C1,764514,_38bcbf52-ac4d-49c9-9fa0-810225c44d02,ShuntCompensator
+_668d3238-e809-45d0-b68e-58a4ef72f159,CP-02,01   AUR CP-2 T04 012.6,true,C2,764516,_38bcbf52-ac4d-49c9-9fa0-810225c44d02,ShuntCompensator
+_3c61584b-8bd1-4136-bf37-538b92a45d65,CP-03,01   AUR CP-3 T06 012.6,true,C3,764518,_38bcbf52-ac4d-49c9-9fa0-810225c44d02,ShuntCompensator
+_106d3299-2ec3-417b-9874-614164479ee4,CP-01,01   AYO CP-1 T01 012.6,true,C1,765268,_ed8f8bfa-ffb9-4672-b107-b03ada6b2986,ShuntCompensator
+_4e60eeb1-2b1c-42b0-98b7-89504e68020e,CP-02,01   AYO CP-2 T02 012.6,true,C2,765270,_ed8f8bfa-ffb9-4672-b107-b03ada6b2986,ShuntCompensator
+_5faa0e0f-7325-46c9-be27-df21efc2d7fa,CP-03,01   AYO CP-3 T03 012.6,true,C3,765272,_ed8f8bfa-ffb9-4672-b107-b03ada6b2986,ShuntCompensator
+_ec13582d-e990-4155-aafb-258d39ed4f5b,CP-01,01   AZC CP-1 T01 012.6,true,C1,765837,_765c7896-c847-4c46-9d48-57088a1f36ef,ShuntCompensator
+_e60fa3ca-18f4-435e-a0c7-bb418b7501a8,CP-02,01   AZC CP-2 T02 012.6,true,C2,765839,_765c7896-c847-4c46-9d48-57088a1f36ef,ShuntCompensator
+_bf7fe882-f86b-4b58-b8bc-09cd4a6cba1b,CP-03,01   AZC CP-3 T03 012.6,true,C3,765841,_765c7896-c847-4c46-9d48-57088a1f36ef,ShuntCompensator
+_3197722d-bce4-4b60-b389-b3d1212f12d9,CP-01,01   BAR CP-1 T01 012.6,true,C1,766332,_205eb1d2-a117-4e1d-9914-e43d28ef5153,ShuntCompensator
+_2bc0675d-5291-4f05-87e6-787bea5e3a75,CP-02,01   BAR CP-2 T02 012.6,true,C2,766334,_205eb1d2-a117-4e1d-9914-e43d28ef5153,ShuntCompensator
+_cbe872ab-c431-44c1-9fb3-eeaf97276b52,CP-01,01   CAR CP-1 T01 012.0,true,C1,770748,_5bafed91-9401-4eca-bdd5-c10bd3d13b2b,ShuntCompensator
+_95b9e8fa-8e71-4553-b494-b3aa9483da59,CP-02,01   CAR CP-2 T02 012.0,true,C2,770750,_5bafed91-9401-4eca-bdd5-c10bd3d13b2b,ShuntCompensator
+_d78aed37-a2f2-4248-955d-ab4b1a85eaf2,CP-03,01   CAR CP-3 T03 012.0,true,C3,770752,_5bafed91-9401-4eca-bdd5-c10bd3d13b2b,ShuntCompensator
+_f1483084-25c7-4ac0-bad5-a8f52c5bca33,CP-04,01   CAR CP-4 T04 012.0,true,C4,770754,_5bafed91-9401-4eca-bdd5-c10bd3d13b2b,ShuntCompensator
+_7d845e69-67c0-437c-a3b2-ee77dc98c751,CP-01,01   CDS CP-1 T01 009.0,true,C1,771508,_1214bdd9-4bfb-4661-8dd6-cd1a575002fa,ShuntCompensator
+_4ba3746a-8e9d-45a2-ad25-5b1c198815f5,CP-01,01   CEI CP-1 T01 012.6,true,C1,772393,_dff46556-2817-4efd-bcc2-95856c88766f,ShuntCompensator
+_1c34b93e-1372-47a4-a329-86f77867c805,CP-02,01   CEI CP-2 T02 012.6,true,C2,772395,_dff46556-2817-4efd-bcc2-95856c88766f,ShuntCompensator
+_5777f403-df07-443d-97ac-2612c9a09fc6,CP-01,01   CHA CP-1 T01 012.6,true,C1,773408,_ba0d5363-7fa8-4d15-80f1-31ada9ecec3a,ShuntCompensator
+_893b6150-d8b2-457b-9642-b7cb40a6297d,CP-02,01   CHA CP-2 T02 006.3,true,C2,773410,_ba0d5363-7fa8-4d15-80f1-31ada9ecec3a,ShuntCompensator
+_e816c8ef-b05c-476e-8a1d-7493c46290ac,CP-03,01   CHA CP-3 T03 006.3,true,C3,773412,_ba0d5363-7fa8-4d15-80f1-31ada9ecec3a,ShuntCompensator
+_7e4891fe-7a53-4ec8-b522-dd5290dc992d,CP-04,01   CHA CP-4 T04 006.3,true,C4,773414,_ba0d5363-7fa8-4d15-80f1-31ada9ecec3a,ShuntCompensator
+_25c37aa1-bce8-470b-af4b-41cff0529ce5,CP-01,01   CJM CP-1 T01 012.6,true,C1,774376,_3bcd4fb4-f372-4df3-ae2d-d9ac872bcebb,ShuntCompensator
+_fb461e4a-a83d-46ee-93ff-184d02b0c7f9,CP-02,01   CJM CP-2 T02 012.6,true,C2,774378,_3bcd4fb4-f372-4df3-ae2d-d9ac872bcebb,ShuntCompensator
+_605baa47-1973-4074-ae38-8e209c070d15,CP-03,01   CJM CP-3 T03 012.6,true,C3,774380,_3bcd4fb4-f372-4df3-ae2d-d9ac872bcebb,ShuntCompensator
+_25402438-d692-43cd-aba1-730889f008e4,CP-01,01   COA CP-1 T01 012.6,true,C1,775468,_48232a09-8035-4b79-8b61-495c3fa0d205,ShuntCompensator
+_6810e6e7-0782-482d-b7b8-be3d58bec4ab,CP-02,01   COA CP-2 T02 012.6,true,C2,775470,_48232a09-8035-4b79-8b61-495c3fa0d205,ShuntCompensator
+_ffe5947d-d755-4da9-8f37-fac24fe06ab6,CP-03,01   COA CP-3 T03 012.6,true,C3,775472,_48232a09-8035-4b79-8b61-495c3fa0d205,ShuntCompensator
+_88e943c5-9028-407d-896c-9cc848b9fc71,CP-02,01   COY CP-2 T02 012.6,true,C2,777508,_6a43815f-9773-4f1d-804d-c73a1a7ae717,ShuntCompensator
+_ff927213-2257-4817-867a-519771d143c6,CP-03,01   COY CP-3 T01 012.6,true,C3,777510,_6a43815f-9773-4f1d-804d-c73a1a7ae717,ShuntCompensator
+_aaf2ad6f-ff2a-4871-864c-4ef70f890311,CP-01,01   CPG CP-1 T01 012.6,true,C1,778081,_f1e1cdf9-f1ab-4cfe-a2cb-4b9fc2bbbc4d,ShuntCompensator
+_650ef9b9-efbd-47bb-ba6a-36b83724243b,CP-02,01   CPG CP-2 T02 012.6,true,C2,778083,_f1e1cdf9-f1ab-4cfe-a2cb-4b9fc2bbbc4d,ShuntCompensator
+_467ed701-10cc-42d2-b0ba-61ca4f38fb2e,CP-03,01   CPG CP-3 T03 012.6,true,C3,778085,_f1e1cdf9-f1ab-4cfe-a2cb-4b9fc2bbbc4d,ShuntCompensator
+_886e6bfa-fc6e-4a77-b365-edd38404ff1a,CP-01,01   CRG CP-1 T06 012.6,true,C1,779124,_97a3dd2d-e1be-46fc-84ea-b85e95336d97,ShuntCompensator
+_44b71c9e-7eaa-4be2-a789-030dafdc84a7,CP-02,01   CRG CP-2 T07 012.6,true,C2,779126,_97a3dd2d-e1be-46fc-84ea-b85e95336d97,ShuntCompensator
+_bd032286-6943-4b82-906e-f86edd8cb63f,CP-01,01   CRS CP-1 T01 012.6,true,C1,780147,_92f986f8-67e0-408e-aff4-a9d136cb18bb,ShuntCompensator
+_93b31976-2ab0-4d2e-b073-f11bcde8001f,CP-02,01   CRS CP-2 T02 012.6,true,C2,780149,_92f986f8-67e0-408e-aff4-a9d136cb18bb,ShuntCompensator
+_64c118ca-15b8-429f-a175-74a899bed3be,CP-03,01   CRS CP-3 T03 012.6,true,C3,780151,_92f986f8-67e0-408e-aff4-a9d136cb18bb,ShuntCompensator
+_7b53ae81-53cc-4c0b-93f0-ffba29776d90,CP-01,01   CRU CP-1 T05 003.9,true,C1,781103,_8251f21b-6f72-4f0f-b269-c1454b29145f,ShuntCompensator
+_e20f2994-1b9d-4b85-8cd9-c837abeaa848,CP-02,01   CRU CP-2 T06 012.6,true,C2,781105,_8251f21b-6f72-4f0f-b269-c1454b29145f,ShuntCompensator
+_76c953fc-84a2-4aa9-923d-dbb5ece7d99a,CP-03,01   CRU CP-3 T07 005.1,true,C3,781107,_8251f21b-6f72-4f0f-b269-c1454b29145f,ShuntCompensator
+_94c09ce9-337f-45e2-a6e2-45c9de2b3ea6,CP-01,01   CTG CP-1 T01 012.6,true,C1,783468,_4a241c90-7f04-44dc-a17a-89d359be64d0,ShuntCompensator
+_693360ee-68de-402e-bec1-ef7e2fcfd772,CP-02,01   CTG CP-2 T02 012.6,true,C2,783470,_4a241c90-7f04-44dc-a17a-89d359be64d0,ShuntCompensator
+_e5671ac3-ebf8-4e36-9396-535b42b4f3b5,CP-03,01   CTG CP-3 T03 012.6,true,C3,783472,_4a241c90-7f04-44dc-a17a-89d359be64d0,ShuntCompensator
+_732511ab-e613-44c3-a1bf-16e230159c8a,CP-01,01   CTT CP-1 T01 012.6,true,C1,784106,_e211b0cd-1878-4439-ae29-14b423066d7e,ShuntCompensator
+_193b9e08-cfd9-4c69-81b7-a94ddcdbdaee,CP-02,01   CTT CP-2 T02 012.6,true,C2,784108,_e211b0cd-1878-4439-ae29-14b423066d7e,ShuntCompensator
+_b631d180-dbc5-4465-87bb-8de6290281e1,CP-03,01   CTT CP-3 T03 012.6,true,C3,784110,_e211b0cd-1878-4439-ae29-14b423066d7e,ShuntCompensator
+_92898e54-507b-4817-b101-d7e218a7e960,CP-04,01   CTT CP-4 T04 012.6,true,C4,784112,_e211b0cd-1878-4439-ae29-14b423066d7e,ShuntCompensator
+_56d9f8f6-f9e0-43a9-9b21-1f6e1559e2bb,CP-01,01   CUL CP-1 T01 012.6,true,C1,785817,_d4704293-ac8a-4acf-86f0-2d2a7a2a9809,ShuntCompensator
+_aa1dbf68-f37e-43f7-ab2f-d28bcd871a56,CP-02,01   CUL CP-2 T02 012.6,true,C2,785819,_d4704293-ac8a-4acf-86f0-2d2a7a2a9809,ShuntCompensator
+_81412b8c-41e8-49d6-8fc8-109cb9d376e4,CP-01,01   CYO CP-1 T01 012.6,true,C1,792474,_f5584f82-825d-42f2-a5b5-6e8633df8a21,ShuntCompensator
+_fd9c0d5d-0ab2-4f6f-9f57-fdeb8fb700c9,CP-02,01   CYO CP-2 T02 012.6,true,C2,792476,_f5584f82-825d-42f2-a5b5-6e8633df8a21,ShuntCompensator
+_e0698b37-3053-40c5-976f-d8230c1c8088,CP-03,01   CYO CP-3 T03 012.6,true,C3,792478,_f5584f82-825d-42f2-a5b5-6e8633df8a21,ShuntCompensator
+_79c8c690-0431-4e22-9307-49f3328705d2,CP-01,01   DAA CP-1 T01 009.0,true,C1,794208,_d3673d8a-4313-403f-a7a4-3d59e93b8f41,ShuntCompensator
+_a9382c4e-d99e-45a7-8696-0c20829197b7,CP-02,01   DAA CP-2 T01 009.0,true,C2,794210,_d3673d8a-4313-403f-a7a4-3d59e93b8f41,ShuntCompensator
+_562cf7ae-152b-46a8-a42b-c6f087ce181f,CP-01,01   DVA CP-1     009.0,true,C1,795737,_8561de55-4823-4813-bd42-46e1d4c6e8e2,ShuntCompensator
+_5ea7bbda-07a5-4aec-8c74-6e6cd67f3b3f,CP-01,01   ECA CP-1 T01 012.6,true,C1,796057,_e9f1562a-b2ae-48ab-9a18-26a0082eb976,ShuntCompensator
+_c6a5bb27-991e-4d89-b45d-9af9f229deec,CP-02,01   ECA CP-2 T02 012.6,true,C2,796059,_e9f1562a-b2ae-48ab-9a18-26a0082eb976,ShuntCompensator
+_95f36b35-6de7-4093-9a0e-83e74ab19e19,CP-04,01   ECA CP-4 T02 012.6,true,C4,796061,_e9f1562a-b2ae-48ab-9a18-26a0082eb976,ShuntCompensator
+_bd03f74f-860b-4bac-ab4d-e6854bdef7a4,CP-05,01   ECA CP-5 T03 012.6,true,C5,796063,_e9f1562a-b2ae-48ab-9a18-26a0082eb976,ShuntCompensator
+_fa88aa30-1e6e-4e54-966d-93483450afab,CP-06,01   ECA CP-6 T03 012.6,true,C6,796065,_e9f1562a-b2ae-48ab-9a18-26a0082eb976,ShuntCompensator
+_58c35670-68a1-4b58-9eeb-721e92b2d2be,CP-01,01   ECR CP-1 T01 012.6,true,C1,797732,_5d2174a5-8b3f-4abf-bc64-d3072b3c3b6f,ShuntCompensator
+_f4b5e25c-bef2-463c-94a7-def2a7f7294e,CP-02,01   ECR CP-2 T02 012.6,true,C2,797734,_5d2174a5-8b3f-4abf-bc64-d3072b3c3b6f,ShuntCompensator
+_fe0e6784-995b-457d-a7bd-400882ca0323,CP-03,01   ECR CP-3 T03 012.6,true,C3,797736,_5d2174a5-8b3f-4abf-bc64-d3072b3c3b6f,ShuntCompensator
+_3976036b-3dc0-400f-abd7-c21a9cdbdb44,CP-01,01   EST CP-1 T01 012.6,true,C1,798657,_7c0f9aed-ed08-4662-9a25-6238739ff639,ShuntCompensator
+_04e7cf19-26bb-4820-884a-9e3d4054879c,CP-02,01   EST CP-2 T02 012.6,true,C2,798659,_7c0f9aed-ed08-4662-9a25-6238739ff639,ShuntCompensator
+_3022d90a-abaa-46e1-b5a7-06c46cd31b83,CP-03,01   EST CP-3 T03 006.3,true,C3,798661,_7c0f9aed-ed08-4662-9a25-6238739ff639,ShuntCompensator
+_ba3fec79-8e76-47c4-9d1d-d776d232054a,CP-04,01   EST CP-4 T04 006.3,true,C4,798663,_7c0f9aed-ed08-4662-9a25-6238739ff639,ShuntCompensator
+_20e8ffd0-2f65-41d3-922e-6d96bed90d59,CP-01,01   EVD CP-1 T01 012.6,true,C1,799383,_71e4f148-a22a-4ceb-b9a8-33734b09fce7,ShuntCompensator
+_685f969c-c9b2-4b21-abc7-71a162221d8a,CP-02,01   EVD CP-2 T02 012.6,true,C2,799385,_71e4f148-a22a-4ceb-b9a8-33734b09fce7,ShuntCompensator
+_49c3daf5-5907-41f2-807f-ce7504cba79f,CP-01,01   GUA CP-1 K21   006C,true,C1,800355,_14825e2c-9e82-42f0-bd42-cb61b41df4d4,ShuntCompensator
+_0aa33a90-c3c8-494d-bbea-6c40adfc7262,CP-02,01   GUA CP-2 K22   006C,true,C2,800357,_14825e2c-9e82-42f0-bd42-cb61b41df4d4,ShuntCompensator
+_712d22a8-653a-4de0-adb9-0974b05d7c25,CP-03,01   GUA CP-3 K23   006C,true,C3,800359,_14825e2c-9e82-42f0-bd42-cb61b41df4d4,ShuntCompensator
+_3e09dfcf-c32e-4bfd-b81d-a03e2824aa99,CP-01,01   INS CP-1 T01 012.6,true,C1,803217,_715ec652-860b-4bad-ab76-7de7e0f1c522,ShuntCompensator
+_9d2ab523-f6c2-4eff-ad57-247e25eaddef,CP-02,01   INS CP-2 T02 012.6,true,C2,803219,_715ec652-860b-4bad-ab76-7de7e0f1c522,ShuntCompensator
+_7421a1bc-6979-4c07-8a16-46fae8ae67fd,CP-03,01   INS CP-3 T03 006.3,true,C3,803221,_715ec652-860b-4bad-ab76-7de7e0f1c522,ShuntCompensator
+_72f2166e-f698-42b4-9c7d-a087a8b196af,CP-04,01   INS CP-4 T04 006.3,true,C4,803223,_715ec652-860b-4bad-ab76-7de7e0f1c522,ShuntCompensator
+_2dc5ad9a-6779-41ab-91cb-91eb7b977c55,CP-01,01   IRO CP-1 T01 012.6,true,C1,803851,_d70e6928-adc2-4207-9f4b-45d3a3c361da,ShuntCompensator
+_0eb21eb0-6885-4e71-8631-33dee6f17d7f,CP-02,01   IRO CP-2 T02 012.6,true,C2,803853,_d70e6928-adc2-4207-9f4b-45d3a3c361da,ShuntCompensator
+_996f538a-6557-43e2-8e28-63ca4f6f4383,CP-01,01   IUN CP-1   004.0,true,C1,804331,_b59fc28d-c2d1-4cc2-8f6b-066ab0c2038c,ShuntCompensator
+_3b0fcad5-efaa-4e97-b8ee-6a479d245bdd,CP-02,01   IUN CP-2   004.0,true,C2,804333,_b59fc28d-c2d1-4cc2-8f6b-066ab0c2038c,ShuntCompensator
+_05ffa05c-b59e-4543-a4b3-b34bc7011b7c,CP-01,01   IXL CP-1 T01 012.6,true,C1,804603,_66c27e99-1cff-40eb-a9e5-e4dd9b9ceac8,ShuntCompensator
+_eb1c4d89-743e-4e5b-bf13-a822178d3973,CP-02,01   IXL CP-2 T02 012.6,true,C2,804605,_66c27e99-1cff-40eb-a9e5-e4dd9b9ceac8,ShuntCompensator
+_9f7da902-ee0a-4f20-ba71-6d2c1eebae68,CP-03,01   IXL CP-3 T03 012.6,true,C3,804607,_66c27e99-1cff-40eb-a9e5-e4dd9b9ceac8,ShuntCompensator
+_dd822943-08d1-4920-8b58-a4008b076210,CP-01,01   IZT CP-1 T01 012.6,true,C1,805259,_b3267847-e5be-424f-9c4d-603a568c68e7,ShuntCompensator
+_95b36d07-f7ff-4b35-8e8a-1bdfaade5442,CP-02,01   IZT CP-2 T02 012.6,true,C2,805261,_b3267847-e5be-424f-9c4d-603a568c68e7,ShuntCompensator
+_4624fa04-3cf7-4b8d-af70-f40aad81eb47,CP-03,01   IZT CP-3 T03 012.6,true,C3,805263,_b3267847-e5be-424f-9c4d-603a568c68e7,ShuntCompensator
+_a1c76a1d-bcf0-4ac2-9ce5-83cf28b25347,CP-03,01   JAM CP-3 T07 012.0,true,C3,807618,_e64f4560-f493-4f70-b662-5cbdf85381e0,ShuntCompensator
+_5b2d87c8-c26f-490f-98db-ff60fad4ab30,CP-02,01   JAS CP-1 T03 012.6,true,C2,808493,_4c85977e-e370-4b54-918f-eac24058a7cc,ShuntCompensator
+_212e61b9-122e-4151-973f-dbf76e47e62e,CP-01,01   JAS CP-1 T04 012.6,true,C1,808495,_4c85977e-e370-4b54-918f-eac24058a7cc,ShuntCompensator
+_fa645c35-e5b0-4ced-898a-35f10d38897d,CP-01,01   JCP CP-1 T01 012.6,true,C1,809323,_13c9544d-0ccc-41bb-952b-8a629a3e7622,ShuntCompensator
+_cfa94725-5a9b-4532-a113-97cd45ff2703,CP-02,01   JCP CP-2 T02 012.6,true,C2,809325,_13c9544d-0ccc-41bb-952b-8a629a3e7622,ShuntCompensator
+_1c68c39c-673a-4496-a613-b02f67d92ec0,CP-01,01   JRB CP-1 T01 011.7,true,C1,810646,_cd950cf0-bb7f-413f-8150-c987119b7070,ShuntCompensator
+_442c4602-473f-4558-8c74-83ae7ddc68bd,CP-02,01   JRB CP-2 T02 012.6,true,C2,810648,_cd950cf0-bb7f-413f-8150-c987119b7070,ShuntCompensator
+_c5184c5d-1710-4adb-94a3-d23f806cc0be,CP-01,01   JUA CP-1 T01  006.3,true,C1,811034,_33a214f8-c623-4c11-bd61-ffb34b9ec7ab,ShuntCompensator
+_28cad707-4abf-4eb8-97e8-13b308a8a847,CP-02,01   JUA CP-2 T02  006.3,true,C2,811036,_33a214f8-c623-4c11-bd61-ffb34b9ec7ab,ShuntCompensator
+_fcbd78c3-f4b2-4107-aae5-3648d47ea412,CP-01,01   KCR CP-1 K21,true,C1,811625,_98dba5fa-dfd2-4fa5-80eb-3e9fe729c452,ShuntCompensator
+_932e1f7a-ce25-483f-8b78-1bdd11ab8a9a,CP-02,01   KCR CP-2 K22,true,C2,811627,_98dba5fa-dfd2-4fa5-80eb-3e9fe729c452,ShuntCompensator
+_f6a0c033-19a4-4e8b-bd92-a0e446cc28ec,CP-03,01   KCR CP-3 K23,true,C3,811629,_98dba5fa-dfd2-4fa5-80eb-3e9fe729c452,ShuntCompensator
+_4a3ebcca-15ea-49be-b656-c72b9997b8ca,CP-01,01   LAP CP-1 T04 012.6,true,C1,812831,_a71f5fbe-2237-46c2-b087-b725f9e67f8e,ShuntCompensator
+_77653765-0641-45dd-bace-c2fa1f451e3f,CP-02,01   LAP CP-2 T05 012.6,true,C2,812833,_a71f5fbe-2237-46c2-b087-b725f9e67f8e,ShuntCompensator
+_e012cc13-30ce-4e73-b88b-fd0fe651e002,CP-01,01   LAQ CP-1 T01 006.3,true,C1,813363,_cdc5fa8d-7683-473e-bdff-054b09862645,ShuntCompensator
+_1a3f58eb-b24b-4fc4-ba7f-b39a038564be,CP-02,01   LAQ CP-2 T02 006.3,true,C2,813365,_cdc5fa8d-7683-473e-bdff-054b09862645,ShuntCompensator
+_fbe44ef0-59bb-4e55-8246-11834f376de6,RE-01,01   LCP RE-1 A3010 100I,true,R1,814095,_32054c3f-5d32-4235-8bb0-554719af3b0f,ShuntCompensator
+_6230fe5a-cfc1-4d31-8cd9-d731a8964d76,CP-01,01   LDG CP-1 T01 006.3,true,C1,814963,_928330eb-e418-45ff-a1e3-c287384ad156,ShuntCompensator
+_c7c215e0-c155-41a2-aea5-5d9df7e55bfa,CP-02,01   LDG CP-2 T02 006.3,true,C2,814965,_928330eb-e418-45ff-a1e3-c287384ad156,ShuntCompensator
+_60065ca5-3f45-4725-82a9-81d119fd72c4,CP-01,01   LEC CP-1 T01   -12I,true,C1,815668,_cc32a4f5-fbbe-46f4-aa7d-c442414f2d9c,ShuntCompensator
+_2ac7234b-7dc5-44b0-9800-4227059cb378,CP-02,01   LEC CP-2 T02   -12I,true,C2,815670,_cc32a4f5-fbbe-46f4-aa7d-c442414f2d9c,ShuntCompensator
+_8ae40c59-de52-46f9-b433-f4e42110fd1a,CP-01,01   LOM CP-1 T01 012.6,true,C1,817466,_81335f84-c5cc-4beb-a23a-90351a904533,ShuntCompensator
+_7c4e3730-0b4d-4cc1-ae6f-d2287c7e4c39,CP-02,01   LOM CP-2 T02 012.6,true,C2,817468,_81335f84-c5cc-4beb-a23a-90351a904533,ShuntCompensator
+_2ac297d5-62b4-4637-b64d-1dc135f010af,CP-03,01   LOM CP-3 T03 012.6,true,C3,817470,_81335f84-c5cc-4beb-a23a-90351a904533,ShuntCompensator
+_997cd692-4c3a-46a1-a87e-9c953cbf4aac,CP-01,01   LVE CP-1 T01 009.0,true,C1,818121,_c56c3769-fb5a-484e-ac4f-bfd674b05093,ShuntCompensator
+_471c9895-82b0-42da-9fd6-78db2505a77e,CP-02,01   LVE CP-2 T02 009.0,true,C2,818123,_c56c3769-fb5a-484e-ac4f-bfd674b05093,ShuntCompensator
+_8913e302-50f7-4a8b-9ce2-ab2f5051fca2,CP-01,01   MAD CP-1 T01 012.6,true,C1,818515,_588c4fd3-f5ce-419f-bb23-37e2ee56c526,ShuntCompensator
+_ab290471-2d13-4b18-ae55-fb357633b388,CP-02,01   MAD CP-2 T02 009.1,true,C2,818517,_588c4fd3-f5ce-419f-bb23-37e2ee56c526,ShuntCompensator
+_bc27c85b-2228-4e4a-a1d7-9ae0f9b7af3d,CP-03,01   MAD CP-3 T03 012.6,true,C3,818519,_588c4fd3-f5ce-419f-bb23-37e2ee56c526,ShuntCompensator
+_3578337a-c55c-494a-b34c-caf8b0dd2762,CP-05,01   MAG CP   K81   -31I,true,C5,819107,_10cdfbca-e2f4-4e48-b68c-5d382100d17a,ShuntCompensator
+_ac6a97e2-cd01-4a8b-959e-f3a601664590,CP-05,01   MAG CP-5 T05 012.6,true,C5,819347,_c007b88a-a0b0-44cb-a100-406054e96f32,ShuntCompensator
+_e1489a06-4b60-4460-b5c7-d893c49ba892,CP-06,01   MAG CP-6 T06 012.6,true,C6,819349,_c007b88a-a0b0-44cb-a100-406054e96f32,ShuntCompensator
+_8039e619-6989-4ada-9afb-95d1d8a92113,CP-07,01   MAG CP-7 T07 012.6,true,C7,819351,_c007b88a-a0b0-44cb-a100-406054e96f32,ShuntCompensator
+_81370678-ef4a-4fe3-b690-916c9cef0ba3,CP-08,01   MAG CP-8 T08 012.6,true,C8,819353,_c007b88a-a0b0-44cb-a100-406054e96f32,ShuntCompensator
+_bb9bd341-81cc-4cd3-8320-fc725f0f1e17,CP-01,01   MER CP-1 T01 012.6,true,C1,821090,_fb6e9384-5af6-4e27-8979-aafc1fd8d193,ShuntCompensator
+_3d38ffdf-40bc-4b3b-a83f-8a1e7711f07e,CP-02,01   MER CP-2 T02 012.6,true,C2,821092,_fb6e9384-5af6-4e27-8979-aafc1fd8d193,ShuntCompensator
+_36a03a44-bd1f-47ee-b8cd-29f77fdf7e88,CP-03,01   MER CP-3 T03 012.6,true,C3,821094,_fb6e9384-5af6-4e27-8979-aafc1fd8d193,ShuntCompensator
+_6c57e1f6-71af-46b9-8daf-bf063c590ed6,CP-01,01   MOR CP-1 T01 012.6,true,C1,822090,_5592653f-f58a-49d1-8e01-bf250e66e5d2,ShuntCompensator
+_3a73e8d0-129e-48a9-add3-847cc1120d51,CP-02,01   MOR CP-2 T02 012.6,true,C2,822092,_5592653f-f58a-49d1-8e01-bf250e66e5d2,ShuntCompensator
+_c9bc3f19-de2f-4993-84a2-7400ec0858c8,CP-01,01   MZA CP-1 T01 009.2,true,C1,823769,_87e273e7-0250-4630-9575-a2cb27c0a2af,ShuntCompensator
+_e72b457c-33bf-42a5-a0e1-efb4a910a4d3,CP-02,01   MZA CP-2 T02 012.0,true,C2,823771,_87e273e7-0250-4630-9575-a2cb27c0a2af,ShuntCompensator
+_79c9d425-e17d-4bbe-b221-a6b9b3a912c3,CP-03,01   MZA CP-3 T03 010.8,true,C3,823773,_87e273e7-0250-4630-9575-a2cb27c0a2af,ShuntCompensator
+_f6998841-7659-4c20-b31d-3111407185a3,CP-05,01   MZA CP-5 T05 006.3,true,C5,823775,_87e273e7-0250-4630-9575-a2cb27c0a2af,ShuntCompensator
+_cf6d1fb2-1674-437c-b510-6dbabfa26726,CP-01,01   NAR CP-1 T01 006.3,true,C1,824535,_9ce5bb7f-f894-4a1c-babc-d7663aee27c4,ShuntCompensator
+_ae5152fe-4b98-4364-a4a1-1ccc24fe512b,CP-02,01   NAR CP-2 T02 006.3,true,C2,824537,_9ce5bb7f-f894-4a1c-babc-d7663aee27c4,ShuntCompensator
+_98c10186-b4cc-46d2-a97d-096aacd116bd,CP-01,01   NAU CP-1 T01 012.6,true,C1,824897,_0e7b93c7-f7f2-48e5-be4b-48b11592cae1,ShuntCompensator
+_2e99ff93-6ead-4161-b162-f9af66c223ef,CP-02,01   NAU CP-2 T02 012.6,true,C2,824899,_0e7b93c7-f7f2-48e5-be4b-48b11592cae1,ShuntCompensator
+_4a67d189-f994-4384-b0a8-8b73b74dcb69,CP-03,01   NAU CP-3 T03 012.6,true,C3,824901,_0e7b93c7-f7f2-48e5-be4b-48b11592cae1,ShuntCompensator
+_4568ea78-4af4-4fb5-ae8b-dba4b91c3c20,CP-01,01   NET CP-1 T01 012.6,true,C1,825746,_a1a58b62-071a-4c1c-ae41-10629a613788,ShuntCompensator
+_ab21b13f-2c58-4b8b-af53-ad23b95c979e,CP-02,01   NET CP-2 T02 012.6,true,C2,825748,_a1a58b62-071a-4c1c-ae41-10629a613788,ShuntCompensator
+_dd8c3e9b-c733-4d5b-bc13-f2535d49ef92,CP-03,01   NET CP-3 T03 006.3,true,C3,825750,_a1a58b62-071a-4c1c-ae41-10629a613788,ShuntCompensator
+_89c0c0f5-f056-46eb-9ef8-43a828e4ea7e,CP-04,01   NET CP-4 T04 006.3,true,C4,825752,_a1a58b62-071a-4c1c-ae41-10629a613788,ShuntCompensator
+_886d94ad-c910-467a-8273-0340688cebd5,CP-01,01   ODB CP-1 T01 012.6,true,C1,829013,_3a49dfad-e847-487c-b73f-aa4ad8ed1f6a,ShuntCompensator
+_4403df81-63d4-4ae4-8e3b-885a1633f532,CP-02,01   ODB CP-2 T03 012.6,true,C2,829015,_3a49dfad-e847-487c-b73f-aa4ad8ed1f6a,ShuntCompensator
+_4737d868-06ce-45db-921c-307659ccced2,CP-01,01   OLI CP-1 T01 012.6,true,C1,830503,_c06b5ed1-61d1-4259-bb1e-b2233a9d64c0,ShuntCompensator
+_330c7838-9df4-4830-9931-126a60cbfe1a,CP-02,01   OLI CP-2 T02 012.6,true,C2,830505,_c06b5ed1-61d1-4259-bb1e-b2233a9d64c0,ShuntCompensator
+_8f0c3a2b-25a0-4d59-9222-de239d3aa7b2,CP-01,01   PAC CP-1 T01 003.1,true,C1,831074,_9e740169-fb5d-4bbc-8776-3aa459e02908,ShuntCompensator
+_a3eaebbf-963b-44c9-a415-02d3d25c6b6b,CP-02,01   PAC CP-2 T02 003.1,true,C2,831076,_9e740169-fb5d-4bbc-8776-3aa459e02908,ShuntCompensator
+_7fad22aa-491a-4b41-a6ab-ef6e4c8f61fc,CP-01,01   PAT CP-1 T01 012.6,true,C1,831690,_9b6f7e2c-00ad-48ce-ba9f-385a1ba729d7,ShuntCompensator
+_8c6986ad-1bea-490d-8801-5b75ea6b28cd,CP-02,01   PAT CP-2 T02 012.6,true,C2,831692,_9b6f7e2c-00ad-48ce-ba9f-385a1ba729d7,ShuntCompensator
+_cbb1e6f0-f4f4-4f2d-81ff-dc853ce428d7,CP-03,01   PAT CP-3 T03 012.6,true,C3,831694,_9b6f7e2c-00ad-48ce-ba9f-385a1ba729d7,ShuntCompensator
+_0730c622-4ee1-422f-a423-223e7d245ffa,CP-02,01   PEV CP-2 T02 012.6,true,C2,834667,_8ce81c2e-e1ea-4c60-93be-e7e493b80934,ShuntCompensator
+_6a945b5f-3154-4283-8920-d11ce73d72cc,CP-01,01   PIR CP-1 T01 003.4,true,C1,836035,_88571017-c7d0-4af3-bc86-38e458f450ee,ShuntCompensator
+_c92e04ea-1796-4380-99cc-12d4f921e747,RE-01,01   PIT RE-1 A3110  75C,true,R1,836914,_1e735cd9-5d8e-40bd-8d1d-13f543d7087b,ShuntCompensator
+_1020d3cb-5acc-48df-bed6-a149391b4694,RE-02,01   PIT RE-2 A3210  75C,true,R2,836916,_1e735cd9-5d8e-40bd-8d1d-13f543d7087b,ShuntCompensator
+_c32185a0-e810-43a4-8861-15ba8d649a8c,RE-03,01   PIT RE-3 A3220  75C,true,R3,836918,_1e735cd9-5d8e-40bd-8d1d-13f543d7087b,ShuntCompensator
+_664e60ba-5541-49a5-8b16-76025e32ebba,CP-01,01   PNT CP-1 T01 012.6,true,C1,837746,_d6eedc38-d2ef-456f-b1cd-8e5085e2f065,ShuntCompensator
+_5e7d16d6-9280-4e01-896d-7292f4dac99b,CP-02,01   PNT CP-2 T02 012.6,true,C2,837748,_d6eedc38-d2ef-456f-b1cd-8e5085e2f065,ShuntCompensator
+_29753983-28f5-4e87-8675-7fbe42138e06,CP-03,01   PNT CP-3 T03 012.6,true,C3,837750,_d6eedc38-d2ef-456f-b1cd-8e5085e2f065,ShuntCompensator
+_fdb788d3-10ec-4742-b41a-fccd6a00aa4b,CP-04,01   PNT CP-4 T04 012.6,true,C4,837752,_d6eedc38-d2ef-456f-b1cd-8e5085e2f065,ShuntCompensator
+_27a0a935-3cf4-4e60-b4c1-9f6f754b78ed,CP-01,01   POO CP-1 T01 012.6,true,C1,838336,_0f80aa78-3524-47ee-a6fa-6c7c63437553,ShuntCompensator
+_606bb1fb-e773-43e3-b20d-604cc479ca17,CP-02,01   POO CP-2 T02 012.6,true,C2,838338,_0f80aa78-3524-47ee-a6fa-6c7c63437553,ShuntCompensator
+_0d94b43c-67b2-461c-b603-8c4c952d2acf,CP-01,01   REF CP-1 T01 012.6,true,C1,851620,_9f63d97a-5230-48b5-aafc-fb2c57aa9c27,ShuntCompensator
+_21b587b8-454c-49f8-867f-68c26305d30c,CP-02,01   REF CP-2 T02 012.6,true,C2,851622,_9f63d97a-5230-48b5-aafc-fb2c57aa9c27,ShuntCompensator
+_a22a86ce-2e3e-48c1-88c9-c8c972ba0233,CP-03,01   REF CP-3 T03 012.6,true,C3,851624,_9f63d97a-5230-48b5-aafc-fb2c57aa9c27,ShuntCompensator
+_f6fedf4f-5bf4-49ae-90b0-8f8c72a5084d,CP-04,01   REF CP-4 T04 006.3,true,C4,851626,_9f63d97a-5230-48b5-aafc-fb2c57aa9c27,ShuntCompensator
+_f9deabb1-3e0b-49de-99ee-8607d37c83e0,CP-01,01   REM CP   K81   -31I,true,C1,852840,_df8227cb-5b42-4ace-862c-0a4359b2f738,ShuntCompensator
+_99e382f8-8188-4381-b7ac-abee667989a1,CP-01,01   REM CP-1 T07 012.6,true,C1,853339,_72e5b72b-3ee0-418e-9389-cc4159a4da52,ShuntCompensator
+_6d2a98ab-6d3f-4cd9-8937-123a9a513c12,CP-02,01   REM CP-2 T08 012.6,true,C2,853341,_72e5b72b-3ee0-418e-9389-cc4159a4da52,ShuntCompensator
+_132f607e-0a33-4398-9af5-82fc24e16fac,CP-03,01   REM CP-3 T09 012.6,true,C3,853343,_72e5b72b-3ee0-418e-9389-cc4159a4da52,ShuntCompensator
+_9658484a-0b6e-46f2-b129-08c3a9481220,CP-01,01   RES CP-1 T01 009.0,true,C1,856530,_2d545cb9-9483-4a8f-9d43-ce3a5d5339ab,ShuntCompensator
+_c798c7c8-70aa-491c-9488-2515df9b11b2,CP-02,01   RES CP-2 T02 009.0,true,C2,856532,_2d545cb9-9483-4a8f-9d43-ce3a5d5339ab,ShuntCompensator
+_51ef1a3f-2a59-4056-89d1-529c6d74e90e,CP-01,01   ROL CP-1 T01 009.0,true,C1,857170,_1cbfa0d8-2849-46b8-895d-c6d0885d6948,ShuntCompensator
+_5ff1d8d0-d97d-4c54-b3f4-bc91c82a2fa4,CP-02,01   ROL CP-2 T02 009.0,true,C2,857172,_1cbfa0d8-2849-46b8-895d-c6d0885d6948,ShuntCompensator
+_42997409-e2ac-49c7-80ad-7ab61f027478,CP-01,01   SNG CP-1 T01 012.6,true,C1,858823,_f5518390-69e5-4495-a269-b7cfcc6871b4,ShuntCompensator
+_905ab251-31cf-47ce-af07-1937caf2266a,CP-02,01   SNG CP-2 T02 012.6,true,C2,858825,_f5518390-69e5-4495-a269-b7cfcc6871b4,ShuntCompensator
+_442b5475-1cc7-496e-8415-4d86e41e94ab,CP-01,01   TAC CP-1 T01 012.6,true,C1,860050,_6d2033f9-96eb-483f-bdf8-313e9569f688,ShuntCompensator
+_1dd04c9d-3244-47ee-9610-78ac2e54254e,CP-02,01   TAC CP-2 T02 012.6,true,C2,860052,_6d2033f9-96eb-483f-bdf8-313e9569f688,ShuntCompensator
+_b0ab6ecf-d136-4b4c-a05b-de6b7b716a71,CP-03,01   TAC CP-3 T03 012.6,true,C3,860054,_6d2033f9-96eb-483f-bdf8-313e9569f688,ShuntCompensator
+_9ab45d50-cabd-448a-8712-0888cb0d9540,CP-04,01   TAC CP-3 T04 006.3,true,C4,860056,_6d2033f9-96eb-483f-bdf8-313e9569f688,ShuntCompensator
+_563ec313-81d3-41cf-967b-dd5325d50752,CP-01,01   TAX CP-1 T01 012.6,true,C1,860821,_bbf79ca9-84ee-47af-828a-b80ecd72e51f,ShuntCompensator
+_c61c99e0-b1c7-4740-a722-8f7c21230b62,CP-02,01   TAX CP-2 T02 012.6,true,C2,860823,_bbf79ca9-84ee-47af-828a-b80ecd72e51f,ShuntCompensator
+_4ce25e2e-d7e2-4a8a-b92a-8550671eefdf,CP-03,01   TAX CP-3 T03   6.3,true,C3,860825,_bbf79ca9-84ee-47af-828a-b80ecd72e51f,ShuntCompensator
+_1144bac7-076f-43fa-ba9a-21429f96aa07,CP-04,01   TAX CP-4 T04   6.3,true,C4,860827,_bbf79ca9-84ee-47af-828a-b80ecd72e51f,ShuntCompensator
+_6f192244-9754-4d74-9839-542c0639a9e2,CP-05,01   TAX CP-5 T06 012.6,true,C5,860829,_bbf79ca9-84ee-47af-828a-b80ecd72e51f,ShuntCompensator
+_6182477e-5fbc-402e-9cb5-28cc78795a19,CP-06,01   TAX CP-6 T07 012.6,true,C6,860831,_bbf79ca9-84ee-47af-828a-b80ecd72e51f,ShuntCompensator
+_3ba707d0-de54-4b17-9df4-c907351ded2b,CP-01,01   TCM CP-1 T01 012.6,true,C1,862573,_b5246ea7-8a3b-49b2-b45a-827074eb3a27,ShuntCompensator
+_c38beff4-5740-44a4-8008-3dbb31ccd01a,CP-02,01   TCM CP-2 T02 012.6,true,C2,862575,_b5246ea7-8a3b-49b2-b45a-827074eb3a27,ShuntCompensator
+_970df90e-306b-4429-9dac-f4477bfe4bf3,CP-03,01   TCM CP-3 T03 012.6,true,C3,862577,_b5246ea7-8a3b-49b2-b45a-827074eb3a27,ShuntCompensator
+_b35d5bf4-aa99-4c27-915b-c3ac935b2e50,CP-01,01   TDK CP-1 T01 012.6,true,C1,863047,_d3812189-6ae9-4363-aa2e-b6fac285e22a,ShuntCompensator
+_c26d833f-8896-4828-9761-9e1d64055e5d,CP-02,01   TDK CP-2 T02 012.6,true,C2,863049,_d3812189-6ae9-4363-aa2e-b6fac285e22a,ShuntCompensator
+_5db37880-571d-48c7-9cf6-b20391e29428,CP-01,01   TIA CP-1 T01 012.6,true,C1,864531,_994edcf0-f3fb-4dd4-8a20-b783aef18f8c,ShuntCompensator
+_dc219dc1-36db-454e-8857-a6130296f3ab,CP-02,01   TIA CP-2 T02 012.6,true,C2,864533,_994edcf0-f3fb-4dd4-8a20-b783aef18f8c,ShuntCompensator
+_d4e2507e-05e9-4f0f-b92a-2e7fbe0d1159,CP-01,01   TIZ CP-1 T01 007.2,true,C1,864920,_923befe4-876a-48b2-bde4-e80ef44ae854,ShuntCompensator
+_58216550-78f8-443b-ba29-de2061e03f4f,CP-02,01   TIZ CP-2 T02 012.6,true,C2,864922,_923befe4-876a-48b2-bde4-e80ef44ae854,ShuntCompensator
+_ea71bfb4-3df7-44c5-b1a0-b078553b5563,CP-03,01   TIZ CP-3 T03 012.6,true,C3,864924,_923befe4-876a-48b2-bde4-e80ef44ae854,ShuntCompensator
+_3c520b5c-1967-4a8e-a791-0ec97a121c5c,CP-01,01   TLG CP-1 T01 006.3,true,C1,865588,_d90d6708-a26b-41a5-8c69-ecc867a24070,ShuntCompensator
+_f4df577b-63bf-44a9-b63a-3ca8ddfc10af,CP-02,01   TLG CP-2 T02 006.3,true,C2,865590,_d90d6708-a26b-41a5-8c69-ecc867a24070,ShuntCompensator
+_9b6e9e90-e4e5-46e9-b47c-3c5af9c6446c,CP-01,01   TOL CP-1 T08 009.0,true,C1,866472,_51b067fd-6916-4232-a2ba-5ce2bf4579ea,ShuntCompensator
+_79edccf2-aca9-40c7-ab6f-343d966e5a57,CP-02,01   TOL CP-2 T09 009.0,true,C2,866474,_51b067fd-6916-4232-a2ba-5ce2bf4579ea,ShuntCompensator
+_dc085bd6-c0cf-4c27-917f-9a1a38da93c4,CP-03,01   TOL CP-3 T04 012.60,true,C3,866476,_51b067fd-6916-4232-a2ba-5ce2bf4579ea,ShuntCompensator
+_ee583ced-843c-4a18-a7d6-f8c481229bca,CP-04,01   TOL CP-4 T05 012.60,true,C4,866478,_51b067fd-6916-4232-a2ba-5ce2bf4579ea,ShuntCompensator
+_0a54f73f-2956-4555-a354-19710d580ab6,CP-01,01   TTC CP-1 T01 012.60,true,C1,868475,_6b2e956a-20f4-484c-808a-252d3c28217b,ShuntCompensator
+_58ef3525-9dd0-469f-81f0-d86da726f033,CP-02,01   TTC CP-2 T02 012.60,true,C2,868477,_6b2e956a-20f4-484c-808a-252d3c28217b,ShuntCompensator
+_2877b003-ac61-4f82-a384-c6598e8671c5,CP-01,01   TYA CP-1 T01 012.6,true,C1,871242,_ac35a085-0885-448a-bcd2-a2ed464d1fdc,ShuntCompensator
+_6c159fb8-d4ac-4692-8a68-16ba06f1e8ed,CP-02,01   TYA CP-2 T02 012.6,true,C2,871244,_ac35a085-0885-448a-bcd2-a2ed464d1fdc,ShuntCompensator
+_7ace2d0e-1873-4791-99c3-a58a186aa0c7,CP-01,01   VAJ CP-1 T04   013C,true,C1,874515,_43c131a8-dbb7-4294-94e1-476776a88903,ShuntCompensator
+_c5ea2652-e046-4568-9b28-7522ff0c9f01,CP-02,01   VAJ CP-2 T05   013C,true,C2,874517,_43c131a8-dbb7-4294-94e1-476776a88903,ShuntCompensator
+_fd8bd0c9-f74a-46ac-a36e-fd35adb4703d,CP-03,01   VAJ CP-3 T06   013C,true,C3,874519,_43c131a8-dbb7-4294-94e1-476776a88903,ShuntCompensator
+_e763db59-5e40-490c-bcb9-74b4079660fd,CP-01,01   VDF CP-1 T01 006.3,true,C1,876976,_a45003f1-9aec-420c-9a84-a5582952f5b4,ShuntCompensator
+_3328ecb6-f824-498a-8552-9fa8cea0e00a,CP-02,01   VDF CP-2 T02 006.3,true,C2,876978,_a45003f1-9aec-420c-9a84-a5582952f5b4,ShuntCompensator
+_b2ad7451-4feb-4d5d-afa6-e87f3ffc426f,CP-01,01   VDM CP-1 T01 012.0,true,C1,878023,_5adac25c-dfd7-4644-a29f-2765d837971e,ShuntCompensator
+_d6ea2d8a-7bec-44ba-918a-f2c6370ac528,CP-02,01   VDM CP-2 T02 012.6,true,C2,878025,_5adac25c-dfd7-4644-a29f-2765d837971e,ShuntCompensator
+_17bfe39a-79cc-433a-b51d-fa6b42edc17a,CP-03,01   VDM CP-3 T03 005.0,true,C3,878027,_5adac25c-dfd7-4644-a29f-2765d837971e,ShuntCompensator
+_e80328d4-4351-480c-bdc2-2e18b5827b3d,CP-01,01   VER CP-1 T01 012.6,true,C1,878799,_ccf11b53-4097-4e64-a613-e23b9f974724,ShuntCompensator
+_6899498f-90e0-4736-a5da-a6129359866e,CP-02,01   VER CP-2 T02 012.6,true,C2,878801,_ccf11b53-4097-4e64-a613-e23b9f974724,ShuntCompensator
+_d1c95aac-2ac5-4429-ac0d-82b125563615,CP-01,01   VIC CP-1 T01 012.6,true,C1,880196,_3945009e-226b-4932-9ed5-7f282f55717d,ShuntCompensator
+_0f3eaaaa-2e09-4314-8474-b67f2389793a,CP-02,01   VIC CP-2 T02 012.6,true,C2,880198,_3945009e-226b-4932-9ed5-7f282f55717d,ShuntCompensator
+_ad165800-bd1e-4ed8-a144-79f85669a6be,CP-03,01   VIC CP-3 T03 012.6,true,C3,880200,_3945009e-226b-4932-9ed5-7f282f55717d,ShuntCompensator
+_775c9e26-d391-4be0-92ed-ed2680f3832f,CP-01,01   VIT CP-1 T01 006.3,true,C1,884127,_0074882d-01f5-41d9-9e0c-c121b777da21,ShuntCompensator
+_5bbfb0f5-4f9c-4bb6-89b5-02126b9deea4,CP-02,01   VIT CP-2 T02 006.3,true,C2,884129,_0074882d-01f5-41d9-9e0c-c121b777da21,ShuntCompensator
+_c0da0373-921c-4aef-af11-1a741485c182,CP-01,01   VRN CP-1 T01 012.6,true,C1,885705,_0afdf1c7-ea55-4b03-a490-f8db50df8d8f,ShuntCompensator
+_20c8f182-8121-4afe-a686-a66590def35a,CP-02,01   VRN CP-2 T02 012.6,true,C2,885709,_0afdf1c7-ea55-4b03-a490-f8db50df8d8f,ShuntCompensator
+_756958e1-f5cc-44c8-87bc-70c105b1868b,CP-01,01   VTU CP-1 T01 006.3,true,C1,886446,_070d92a6-09d8-4265-8def-a87c879913fb,ShuntCompensator
+_56dab24b-9e09-4640-be9b-9cdb88f73ec4,CP-02,01   VTU CP-2 T02 006.3,true,C2,886448,_070d92a6-09d8-4265-8def-a87c879913fb,ShuntCompensator
+_e1eeb164-bc86-410b-98b0-0e26fbe8620e,CP-01,01   XAL CP-1 T01 012.6,true,C1,886804,_b320dd9b-83b8-4543-84d3-db0fdc7b0fa7,ShuntCompensator
+_d2c97a30-dff4-4d85-87c3-bbdf315fde40,CP-02,01   XAL CP-2 T01 012.6,true,C2,886806,_b320dd9b-83b8-4543-84d3-db0fdc7b0fa7,ShuntCompensator
+_eb66e46e-6c9a-4931-b699-f8b6609d2e20,CP-03,01   XAL CP-3 T02 012.6,true,C3,886808,_b320dd9b-83b8-4543-84d3-db0fdc7b0fa7,ShuntCompensator
+_6bf44e54-8615-47bb-ac90-283b8c53a184,CP-04,01   XAL CP-4 T02 012.6,true,C4,886810,_b320dd9b-83b8-4543-84d3-db0fdc7b0fa7,ShuntCompensator
+_43badbc3-eba8-4d7e-8e3a-cddf152e3d2b,CP-05,01   XAL CP-5 T03 012.6,true,C5,886812,_b320dd9b-83b8-4543-84d3-db0fdc7b0fa7,ShuntCompensator
+_d7b9e9ac-9ec4-491f-8dac-ccea297e2496,CP-06,01   XAL CP-6 T03 012.6,true,C6,886814,_b320dd9b-83b8-4543-84d3-db0fdc7b0fa7,ShuntCompensator
+_a166aaf3-7a67-42b6-b2c1-de0f6b29eda4,CP-01,01   XOC CP-1 T01 012.6,true,C1,887315,_0443a934-ff0f-4d88-b45f-5acbafd3291e,ShuntCompensator
+_e027e52f-4f17-419a-be2d-d14cd52a100a,CP-02,01   XOC CP-2 T02 012.6,true,C2,887317,_0443a934-ff0f-4d88-b45f-5acbafd3291e,ShuntCompensator
+_94f457fc-0337-4f06-b85f-261596929aa8,CP-01,01   XOH CP-1 T01 009.0,true,C1,887780,_2d4a6804-53a8-4a00-814b-025b7c134b9f,ShuntCompensator
+_1306f84c-549a-4ea5-bceb-23f0f440cce6,CP-01,01   ZUM CP-1 T01 012.6,true,C1,888776,_f91c23b3-30b2-47b2-bb8c-21d630b20b56,ShuntCompensator
+_3ac8ecff-ca06-408d-8057-356c97aac3ca,CP-02,01   ZUM CP-2 T02 006.3,true,C2,888778,_f91c23b3-30b2-47b2-bb8c-21d630b20b56,ShuntCompensator
+_dcd7f1fd-a7e2-4ad0-9ecb-f07a5b3c74a3,CP-03,01   ZUM CP-3 T03 006.3,true,C3,888780,_f91c23b3-30b2-47b2-bb8c-21d630b20b56,ShuntCompensator
+_048ab9ed-71ad-4a83-942c-b8a85b4d9723,CP-01,01TLCAMO CP-1 T01 012.6,true,C1,889694,_b5c8bbaa-56c9-4d1f-a98f-ad73968d7518,ShuntCompensator
+_dcc20e7a-ea4b-4a92-bc9f-9e0d34c020fb,CP-02,01TLCAMO CP-2 T02 012.6,true,C2,889696,_b5c8bbaa-56c9-4d1f-a98f-ad73968d7518,ShuntCompensator
+_a67bbc7d-908f-44a0-ae0e-c7d72a299ee3,CP-03,01TLCAMO CP-3 T03 006.3,true,C3,889698,_b5c8bbaa-56c9-4d1f-a98f-ad73968d7518,ShuntCompensator
+_c8b121ad-4172-45e9-a57b-4f25426fb970,CP-01,01TLCANU CP-1 B1  015.0,true,C1,890762,_1c73d060-cad2-424d-95fd-77c42cdb9c4b,ShuntCompensator
+_911f1c36-4f9c-4f79-96c6-33f36147164e,CP-01,01TLCATM CP-1      007.5,true,C1,891353,_29eb4251-0b90-4b59-a323-33a21bde24c5,ShuntCompensator
+_7d03a177-e5eb-4f84-828b-483aada6ad44,CP-02,01TLCATM CP-2      001.8,true,C2,891362,_e55aa6d0-88b8-40fe-8da6-13ec9bef6e0f,ShuntCompensator
+_a3da56e2-89bf-4948-8df7-e9af04f7ae04,CP-01,01TLCATU CP-1 B1  012.00,true,C1,891901,_984dd7bb-7b95-4017-a44c-1067e149f9e7,ShuntCompensator
+_3e8235ff-9e6c-47b9-9bac-6b8b03ebfb47,CP-01,08   BLM CP-1 B1    015,true,C1,893679,_695d6a94-283c-44a0-bbf5-ec15feefaa23,ShuntCompensator
+_81321105-c7db-4f69-bef0-6708044db2ec,RE-01,08   BLM RE-1 AT-01 025,true,R1,893790,_150e4525-77ce-4b1e-b610-c6958bad45ee,ShuntCompensator
+_7ef256ad-3d11-4193-8a0a-e69167b65efc,RE-01,08   DZT RE-1 A4010 62I,true,R1,895874,_6d33397c-443b-437f-bd4c-ff8676dc105c,ShuntCompensator
+_ab032f64-a927-469d-bee3-0a533bc565f6,RE-02,08   DZT RE-2 A4020 62I,true,R2,895876,_6d33397c-443b-437f-bd4c-ff8676dc105c,ShuntCompensator
+_76aec878-8165-4027-8789-2ce4d04a64a2,RE-01,08   ESA RE-1 93220 018,true,R1,896369,_346a2c2f-debe-4d20-bc0c-43b55b71ae2c,ShuntCompensator
+_27841843-5a11-472d-82fe-fab28d0374ab,RE-02,08   ESA RE-2 93100 018,true,R2,896371,_346a2c2f-debe-4d20-bc0c-43b55b71ae2c,ShuntCompensator
+_0a90c589-3375-4253-abdd-ef4752fa0a84,RE-04,08   ESA RE-4 B1    017,true,R4,896373,_346a2c2f-debe-4d20-bc0c-43b55b71ae2c,ShuntCompensator
+_07f60bf9-556f-4bd1-9fcb-f7ed6f397380,RE-05,08   ESA RE-5 93210 018,true,R5,896375,_346a2c2f-debe-4d20-bc0c-43b55b71ae2c,ShuntCompensator
+_3fe73a5f-0b05-4566-bf46-b591e54b43a1,RE-06,08   ESA RE-6 93010 021,true,R6,896377,_346a2c2f-debe-4d20-bc0c-43b55b71ae2c,ShuntCompensator
+_fa11f584-43bc-4b4f-a168-71df54789f60,RE-08,08   ESA RE-8 A4080 100I,true,R8,896739,_d36b4477-6cc6-4980-b289-dfef2376b642,ShuntCompensator
+_93f80a54-a764-4649-8f75-c5fd8063f823,RE-09,08   ESA RE-9 A4090 100I,true,R9,896741,_d36b4477-6cc6-4980-b289-dfef2376b642,ShuntCompensator
+_d6602f37-fc45-414c-b0bf-abda50a987f8,RE-03,08   ESA RE-3 AT-01 025,true,R3,896772,_be983f90-e398-488b-9ce7-107e8ffa90ef,ShuntCompensator
+_a8e2312d-e931-46a5-b653-e32be2aae9e0,RE-07,08   ESA RE-7 AT-04 025,true,R7,896774,_be983f90-e398-488b-9ce7-107e8ffa90ef,ShuntCompensator
+_dd85f39d-a2de-4bdb-b34a-92e583181519,CP-01,01TLCECB CP-1 B1  020.0,true,C1,898434,_c5070ac0-635e-4c44-a30e-df29740a89a1,ShuntCompensator
+_71bed5a0-72a8-4d83-8d92-0d91584caa9f,CP-02,01TLCECB CP-2 B1  020.0,true,C2,898436,_c5070ac0-635e-4c44-a30e-df29740a89a1,ShuntCompensator
+_92148397-1aa5-4551-9a01-c6256c97c22b,CP-01,01TLCENB CP-1 B1  020.0,true,C1,899271,_97d65684-da9b-422b-9f3f-41faae512ab3,ShuntCompensator
+_5aa14491-c34d-42bb-bc41-8f7fd56a1176,CP-02,01TLCENB CP-2 B1  020.0,true,C2,899273,_97d65684-da9b-422b-9f3f-41faae512ab3,ShuntCompensator
+_ec3cc235-e84c-4371-844f-7047b78bec43,CP-01,01TLCETB CP-1 B1  010.0,true,C1,899975,_cc8b8bfe-1b67-4bb8-ae4a-b8bc3be9913a,ShuntCompensator
+_29d4ba0e-5be5-49c3-b73b-ea7571dbdf9c,CP-02,01TLCETB CP-2 B1  010.0,true,C2,899977,_cc8b8bfe-1b67-4bb8-ae4a-b8bc3be9913a,ShuntCompensator
+_ce104fae-20d7-4542-8b9a-19a41da64183,CP-01,01TLCJID CP-1      001.8,true,C1,903103,_ad2bc467-90e0-4e27-ae0c-e556023991fe,ShuntCompensator
+_3cada240-f356-4b79-8ca2-41277c49eef4,CP-01,01TLCJIL CP-1 T01 018.00,true,C1,903340,_8e3bba6d-1169-478d-b1a8-585e65086407,ShuntCompensator
+_fe1da7cb-7ece-46aa-a555-847b3e425ffe,CP-01,01TLCTDV CP-1 T01 009.0,true,C1,907857,_4533e03c-6e04-42b0-90bd-2111de0ac3cf,ShuntCompensator
+_b4117735-9779-4047-9f95-8751a1ac2329,CP-02,01TLCTDV CP-2 T02 009.0,true,C2,907859,_4533e03c-6e04-42b0-90bd-2111de0ac3cf,ShuntCompensator
+_3148d197-f1c3-46b2-b22f-408c5900a7ed,CP-01,01TLCTJP CP-1 022.5,true,C1,908292,_4f4ba887-21ba-4a2e-b122-c6eed073e913,ShuntCompensator
+_20a929e6-c473-456d-90f0-97996b344ad2,CP-01,01TLCYBC CP-1 T01 001.2,true,C1,910368,_3ea6de17-db5d-40da-810c-d08f6231f095,ShuntCompensator
+_7397e3b7-c9b5-4744-82b8-890ad72f212e,CP-01,01TLCZIC CP-1 T01 012.6,true,C1,910547,_79a2f999-35ae-44a4-a165-93e80fc8126f,ShuntCompensator
+_070c7c5e-bb15-4475-b16f-35325b5ab84c,CP-02,01TLCZIC CP-2 T02 006.3,true,C2,910549,_79a2f999-35ae-44a4-a165-93e80fc8126f,ShuntCompensator
+_e0961e5d-e14c-482c-aeec-c60f1c7999f5,CP-01,08   KBL CP-1 B1    009,true,C1,913853,_b682c3c3-b6be-4cac-9468-e4793f14c307,ShuntCompensator
+_1a1bf4a2-abf5-4cc5-8e24-aedf8fbd6ca4,CP-02,08   KOP CP-2 B1    015,true,C2,914704,_59590a3d-9b1c-4b75-9c55-70adaa5d432a,ShuntCompensator
+_f3913984-5f38-482f-a26a-d0ca2f513abb,RE-01,08   LRA RE-1 B1    018,true,R1,915352,_f2befb0a-6c11-460c-baea-74ad56d7cc6f,ShuntCompensator
+_ee7e12b5-5e07-4055-b70f-f0be6d31132a,CP-09,08   NIZ CP-9 B2    030,true,C9,918116,_60511575-9a52-4ce8-a000-f3de2dff54ba,ShuntCompensator
+_13362d14-0a5b-4333-bb94-82d2d5dbd0d2,RE-05,08   NIZ RE-5 AT-05 018,true,R5,918278,_c0b040f1-2b23-48ef-9f7d-258103a39140,ShuntCompensator
+_b5cbcf5c-35ed-4540-b5a9-12930ad44d2d,RE-06,08   NIZ RE-6 AT-06 018,true,R6,918280,_c0b040f1-2b23-48ef-9f7d-258103a39140,ShuntCompensator
+_6bc51dfe-f663-478d-ab71-254f48db8363,CP-03,08   NTE CP-3 B1    030,true,C3,918939,_c503249d-e253-4f16-a371-85e294085727,ShuntCompensator
+_a3ede32b-7710-4286-9fc1-c3881e525fba,CP-04,08   PCN CP-4 B1    375,true,C4,919819,_9b5c8d1a-415c-408e-8c0d-a78113ab2e60,ShuntCompensator
+_42953ade-4beb-4f71-b78e-a3178524e0a5,RE-04,08   PCN RE-4 AT-04 018,true,R4,919985,_51dac7d1-a61a-411b-8663-8ff778050828,ShuntCompensator
+_944201ab-5f2f-45a3-9aa4-e62f550ba1db,RE-01,02   ANG RE-1 B1    062I,true,R1,932503,_3115c286-b175-47cf-a608-2dc40ff1c209,ShuntCompensator
+_1e8dbdd2-4ac8-400c-8dbf-d3c4457cb6d9,CP-01,02   BII CP-1 B1    010I,true,C1,933533,_6ff83431-1ebb-4211-8812-cf3ecf3cd600,ShuntCompensator
+_f921222a-671e-4d64-a484-bf01a0134e2b,CP-02,02   BII CP-2 B1    010I,true,C2,933535,_6ff83431-1ebb-4211-8812-cf3ecf3cd600,ShuntCompensator
+_a81dc934-7373-493d-9722-8b47cc6b78b5,CP-03,02   BII CP-3 B1    010I,true,C3,933537,_6ff83431-1ebb-4211-8812-cf3ecf3cd600,ShuntCompensator
+_25611dde-6bf5-4711-b79f-494dd53326c6,CP-04,02   BII CP-4 B1    010I,true,C4,933539,_6ff83431-1ebb-4211-8812-cf3ecf3cd600,ShuntCompensator
+_cb30a821-e464-468a-b896-af7c07cdccf0,CP-05,02   BII CP-5 B1    010I,true,C5,933541,_6ff83431-1ebb-4211-8812-cf3ecf3cd600,ShuntCompensator
+_6ce2a7d7-8a21-49de-95ad-cebffff45c79,CP-06,02   BII CP-6 B1    010I,true,C6,933543,_6ff83431-1ebb-4211-8812-cf3ecf3cd600,ShuntCompensator
+_57e97635-d783-4d36-b51a-339db3d13c63,RE-10,02   BII RE-10 B1   014I,true,1,933545,_6ff83431-1ebb-4211-8812-cf3ecf3cd600,ShuntCompensator
+_7e12c0aa-d074-49a7-a8c2-a8b5d1e854af,RE-11,02   BII RE-11 B1   014I,true,1,933547,_6ff83431-1ebb-4211-8812-cf3ecf3cd600,ShuntCompensator
+_65593134-c319-485e-b1da-ca947cdfeb29,CP-02,02   BSD CP-2 B2    008I,true,C2,934057,_c02419bc-4278-414e-aaa8-cef78617d0d7,ShuntCompensator
+_22f7a76c-42e4-4ef3-b4a0-7d70f154df97,CP-03,02   BSD CP-3 B2    008I,true,C3,934059,_c02419bc-4278-414e-aaa8-cef78617d0d7,ShuntCompensator
+_2f490aa2-34f7-4a41-b88e-c3bdbdc6b825,CP-04,02   BSD CP-4 B3    008I,true,C4,934061,_c02419bc-4278-414e-aaa8-cef78617d0d7,ShuntCompensator
+_6829a7f0-a5b8-4482-8c91-e812b1580895,CP-05,02   BSD CP-5 B3    008I,true,C5,934063,_c02419bc-4278-414e-aaa8-cef78617d0d7,ShuntCompensator
+_cf0e38dc-77fc-4710-a94f-6d2e69c8ce15,CP-01,02CZIBSU CP-1 B2    002I,true,C1,934291,_b593d2a5-79bf-414b-af74-5065086b2b4b,ShuntCompensator
+_97e55a30-ac53-40a4-b22d-69c6d90a328f,RE-01,02CZIBSU RE-1 B1    002I,true,R1,934293,_b593d2a5-79bf-414b-af74-5065086b2b4b,ShuntCompensator
+_5d86c4f0-ed84-42cd-884c-20b7d1db6e4c,CP-01,02   CHM CP-1 B1    030I,true,C1,935060,_cc87143d-c062-4418-969e-7c5f23c72a6f,ShuntCompensator
+_7bb5adc7-f283-4be6-8b59-efd2bdeca113,CP-02,02   CHM CP-2 B2    030I,true,C2,935062,_cc87143d-c062-4418-969e-7c5f23c72a6f,ShuntCompensator
+_40e2eb07-1426-4065-96c6-c3898c250d38,CP-01,02   CTS CP-1 B2    030I,true,C1,936281,_4f35dc8e-ff99-4038-94a1-95d9b3ecf95c,ShuntCompensator
+_ebfd738a-228f-498c-a87f-1cf384366800,RE-01,02   CZM RE-1 B1    062I,true,R1,936695,_25bca13d-a888-4fd1-a99e-c6ad3c26004e,ShuntCompensator
+_651bdfc7-2483-4b22-b494-8d7330d20679,CP-03,02   DED CP-34B3    018I,true,C3,936874,_f9fb7893-a91a-421c-a17e-8f1708b9341a,ShuntCompensator
+_457422af-473f-4e84-82db-7ac316b0db6f,CP-05,02   DED CP-5 B3    009I,true,C5,936876,_f9fb7893-a91a-421c-a17e-8f1708b9341a,ShuntCompensator
+_f32a3da6-697a-45a4-81b1-88bb5e617395,RE-03,02   DED RE-3  T-03 010C,true,R3,936878,_f9fb7893-a91a-421c-a17e-8f1708b9341a,ShuntCompensator
+_dc9fea97-c584-4a32-a57a-a81aa693e9a9,RE-04,02   DED RE-4  T-04 010C,true,R4,936880,_f9fb7893-a91a-421c-a17e-8f1708b9341a,ShuntCompensator
+_fd855ff2-4d93-4467-82bc-cf871fd94907,CP-01,02   DEM CP-1 B1    008I,true,C1,937132,_4b82c8f7-c59d-4421-a09b-72a6c3e44b4a,ShuntCompensator
+_499c6aec-c964-48ce-b98a-fe2c176b3aaf,CP-02,02   DEM CP-2 B2    008I,true,C2,937134,_4b82c8f7-c59d-4421-a09b-72a6c3e44b4a,ShuntCompensator
+_6a391230-9526-40bd-8f44-624b65af097f,RE-01,02   EDO RE-1 A3U20 075I,true,R1,937947,_438c4303-14e9-41f8-b308-7c66ee33afd6,ShuntCompensator
+_6a871a6f-8170-4290-a73d-a3e644f604ac,RE-02,02   EDO RE-2 A3U30 075I,true,R2,937949,_438c4303-14e9-41f8-b308-7c66ee33afd6,ShuntCompensator
+_7293b867-c8fb-4b76-ac92-aa33c80e44de,CP-01,02   EDP CP-1 B1    010I,true,C1,938439,_e5174f1d-90b0-49b4-b637-b40c9a22e337,ShuntCompensator
+_4d060722-a33e-462e-a953-989d9876709d,CP-02,02   EDP CP-2 B1    010I,true,C2,938441,_e5174f1d-90b0-49b4-b637-b40c9a22e337,ShuntCompensator
+_e36107c9-490b-4fc2-a32e-1b5e69a2a6d7,CP-03,02   EDP CP-3 B3    010I,true,C3,938443,_e5174f1d-90b0-49b4-b637-b40c9a22e337,ShuntCompensator
+_afe581b1-8d3b-4edd-8c5a-d13b00907f65,CP-04,02   EDP CP-4 B3    010I,true,C4,938445,_e5174f1d-90b0-49b4-b637-b40c9a22e337,ShuntCompensator
+_4ffc09ff-9e4d-4873-b010-46dee581ad7b,RE-01,02   EDP RE-1 B1    013I,true,R1,938447,_e5174f1d-90b0-49b4-b637-b40c9a22e337,ShuntCompensator
+_e84588aa-9b5c-4bc6-806b-dfbc9fd27cc9,CP-01,02   EDS CP-1 B1    010I,true,C1,938935,_324c5e2b-6987-432d-9d65-a6845f8b343d,ShuntCompensator
+_50529d1b-da61-4744-a579-d4b70adb3520,CP-02,02   EDS CP-2 B2    010I,true,C2,938937,_324c5e2b-6987-432d-9d65-a6845f8b343d,ShuntCompensator
+_4678b9e8-2adc-44b1-a4e7-733f312058d1,RE-01,02   EDS RE-1 B2    014I,true,R1,938939,_324c5e2b-6987-432d-9d65-a6845f8b343d,ShuntCompensator
+_78aff238-03f8-4e01-af22-dbc6966b0335,CP-01,02   EES CP-1 B1    025I,true,C1,939530,_9210d317-5666-4968-862e-b51add5cd709,ShuntCompensator
+_c8ee1019-9ca4-4fc6-b1ce-694609d9b778,CP-10,02   EES CP-10 B10  012I,true,1,939532,_9210d317-5666-4968-862e-b51add5cd709,ShuntCompensator
+_7f77a783-45e3-432d-a46a-44e893b2f2ee,CP-04,02   EES CP-4 B4    038I,true,C4,939534,_9210d317-5666-4968-862e-b51add5cd709,ShuntCompensator
+_3396f64b-eac3-40a4-a84e-419597e933f8,CP-05,02   EES CP-5 B5    024I,true,C5,939536,_9210d317-5666-4968-862e-b51add5cd709,ShuntCompensator
+_6ad485cd-372f-4daa-87fd-4bab11e598d8,CP-07,02   EES CP-7 B7    024I,true,C7,939538,_9210d317-5666-4968-862e-b51add5cd709,ShuntCompensator
+_2ba84634-348e-4028-9b3d-053b87755d98,CP-09,02   EES CP-9 B9    024I,true,C9,939540,_9210d317-5666-4968-862e-b51add5cd709,ShuntCompensator
+_ad5c6ed7-b574-449c-9622-e201ee59d8a8,RE-01,02   EES RE-1 B1    007I,true,R1,939542,_9210d317-5666-4968-862e-b51add5cd709,ShuntCompensator
+_99bfc3dc-7c94-425f-a1cf-9925cbdadbf2,RE-03,02   EES RE-3 B5    007I,true,R3,939544,_9210d317-5666-4968-862e-b51add5cd709,ShuntCompensator
+_69e40664-6c6b-49c9-a054-62baa62d4dfa,CP-01,02   EIN CP-1 B1    005I,true,C1,940049,_dfb0d5db-2f60-4dba-820d-5728c4d45392,ShuntCompensator
+_a4fcba79-3fac-45e5-81ca-7a9f6545a987,CP-02,02   EIN CP-2 B1    007I,true,C2,940051,_dfb0d5db-2f60-4dba-820d-5728c4d45392,ShuntCompensator
+_5eb5bfed-58ac-447a-a4f8-f6ca9fb6e383,CP-01,02SUREOA CP-1 B1    002I,true,C1,940175,_7b7a1c19-0205-4c6b-8b2e-9de53220d43e,ShuntCompensator
+_8036fd4c-d673-408c-830a-93ac8fd7bfe2,CP-02,02SUREOA CP-2 B1    004I,true,C2,940177,_7b7a1c19-0205-4c6b-8b2e-9de53220d43e,ShuntCompensator
+_616aec5f-f17c-45cb-b3ff-f5da75cd837f,CP-01,02   ERT CP-1 B2    009I,true,C1,941485,_24e2c76d-ed94-47bb-9663-85e19f6cabcc,ShuntCompensator
+_2440f62e-13e4-41ef-b228-7fd53e79e14a,CP-02,02   ERT CP-2 B2    009I,true,C2,941487,_24e2c76d-ed94-47bb-9663-85e19f6cabcc,ShuntCompensator
+_3396d40b-d44c-4b58-a0ea-d990eb07db6d,CP-01,02   EZO CP-1 B2    008I,true,C1,942652,_82f90221-c517-4bf3-9055-391980addb45,ShuntCompensator
+_737c228a-272c-4bce-b081-d16a86c74855,CP-02,02   EZO CP-2 B2    008I,true,C2,942654,_82f90221-c517-4bf3-9055-391980addb45,ShuntCompensator
+_faeb1c4b-5403-47f1-9451-a7202c58d765,CP-01,08   PTE CP-1 B1    015,true,C1,943770,_e4997c4c-1170-481c-938a-fccca04f8008,ShuntCompensator
+_a6f7d446-95ad-4582-a1d7-81ebdcb42703,RE-01,08   RMY RE-1 A4010 50I,true,R1,944420,_811a2be1-2054-47f7-9e16-466457827fe7,ShuntCompensator
+_d183822e-b068-4af0-8d89-1355a398f1f8,RE-02,08   RMY RE-2 A4020 50I,true,R2,944422,_811a2be1-2054-47f7-9e16-466457827fe7,ShuntCompensator
+_5904a3f3-295a-44c0-b305-ceb1701713f5,RE-01,08   SLC RE-1 B1    018,true,R1,944867,_4edf1cb2-c57b-466e-93a7-01b23c0280c5,ShuntCompensator
+_7e24e2fb-e5fb-416f-8dcb-8b7367f7c37c,CP-01,08   SUR CP-1 B1    015,true,C1,945276,_e241d1f7-64cb-432f-a51d-748ec19c0e3e,ShuntCompensator
+_db0e6e5c-1af7-4eb6-9f03-4dfb92225357,RE-02,08   TIC RE-2 93020 018,true,R2,946000,_8cc6497b-9320-4a6c-ae82-fc54ea8c44a5,ShuntCompensator
+_28665e1d-edc8-4243-b907-b431a0546cf3,RE-03,08   TIC RE-3 93090 021,true,R3,946002,_8cc6497b-9320-4a6c-ae82-fc54ea8c44a5,ShuntCompensator
+_d5db7ded-8919-40f5-966a-a4ee189b7863,RE-05,08   TIC RE-5 93100 021,true,R5,946004,_8cc6497b-9320-4a6c-ae82-fc54ea8c44a5,ShuntCompensator
+_eb58c857-7f77-4c02-91aa-e70aa52e7375,RE-06,08   TIC RE-6 B1    016,true,R6,946006,_8cc6497b-9320-4a6c-ae82-fc54ea8c44a5,ShuntCompensator
+_25f30020-67e2-4386-a132-9dba4590e1c9,RE-01,08   TIC RE-1 A4100 75I,true,R1,946160,_cb53267a-1edd-4aac-a2be-b38bd304c187,ShuntCompensator
+_d2630986-ffbf-4ef0-bd0f-5f5e6a316523,RE-09,08   TIC RE-9 A4090 75I,true,R9,946162,_cb53267a-1edd-4aac-a2be-b38bd304c187,ShuntCompensator
+_4bf12d08-1ebf-4ff0-a83d-6674a82fa92e,RE-07,08   TIC RE-7 AT-01 015,true,R7,946177,_d26f5469-1cc0-407d-9327-28e6974b1592,ShuntCompensator
+_9cb61669-0666-4af4-a567-cb5820f4ff83,CP-01,08   TZM CP-1 B1    006,true,C1,947449,_83356bbb-94d3-4bfe-907a-a219ea58a32a,ShuntCompensator
+_e1683e83-0a5b-46d7-9834-4f700ad65cda,RE-01,08   VAD RE-1 B1    010,true,R1,949369,_e916f8d7-3554-426e-9ffa-0c3f32717d9d,ShuntCompensator
+_ed14ca5f-2e18-4113-b3bb-3845423454ed,RE-02,08   VAD RE-2 93070 018,true,R2,949371,_e916f8d7-3554-426e-9ffa-0c3f32717d9d,ShuntCompensator
+_40f84b7e-57aa-40fd-b7d2-e35bcc9ffbfc,RE-03,08   VAD RE-3 93080 021,true,R3,949373,_e916f8d7-3554-426e-9ffa-0c3f32717d9d,ShuntCompensator
+_b56d6cb9-d086-4fcb-afe8-976d9fda8e26,CP-03,08   XUL CP-3 B1    006,true,C3,951819,_ed7c2ffa-1572-4e93-8ac6-7fdfeb8f3a7e,ShuntCompensator
+_cbc733b4-0bfa-4928-bc5a-350a7ba8fc27,RE-01,08   XUL RE-1 93090 018,true,R1,951927,_78b649ba-dd25-4f20-b913-ccf4e61fde25,ShuntCompensator
+_7aac225f-c527-4ea1-b05d-a50904308338,RE-04,08   XUL RE-4 93100 018,true,R4,951929,_78b649ba-dd25-4f20-b913-ccf4e61fde25,ShuntCompensator
+_0b48ef43-0cef-430e-a405-07213a5c796b,RE-02,08   XUL RE-2 AT-06 025,true,R2,951988,_d74319e9-1e93-4041-84ec-430c9a4385ac,ShuntCompensator
+_48f08c7a-8d5f-44e2-8de7-3cb20831ac76,RE-03,08   XUL RE-3 AT-09 021,true,R3,951990,_d74319e9-1e93-4041-84ec-430c9a4385ac,ShuntCompensator
+_0fdfb458-f1ba-47e5-9ec8-cdc37c224731,CP-01,08CHTCNR CP-1 B1    0075,true,C1,955477,_4fc51e4d-6a08-4ea0-b9c0-d812dd19d836,ShuntCompensator
+_5bd1b205-dffc-4218-988f-a886e76cc6c3,CP-03,08CHTCNR CP-3 B1    0075,true,C3,955479,_4fc51e4d-6a08-4ea0-b9c0-d812dd19d836,ShuntCompensator
+_f79f4f10-a912-4cea-8491-4a204601ba19,CP-01,08CHTCRE CP-1 B1    015,true,C1,955920,_85ea12c7-2ca2-41a1-80c1-86760b06cb2b,ShuntCompensator
+_a13a1cd8-2ce8-4c35-a9d7-24c5f6fa8d4f,CP-03,08CHTCRE CP-3 B1    007,true,C3,955922,_85ea12c7-2ca2-41a1-80c1-86760b06cb2b,ShuntCompensator
+_3818487e-5317-41b2-8d3d-f5a5689cac23,CP-03,08CHTKAL CP-3 B1    015,true,C3,960539,_190e8f99-0ded-4a97-a297-f277077ef733,ShuntCompensator
+_621abe15-b895-4dcd-8b87-4687d40acb13,CP-01,08CHTPYU CP-1 B1    0075,true,C1,962110,_5c1cb161-9fa2-4bf2-9dc8-748e80bc1574,ShuntCompensator
+_7ffc9730-ea69-487e-bcf7-4ba7a1a8ef15,CP-01,08CHTSAD CP-1 B1    015,true,C1,962806,_10bdad2d-61aa-442c-be91-e086c55a3992,ShuntCompensator
+_88fa6722-8a20-4cd2-9f6d-d1114ff00b7f,CP-03,08CNCCEK CP-3 B1    030,true,C3,975780,_8e8e3229-fea5-48a5-b2af-2c5650fcc14a,ShuntCompensator
+_60e9cb63-8df8-40a1-9615-a8ca57240ac1,CP-02,08CNCCNC CP-2 B2    009,true,C2,976995,_f0fc56c8-c2d5-4f3a-b5c7-94ec8a1b1915,ShuntCompensator
+_1b1cb49d-3335-4f3b-9eea-0827b2f108bc,CP-06,08CNCKUK CP-6 73650 0075,true,C6,979267,_9b27c4b8-9c6a-4ee1-bf55-5e83eed538b6,ShuntCompensator
+_4c064f88-4789-4693-9868-6abde4c6bcba,CP-05,08CNCPJU CP-5 B1    015,true,C5,980492,_b9c981df-c287-45cd-bd91-c41cae56e14a,ShuntCompensator
+_22624ff2-52d7-41de-b0fe-d107a70bae91,CP-07,08CNCPLY CP-7 B1    0075,true,C7,981147,_feafb840-1ce0-413d-8db7-c66893b5f377,ShuntCompensator
+_835f476c-0b4e-482d-9ec8-88c2b75fc5c9,CP-08,08CNCTUM CP-8 B1    012,true,C8,982163,_b797470f-2533-44a4-b20f-647a18585f48,ShuntCompensator
+_65282897-cd00-4084-93ee-803a2bf963ca,CP-04,08   NCM CP-4 B1    030,true,C4,983161,_7ca05fcc-99ad-46dd-af98-f3e155c2cedb,ShuntCompensator
+_6ca76849-f232-45c0-b76d-940365ff3fca,RE-01,02   JUI RE-1 A3340 068I,true,R1,1034596,_f1e8c698-c232-4b95-87b3-25fd9830593c,ShuntCompensator
+_82e9a1ba-3de1-4fee-973e-4fe1a7c9bacb,RE-02,02   JUI RE-2 A3U10 063I,true,R2,1034598,_f1e8c698-c232-4b95-87b3-25fd9830593c,ShuntCompensator
+_e6579d75-180d-4bb0-adab-07c319ef768f,RE-03,02   JUI RE-3 A3U00 068I,true,R3,1034600,_f1e8c698-c232-4b95-87b3-25fd9830593c,ShuntCompensator
+_cb48c79a-5351-4bb2-8e74-1ee2030ef9a2,RE-04,02   JUI RE-4 A3T70 062I,true,R4,1034602,_f1e8c698-c232-4b95-87b3-25fd9830593c,ShuntCompensator
+_658e7a75-8416-4429-8021-cbb175b63008,RE-05,02   JUI RE-5 B1    100I,true,R5,1034604,_f1e8c698-c232-4b95-87b3-25fd9830593c,ShuntCompensator
+_d6289ce8-1ebf-4fb4-a80c-2c419d58d2d0,RE-01,02   LAV RE-1 A3190 050I,true,R1,1035104,_654b99af-5ff6-46bd-a046-d656222e99c2,ShuntCompensator
+_a50728b0-f328-4aac-a35d-e76a07c5fe4e,RE-03,02   LAV RE-3 A3390 050I,true,R3,1035106,_654b99af-5ff6-46bd-a046-d656222e99c2,ShuntCompensator
+_b18b5a93-8721-4589-95a8-f9d7661590de,CP-01,02   LVN CP-1 B1    014I,true,C1,1036771,_31206dd2-d8a1-45ad-a677-271959df6760,ShuntCompensator
+_8c793c5c-c2c8-4dc8-bcdc-cd0b243ac985,RE-01,02   LVN RE-1 B1    005I,true,R1,1036773,_31206dd2-d8a1-45ad-a677-271959df6760,ShuntCompensator
+_e3e6d96a-2720-4784-be69-a6a3b6a2c6bf,CP-01,02   MGD CP-1 B1    015I,true,C1,1037681,_f3738499-06ab-4587-b470-fa969fefe6bb,ShuntCompensator
+_39975945-fefb-4494-9ba0-71b2078c4bc7,CP-02,02   MGD CP-2 B2    015I,true,C2,1037683,_f3738499-06ab-4587-b470-fa969fefe6bb,ShuntCompensator
+_653bad00-9f7e-4140-9b2f-a8adf9ea3ef9,CP-01,02   MID CP-1 B1    030I,true,C1,1038110,_81ed7cd2-27c2-4e32-ba8d-78f80ff83654,ShuntCompensator
+_1036cead-63f8-4447-991b-48a862297c99,RE-01,02   MID RE-1 B1    100I,true,R1,1038306,_4600c6dc-65f8-4a0b-96e6-ee0a795dd611,ShuntCompensator
+_4b51f01b-cd54-47b6-973c-31cf172d1aa6,RE-01,02   MMT RE-1 A3040 100I,true,R1,1039294,_fce0181a-589f-4ab2-a425-0b406758ec89,ShuntCompensator
+_80d8b6ce-23d5-4daa-8013-b1d1f7a2c838,RE-02,02   MMT RE-2 A3140 100I,true,R2,1039296,_fce0181a-589f-4ab2-a425-0b406758ec89,ShuntCompensator
+_06f3ad3e-34de-45fb-a361-f5af20969b8b,RE-03,02   MMT RE-3 A3T90 100I,true,R3,1039298,_fce0181a-589f-4ab2-a425-0b406758ec89,ShuntCompensator
+_5e7ee7d0-e586-42dd-a8cf-c93e6c396aa3,RE-04,02   MMT RE-4 B1    150I,true,R4,1039300,_fce0181a-589f-4ab2-a425-0b406758ec89,ShuntCompensator
+_0969a798-cadc-4db7-bc3d-42d1875aa6bd,RE-02,02   MPD RE-2 A4020 075I,true,R2,1039997,_cb5385a8-b422-40f3-b68d-2cf1435f9b94,ShuntCompensator
+_657c6300-9c55-4af9-9f93-9294b3124ec7,RE-01,02   MPS RE-1 B1    150I,true,R1,1040380,_152f6730-fd26-4469-8990-3540b29412a3,ShuntCompensator
+_c02e1681-034f-486c-b200-85d3e3be0d31,CP-01,02   OAU CP-1 B1    014I,true,C1,1041954,_7aa537ed-c6e4-4831-bd83-7d8aabf637aa,ShuntCompensator
+_7c98739c-9ff1-4db7-b1e7-0e2df354e18a,CP-01,02   OJP CP-1 B1    030I,true,C1,1042258,_48204038-992b-4afd-8423-ad3136da6586,ShuntCompensator
+_5d7d8606-ab69-42b7-9d2f-8af9f35f5245,RE-03,02   PBD RE-3 A3090 062C,true,R3,1043144,_d7149e1a-0747-41a6-8f1a-c37345f78b89,ShuntCompensator
+_14ccaacd-dd89-489d-88f7-ce6279eb39e5,RE-04,02   PBD RE-4 A3940 032C,true,R4,1043146,_d7149e1a-0747-41a6-8f1a-c37345f78b89,ShuntCompensator
+_16242c16-c2cc-4672-9af2-8c912aec0992,CP-01,02   PDQ CP-1 B1    008I,true,C1,1043663,_49db6b58-28ff-481f-a239-17a6bc92a033,ShuntCompensator
+_65e2b5b4-ab65-4e00-9be8-534b39b23a84,CP-02,02   PDQ CP-2 B1    008I,true,C2,1043665,_49db6b58-28ff-481f-a239-17a6bc92a033,ShuntCompensator
+_60959103-0300-4b97-a694-c30c1f35e0ed,RE-01,02   PDQ RE-1 B1    002I,true,R1,1043667,_49db6b58-28ff-481f-a239-17a6bc92a033,ShuntCompensator
+_794290de-7de7-4cca-b521-bc3c5c483629,RE-01,02   PRD RE-1 A3370 050C,true,R1,1046577,_d3d2c941-fc06-420e-bfe2-b8058e23245b,ShuntCompensator
+_b63e27a1-e09a-4474-95c5-c328ea93ea41,CP-01,02   SDN CP-1 B1    005I,true,C1,1048757,_c42cf380-e1ac-41a9-858a-81415985c25f,ShuntCompensator
+_7216680d-171e-4899-9cea-f5545d2560e3,CP-01,02   SUD CP-1 B1    009I,true,C1,1049489,_80e032e7-18d9-4456-bb22-c709add39dce,ShuntCompensator
+_c053d9d7-710b-45d0-942e-db3ba429d66f,RE-01,02   SUD RE-01      009I,true,R1,1049491,_80e032e7-18d9-4456-bb22-c709add39dce,ShuntCompensator
+_e354c069-b8b0-4220-9642-482effc5276d,RE-01,02   TCL RE-1 A4010  50I,true,R1,1050504,_8a84d373-d7b1-45b2-8b2c-83ddc8790ec6,ShuntCompensator
+_1875e4e7-5150-4246-9291-472548b3e4b7,RE-02,02   TCL RE-2 A4020  50I,true,R2,1050506,_8a84d373-d7b1-45b2-8b2c-83ddc8790ec6,ShuntCompensator
+_9ce61e4a-fb74-4f51-ba95-0208244adf35,RE-01,02   THP RE-1 A3T30 068I,true,R1,1051048,_6d9f5d77-ccd1-4593-bc30-3dc83da0f601,ShuntCompensator
+_625696e5-4ddd-4233-895a-b3962e11ac4e,RE-02,02   THP RE-2 A3T30 055C,true,R2,1051050,_6d9f5d77-ccd1-4593-bc30-3dc83da0f601,ShuntCompensator
+_9b191f1a-690b-46cc-898c-667aa4799277,RE-02,02   TMD RE-2 A3260 032I,true,R2,1051518,_3605941e-5dca-44e9-ba41-16da4877eabb,ShuntCompensator
+_2c765079-f443-418f-b461-2fa6a1124a99,RE-03,02   TMD RE-3 A3460 032I,true,R3,1051520,_3605941e-5dca-44e9-ba41-16da4877eabb,ShuntCompensator
+_e9ea1858-67f2-4ea0-bc23-95605afce991,RE-04,02   TMD RE-4 A3460 032I,true,R4,1051522,_3605941e-5dca-44e9-ba41-16da4877eabb,ShuntCompensator
+_b8bf6b7c-f87b-4068-975e-a50837030200,RE-05,02   TMD RE-5 A3560 063I,true,R5,1051524,_3605941e-5dca-44e9-ba41-16da4877eabb,ShuntCompensator
+_653ece70-7ee1-4bc0-bd46-caa6ab23a007,RE-06,02   TMD RE-6 A3360 063I,true,R6,1051526,_3605941e-5dca-44e9-ba41-16da4877eabb,ShuntCompensator
+_e95428ae-58e8-432c-9bde-20d96d59a1ff,RE-07,02   TMT RE-7 A3340 062I,true,R7,1051833,_05300864-1dc2-4565-bebc-3d72dec64a2c,ShuntCompensator
+_9139f192-2fd1-4ad7-bbf6-d1098509386e,RE-09,02   TMT RE-9 A3540 063I,true,R9,1051835,_05300864-1dc2-4565-bebc-3d72dec64a2c,ShuntCompensator
+_e3f65058-3080-4cee-af4c-efedad718dbc,RE-01,02   TSP RE-1 AT-01 030I,true,R1,1052529,_c49e29b4-0cd4-4356-8575-6fc1caccb4df,ShuntCompensator
+_3a689e9d-0ef2-48b1-9107-15ede2b34918,RE-02,02   TSP RE-2 AT-02 030I,true,R2,1052531,_c49e29b4-0cd4-4356-8575-6fc1caccb4df,ShuntCompensator
+_4b8614d0-214e-4787-8368-18e2b883bbb6,RE-01,02   TTE RE-1 A3070 075I,true,R1,1052975,_537bc9d3-3cd7-4bcd-81a8-b6bcdc38f0ff,ShuntCompensator
+_cc236458-1e33-44e1-921e-a977f7fcdecc,RE-02,02   TTE RE-2 A3080 075I,true,R2,1052977,_537bc9d3-3cd7-4bcd-81a8-b6bcdc38f0ff,ShuntCompensator
+_24ac7b67-b000-4511-ad56-9e4b89bf1097,RE-01,02   TUV RE-1 A3680 075C,true,R1,1053394,_3248370f-f378-4878-9bf0-38cdaabacc8c,ShuntCompensator
+_2c9c4e75-8d92-43fb-b933-1a2812e7d9a2,RE-02,02   TUV RE-2 A3780 075C,true,R2,1053396,_3248370f-f378-4878-9bf0-38cdaabacc8c,ShuntCompensator
+_ea6b3ee1-ca3c-4337-9644-83faa41e09c0,RE-03,02   TUV RE-3 A3380 075C,true,R3,1053398,_3248370f-f378-4878-9bf0-38cdaabacc8c,ShuntCompensator
+_13fb1f86-077c-4c95-b168-169ebffcff70,CP-01,02CZIJUD CP-1 B1    022I,true,C1,1062191,_d74d726a-0563-4d25-8ad0-b03751e70df9,ShuntCompensator
+_922d9fe5-a0c3-4990-9584-31d110612107,RE-01,02CZIJUD RE-1 AT-01 025I,true,R1,1062401,_eebe0116-8872-451a-876e-776910d8d525,ShuntCompensator
+_ffa211bb-ee9e-4d18-8cc2-c4a6eae5e6e4,RE-02,02CZIJUD RE-2 AT-02 025I,true,R2,1062403,_eebe0116-8872-451a-876e-776910d8d525,ShuntCompensator
+_38251589-7e14-4bb4-ac5e-abc0347ffe13,CP-01,02CZILRD CP-1 B1    006I,true,C1,1063128,_0fc608db-065c-49c2-b87b-49faae00c8e5,ShuntCompensator
+_db33d3d8-bd57-4553-9a95-61e8641bcf2a,CP-01,02CZIMIU CP-1 B1    015I,true,C1,1064213,_b30012a2-b5e8-45af-980f-486d1d8167f4,ShuntCompensator
+_7b2e961c-6f9b-4e0b-b3b1-a2f4f135dc11,CP-01,02CZISAC CP-1 B1    012I,true,C1,1067837,_a4e805a7-ced7-478c-a666-7eb9204b427b,ShuntCompensator
+_4570373c-286a-4499-91d1-b290320a1a21,CP-01,02CZITHT CP-1 B1    012C,true,C1,1068976,_39ffedcc-1ada-41fc-9212-18036887ef9e,ShuntCompensator
+_5480a10b-1022-4730-8868-227bab97325a,CP-01,02GMOARC CP-1 B1    018I,true,C1,1072287,_c6a5d5ce-1517-49d1-844e-18cc105a8ab6,ShuntCompensator
+_ec20bafd-6478-484a-8cae-3a1ba7b4136f,CP-02,02GMOCGN CP-2 B1    7.5I,true,C2,1074245,_6f626d82-8344-4fca-ac58-4d2e8a4093c8,ShuntCompensator
+_8ef17a8e-38da-4bce-aadd-d30a0be226e4,CP-01,02GMOCIP CP-1 B1    008I,true,C1,1075577,_fed10c96-06c7-40f2-99de-99638366e3c4,ShuntCompensator
+_a7a3678f-81a0-4f04-bde9-3ac2db3cb681,CP-01,02GMOCUA CP-1 B1    018I,true,C1,1076525,_cecbf6e9-fa12-4331-ad11-bb6b62cee262,ShuntCompensator
+_0818f57e-1391-4e00-a338-07dc0823aac5,CP-01,02GMOLAT CP-1 B1    030C,true,C1,1080838,_e24ecd5a-bd03-441f-a255-067fdb827132,ShuntCompensator
+_10c6bc83-4700-411b-93d5-614500f0e2fc,RE-01,02GMOMZL RE-1       021I,true,R1,1084129,_2e030cb7-0f17-46f4-b2a9-001fcd9d1c7f,ShuntCompensator
+_3c1c8eb8-9ffc-4388-9213-661b1d36c983,CP-02,02GMOOMT CP-2 B1    4.5I,true,C2,1084743,_34e02b2b-a34d-4a20-9dc8-f7d404ab9fe1,ShuntCompensator
+_d8c29ceb-910b-45c9-ba7e-ac712b3885cd,RE-01,02GMOPIC RE-1 93060 021I,true,R1,1085410,_3dfe5d3e-4008-4fdf-8243-b4456f30b56c,ShuntCompensator
+_f2c40a1c-4278-497b-a57b-d5267e0ff77a,RE-02,02GMOPIC RE-2 93320 021I,true,R2,1085412,_3dfe5d3e-4008-4fdf-8243-b4456f30b56c,ShuntCompensator
+_98ee7446-0fbc-439b-94c5-9189fa445d8e,CP-03,02GMOPPN CP-3       008I,true,C3,1085942,_a784dd52-c4bd-406b-b50b-64c7b1c62f06,ShuntCompensator
+_0f169b1b-3a3a-4d13-b707-ed5a42cec523,CP-01,02GMOQMD CP-1 B1    030I,true,C1,1087933,_c2764b87-b91c-4ac3-badd-c379023298ae,ShuntCompensator
+_cdd24585-12d9-4ac9-8999-8c1829322eea,CP-01,02GMOZAP CP-1 B1    030C,true,C1,1093661,_147ead4e-dc0e-4839-92ab-808afa09c324,ShuntCompensator
+_ac0bcda5-c197-4b8f-8a52-fe50d6a8c814,CP-03,02GMOZIH CP-3       008I,true,C3,1094856,_51908f37-d0cf-421d-af1f-67452a36cbce,ShuntCompensator
+_cf9542d7-d2d9-49bb-bfa8-aa917cd764b3,CP-01,02PTXANC CP-1 B1    015,true,C1,1096995,_dd623f1b-338d-4860-81a5-93c78dea4326,ShuntCompensator
+_687c5633-18df-4263-a30b-89e74000db27,CP-01,02PTXHJP CP-1 B1    005,true,C1,1104619,_b9b5286b-4ea8-4504-992b-d63361b21d0b,ShuntCompensator
+_5c988dd5-86c8-4cb0-9f1b-aa69394aea01,CP-02,02PTXHUA CP-2 B1    015I,true,C2,1104853,_9ecc3e01-fd83-4144-9c0b-111afe5742b6,ShuntCompensator
+_bff73d45-22ff-408e-85f7-b5e1984fbb5d,CP-01,02PTXLIB CP-1 B1    015,true,C1,1106858,_219fca49-12fc-4a1a-ae13-90441433401e,ShuntCompensator
+_b2e8c257-d080-4fb7-817d-06c295cc75d9,CP-01,02PTXTHN CP-1 B1    022I,true,C1,1114626,_1b2e6278-62fc-4462-9b9a-b77a3e7a7f77,ShuntCompensator
+_083894df-d329-4550-b44b-92972516cb17,CP-01,02PTXYUC CP-1 B1    005,true,C1,1118579,_d1595acc-1a44-4c4d-b803-c50049f2d0c8,ShuntCompensator
+_0ad0c132-7e78-42d3-b87a-e3942228a868,CP-01,02PTZRFD CP-1 B1    015I,true,C1,1125729,_46e37aba-4a0a-4406-98ab-36857e4d8620,ShuntCompensator
+_61705764-27ab-4372-980a-c41796c6ecdc,CP-01,02SURARR CP-1 B1    005I,true,C1,1129570,_5d61190c-1e6c-41e5-b702-9827671bea0d,ShuntCompensator
+_69fdce58-5dfc-4423-9c13-de20f9d6e063,CP-01,02SURBDZ CP-1 B1    022I,true,C1,1130626,_7e00dcde-1e69-40ea-b36a-b570dbc79a13,ShuntCompensator
+_d0998fd4-da49-4c55-8564-8f1697299681,CP-01,02SURCDN CP-1 B1    015I,true,C1,1132142,_53d4ac1f-6b5f-420e-b212-26c9d47db876,ShuntCompensator
+_5bf5726b-377f-48d7-af98-e51ce4a6253c,CP-01,02SURCIH CP-1       015I,true,C1,1133125,_6c0e3a64-b933-429a-bc84-61162d4ea32d,ShuntCompensator
+_9bf9ab44-7aa0-4331-a01e-a96f10b366c2,CP-01,02SURCJT CP-1 B1    015I,true,C1,1133863,_bf0d8015-4fb4-4938-9242-4945c94de947,ShuntCompensator
+_9ca17999-05b9-407a-8756-2e91b9f8524d,CP-01,02SURCOM CP-1 B1    022I,true,C1,1135232,_18eb7f0c-0ff4-40e3-8bc8-71b48368ce78,ShuntCompensator
+_5c8b861f-93a2-4fe8-9078-50fa20f7c2da,CP-01,02SURJAA CP-1 B1    7.5I,true,C1,1139394,_6ba369bc-b098-4c0e-86e5-a7afb2394c62,ShuntCompensator
+_f0c46602-f1e5-4993-8829-ee6c7149d3ba,RE-01,02SURKLV RE-1       021C,true,R1,1140333,_b97b4931-98fa-4ed6-ad91-c89dbe2729b7,ShuntCompensator
+_13b55cac-4dc6-4913-b8ab-ddfd37109b70,CP-01,02SURLCH CP-1 B1    015I,true,C1,1140586,_1445e618-433c-42af-b8a9-d37684a1ad66,ShuntCompensator
+_a0ba7c4b-ee3b-46cf-b005-60eedf4f9ac3,CP-01,02SUROCO CP-1 B1    008I,true,C1,1144637,_c67ec803-6997-480f-8f03-b5181c7abb58,ShuntCompensator
+_a120c293-1643-4f0d-af29-9270b7039d3f,CP-01,02SURSCO CP-1 B1    015I,true,C1,1149134,_aee2fdc7-b6b5-4f07-b1f3-5725631c4c49,ShuntCompensator
+_f2a5ba2a-2bfa-4887-91ca-aa84455252cb,CP-01,02SURTAE CP-1 B1    012I,true,C1,1150573,_6d6dd760-250f-4c17-aa34-4983b268b9b2,ShuntCompensator
+_6c6a4c84-2d10-408f-b655-1864e54d9bec,CP-01,02SURTLN CP-1 B1    7.5I,true,C1,1152829,_8b4ef548-9ad7-4544-b4b6-7aa7999f174f,ShuntCompensator
+_1b6728c9-2684-4418-b701-8b4846f1e460,CP-01,02SURTTB CP-1       015I,true,C1,1154522,_7eb247c5-7774-4fcb-ac71-2b1a9f16a9ed,ShuntCompensator
+_43f065ce-7afb-44af-b2b8-18df69a127f7,CP-01,02SURVID CP-1 B1    022I,true,C1,1156371,_851cc7ff-ac66-4089-998b-8ceb2a69c87b,ShuntCompensator
+_e651e13c-bd70-4336-aa71-fa5c8a3f1fda,CP-01,02SURVIU CP-1 B1    012I,true,C1,1157307,_e13ef710-49c0-4fa4-b418-41f6346e35e0,ShuntCompensator
+_b5482de0-119e-4ada-b089-5edf96a9a205,CP-01,02VERCAC CP-1 B1    008I,true,C1,1160764,_069f8ca7-9412-4400-b169-90b66d8a08c6,ShuntCompensator
+_7e81204e-2594-4a67-8ff9-bf09f943db0b,CP-01,02VERCEO CP-1 B1    7.5I,true,C1,1161894,_54ee1d76-5294-4a3f-9c84-be1e1ac28813,ShuntCompensator
+_1ecd8b45-edfa-4b07-98fd-18cedf59c848,CP-01,02VERCMT CP-1 B1    012C,true,C1,1162743,_078f5e83-e0f5-4286-b5a4-33baffd78204,ShuntCompensator
+_959eeeee-fb08-4224-9276-1088e41dd2d4,CP-01,02VERCNJ CP-1 B1    007I,true,C1,1163091,_c69d2e90-7eac-44ff-89fa-0265786b696d,ShuntCompensator
+_99b84f28-0823-4a35-ab9e-95fc5637861a,CP-01,02VERIXJ CP-1 B1    001I,true,C1,1169981,_5a01fe7d-fbcd-4965-a895-ce360530fbda,ShuntCompensator
+_f5bb48ee-6c9e-4af4-a2cb-7c45cf8f0412,CP-01,02VERJLD CP-1 B1    009I,true,C1,1171228,_56781899-3c87-482a-91d8-ef17c3451bc2,ShuntCompensator
+_fd403c72-7bdf-49a1-84cb-80c323e6641a,CP-01,02VERLBD CP-1 B1    010I,true,C1,1171967,_020ab6fa-a7f5-4a78-81d7-7be25b4d0cfb,ShuntCompensator
+_f7f37070-9f31-428a-bf8f-cee49bfc2578,CP-01,02VEROXD CP-1 B1    015I,true,C1,1175889,_8932f5de-8f6a-4f56-a0d4-5db7f57215bd,ShuntCompensator
+_2ae638c2-ccd9-49be-8dfa-363963e11ecb,RE-01,02VEROXP RE-1 AT-01 025I,true,R1,1176586,_eee3c6ad-e4b8-4dca-9aa3-12f77e4e01ac,ShuntCompensator
+_de6f00ab-6fcd-46ca-b19e-8063be48cfea,RE-02,02VEROXP RE-2 AT-02 025I,true,R2,1176588,_eee3c6ad-e4b8-4dca-9aa3-12f77e4e01ac,ShuntCompensator
+_b5770fcb-fe1b-488d-80fb-79978a589132,CP-01,02VERPIN CP-1 B1    007I,true,C1,1177527,_26cf06bc-43fe-40c5-9c82-3ab299f17972,ShuntCompensator
+_96a21dfa-7af1-4adb-a553-c7f4978e9629,CP-01,02VERPOC CP-1 B1    007I,true,C1,1178442,_712a2e97-38af-4cfd-b622-4107fdab3744,ShuntCompensator
+_501831e8-5cbd-4e1d-a6dd-871b2f36381c,CP-01,02VERPUE CP-1 B1    7.5I,true,C1,1179111,_1be9d1cb-9d6a-43f6-9628-a1f0c16b6801,ShuntCompensator
+_d187a0e3-c4d8-4f4c-b63d-d1985c582d21,CP-01,02VERRSO CP-1 B1    004I,true,C1,1180961,_09edcae1-266e-494c-ba46-d5a808c20ecb,ShuntCompensator
+_382563e6-8fc0-4282-8ed0-e283b2535e71,CP-01,02VERTDD CP-1 B1    014I,true,C1,1182576,_2410963f-15fc-4aee-9868-5d1eea439e96,ShuntCompensator
+_a8444a37-5a44-4de1-b224-1199ae5fcf66,CP-01,02VERVRD CP-1 B1    027I,true,C1,1186444,_c5652367-bccb-4eeb-aff1-a343a94fca73,ShuntCompensator
+_ab28a6f1-7c14-4e70-a5b3-4bf119ef1ba1,CP-01,02VERVRU CP-1 B1    021I,true,C1,1186852,_9f9f4cf5-50d6-4030-b117-036ce41380c3,ShuntCompensator
+_80bb3b59-6309-4415-9b47-7c0865c2f8f9,RE-01,22   LBR RE-1 A4010  50I,true,R1,1187892,_ecef2eb2-2631-41ef-8579-834e270a86db,ShuntCompensator
+_c7b9210e-fe8f-4b65-873c-5d09187c3b75,RE-01,03   APT RE-1 A3N20 75.I,true,R1,1190357,_0237dd55-79d9-4fe6-9600-695f204f2400,ShuntCompensator
+_e3fba908-3110-4f33-973c-739bb858e70d,RE-03,03   APT RE-3 A3250 75.I,true,R3,1190361,_0237dd55-79d9-4fe6-9600-695f204f2400,ShuntCompensator
+_ee429d93-0830-4f76-9775-c85d387b94da,RE-01,03   ATN RE-1 B1    70.I,true,R1,1191855,_5fbf4330-0d81-4148-a1ad-6e7a990ce65a,ShuntCompensator
+_4005f46f-0a25-4c29-88b4-5b551a223e6f,RE-06,03   ATN RE-6 A3230 62.C,true,R6,1191857,_5fbf4330-0d81-4148-a1ad-6e7a990ce65a,ShuntCompensator
+_b8e1b8bf-64dc-48f7-b6ee-f20e7c78d4e5,CP-01,03   ATQ CP-1 65010 18.C,true,C1,1192527,_be043e12-06dd-4e62-82b4-fc524ac96f74,ShuntCompensator
+_a74a18cb-3bb6-46ff-81cc-99c0dcaae1e4,RE-01,03   ATQ RE-1 A3240 60.C,true,R1,1192909,_ee84acf8-0640-4871-9efb-d85f13a074a8,ShuntCompensator
+_d4ff94c6-7e28-4914-a38f-ff9dbf861bab,RE-01,03   CBL RE-1 A3K40 50.I,true,R1,1197125,_a99bba09-d070-49af-8996-efffe7a5d568,ShuntCompensator
+_c691b424-c86a-422f-844d-6d6d0177f7c3,RE-02,03   CBL RE-2 A3K50 50.I,true,R2,1197127,_a99bba09-d070-49af-8996-efffe7a5d568,ShuntCompensator
+_a1a5e5ff-2a7e-4be8-b8a3-9f7dd3d042ff,RE-03,03   CBL RE-3 A3K60 50.I,true,R3,1197129,_a99bba09-d070-49af-8996-efffe7a5d568,ShuntCompensator
+_ff481d71-a15a-4b1c-bf6d-75e4279839e2,CP-01,03   CGM CP-1 75010 18.C,true,C1,1197375,_524ebda8-f6ce-479a-93d0-0f37718f824a,ShuntCompensator
+_518cc366-d294-461a-91c6-c3eb6756d2ed,RE-01,03   CRP RE-1 B1    50.I,true,R1,1199213,_93549fbb-7ec2-4113-b652-085f3ff01d38,ShuntCompensator
+_9edacb20-e249-4fcd-9859-50a77e51905d,RE-02,03   CRP RE-2 A3200 75.I,true,R2,1199215,_93549fbb-7ec2-4113-b652-085f3ff01d38,ShuntCompensator
+_33697ab8-e758-4980-b97d-f674794aeb8c,CP-01,03   DMN CP-1 55015 11.C,true,C1,1200938,_37e1604d-4b1f-42ec-8fe9-0cdc02511df9,ShuntCompensator
+_b90a2dbb-0d0a-4fa8-8d68-178b52bf17c8,CP-02,03   DMN CP-2 55025 11.C,true,C2,1200940,_37e1604d-4b1f-42ec-8fe9-0cdc02511df9,ShuntCompensator
+_6d0bbc20-403d-49a5-8a38-13712dca0ed2,CP-03,03   DMN CP-3 55035 11.C,true,C3,1200942,_37e1604d-4b1f-42ec-8fe9-0cdc02511df9,ShuntCompensator
+_7a6ffe70-5635-45a8-91cf-5477dc3e169a,CP-04,03   DMN CP-4 55045 11.C,true,C4,1200944,_37e1604d-4b1f-42ec-8fe9-0cdc02511df9,ShuntCompensator
+_02c18a58-5199-4fef-879f-7e8553494d02,CP-05,03   DMN CP-5 55055 11.C,true,C5,1200946,_37e1604d-4b1f-42ec-8fe9-0cdc02511df9,ShuntCompensator
+_1800a460-720e-4037-860e-2bb36d3fd401,CP-06,03   DMN CP-6 55065 11.C,true,C6,1200948,_37e1604d-4b1f-42ec-8fe9-0cdc02511df9,ShuntCompensator
+_1fa9258f-6efa-493e-b33f-bfce7eb77e95,RE-01,03   DMN RE-1 54015 10.I,true,R1,1200950,_37e1604d-4b1f-42ec-8fe9-0cdc02511df9,ShuntCompensator
+_1d801bda-a329-46e6-a3f9-cf12cbf6e1e2,RE-02,03   DMN RE-2 54025 10.I,true,R2,1200952,_37e1604d-4b1f-42ec-8fe9-0cdc02511df9,ShuntCompensator
+_ab87dd8a-61e2-48f7-8430-52c733c4255e,RE-01,03   EPS RE-1 A3400 100I,true,R1,1202472,_3335e040-1cf8-4892-95bd-7f1920b2da21,ShuntCompensator
+_695a01f5-7389-43c3-9f90-28a43e2991d4,RE-02,03   EPS RE-2 A3900 100I,true,R2,1202474,_3335e040-1cf8-4892-95bd-7f1920b2da21,ShuntCompensator
+_7c8c929c-968d-49e3-b71d-d16b3a468582,CP-01,03   EPT CP-1 55015 10.C,true,C1,1203105,_6a0c2c1b-1459-43b9-b971-3b6ff7d31700,ShuntCompensator
+_99139846-790a-4b36-ba7c-34027b707a07,CP-02,03   EPT CP-2 55025 10.C,true,C2,1203107,_6a0c2c1b-1459-43b9-b971-3b6ff7d31700,ShuntCompensator
+_8d3d0b80-3647-41e2-b6c3-6fbd481b9595,CP-03,03   EPT CP-3 55035 5.C,true,C3,1203109,_6a0c2c1b-1459-43b9-b971-3b6ff7d31700,ShuntCompensator
+_08a04c5d-305e-4328-bfdd-52606831350f,CP-04,03   EPT CP-4 55045 1.2C,true,C4,1203111,_6a0c2c1b-1459-43b9-b971-3b6ff7d31700,ShuntCompensator
+_17d7aad6-4ac7-4699-bb3e-180c679607e9,RE-01,03   FOJ RE-1 54015 1.8I,true,R1,1203999,_c30a63d8-a9ae-45fb-bcc9-952ebcc092c4,ShuntCompensator
+_18e84216-72b8-4757-a17b-2c823d8027e7,CP-01,03   GDU CP-1 65010 18.C,true,C1,1204736,_b6ab4ba4-7176-48d0-a924-9e95d796e1a1,ShuntCompensator
+_47c264d6-995a-47ef-a879-a8ae93d2f094,CP-01,03   GJR CP-1 55015 10.C,true,C1,1205252,_d13381d4-e869-456f-8827-e4f2d5c39e69,ShuntCompensator
+_23e19569-d44b-4a5d-b6a8-59c2f0cac42a,CP-01,03   GUD CP-1 65010 24.C,true,C1,1205511,_2fe33010-34e7-4e29-9203-e5e295dcd0b2,ShuntCompensator
+_f4bbb7b3-e0a6-4993-8032-406688138237,CP-11,03   HEI CP-1 55110  9.C,true,C1,1207307,_c7f941c9-90e9-47c2-8ad9-185797b30197,ShuntCompensator
+_b5f56487-37e9-4ec8-b998-e63f567ea13c,CP-12,03   HEI CP-1 55120  9.C,true,C1,1207309,_c7f941c9-90e9-47c2-8ad9-185797b30197,ShuntCompensator
+_c3f7fe5e-428c-4305-af92-6745c5315787,CP-21,03   HEI CP-2 55210  9.C,true,C2,1207311,_c7f941c9-90e9-47c2-8ad9-185797b30197,ShuntCompensator
+_6e3a170c-d687-4355-bad5-d9d338922731,CP-22,03   HEI CP-2 55220  9.C,true,C2,1207313,_c7f941c9-90e9-47c2-8ad9-185797b30197,ShuntCompensator
+_b515008f-24ca-4cf4-a244-10fe3efe6e4a,RE-01,03   KDA RE-1 B1   150.I,true,R1,1208756,_77f36555-a32a-4090-af76-56b21df50adc,ShuntCompensator
+_d99e9d20-4458-4e73-94a5-2219a4c8f6be,RE-02,03   KDA RE-2 A3J30 50.I,true,R2,1208758,_77f36555-a32a-4090-af76-56b21df50adc,ShuntCompensator
+_25cab0d1-3b0e-4423-8296-968dacc0a4bb,RE-01,03   LYE RE-1 A3N10 50.I,true,R1,1209842,_f1a4d5fc-357d-4bd8-8e55-789476432645,ShuntCompensator
+_6fe2f583-e7cc-437a-828c-dd0d6a1aa82d,RE-02,03   LYE RE-2 A3N00 50.I,true,R2,1209844,_f1a4d5fc-357d-4bd8-8e55-789476432645,ShuntCompensator
+_7fa28355-ad7f-4fd1-ba17-b37b76bce167,RE-01,03   MFP RE-1 A3M80 75.I,true,R1,1211869,_3cd727f1-8953-45d8-b394-e339f640f11e,ShuntCompensator
+_01eb7555-b77c-4619-949c-2dd2b302531d,RE-01,03   MPM RE-1 A4010 50.I,true,R1,1213693,_4f8c19ec-5da4-44c6-a37b-1e258661dc4c,ShuntCompensator
+_3a9a69ba-fdbe-45b2-9b30-148f2e4848e1,RE-01,03   MTA RE-1 A3190 75.I,true,R1,1214038,_d55d9783-b144-4973-b9e9-8fccd36f726e,ShuntCompensator
+_e1066746-6b58-4745-9b3a-1841db98398c,CP-01,03   NVT CP-1 75010 15.I,true,C1,1215369,_236e19fe-15a1-4e47-beea-17729702208f,ShuntCompensator
+_f85d09b6-a4af-4f93-99b0-1993740c27cd,CP-01,03   PEB CP-1 55010  5.C,true,C1,1216150,_b1fde2a9-7fdf-4ba5-8bf5-cd7e6bd23b3f,ShuntCompensator
+_8c5cdab0-08e5-4fb9-8037-7cc1eb439f45,CP-02,03   PEB CP-2 55020 10.C,true,C2,1216152,_b1fde2a9-7fdf-4ba5-8bf5-cd7e6bd23b3f,ShuntCompensator
+_ff958d73-1ed0-401b-8916-c3a9c2d26851,CP-03,03   PEB CP-3 55030 10.C,true,C3,1216154,_b1fde2a9-7fdf-4ba5-8bf5-cd7e6bd23b3f,ShuntCompensator
+_4da1b6d3-4f27-45d2-bcba-95a70455a569,CP-04,03   PEB CP-4 55040 10.C,true,C4,1216156,_b1fde2a9-7fdf-4ba5-8bf5-cd7e6bd23b3f,ShuntCompensator
+_dab21799-4008-402d-9504-708d5931cfdc,CP-05,03   PEB CP-5 55050 10.C,true,C5,1216158,_b1fde2a9-7fdf-4ba5-8bf5-cd7e6bd23b3f,ShuntCompensator
+_c0893f2d-c8fe-48ab-9e72-680274402a26,CP-06,03   PEB CP-6 55060 10.C,true,C6,1216160,_b1fde2a9-7fdf-4ba5-8bf5-cd7e6bd23b3f,ShuntCompensator
+_139a3d78-0d1d-4069-ab1f-8b4e08b6c101,RE-01,03   PMY RE-1 A3J70 75.I,true,R1,1217426,_f35e61b8-cfb7-4515-9e47-6dde8130e6d3,ShuntCompensator
+_0c4d434b-bf08-451e-bfad-4bfe7ded97ea,RE-03,03   PMY RE-3 B1   150.I,true,R3,1217430,_f35e61b8-cfb7-4515-9e47-6dde8130e6d3,ShuntCompensator
+_9ff5574b-6e54-46b9-8e63-c49a28771520,RE-01,03   POS RE-1 A3M00 50.I,true,R1,1217762,_99c3d17e-af75-406e-b798-e3aedaf4038e,ShuntCompensator
+_97b010e0-2f11-4219-902d-70c962df82bc,RE-02,03   POS RE-2 A3M10 50.I,true,R2,1217764,_99c3d17e-af75-406e-b798-e3aedaf4038e,ShuntCompensator
+_914f66df-6118-4416-84c9-cdca0d2b83f4,RE-01,03   SMD RE-1 A3J80 62.C,true,R1,1224874,_589b087e-cc52-4368-ab94-880b15597141,ShuntCompensator
+_6e2fe193-03dd-498d-9cfa-7291f8cdb6c5,CP-01,03   SOO CP-1 55010 10.C,true,C1,1225629,_a19be484-ddbc-4c4e-b774-18da563bcb95,ShuntCompensator
+_639fef76-2db5-48c6-8107-ac2ce721b143,CP-02,03   SOO CP-2 55020 10.C,true,C2,1225631,_a19be484-ddbc-4c4e-b774-18da563bcb95,ShuntCompensator
+_e34f58cf-baf2-4d9e-a110-78ebea544896,CP-01,03   SOU CP-1 55010 9.C,true,C1,1225845,_a6a12fb0-f244-4238-b90c-69bb7112ac6e,ShuntCompensator
+_3e3607f0-5cb5-4a07-9b76-0a2e18487727,CP-02,03   SOU CP-2 55020 9.C,true,C2,1225847,_a6a12fb0-f244-4238-b90c-69bb7112ac6e,ShuntCompensator
+_9c8ffc22-57ce-4088-9948-fe26fcfca6a5,CP-03,03   SOU CP-3 55030 9.C,true,C3,1225849,_a6a12fb0-f244-4238-b90c-69bb7112ac6e,ShuntCompensator
+_738c7748-192a-4539-a2b7-953def6f89cd,RE-03,03   TED RE-3    B1 100I,true,R3,1227727,_4fb15506-d604-4757-8d6f-dc688cad5a3e,ShuntCompensator
+_7e87c144-d329-4b1d-9694-bb2083df61c4,RE-04,03   TED RE-4 A3600 50.I,true,R4,1227729,_4fb15506-d604-4757-8d6f-dc688cad5a3e,ShuntCompensator
+_0c4a7469-0daf-4453-acd4-20b4331b400c,CP-01,03   TRZ CP-1 55015  7.C,true,C1,1229402,_599c5720-4178-44cc-9550-20f9797afc58,ShuntCompensator
+_818955dd-a19c-45e7-925c-3f8595ab2d2a,CP-02,03   TRZ CP-2 55025  7.C,true,C2,1229404,_599c5720-4178-44cc-9550-20f9797afc58,ShuntCompensator
+_1fed233e-122f-4413-8800-f4b642fe4cff,CP-01,03   TSN CP-1 65010 18.I,true,C1,1229772,_1d194ed3-4d44-4455-bab7-564a692bc85b,ShuntCompensator
+_70f22e10-2299-4159-a4df-24f9618a9d5b,CP-11,03   TUE CP-1 55110  9.C,true,C1,1230594,_58b1e44f-8662-4271-b3de-21390029e247,ShuntCompensator
+_f91f7439-9c89-4e37-bec6-b85a1d56a309,CP-12,03   TUE CP-1 55120  9.C,true,C1,1230596,_58b1e44f-8662-4271-b3de-21390029e247,ShuntCompensator
+_d019a47c-2759-4a64-b4db-f787577daf77,CP-21,03   TUE CP-2 55210  9.C,true,C2,1230598,_58b1e44f-8662-4271-b3de-21390029e247,ShuntCompensator
+_7d51f0cc-83b9-4162-b2e0-47071e0ba9ae,CP-22,03   TUE CP-2 55220  9.C,true,C2,1230600,_58b1e44f-8662-4271-b3de-21390029e247,ShuntCompensator
+_bf18b884-87f5-4c66-a3aa-7a764ed31fd3,CP-01,03   VIB CP-1 55015 7.3C,true,C1,1232379,_c08b8243-3041-40eb-82be-4bf830aa88d6,ShuntCompensator
+_c8a27877-85d8-4e08-a55d-f2749697613c,CP-01,03   VQE CP-1 55010 6.C,true,C1,1232609,_eaba2975-f23b-4bbb-911b-89f850b0ceae,ShuntCompensator
+_3514c70e-6889-487f-ace4-8aa95d5e73ea,CP-02,03   VQE CP-2 55020 6.C,true,C2,1232611,_eaba2975-f23b-4bbb-911b-89f850b0ceae,ShuntCompensator
+_b4c554fe-e477-45d8-bbed-6a2fd861486a,CP-03,03   VQE CP-3 55030 5.5C,true,C3,1232613,_eaba2975-f23b-4bbb-911b-89f850b0ceae,ShuntCompensator
+_5e904443-0a95-4e36-bc11-beea6581d6f9,RE-04,03   VQE RE-4 54010 2.I,true,R4,1232615,_eaba2975-f23b-4bbb-911b-89f850b0ceae,ShuntCompensator
+_7ad177cc-ba1e-4d10-94e1-bcadc574e040,CP-01,03   VTP CP-1 75010 15.I,true,C1,1233211,_09296476-2b69-418f-9130-4a7f1f699674,ShuntCompensator
+_09a5c249-1948-490a-b2ae-07cf2148a467,CP-01,03   ZRP CP-1 B1    030I,true,C1,1234924,_4120dd81-7c26-44fc-a591-d2d2d83be311,ShuntCompensator
+_25fb44d9-0e9b-4a17-9759-3e38f2ec755d,CP-01,03CNTAGN CP-1 75010 36.I,true,C1,1235478,_3c422f23-dc98-4848-9cc6-f4a282dbf441,ShuntCompensator
+_b9b34982-3d45-475e-8dc6-2b569853ef39,CP-01,03CNTCAL CP-1 75010 30.I,true,C1,1240415,_f83b021e-3953-41f9-b52d-e56434275264,ShuntCompensator
+_fffae29b-62ee-424b-bc16-923ebefbc59b,RE-01,03CNTCAL RE-1 44010 25.I,true,R1,1240417,_f83b021e-3953-41f9-b52d-e56434275264,ShuntCompensator
+_8f3cb827-fb4a-4b05-885f-0642c8a65be1,CP-01,03CNTFAJ CP-1 75010 10.C,true,C1,1244051,_40029a03-c49a-4386-8722-e0e1d0c64067,ShuntCompensator
+_c7bbabf4-c232-4bc1-bac9-f0051e275e69,CP-01,03CNTFSO CP-1 75010 30.C,true,C1,1245080,_ed2605f3-a038-45d0-a1fa-8e0169c130fa,ShuntCompensator
+_923ff036-7609-4481-a76e-a8d07da23cf4,CP-01,03CNTGDL CP-1 75010 06.I,true,C1,1245439,_d9d072fc-ff0f-4aac-991b-eafba0dcd29a,ShuntCompensator
+_59e24518-f37b-4d03-ada3-c6fab1b95647,CP-01,03CNTGPE CP-1 75010 18.I,true,C1,1245763,_9af1de57-14a5-4dc2-b65d-5e531af32ff3,ShuntCompensator
+_3a5a470f-6965-4717-9ade-85f2aced360b,CP-01,03CNTHDZ CP-1 75010 15.C,true,C1,1246154,_d31ae867-cea5-465e-8948-850a2644ba37,ShuntCompensator
+_444a118e-74b9-4cac-a672-b0ac16a09761,CP-01,03CNTJRZ CP-1 75010 07.I,true,C1,1247605,_63d44d72-38f2-49ce-8479-bf438f313a35,ShuntCompensator
+_6124f9d6-f21b-4be0-a713-22714b3240a7,CP-01,03CNTLOG CP-1 45010 1.8C,true,C1,1248522,_67faa75a-953c-4dcc-b96b-6c53b4f6341a,ShuntCompensator
+_0fbd7f50-c1bb-4312-a402-1d1b942bce7d,CP-02,03CNTLOG CP-2 45020 1.2C,true,C2,1248524,_67faa75a-953c-4dcc-b96b-6c53b4f6341a,ShuntCompensator
+_a274f2ee-b1c1-482b-9383-49aea2c93fb2,CP-01,03CNTMHS CP-1 75010 15.I,true,C1,1250660,_84823ae8-e537-4b4f-99a6-d63068f861e7,ShuntCompensator
+_a26fa602-c735-4a8b-bb41-c31e13b7f13a,CP-01,03QROMRS CP-1 75010 15.C,true,C1,1252011,_ef68d767-fb97-4b29-9ada-d037cfc93b89,ShuntCompensator
+_039356c0-5dff-466c-8126-eeb49dc097fb,CP-01,03CNTSLD CP-1 75010 30.I,true,C1,1258625,_93e7d962-78b5-4f6b-aad8-db1b906df7a4,ShuntCompensator
+_0782b253-3fd9-4027-a7a4-c43c2e6e65f3,CP-01,03CNTSLO CP-1 75010 30.I,true,C1,1259235,_14f2f430-4134-4565-aec1-01390e5f12b6,ShuntCompensator
+_b51715c0-6450-4b1c-ba45-59a8012df656,CP-01,03CNTSLW CP-1 75010 30.I,true,C1,1259542,_b2f4287b-3c12-4311-b18c-95e6b140bb06,ShuntCompensator
+_c6c7ebdf-bccb-4793-8327-56c228bc96e5,CP-01,03CNTTLO CP-1 75010 5.I,true,C1,1262526,_90b207f8-cd4a-437d-bf6b-67a443daa677,ShuntCompensator
+_9b4a2796-30f7-4745-8acd-3ed552ad2a49,CP-01,03CNTVAR CP-1 75010 04.I,true,C1,1263229,_594f1ac2-cf26-4733-9b10-1c0156b38946,ShuntCompensator
+_3cc4a14d-a82f-4148-a1bf-ee28ffdab354,CP-01,03CNTVHO CP-1 75010 10.C,true,C1,1263676,_76f4c355-d17e-4115-8f49-55e7ff938dcd,ShuntCompensator
+_6fe41edd-da3c-4e98-ae30-9fe912a37cea,CP-01,03COCATO CP-1 75010 07.C,true,C1,1267869,_3127f0dd-66f7-4843-a549-14fac39217f5,ShuntCompensator
+_90eda013-d16c-42a3-b382-49cefdee4563,CP-01,03COCESO CP-1 75010 4.I,true,C1,1274318,_9abc7f38-c5a6-4df1-b4eb-96ea1d96adb5,ShuntCompensator
+_035e34b8-9a6f-41de-b4fc-09663f2bf52d,CP-01,03COCLAG CP-1 75010 09.I,true,C1,1276752,_d3b94290-954f-452f-b670-c4810382e414,ShuntCompensator
+_d5ac6b78-ed76-40e6-8051-af10a265619f,CP-01,03COCMTC CP-1 75010 15.C,true,C1,1279923,_d6b83c69-47c0-4c18-812b-39162e2f5022,ShuntCompensator
+_6872b9d5-72d6-404d-8d78-575a236d4b83,CP-01,03COCPIZ CP-1 75010 9.C,true,C1,1281524,_4c724ea1-98b0-490d-aa71-875fb25252fe,ShuntCompensator
+_1789578b-72aa-4c03-84e9-527545164c8d,CP-01,03COCPUU CP-1 65010 8.C,true,C1,1282473,_f312eba3-ac2b-45b6-9142-18736e9f0129,ShuntCompensator
+_c8ca5dc0-edd4-4310-9ef9-b9c4710f118d,CP-01,03COCSTG CP-1 75010 15.I,true,C1,1283708,_f8b84f81-dc6c-402a-a899-eabadb946b4d,ShuntCompensator
+_60138fbb-990d-4dac-9499-e642fc93d1f8,CP-01,03COCTEC CP-1 75010 15.I,true,C1,1285043,_cefab600-aa3e-48a4-ab1a-ba008290e352,ShuntCompensator
+_ab4bc9d1-c185-4a34-9960-ae57a98340b0,CP-01,03COCVIH CP-1 75010 07.C,true,C1,1287681,_8fa7557e-2109-42b2-b032-8813c20470aa,ShuntCompensator
+_82649a2e-7862-4372-a323-85ce8269b216,CP-01,03COCYUR CP-1 75010 9.I,true,C1,1288174,_021ec375-4b44-4557-a484-5484e0dc6437,ShuntCompensator
+_80b557fd-d15a-4f51-9f2e-d719d5ac9067,CP-01,03GTOABA CP-1 75010 30.I,true,C1,1290168,_6bd5a791-8b44-4e8b-b7f1-875ecd9998f8,ShuntCompensator
+_e5c1830d-86ba-4cb0-a4ab-4ce871df2d82,CP-01,03GTOABS CP-1 75010 30.C,true,C1,1290354,_198fdd10-f292-452d-9c0b-3637959f3657,ShuntCompensator
+_5b40a901-1921-43fb-8231-499f24a479a9,CP-01,03GTOAPI CP-1 75010 30.C,true,C1,1290914,_c87b1071-caaa-4d24-afa3-1c49788c20ac,ShuntCompensator
+_4fcda0ec-9deb-400c-89bb-b326c40fa0ca,CP-01,03GTOAPS CP-1 75010 10.I,true,C1,1291401,_005ef163-0742-4fc8-b9d7-b4a8d6b1fe56,ShuntCompensator
+_e1d4433b-8158-4526-918c-31b7c0dddb0e,CP-01,03GTOAQM CP-1 75010 22.I,true,C1,1291710,_adb6d0a9-2ed2-47d6-820d-c04faad6f1f7,ShuntCompensator
+_6fc54c1a-b95e-4dc3-9819-c5f91600bbed,CP-01,03GTOCAE CP-1 75010 30.I,true,C1,1293005,_bd050478-c8f9-4550-8ab4-7b0a2096da6a,ShuntCompensator
+_cecd40f7-a850-4da8-b079-c6463296383f,CP-01,03GTOCYA CP-1 75010 30.C,true,C1,1295541,_ce81d0f6-2a0f-46c5-bb87-30b3a912ed7c,ShuntCompensator
+_178e2e7e-92aa-4caa-bd4e-3468d2c06694,CP-01,03GTOIGC CP-1 75010 30.I,true,C1,1300345,_b1218aaa-94a5-4122-b1ab-598676e6640b,ShuntCompensator
+_316b4fcf-4752-4b2b-8f18-75d597798760,CP-01,03GTOIRA CP-1 75010 30.C,true,C1,1301046,_aef0d948-a83e-42c0-8d0d-55fdf9215bf4,ShuntCompensator
+_2ba2e693-c9d7-4d39-aeb1-c3ced712a439,CP-01,03GTOIRP CP-1 75010 30.I,true,C1,1301676,_92c8ed3d-df67-41f2-a672-193761d195c8,ShuntCompensator
+_839c6aef-dbdf-4ec3-8326-a72b2c30253e,CP-01,03GTOLNO CP-1 75010 21.I,true,C1,1305319,_411b89d0-ca21-49fb-b65e-c0e7a4511f6e,ShuntCompensator
+_8d2d29d3-c240-465b-a3f3-30b61df7eba0,CP-01,03GTOLNU CP-1 75010 30.I,true,C1,1306364,_b691e4dc-ce8e-4f47-ac4c-85397708c370,ShuntCompensator
+_78d88939-15e6-418a-be9c-f354c5f956c1,CP-01,03GTOLVR CP-1 75010 15.I,true,C1,1307438,_fdec849d-cc45-4eb2-a6a8-b73321972f56,ShuntCompensator
+_bc165a2f-98ed-48b2-b8ba-9549df236c93,CP-01,03GTOMLO CP-1 75010 16.I,true,C1,1309035,_9e4718b5-7906-48c1-b488-64284fac1449,ShuntCompensator
+_0b2b5540-f976-4035-9b3b-b4fdd1322d26,CP-01,03GTOMRC CP-1 75010 15.I,true,C1,1310202,_89ff96b4-c224-4a52-bb13-16b27fa29d22,ShuntCompensator
+_af11083a-d4d5-47d8-820a-8f3c69047e09,CP-01,03GTORPI CP-1 55010 1.8C,true,C1,1312476,_001e44b8-a9f7-4f83-94a4-7f7f2f1d67ca,ShuntCompensator
+_36ea4ba4-6687-42d3-b8bc-e58d69d0b3f8,CP-01,03GTOSIL CP-1 75010 22.I,true,C1,1314505,_a0a5a2ab-49a8-4471-8c16-ffd4e5159c8a,ShuntCompensator
+_f81877fc-c7fa-42d6-a740-9a208060432f,CP-03,03GTOSIL CP-1 45010 1.2C,true,C3,1314555,_bc05e8ab-cdad-4cac-b243-8e072573f914,ShuntCompensator
+_ee2269e8-c2ac-49da-b849-5fd0bda65c3d,CP-02,03GTOSIL CP-2 45020 1.2C,true,C2,1314557,_bc05e8ab-cdad-4cac-b243-8e072573f914,ShuntCompensator
+_c4c28b7a-497d-4ff9-9626-0cb7771cfb02,CP-01,03GTOSIP CP-1 75010 30.I,true,C1,1315649,_8a1ad904-d72e-4306-a4fd-6750cf624bed,ShuntCompensator
+_2994d923-7325-4860-9c1e-720e6ffd4044,CP-01,03GTOSMS CP-1 75010 10.C,true,C1,1316116,_2fb650df-c3b2-43ae-9e54-8c1fcc164afa,ShuntCompensator
+_aebe79e7-d48c-48e6-9951-02d4d0176737,CP-01,03GTOTOO CP-1 75010 15.I,true,C1,1317494,_53693495-aa47-4ab1-9551-ee03c564f607,ShuntCompensator
+_7073acdd-b9b8-40a7-a676-7d5604db1c60,CP-01,03JNYACP CP-1 75010 5.C,true,C1,1319674,_e275e06f-e7cd-43e1-b7fb-90d45b521394,ShuntCompensator
+_84e41644-76c1-46a1-8134-92d422c4e459,CP-01,03JNYCTA CP-1 55010 1.2C,true,C1,1325789,_409b651e-517b-4de7-8ffc-ef89f68af333,ShuntCompensator
+_d40bc317-cab2-4da2-8cf6-872da8e01714,CP-01,03JNYEXP CP-1 65010 13.C,true,C1,1328394,_39585dcd-b475-48d9-818a-e069cba85d0b,ShuntCompensator
+_c2c23ac5-97b7-4998-8c54-d3c47a796b8c,CP-01,03JNYGRU CP-1 75010 4.C,true,C1,1329742,_4a675b22-bc65-4931-a3bc-6116c3d44940,ShuntCompensator
+_323c0efc-0293-4fe6-bf4f-8166bd102b2a,CP-01,03JNYGYS CP-1 75010 4.C,true,C1,1330080,_55cdf946-6029-446c-805d-b5747895ce0e,ShuntCompensator
+_1c76fc29-9623-4736-8296-f36f26c2b581,CP-01,03JNYHIG CP-1 65010 24.C,true,C1,1330274,_cddb6ad0-af2b-443c-8395-18b35a99d2d9,ShuntCompensator
+_4bee9ba2-e4f6-4c10-8c4e-d2de9daa4880,CP-01,03JNYJDL CP-1 75010 14.C,true,C1,1332306,_90b83448-11f8-409d-9ac0-6ee05f4fb5bf,ShuntCompensator
+_0594d66a-b99e-4ab9-8f27-42efe76e5d6d,CP-01,03   MLE CP-1 75010 13.C,true,C1,1334956,_15f2d8f9-91f5-42ed-a420-cf0de1b9e03b,ShuntCompensator
+_173a3050-a430-4b2a-9049-05c580b7ac94,CP-01,03JNYMOJ CP-1 65010 8.C,true,C1,1335397,_e145b702-ff0c-4ff1-94ca-91cf4689d832,ShuntCompensator
+_b10f855b-2927-4fbb-96f4-cbca4e6d007b,CP-01,03JNYNGT CP-1 75010 15.C,true,C1,1336615,_af7436c1-c2a8-47fd-8f1a-9dfce50f4355,ShuntCompensator
+_e3573490-7899-43a8-8c1b-f8d96ebec4e2,CP-01,03JNYPEN CP-1 75010 07.C,true,C1,1337592,_11fc8dea-a219-4fbf-b2cf-e6ac2334a4c0,ShuntCompensator
+_e9ce7df3-51c5-4cb0-a7a6-f58019e5465f,CP-01,03JNYPNL CP-1 65010 12.C,true,C1,1338257,_de4cee5c-ca74-4474-a086-48ca08eb9e0a,ShuntCompensator
+_cb68a2ca-2df2-4234-853c-0250d1d4f0ab,CP-01,03JNYSLY CP-1 75010  8.I,true,C1,1343425,_2a651b8a-758d-4d38-930a-04add3e48d14,ShuntCompensator
+_3bad5f4d-0371-4765-8c8d-ba6417fe5c9f,CP-01,03JNYTLA CP-1 65010 8.C,true,C1,1347811,_92bb3936-539f-409d-b9fe-b18cbaa1b12f,ShuntCompensator
+_b78d75a2-be7a-4a80-8e94-065f2dfe3082,CP-01,03JNYTPT CP-1 75020 18.C,true,C1,1348708,_bc45e50b-1f1d-4910-bd77-172e6ee81f18,ShuntCompensator
+_5f6ec2c2-19e8-430a-9473-1c34af81a53e,CP-01,03JNYTQA CP-1 75010 07.C,true,C1,1349020,_273803b1-bc92-40ca-b5e4-5573a9d9a484,ShuntCompensator
+_861c3f23-9b7e-4163-a6aa-9a1031fe6aec,CP-01,03JNYZQP CP-1 65010 5.C,true,C1,1352114,_99f60d72-d53e-42e5-a7d2-8d473986fbce,ShuntCompensator
+_23f9ad41-afaf-4976-9ed4-47e4127f0b02,CP-01,03QROBVN CP-1 75010 18.C,true,C1,1354772,_b5568e57-bc63-4ce7-a99d-f2e4c501e858,ShuntCompensator
+_ff358a47-20a1-4b19-824b-39f27c5a5162,CP-01,03QROEZM CP-1 75010 18.C,true,C1,1356936,_2ae125d8-f4e5-466d-a59b-b54dbb61c0b2,ShuntCompensator
+_9198a4c8-77cd-42a0-bd8e-037405d43ded,CP-01,03QROQMR CP-1 75010 30.C,true,C1,1363469,_b9b123ea-71b3-444b-9815-736170240d7a,ShuntCompensator
+_0b66262d-ff85-4c08-9c0d-2cc4e3f0ff54,CP-01,03QROQPE CP-1 75010 30.C,true,C1,1363646,_18da68dd-13bc-436e-a53c-670e691e39ff,ShuntCompensator
+_60886d8d-823c-445a-b4de-4b9b065beeac,RE-01,03QROQRP RE-1 A3020 50.I,true,R1,1365661,_d236780c-9e66-4d9f-9126-b5ff60c44111,ShuntCompensator
+_5a0a3893-ae6e-41ee-b4f2-986e7f3c27f1,CP-01,03QROSJI CP-1 75010 25.I,true,C1,1369445,_db35636d-3a10-42b6-9571-1e417d07e492,ShuntCompensator
+_b05f45c7-a301-44c4-842d-9284f82c16e4,CP-01,03QROSJP CP-1 75010 30.C,true,C1,1370402,_98ec57d1-4d73-49c7-8e98-1c2147127e7a,ShuntCompensator
+_a2450038-a662-4ec9-a8a3-83ffeed84aaa,CP-01,03QROSJR CP-1 75010 20.C,true,C1,1370589,_a4d97386-82de-40dc-92f4-f56d8b38d6ff,ShuntCompensator
+_9e33997d-df77-4031-bdee-5ac742513020,CP-01,03QROZBT CP-1 75010 22.C,true,C1,1373952,_7d234ba1-b1fd-4255-851a-e3bc514baa3e,ShuntCompensator
+_15147787-b65c-42f4-bf2a-6526f915bf17,CP-01,04OBRVGU CP-1 B1,true,C1,1374962,_976cfec0-b266-4cd0-95b7-f57e03ab9921,ShuntCompensator
+_df59b433-c03e-4417-bf83-94985c779970,CP-02,04OBRVGU CP-2 B1,true,C2,1374964,_976cfec0-b266-4cd0-95b7-f57e03ab9921,ShuntCompensator
+_e626c689-96a9-497b-9c72-d5a7ef0c453c,CP-01,04OBRRUC CP-1 B1       I,true,C1,1376343,_a1077728-a56c-4175-bcbd-e3993dccaa52,ShuntCompensator
+_0af2d9f3-bd0f-4f25-8041-a78e4bed483e,CP-01,04OBRPRG CP-1 B1,true,C1,1376667,_1fb9a08a-34cc-408b-8312-50e38e3e1e09,ShuntCompensator
+_4767864c-3abe-4e3f-9068-9d864e8e5bb2,CP-01,04OBROBU CP-1 B1       I,true,C1,1376830,_ab7f17e7-bbe6-403f-a751-06a73696adf2,ShuntCompensator
+_13ed8356-ce84-47bf-86ef-eb9859c63978,CP-01,04OBRNVO CP-1 B1,true,C1,1377224,_a64ce4a2-00c8-459d-824d-5b6e1125d339,ShuntCompensator
+_fc1e8874-b603-4e5a-918e-8b93909e7863,CP-01,04OBRNVN CP-1 B1       I,true,C1,1377376,_f01a4bd7-e3e2-4e4b-9727-2b89bca9036e,ShuntCompensator
+_3323b9d6-a022-46ae-91e9-93d1b3e3f0e0,CP-01,04OBRNVJ CP-1 B1       I,true,C1,1377546,_f8dfbbb9-2aba-4410-bf65-f30e5c37b746,ShuntCompensator
+_a394ce12-d59c-4df3-a92a-3cc66deeb765,CP-01,04OBRNNRCP-1 B1,true,C1,1378129,_0d1a7f13-c5ae-43d2-bce5-4d4fffef7197,ShuntCompensator
+_cf32e0fb-506e-42f3-9be2-026fffe63125,CP-01,04OBRLMU CP-1 B1       I,true,C1,1379103,_ca66bb7b-d655-4b8c-9491-a1dfd951ab20,ShuntCompensator
+_27a9fd42-9777-4dce-9863-c876b1182276,CP-01,04OBRLMT CP-1 B1       I,true,C1,1379509,_a51be224-5724-4c3d-bc13-62e0d137ebab,ShuntCompensator
+_c4b89ff9-60fc-41aa-9209-1a73eeb97cb5,CP-01,04HMOTCG CP-1 B1,true,C1,1384389,_d29cb0e2-8754-4fc7-8d3f-7d55146649ab,ShuntCompensator
+_f1aae333-ec4d-4f45-bf90-d5eef1556a7e,CP-01,04HMOSPP CP-1 B1       I,true,C1,1384837,_b9e6223b-138e-4325-9921-4e4d720b81f8,ShuntCompensator
+_e3dc0d5a-63f8-4eb9-b64a-cc53ccec54a0,CP-01,04HMOSNY CP-1 B1       I,true,C1,1384990,_2b4ee86a-b4b9-4716-8c56-f44b4c1f5ff8,ShuntCompensator
+_5e7cd366-291a-42ec-bb4d-70542027be95,CP-01,04HMOSCL CP-1 B1       I,true,C1,1385548,_3b71e4f0-6fcc-4510-92b2-47ef0ec1cf5a,ShuntCompensator
+_ec7aade5-4251-490f-9cc9-af34bc321cbb,CP-01,04HMOSBT CP-1 B1       I,true,C1,1386090,_af3c7d1d-cb67-4773-a599-6f2788dc5e2d,ShuntCompensator
+_11698639-7a36-4ae3-8443-b8c8f1663c82,CP-01,04HMOSBC CP-1 B1       I,true,C1,1387201,_4d593e8d-8c10-4d16-a9ab-875b66f30f50,ShuntCompensator
+_1dc25734-6150-4b88-9a76-0a66e64bb554,CP-01,04HMOPTS CP-1 B1       I,true,C1,1388077,_473a4ac4-7863-4135-8a0a-ccd735664122,ShuntCompensator
+_6db370da-7674-4680-9df0-0141d203f7e3,CP-01,04HMOPPA CP-1 B1       I,true,C1,1388247,_a8733bc6-51ef-40b1-9691-89f50a664133,ShuntCompensator
+_3ba609a8-babf-4059-ae05-8f381a4327df,CP-02,04HMOPPA CP-2 B1       I,true,C2,1388249,_a8733bc6-51ef-40b1-9691-89f50a664133,ShuntCompensator
+_04ef7e09-4c3c-4e45-b5a7-93a397e2bd09,CP-01,04   NGS CP-1 B1       I,true,C1,1389858,_839f24d8-e5c0-4126-9828-b6142491d2e3,ShuntCompensator
+_7394c30a-a718-40cb-be9d-7dd20bff4dbf,CP-01,04   NGN CP-1 B1       I,true,C1,1390134,_6aaf7a80-970e-40c5-8ab8-75be5ce72050,ShuntCompensator
+_82a428d4-685e-4bca-8de3-82b2186f0e91,CP-01,04HMOMFN CP-1 B1       I,true,C1,1390490,_b9151e67-3751-402c-9fd5-f9e66330201d,ShuntCompensator
+_9a9806ad-3262-4525-aca7-d18273962447,CP-01,04HMOLLB CP-1 B1       I,true,C1,1390879,_336e84a6-5738-48c4-b457-57dc8cc21787,ShuntCompensator
+_ad5d70d4-be64-46b5-9e81-6b85bb3fb9cd,CP-02,04HMOLLB CP-2 B1       I,true,C2,1390881,_336e84a6-5738-48c4-b457-57dc8cc21787,ShuntCompensator
+_3fa003ca-c31e-4c15-b4ba-f2f0e609322c,CP-01,04HMOLCH CP-1 B1       I,true,C1,1391301,_acea32f1-d3e9-4f3d-ac66-9307cc27d237,ShuntCompensator
+_5de6997c-0160-47cf-8cae-214da1783c23,CP-02,04HMOLCH CP-2 B1       I,true,C2,1391303,_acea32f1-d3e9-4f3d-ac66-9307cc27d237,ShuntCompensator
+_5543ee81-58d9-4ebe-af00-e0ccfe30abcf,CP-01,04HMOHMI CP-1 B1       I,true,C1,1392133,_6442ad8f-d932-424a-87e8-86aeb7752961,ShuntCompensator
+_80583c4a-a2b3-4612-8a5b-fa8236af93cc,CP-01,04HMOHLU CP-1 B1       I,true,C1,1392565,_2ae32226-c4f9-402e-82ce-2a7cff6d2441,ShuntCompensator
+_60197b3e-08c7-4ba1-9166-225e14293ea4,CP-01,04HMOHLS CP-1 B1       I,true,C1,1392842,_d4493c4d-411c-45f2-9c0e-ef6e0c6572a3,ShuntCompensator
+_b93bb59b-59f3-4929-b4d1-088dd5e9da47,CP-01,04HMOHLN CP-1 B1       I,true,C1,1393383,_1f1541a0-df1d-4498-9a48-12f623bc8396,ShuntCompensator
+_c49775e8-f0ae-486e-bfe9-1b9c9ad91d16,CP-01,04HMOHLE CP-1 B1       I,true,C1,1393663,_041ee76b-d73d-4b45-942f-e0085424be4c,ShuntCompensator
+_4e6860be-6ad0-4e24-9123-4e2e0adad889,CP-01,04HMOHLD CP-1 B1       I,true,C1,1393945,_8445a2cd-01c1-45b9-bb08-ea27281450b4,ShuntCompensator
+_1d19deac-f47c-4ba3-936d-708bdbfa1afb,CP-01,04HMODYN CP-1 B1       I,true,C1,1394530,_181bec6d-b4c9-4cc9-9fa7-504804fb9431,ShuntCompensator
+_d70b402a-a122-4abb-b855-ab639b58ffb7,CP-02,07   APD 4520 B1    5.0I,true,C2,1395362,_21121e79-f75c-4df3-b481-0f97de557422,ShuntCompensator
+_e577c39e-dbca-48d1-99b3-cd9a6b81fdf4,CP-03,07   APD 4530 B1    1.2I,true,C3,1395364,_21121e79-f75c-4df3-b481-0f97de557422,ShuntCompensator
+_46f32b7b-693d-40ea-90e2-be63c090f6e9,CP-04,07   APD 4540 B1    2.4I,true,C4,1395366,_21121e79-f75c-4df3-b481-0f97de557422,ShuntCompensator
+_f43feda6-1cc9-489d-86d6-d3c8730aab06,CP-05,07   APD 4550 B1    2.4I,true,C5,1395368,_21121e79-f75c-4df3-b481-0f97de557422,ShuntCompensator
+_41571518-0576-4410-bc72-6e57f309bb91,CP-06,07   APD 4560 B1    2.4I,true,C6,1395370,_21121e79-f75c-4df3-b481-0f97de557422,ShuntCompensator
+_4d781839-a6ba-4f88-bdec-698c61a37154,CP-07,07   CHQ 5170      10.0I,true,C7,1397488,_73f44e9d-dd83-4784-b2bc-4523efcaa17e,ShuntCompensator
+_ef992f8e-df38-472d-a2b6-302b09650b05,CP-01,07   CHQ 5510   5.0 MVAR,true,C1,1397490,_73f44e9d-dd83-4784-b2bc-4523efcaa17e,ShuntCompensator
+_d98522cd-2a96-4979-b0c3-b33bb9c8d3bd,CP-03,07   CIP CP-75030 15.I,true,C3,1398537,_000da7b7-4ad9-4305-81b1-adef6b4d8056,ShuntCompensator
+_5197728a-335d-4421-aca7-3cdcebfb3068,CP-01,07   CIP 4510   2.4 MVAR,true,C1,1398667,_82dcfb72-d5ae-430d-bfa8-edfedd3bbf26,ShuntCompensator
+_1d4232c3-3166-4f0f-bd50-50681d109a4a,CP-02,07   CIP 4520   2.4 MVAR,true,C2,1398669,_82dcfb72-d5ae-430d-bfa8-edfedd3bbf26,ShuntCompensator
+_d1eb3548-f8a1-4b9d-9de3-4ce1f7fe6fc8,CP-01,07   CNT 4510   2.4 MVAR,true,C1,1399772,_5bcc1975-cad1-49be-ba60-42238b5d3029,ShuntCompensator
+_ab726c72-9298-4a1c-aae8-7f7258108676,CP-01,07   CNZ 4510   2.4 MVAR,true,C1,1400436,_7484a886-0621-40a1-943a-4dfb50343d7d,ShuntCompensator
+_f5c4332b-377c-42a6-830c-f50e9e86dd3e,CP-01,07   CRO 5010      10.0I,true,C1,1402252,_86c4fd18-4a24-40d9-92c3-b5dfedbdc5d9,ShuntCompensator
+_de63f6be-7fa7-40db-858c-cd69c7aa46ae,CP-02,07   CRO 5020      10.0I,true,C2,1402254,_86c4fd18-4a24-40d9-92c3-b5dfedbdc5d9,ShuntCompensator
+_f6ee5598-c732-4f32-991a-8f0cf879b549,CP-03,07   CRO 85030 21.0 MVAR,true,C3,1402514,_21628503-89dc-4f6f-a599-45cbc022a161,ShuntCompensator
+_4d80cd14-adbd-4e37-b30e-4d46d77da7a8,CP-01,07   CTY 4510   5.0 MVAR,true,C1,1404700,_4ff19f82-c520-49a9-aa4f-43138c0dc8ee,ShuntCompensator
+_c1fba626-7eac-4f98-8426-e3dc544bf4c9,CP-02,07   CTY 4520   5.0 MVAR,true,C2,1404702,_4ff19f82-c520-49a9-aa4f-43138c0dc8ee,ShuntCompensator
+_d718d445-e066-4a18-8c5e-10801563ac69,CP-03,07   CTY 4530   2.4 MVAR,true,C3,1404704,_4ff19f82-c520-49a9-aa4f-43138c0dc8ee,ShuntCompensator
+_a9b37ba7-d4dd-4ff0-bec6-2ab4981e2863,CP-04,07   CTY 4540   2.4 MVAR,true,C4,1404706,_4ff19f82-c520-49a9-aa4f-43138c0dc8ee,ShuntCompensator
+_05abef58-d20b-4240-8796-2d9c16274963,CP-05,07   CTY 5520  10.0 MVAR,true,C5,1404803,_4c121eaa-b7cc-40cd-9e7b-2f3368b0925b,ShuntCompensator
+_75c83617-b49b-40a6-b112-b8fe4740940b,CP-06,07   CTY 85060 21.0 MVAR,true,C6,1404886,_2c8ea2ce-1984-4b68-9a42-79b9c7a21fe0,ShuntCompensator
+_39973732-e212-4f18-a108-41f473546d94,CP-01,07   GOR 4510   2.4 MVAR,true,C1,1407460,_a63fc6a5-176f-4731-a6f6-067ad28264a2,ShuntCompensator
+_815fc601-0b8f-4a62-9c81-f2bf33c9dcf3,CP-02,07   GOR 5510   2.7 MVAR,true,C2,1407541,_8558ef10-5e67-4dc6-abad-5567c8c67cc3,ShuntCompensator
+_90b39439-b519-43d7-bf41-3809f625a281,CP-03,07   GOR 85030 21.0 MVAR,true,C3,1407625,_b0f7503a-a9e9-49c6-acec-65a445747573,ShuntCompensator
+_e7fc1585-715d-47eb-9209-8e49ed7bfc3e,CP-01,07   HGO 4510   5.0 MVAR,true,C1,1408939,_97ed2317-f365-4dcd-8be6-beff32a6781f,ShuntCompensator
+_59cf8e25-a565-453d-b033-b70d07e9b5ec,CP-01,07   KCH 4510   2.4 MVAR,true,C1,1410213,_1346ce9b-119f-470e-a336-a1cf53f2bab5,ShuntCompensator
+_9ce39bce-0898-4648-89eb-c4b021f95873,CP-02,07   KCH 85020 21.0 MVAR,true,C2,1410307,_ede2d4c7-11ec-42fa-bb34-2159a2dad478,ShuntCompensator
+_5cc47f0b-61a9-4eb1-80fa-564256c8e11e,CP-01,07   LOS 4510  1.2  MVAR,true,C1,1410914,_54b39cca-f60b-4b54-93ea-0a8383fa3d71,ShuntCompensator
+_22510f63-6050-4efb-b111-b28943ac260f,CP-02,07   LOS 4520  1.2  MVAR,true,C2,1410916,_54b39cca-f60b-4b54-93ea-0a8383fa3d71,ShuntCompensator
+_851389a1-5f40-4344-9933-85de618e8ab2,CP-03,07   MEP 4530   2.4 MVAR,true,C3,1411517,_9baa56b0-f2c1-40ac-a7ea-cb4d31e3b155,ShuntCompensator
+_8ef9bb52-c8aa-457e-a2e8-f3e5a2a714b1,CP-01,04HMOCCA CP-1 B1       I,true,C1,1413326,_696b25f0-0da2-440d-914c-3d0ba6efc877,ShuntCompensator
+_2e44440c-8b42-4c37-b14c-c9922f62a8a1,CP-01,04HMOCBA CP-1 B1       I,true,C1,1413481,_2d69ebf3-0cbf-44c0-8ef0-964c7d7b6ea4,ShuntCompensator
+_27e43ebf-fedd-4167-bcec-b1792115dc5b,CP-02,04HMOCBA CP-2 B1       I,true,C2,1413483,_2d69ebf3-0cbf-44c0-8ef0-964c7d7b6ea4,ShuntCompensator
+_b20f9a96-75eb-471c-ac86-c10b7ae3dea0,CP-03,04HMOCBA CP-3 B1       I,true,C3,1413485,_2d69ebf3-0cbf-44c0-8ef0-964c7d7b6ea4,ShuntCompensator
+_26518f48-96af-41b3-82d0-fd0e10f9b7c0,CP-04,04HMOCBA CP-4 B1       I,true,C4,1413487,_2d69ebf3-0cbf-44c0-8ef0-964c7d7b6ea4,ShuntCompensator
+_33a241d7-ba49-47a0-99a7-8236bed36235,CP-01,07   MOE 4510   2.4 MVAR,true,C1,1413827,_29555b10-360a-4640-aec6-bdd080cc7a67,ShuntCompensator
+_0c020126-fc65-4afe-af66-3cd7bbba9d65,CP-02,07   MOE 5510   2.7 MVAR,true,C2,1413912,_774d6672-7180-4115-98d3-c30c5aff1313,ShuntCompensator
+_2ab9226e-631b-4095-8292-0cb1c3013e92,CP-03,07   MOE 85030 21.0 MVAR,true,C3,1413985,_14145de9-05f1-4924-8822-873544e03f70,ShuntCompensator
+_46bc8cf7-a4f1-44c7-8df2-612c7d7c38d3,CP-01,04HMOBZI CP-1 B1       I,true,C1,1415191,_97ed7c76-6df1-4a79-a191-df07494838a2,ShuntCompensator
+_6dba1e03-3fce-4211-a011-78fc939bb7f7,CP-02,04HMOBZI CP-2 B1       I,true,C2,1415193,_97ed7c76-6df1-4a79-a191-df07494838a2,ShuntCompensator
+_e63481a4-1cce-4c4b-be05-2756c7c2b109,CP-01,07   MXI 4510   2.4 MVAR,true,C1,1415437,_9b8993b5-9edc-49a4-8e61-a9f6c40c8387,ShuntCompensator
+_f5f8210f-9b17-46b8-9c48-2e3d32dfef28,CP-02,07   MXI 4520   1.2 MVAR,true,C2,1415439,_9b8993b5-9edc-49a4-8e61-a9f6c40c8387,ShuntCompensator
+_2a370a61-569f-4f34-88f0-aeaa942a324e,CP-03,07   MXI 4530   2.4 MVAR,true,C3,1415441,_9b8993b5-9edc-49a4-8e61-a9f6c40c8387,ShuntCompensator
+_072f23d6-e2e4-442c-8e18-fcb69f1799e3,CP-06,07   MXI 85060 21.0 MVAR,true,C6,1415582,_98cf6d65-3613-47da-82c5-cadcb8b06c83,ShuntCompensator
+_c3ed89e7-1479-4216-87f2-f52040a62fe7,CP-04,07   MXI 5510  10.0 MVAR,true,C4,1415695,_277b4487-7a17-49be-a289-dc3418c5c1ad,ShuntCompensator
+_4c0c6320-cf0e-4ee2-a7b2-1aa6a97e7500,CP-05,07   MXI 5520  10.0 MVAR,true,C5,1415697,_277b4487-7a17-49be-a289-dc3418c5c1ad,ShuntCompensator
+_8cd4b376-cb97-478f-a15b-365a50a8c7dc,CP-01,04HMOASE CP-1 B1       I,true,C1,1417648,_e941f6b4-27e3-4157-9486-9d1ccdc3f25c,ShuntCompensator
+_7d5a46ab-ce43-4c46-ba43-3691ede25af2,CP-01,07   NZI 4510   5.0 MVAR,true,C1,1418004,_34397444-8ae2-4d9b-b4e5-5925e1220fc0,ShuntCompensator
+_324c031d-9a88-4013-b232-22b2d703b132,CP-02,07   NZI 4520   5.0 MVAR,true,C2,1418006,_34397444-8ae2-4d9b-b4e5-5925e1220fc0,ShuntCompensator
+_b7185de4-d7b3-46be-af64-1c52cc67e9c4,CP-01,04HMOAGI CP-1 B1       I,true,C1,1419474,_3c7f7aad-8804-4dc3-ada4-e183903d0d68,ShuntCompensator
+_605f7f6d-830d-4797-b117-09666edd2a09,CP-01,07   OZA 4510   5.0 MVAR,true,C1,1419849,_09d43f63-b85c-4a07-8c09-0d86ce92671b,ShuntCompensator
+_15169204-f37d-4106-8faf-a7d6e53f19c1,CP-02,07   OZA 4520   5.0 MVAR,true,C2,1419851,_09d43f63-b85c-4a07-8c09-0d86ce92671b,ShuntCompensator
+_39c7f36d-9a50-4ea7-9ac6-4ef23acda8b9,CP-03,07   OZA 4530   2.4 MVAR,true,C3,1419853,_09d43f63-b85c-4a07-8c09-0d86ce92671b,ShuntCompensator
+_79d88187-4b20-414e-b907-fc0e23ac3104,CP-04,07   OZA 4540   2.4 MVAR,true,C4,1419855,_09d43f63-b85c-4a07-8c09-0d86ce92671b,ShuntCompensator
+_3f800257-04f1-4f96-99c3-8d9660faa050,CP-01,04CULTEA CP-1 B1,true,C1,1422519,_ea7f3234-6b84-4bbc-b3b6-4702aecd24f9,ShuntCompensator
+_a584c19e-7292-41c4-bef7-b0c3552ded09,CP-01,07   PID 4510   2.4 MVAR,true,C1,1423363,_5a340beb-13f1-4b5a-be4e-9f8b0fe8bb89,ShuntCompensator
+_480f7550-a3f1-4610-96b5-0d4c26031177,CP-01,04CULSRA CP-1 B1       I,true,C1,1424648,_324309e9-dd1a-4265-8633-c6a2d6df6d90,ShuntCompensator
+_c6dd66dd-9280-4a92-8733-c2a833cf9bad,CP-01,07   PKD 4510 B1    2.4I,true,C1,1426667,_84bdaa59-80c7-4e60-b726-c6c157b9a67d,ShuntCompensator
+_69ac5e94-f28c-4cbb-8e78-fcf4e0c10e15,CP-02,07   PKD 4520 B2    2.4I,true,C2,1426669,_84bdaa59-80c7-4e60-b726-c6c157b9a67d,ShuntCompensator
+_7e4d5118-5b1b-42f6-bafe-0e977b10b119,CP-01,07   RIN 4510   5.0 MVAR,true,C1,1428752,_6f238128-fa08-45b6-8e80-8db30f0d73e4,ShuntCompensator
+_85081b5b-1f09-4b01-a591-deaeba437a26,CP-02,07   RIN 4520   5.0 MVAR,true,C2,1428754,_6f238128-fa08-45b6-8e80-8db30f0d73e4,ShuntCompensator
+_28557f5d-d34f-493c-9d95-7a2c05d6026d,CP-01,07   RUM 65010 16.2 MVAR,true,C1,1432348,_c832582c-d7b3-47d6-aba7-cdfdad511713,ShuntCompensator
+_c714f6df-7f50-4061-a0da-2b9b1dfe9527,CP-01,04CULHVF CP-1 B1       I,true,C1,1433611,_83774065-a444-4be2-a513-638a66404629,ShuntCompensator
+_91b52f28-9ebd-492c-80bb-559d3d7e5d13,CP-02,07   RZD 5520      10.0I,true,C2,1433837,_f7e31cf5-d4c3-4ea1-90f8-5fd0367763ef,ShuntCompensator
+_fbc04c47-a70d-4bfb-b73f-59fb2a55fb13,CP-03,07   RZD 5530      10.0I,true,C3,1433839,_f7e31cf5-d4c3-4ea1-90f8-5fd0367763ef,ShuntCompensator
+_0724c539-54c6-4291-8d07-2f1f97066eb7,CP-01,07   RZD 85040 31.5 MVAR,true,C1,1433950,_4fdb3260-0db8-41b5-8611-06d9c10477da,ShuntCompensator
+_42f3c801-ce3b-49a1-80b5-bd44e7da0b2a,CP-01,04CULGSV CP-1 B1       I,true,C1,1434992,_325bddfd-91bb-4de1-9ad8-2baf51717139,ShuntCompensator
+_7166a31a-87d8-4de8-9102-424a63966404,CP-01,07   SIS 4510   2.4 MVAR,true,C1,1436774,_8fe134dc-6388-4ab6-908d-8475105ddf08,ShuntCompensator
+_732ac4d0-f184-4e51-ac58-74de393a99bc,CP-01,07   SRY 4510   2.4 MVAR,true,C1,1438827,_6efc0386-38b3-40b1-a9d2-1fbc9bdb5951,ShuntCompensator
+_754f0879-34cd-44a0-8e7b-557aeca1bacb,CP-01,07   STB 4510   2.4 MVAR,true,C1,1439840,_c244d201-52f8-4522-abe3-eeff58fd0669,ShuntCompensator
+_0cea9fc6-d7c1-46d0-9b52-25091f4d9e13,CP-02,07   STB 4520   1.2 MVAR,true,C2,1439842,_c244d201-52f8-4522-abe3-eeff58fd0669,ShuntCompensator
+_a0924b20-1613-40b5-9d87-cb771feeb31f,CP-03,07   STB 4530   2.4 MVAR,true,C3,1439844,_c244d201-52f8-4522-abe3-eeff58fd0669,ShuntCompensator
+_cf01a0e9-bc31-4c70-a26f-95b3111f3c75,CP-01,07   TEK 4510   2.4 MVAR,true,C1,1442031,_803fcb21-98ef-4261-99ca-e8d1c5a92853,ShuntCompensator
+_5702b6b1-3175-46fd-8ee7-d7f28d2cbc39,CP-03,07   TEK 4530   2.4 MVAR,true,C3,1442033,_803fcb21-98ef-4261-99ca-e8d1c5a92853,ShuntCompensator
+_60a97590-3980-4d73-8fa8-c4502be21b31,CP-04,07   TEK 4540   1.2 MVAR,true,C4,1442035,_803fcb21-98ef-4261-99ca-e8d1c5a92853,ShuntCompensator
+_69089c39-c4e8-42a4-8631-61e0ac2eec0d,CP-05,07   TEK 5510   2.4 MVAR,true,C5,1442207,_f3f166fb-6f96-4842-b5c9-45eb92799ba3,ShuntCompensator
+_a2d38239-4ce5-4c7b-9e87-139c375af9b3,CP-02,07   TEK 5520   2.4 MVAR,true,C2,1442209,_f3f166fb-6f96-4842-b5c9-45eb92799ba3,ShuntCompensator
+_a804edbf-07d6-475d-9d87-4688469103dd,CP-06,07   TEK 5530   5.0 MVAR,true,C6,1442211,_f3f166fb-6f96-4842-b5c9-45eb92799ba3,ShuntCompensator
+_7bfcc8e2-15df-49b5-a3ec-76a558b8205d,CP-01,04CULCUC CP-1 B1       I,true,C1,1445027,_f2d47807-9de7-4317-b607-49acac2deb19,ShuntCompensator
+_4da34535-4d87-4252-9ce5-76ab38a8b8fb,RE-03,04   STA RE-3 B1    22.I,true,R3,1449164,_be4d252d-6b7f-488d-ab8f-0b553dc2e025,ShuntCompensator
+_3a8be7f2-6187-4c12-a448-9afc282a698e,RE-01,04   STA RE-1 AT-01 18.I,true,R1,1449176,_ce93cb28-3b7c-47b9-b730-e531ab130b80,ShuntCompensator
+_8d59dc57-f6a6-4ed0-8f06-dac0b90f4d9b,RE-01,04   SSA RE-1 AT-01 18.I,true,R1,1449925,_080c2393-a320-4b91-b70a-a356f6406520,ShuntCompensator
+_c507ccbe-fdb6-4bf9-b30e-6200d8c09da1,RE-02,04   SSA RE-2 AT-02 18.I,true,R2,1449927,_080c2393-a320-4b91-b70a-a356f6406520,ShuntCompensator
+_43549525-f52b-44ac-ae13-976878a558f1,CP-01,04   SCP CP-1 B1       I,true,C1,1451025,_0231c11e-7e1a-4d56-a101-be30e7bd63f7,ShuntCompensator
+_86ff0fa9-90ad-46c7-adca-f1c0564c1336,CP-01,04   SCN CP-1 B1       I,true,C1,1451583,_2958f12d-7ca4-402d-8914-9f0a879de1e8,ShuntCompensator
+_f6f5fd6c-10fc-4310-846c-665400d4b4c4,RE-02,04   PNO RE-2 B1    18.I,true,R2,1452932,_ef608c19-b123-412e-9320-fc86268fe03a,ShuntCompensator
+_9a869466-c620-4e49-896b-20970a857d23,RE-03,04   PNO RE-3 B1    18.I,true,R3,1452934,_ef608c19-b123-412e-9320-fc86268fe03a,ShuntCompensator
+_c0bee3ad-cdea-493e-b132-5be64b1bc200,RE-01,04   PNO RE-1 AT-01 18.I,true,R1,1452953,_69f35fb3-b2a2-4c86-9aff-0ba7cf6c7ab3,ShuntCompensator
+_44818fdf-f5b5-495e-8fc7-bbd56d8d3c54,RE-10,04   PLD RE-10 B1   35.I,true,R1,1453538,_7fe25f57-fe17-40e1-bd81-a560e0e37ac0,ShuntCompensator
+_3dff67da-3f8b-4dd8-b018-6e96a948ddb1,RE-01,04   NRI RE-1 93930 21.I,true,R1,1456836,_2b9a2232-be86-4f5d-95bd-9546d59bdcc2,ShuntCompensator
+_24e96065-5973-4eaf-b829-30b242f149ba,RE-02,04   NRI RE-2 93940 21.I,true,R2,1456838,_2b9a2232-be86-4f5d-95bd-9546d59bdcc2,ShuntCompensator
+_1cf5b378-875a-48b3-826b-b5e6699a2264,CP-01,04   NGA CP-1 B1       I,true,C1,1457442,_f866401d-f126-4050-a0bc-319c2d59cc5a,ShuntCompensator
+_2a3a48b3-8854-4e86-a1f7-32571bebe7ee,RE-01,04   NGA RE-1 AT-01 30.I,true,R1,1457564,_8afe84fe-693e-4ab8-9d55-e743fbbbd08f,ShuntCompensator
+_c840119d-f8b6-41aa-a7ce-68e345779b15,CP-01,04   MZD CP-1 B1       I,true,C1,1458035,_c454cd10-fbe5-4c58-98e9-7c7cc4787212,ShuntCompensator
+_346e473a-0738-4713-bd87-7228a79aea92,RE-03,04   MZD RE-3 A4600 75.I,true,R3,1458469,_655b9f91-3048-47cc-88c0-2930462344e8,ShuntCompensator
+_9868fa0a-e080-4588-a57b-037a22a3d0a3,RE-04,04   MZD RE-4 A4J00 75.I,true,R4,1458471,_655b9f91-3048-47cc-88c0-2930462344e8,ShuntCompensator
+_761b71f1-c47c-4718-8bdd-20a0f036ce17,RE-01,04   MZD RE-1 AT-04 30.I,true,R1,1458530,_c73a1192-b5f5-4661-b64c-fc9c77fef8a6,ShuntCompensator
+_c1875f17-1d85-4025-872d-1580cf296671,RE-01,04   LOU RE-1 93790 21.I,true,R1,1460371,_ca882b86-2584-49d4-a913-8a88a1584d8d,ShuntCompensator
+_45cfaccc-aeae-41c2-b6b9-e82f342324e2,RE-01,04   LMI RE-1 AT-01 23.I,true,R1,1460922,_0b732da0-10af-4815-be86-4c47bf9a31cf,ShuntCompensator
+_46d1480c-f8cc-46a7-b139-0930d2c4f2ee,RE-01,04   LMD RE-1 AT-01 25.I,true,R1,1461483,_989e15c7-72c1-408e-a923-d1b2f4a21fc4,ShuntCompensator
+_a9fbbe37-8fd8-4474-8d52-1f2f64fd1236,CP-01,04   HLT CP-1 B1       I,true,C1,1468777,_da37869c-ee6c-48ed-a213-87609be668ce,ShuntCompensator
+_fca94042-a744-4cd9-a7b8-4d9e18983975,RE-01,04   HLT RE-1 AT-01 18.I,true,R1,1468978,_4260f064-7203-4b09-8598-02f58687655a,ShuntCompensator
+_9e04ca4d-3105-471f-8220-8035c0508feb,RE-01,04   HLI RE-1 93D70 21.I,true,R1,1471156,_00a5c9a3-05cb-44a9-a4ff-1a6be3002611,ShuntCompensator
+_126e4dd9-6f60-4695-968f-8a3367a31291,RE-02,04   HLI RE-1 93D90 21.I,true,R2,1471158,_00a5c9a3-05cb-44a9-a4ff-1a6be3002611,ShuntCompensator
+_967bf620-0fb2-4a9a-a3f3-28fe608edd12,RE-03,04   HLI RE-1 AT-02 15.I,true,R3,1471194,_584b98a8-6b6c-4bb6-971f-9e9e0995d6de,ShuntCompensator
+_5101f3fd-959b-4110-aae4-0db759279381,CP-01,04   HLC CP-1 B1       I,true,C1,1472096,_263bb711-7671-44fa-a74c-595dc00beda8,ShuntCompensator
+_f0912d4d-9a17-4ca5-8726-1280ceeb1981,CP-01,04   HGA CP-1 B1       I,true,C1,1473726,_5eab051d-2492-4148-8d77-9ffa74d81bac,ShuntCompensator
+_77a58ec6-2348-4d81-973e-6c822698ab9d,RE-01,04   HGA RE-01 94010 21,true,R1,1473963,_0a64682d-f595-4d4f-ad4a-601a3545c861,ShuntCompensator
+_577e9c8c-9591-438a-9164-a370dfe1fc5c,RE-03,04   HGA RE-3 A4N20 75.I,true,R3,1474117,_c97d6a2d-f0e5-463c-8a10-3c2255ee0649,ShuntCompensator
+_3eeff055-d980-40bf-8f3b-dc9e71eb244a,RE-04,04   HGA RE-4 A4100 75.I,true,R4,1474119,_c97d6a2d-f0e5-463c-8a10-3c2255ee0649,ShuntCompensator
+_cb252686-3d71-4fdc-89da-9d0aac66a9f9,CE-01,04   HGA CEV B1        I,true,E1,1474132,_48b83084-2487-4fef-922a-718875fc72b2,ShuntCompensator
+_7a8ba64e-fab3-486a-8ac3-905696525d38,CP-01,04   HBL CP-1 B1       I,true,C1,1499648,_266c3b52-df2a-4c19-a951-552b1a3b61a6,ShuntCompensator
+_a2e7ff40-f7e6-4295-a1b9-018eb3d6cb77,RE-01,04   HBL RE-1 AT-01 23.I,true,R1,1499806,_e46adb0e-2909-4d07-83b3-69e9288df866,ShuntCompensator
+_8f731940-c485-4d55-9b05-fd1c930e7f9f,RE-01,04   GMD RE-1 AT-01 18.I,true,R1,1500951,_3926c018-62b7-454e-8b9c-950b58eec928,ShuntCompensator
+_045f4258-3e32-47d9-9708-16c83a3bdb74,RE-02,04   GMD RE-2 AT-02 30.I,true,R2,1500953,_3926c018-62b7-454e-8b9c-950b58eec928,ShuntCompensator
+_c35de222-bbdc-42ce-a71c-e25a4f60a14f,CP-01,04   EMY CP-1 B1       I,true,C1,1502068,_c875a58f-6201-4ace-b187-f93f824310d6,ShuntCompensator
+_6ad7b757-788a-488f-b81a-ec2f7e817650,CP-01,04   CUT CP-1 B1       I,true,C1,1504436,_b4817960-8d4f-47c6-aa8e-891667db4954,ShuntCompensator
+_5992f6f3-f39e-45c2-b715-b76a167fa366,CE-01,04   CUT CEV B1        I,true,E1,1504672,_8633e4af-2694-45b8-9998-70539360fece,ShuntCompensator
+_c9ff2f6f-7b47-4612-b35e-98d4e98ec7d6,RE-01,04   CUT RE-1 AT-01 18.I,true,R1,1504674,_8633e4af-2694-45b8-9998-70539360fece,ShuntCompensator
+_b905a45a-0208-4d21-ad4c-3e5f237d77a9,RE-02,04   CUT RE-2 AT-02 30.I,true,R2,1504676,_8633e4af-2694-45b8-9998-70539360fece,ShuntCompensator
+_2c340d94-83b8-4642-9b55-12792d8160aa,CP-01,04   COT CP-1 B1       I,true,C1,1505712,_42895caa-428f-4880-9af7-0bf73806a6cd,ShuntCompensator
+_3def0179-35fd-42a0-858b-7c4e9e09a13a,RE-01,04   COT RE-1 AT-01 18.I,true,R1,1505898,_7cdcb6fc-1a93-4121-8c35-0239728df259,ShuntCompensator
+_94caea54-5eef-48e9-a384-e0647b31ccb3,RE-02,04   COT RE-2 AT-04 18.I,true,R2,1505900,_7cdcb6fc-1a93-4121-8c35-0239728df259,ShuntCompensator
+_5093f972-30db-4b8f-a25d-ea5d0597d334,CP-01,04   COC CP-1 B1       I,true,C1,1506701,_a41efdc6-dc8e-4848-a23b-ffe40c6ce144,ShuntCompensator
+_8f999b1d-0bb4-4b16-abaf-84a345690914,RE-01,04   COC RE-1 AT-01 18.I,true,R1,1506908,_6c7e1be0-c805-49ac-8db3-00b987329f1e,ShuntCompensator
+_8bcf0bbb-ee09-484a-b598-abdd87883150,RE-01,04   CHO RE-1 A4N30 75.I,true,R1,1508076,_fc887667-25bf-4265-b21b-85ec7dc8cbad,ShuntCompensator
+_d6713a2f-92af-43a2-a00f-75aa99913a5d,RE-02,04   CHO RE-2 A4N40 75.I,true,R2,1508078,_fc887667-25bf-4265-b21b-85ec7dc8cbad,ShuntCompensator
+_cb2489cd-2590-4dd0-bca8-8c7d270c6327,RE-01,04   BAC RE-1 A4N00 75.I,true,R1,1509352,_2ab98bd5-afcd-4d35-9c33-7b6985c49742,ShuntCompensator
+_8fa60f30-aeb3-4f56-8795-0694fcdd47b2,RE-02,04   BAC RE-2 A4O30 75.I,true,R2,1509354,_2ab98bd5-afcd-4d35-9c33-7b6985c49742,ShuntCompensator
+_30c2d3d7-1713-4aed-bf5d-f038fa8dd052,CP-01,05   AND CP-1 B1    030I,true,C1,1536650,_f0cb0094-707d-4d1c-9954-751974caa215,ShuntCompensator
+_eaa93289-81be-41f3-a959-ab99d9eaf83f,CP-01,05   AOD CP-1 B1    025I,true,C1,1537027,_52f5b6ac-9942-47b6-8be4-0d8400fee329,ShuntCompensator
+_871b19af-d2f7-4605-a0bc-7468690d8eae,RE-01,05   AOD RE-1 AT-99 021I,true,R1,1537113,_077bca64-f263-43fd-adac-f27e5bbb9192,ShuntCompensator
+_eeedecfd-5694-433d-aea5-491276788886,RE-01,05   AVL RE-1 AT-99 015I,true,R1,1537557,_3fad9393-dcd1-4718-a273-fd53f17402ca,ShuntCompensator
+_f35ef192-751e-49f0-89d2-c9890bf68365,RE-02,05   AVL RE-2 AT-98 021I,true,R2,1537559,_3fad9393-dcd1-4718-a273-fd53f17402ca,ShuntCompensator
+_ebf31636-4ef6-4749-8bc1-b7a23158c11b,RE-01,05   CAP RE-1 AT-99 018I,true,R1,1537785,_92de375c-c0eb-4089-9162-8e6865255078,ShuntCompensator
+_4fc191ed-1402-4f20-92bc-31c2a9d0f035,CP-01,05   CGD CP-1 B1    045I,true,C1,1537974,_497c4cea-77a8-443b-85df-3bd4ef20ef8d,ShuntCompensator
+_626fbe3c-6357-4d74-a20c-925c99e8f22b,RE-02,05   CGD RE-2 B1    030I,true,R2,1538195,_1becd362-03f5-4cbb-848a-918d65ba9d4c,ShuntCompensator
+_71c2b806-209f-4ad7-b3e8-cc31ac194207,CP-02,05   CGD CP-1 B1    050C,true,C2,1538205,_e7536f87-705c-4114-8bc0-f118ebc3a030,ShuntCompensator
+_3a129a7c-c7bd-40d5-accd-9dc9dafce552,RE-01,05   CGD RE-1 AT-99 021I,true,R1,1538224,_8d5b4ce9-0ff5-4002-adae-cf5bf602bdaa,ShuntCompensator
+_db5c4cbd-9753-4a30-8e36-62d61b156195,CP-01,05   CHD CP-1 B1    030I,true,C1,1538560,_e0eab35b-98a7-4bf1-8df6-dc4a119b5017,ShuntCompensator
+_82ff8570-9fe1-42ea-8755-2bd2353f826f,RE-01,05   CHD RE-1 AT-99 021I,true,R1,1538760,_abeaf882-5d83-4ab3-a139-7acfc4f55bc0,ShuntCompensator
+_3fd9f83f-672f-4563-a81b-c5d49b297d5d,RE-02,05   CHD RE-2 AT-97 018I,true,R2,1538762,_abeaf882-5d83-4ab3-a139-7acfc4f55bc0,ShuntCompensator
+_9fe4c2d6-daf8-4794-8574-f413e93fe897,RE-01,05   CPO RE-1 AT-99 018I,true,R1,1539481,_5fbee187-d693-415f-8610-d0959f6f6c6f,ShuntCompensator
+_59129271-77c3-40b1-9de4-628e8993c290,CP-01,07   TJD 65010 20.0 MVAR,true,C1,1539636,_8cbf7f7f-995d-44bf-bfa6-8310be75da8b,ShuntCompensator
+_29b73750-c248-478c-9e72-6392b4c13a3b,CP-01,07   VPA 4510   2.4 MVAR,true,C1,1541086,_971c7ecd-b29f-476a-9b44-9e0d312d996e,ShuntCompensator
+_88902650-4730-4684-a2b0-449692ac174d,CP-01,07   WIS 4510   2.4 MVAR,true,C1,1541886,_c9883090-0a57-446a-bb60-3feae6f58e0b,ShuntCompensator
+_6e84aaeb-1bd3-45a9-835f-b68dac3f7f56,CP-02,07   WIS 4520   1.8 MVAR,true,C2,1541888,_c9883090-0a57-446a-bb60-3feae6f58e0b,ShuntCompensator
+_d4d4ec84-3152-4f38-bb1e-08b079469b36,CP-01,07   XCO 4510   2.4 MVAR,true,C1,1542794,_07f4b061-f330-4f90-b691-72f99ca8a843,ShuntCompensator
+_fd6ddf93-a925-47bb-9330-7b425c74582d,RE-01,07   NGA RT_01  100 MVAR,true,R1,1544287,_72ee2ccf-c803-4401-89da-9285b9cf871c,ShuntCompensator
+_b24012c6-2a13-4d44-b7ca-ac56a799a7e5,RE-02,07   NGA RT_02  100 MVAR,true,R2,1544289,_72ee2ccf-c803-4401-89da-9285b9cf871c,ShuntCompensator
+_c630dda0-d07a-4177-bb35-85d5d4035dca,CP-01,07   BJO 45010  1.8 MVAR,true,C1,1544701,_a7503918-a5b2-4e14-a09c-8f8ea6b98835,ShuntCompensator
+_847c670e-0403-4f31-b392-7df940c5cdc0,CP-01,07   CNA CP-1 BD    2.4I,true,C1,1545600,_7555b8ab-aee1-4d5c-9b59-99d74c3fdd51,ShuntCompensator
+_4f34c548-2d45-4299-82bc-d1a9af06ae61,CP-02,07   CNA 65020  8.1 MVAR,true,C2,1545666,_355235ef-a244-4752-9efb-ef479bf08dd6,ShuntCompensator
+_a69341c9-3934-45c5-a068-33f6422cecfc,CP-01,07   DRA 4510   1.8 MVAR,true,C1,1546505,_1d9c5b59-a26d-493c-8df2-01916a089509,ShuntCompensator
+_e583ff03-3a82-4f6a-ad3c-5287c53ccd9d,CP-01,07   EDA 4510   2.4 MVAR,true,C1,1547358,_02e459d8-bc8c-4af4-9d3c-6694eb406e43,ShuntCompensator
+_248f8b26-badf-4554-a6ba-03d483c6c0ad,CP-02,07   EDA 4520   2.4 MVAR,true,C2,1547360,_02e459d8-bc8c-4af4-9d3c-6694eb406e43,ShuntCompensator
+_511e3030-f251-409e-8ecc-17afd5a06709,CP-01,07   MIC 75010  2.7 MVAR,true,C1,1549062,_8a12a889-6d2d-4f76-b3e7-64cd8a724549,ShuntCompensator
+_54926e47-96f9-4799-8da1-4c90d874e21a,CP-02,07   MIC 75020  2.7 MVAR,true,C2,1549064,_8a12a889-6d2d-4f76-b3e7-64cd8a724549,ShuntCompensator
+_5b195874-37df-45fd-9558-4dfaf029022c,CP-03,07   MIC 75030  2.7 MVAR,true,C3,1549066,_8a12a889-6d2d-4f76-b3e7-64cd8a724549,ShuntCompensator
+_b21da113-8bde-4a92-a791-9251219a0efb,CP-01,07   FLO 4510   2.4 MVAR,true,C1,1550426,_88455708-d592-4dbe-90b0-848acab5e2a1,ShuntCompensator
+_864c02b7-7f72-46f2-b2c3-c8dcdd5c3b56,CP-01,07   GER 4510   1.8 MVAR,true,C1,1552650,_f135511e-f2a1-471b-a0c8-2e1eeb4a1719,ShuntCompensator
+_2bef6695-519c-4c23-a235-cf17e92529e3,CP-01,07   GLL 4510   2.4 MVAR,true,C1,1553649,_bd517456-5fd0-4714-b88d-8b9102c7e082,ShuntCompensator
+_010e92a5-d488-4b8a-aab2-e5fcdf704a40,CP-02,07   GLL 4520   2.4 MVAR,true,C2,1553651,_bd517456-5fd0-4714-b88d-8b9102c7e082,ShuntCompensator
+_272e0d55-77d5-4086-861b-88740cec5811,CP-06,07   HMO 65060 16.2 MVAR,true,C6,1554970,_ebc42ca7-c35d-4cbd-b1dd-c8c29ae575c3,ShuntCompensator
+_4d937a0d-132f-4b5d-a75e-5ab34b59427f,CP-01,07   INA 65070 20.0 MVAR,true,C1,1556008,_823adfbf-fd8f-4eb3-af4d-c2ea74ebd050,ShuntCompensator
+_854ad31b-7090-4365-98a4-363662343058,CP-01,07   INA 4610   4.8 MVAR,true,C1,1556075,_711d0fda-067d-45a6-b097-9ba87a704afb,ShuntCompensator
+_9f83a8fb-52f9-4e2a-bf1b-5e950117beaa,CP-02,07   INA 4620   4.8 MVAR,true,C2,1556077,_711d0fda-067d-45a6-b097-9ba87a704afb,ShuntCompensator
+_724d9c12-a424-4e7d-be70-d5ddcc3f7d18,CP-01,07   JOY 4510   2.4 MVAR,true,C1,1557705,_fb905ef1-b8d6-4517-ac42-f33a851bc6f6,ShuntCompensator
+_e829c1aa-5182-4184-a078-f885ad9defa9,CP-01,07   KON CP-1 BD    8.1I,true,C1,1558334,_762a0c1d-f6dd-424c-90d7-f4bfe5a8928b,ShuntCompensator
+_5ee8f773-4793-4e06-ae49-c834bf70a928,CP-01,07   LGO 65010 20.0 MVAR,true,C1,1558385,_0816cde4-5a1c-4190-99e2-1554eb04378c,ShuntCompensator
+_4cac3be5-af43-485c-b08e-2404e5c4423d,CP-01,07   LMS 4510   1.3 MVAR,true,C1,1559634,_4f36566f-7931-4ca9-8ee3-a05a04b504bb,ShuntCompensator
+_c2a14a4f-3487-49e8-9796-df91e11b16aa,CP-02,07   LMS 4520   0.9 MVAR,true,C2,1559636,_4f36566f-7931-4ca9-8ee3-a05a04b504bb,ShuntCompensator
+_ef3f9706-47cd-48ce-a736-5227515bbe92,CP-03,07   LMS 4530   2.4 MVAR,true,C3,1559638,_4f36566f-7931-4ca9-8ee3-a05a04b504bb,ShuntCompensator
+_79932868-1450-4b12-892a-628eddd3c64e,CP-04,07   LMS 65040  8.1 MVAR,true,C4,1559737,_c0ec5c00-df8d-4cd3-bdcd-327074b81795,ShuntCompensator
+_41b3c94d-ff82-4249-a289-914114cd0fc7,CP-01,07   MXC 4510   2.4 MVAR,true,C1,1561418,_ecb0d9e8-9be6-4e54-b815-6ef13eb841cc,ShuntCompensator
+_6bbae8a6-0fd0-4482-bd68-0f2a8e184aff,CP-01,07   PNM 4510   5.0 MVAR,true,C1,1563107,_494556c2-cdec-4ef2-b288-ce629caff97f,ShuntCompensator
+_bf77c50e-dadb-4868-b3e4-8877cd7b3726,CP-02,07   PNM 4520   5.0 MVAR,true,C2,1563109,_494556c2-cdec-4ef2-b288-ce629caff97f,ShuntCompensator
+_87a3b7d3-7cc8-4a1f-b252-dcfb222d33ba,CP-01,07   SAF CP-75010 7.5I,true,C1,1566264,_45f175da-d41c-4f86-a4a0-1798842eaccb,ShuntCompensator
+_d71bdf53-07a6-4276-ba86-d1c70229756c,CP-01,07   SAZ 4510   2.4 MVAR,true,C1,1566605,_3bc5dd44-892b-4139-adf7-71c3145f5a09,ShuntCompensator
+_c2754675-85f7-4c5a-80f4-94c8ca8e900f,CP-01,07   SIO 4510   2.4 MVAR,true,C1,1567332,_da66acc5-e9f1-4e4c-b732-6700ad41c6fc,ShuntCompensator
+_aabf9bca-ae4c-41af-8779-635445015c6e,CP-01,07   SMN 5510   1.8 MVAR,true,C1,1567955,_987e07ff-ba05-4b45-8188-e3e6149341ad,ShuntCompensator
+_966d8050-4328-49eb-92ac-4ba959757546,CP-01,07   SQN 5510   1.2 MVAR,true,C1,1568292,_7c7cc522-dd73-43ad-849b-0b2334668165,ShuntCompensator
+_3ed8e9b6-6413-4b2b-8428-f95e3d15fbde,CP-01,07   TCD 65010  8.1 MVAR,true,C1,1568961,_c3c59fc5-63c8-47d7-b3d8-ac76fdcb5ab4,ShuntCompensator
+_9b4513df-23a5-44fe-a255-e4a8551ed78f,CP-01,07   TCT 4510   2.4 MVAR,true,C1,1569150,_48faa1a6-1614-45b2-b3e2-71116007fbea,ShuntCompensator
+_c913d8ed-682e-4f09-b450-9665f290f7dc,CP-02,07   TCT 4520   2.4 MVAR,true,C2,1569152,_48faa1a6-1614-45b2-b3e2-71116007fbea,ShuntCompensator
+_98b5b390-925d-4d7d-90e3-2b705cfbe437,RE-01,05   CUN RE-1 AT-99 021I,true,R1,1570822,_2d91d53a-df21-4326-8b1c-d9fc627cd91a,ShuntCompensator
+_076ef03b-49c2-4689-8f65-7942e32cd234,CP-01,05   DGD CP-1 B1    030I,true,C1,1571669,_5deb98c0-60fb-4e23-8846-c23756dd7d0d,ShuntCompensator
+_be52eb74-d86b-4a83-9fda-6717ccb84884,RE-01,05   DGD RE-1 AT-99 021I,true,R1,1571843,_5579927c-4664-49e8-a531-aafe9f57c174,ShuntCompensator
+_b2accdbb-7885-4ee7-aac1-611e3b710bc5,RE-01,05   ENO RE-1 A3A10 100I,true,R1,1572996,_1940e739-1326-4f3e-ab44-5fe9ad851e8a,ShuntCompensator
+_322ff83d-be1e-4c20-8618-d3afbcafd1be,CP-01,05   FVL CP-1 B1    045I,true,C1,1574931,_a2b3ed8f-420b-42d0-90d4-0a7790bbde93,ShuntCompensator
+_c0766c6d-4d0d-435f-9bf6-66f606cb8e6d,RE-01,05   FVL RE-1 AT-98 025I,true,R1,1575212,_9046dbd1-1571-4f58-aa9e-9f97bcc64943,ShuntCompensator
+_19c89623-192f-47e7-bd2a-2da6a2bf2db0,RE-01,05   HCP RE-1 A3000 150I,true,R1,1577157,_f927f9b9-db65-4234-b006-1030d1af43a8,ShuntCompensator
+_25e547bf-f82b-43a1-9e24-33a4ffb6c8a2,RE-01,05   JOM RE-1 A3A30 075I,true,R1,1577900,_becbc0c4-98a0-4216-bb2c-df73614097fa,ShuntCompensator
+_221e7398-17ef-4826-8868-18643715e76e,RE-02,05   JOM RE-2 A3A20 075I,true,R2,1577902,_becbc0c4-98a0-4216-bb2c-df73614097fa,ShuntCompensator
+_b6fb90f9-5bc6-4272-95aa-f037fd2f2cf7,CP-01,05   JOM CP-1 B1    050C,true,C1,1578060,_db24c861-ca31-48a7-b1d1-1a7bae1fd8ef,ShuntCompensator
+_56981cd3-5a76-496a-9aae-bed255f8fe68,RE-01,05   LEN RE-1 B1    022I,true,R1,1579471,_f058aebf-8648-42fe-83af-7a2bc368c6f1,ShuntCompensator
+_00cf384c-7b27-4134-9c68-abe08da227fe,CP-01,05   LGS CP-1 B1    24.I,true,C1,1580191,_02a3cd44-c4a1-4e45-b01c-7c3b34a37448,ShuntCompensator
+_d2e94ab8-fa3f-4111-8d9b-eb42c1a28061,RE-03,05   MCZ RE-3 A3A70 075I,true,R3,1580788,_fc74922a-be72-4ded-be05-0e2f5f2c19d2,ShuntCompensator
+_831e06a4-99e1-4ae7-9679-9e3000f690a5,RE-02,05   MCZ RE-2 B1    054I,true,R2,1581190,_c8d5386a-24b9-4fd5-8e33-459343e66f80,ShuntCompensator
+_d3d022e8-3ae2-448f-a187-7d50b88109ee,RE-01,05   MCZ RE-1 AT-99 021I,true,R1,1581203,_43167dec-72cb-4c7a-9101-2afee53c5d71,ShuntCompensator
+_8b1e989f-0ce9-4675-bd4f-5053dd759572,CP-01,05   MCZ CP-1 B1    060C,true,C1,1581213,_e165b43b-faff-4639-a352-faa39d881bb0,ShuntCompensator
+_ba951534-b290-4d35-a48a-b0702f8038c9,RE-01,05   MES RE-1 B1    025I,true,R1,1582022,_bcee95eb-59b1-45e5-8199-990d2f8aa22e,ShuntCompensator
+_1e64a857-2d97-4d25-82dc-7ff2e712bac0,RE-01,05   MVI RE-1 A3700 100I,true,R1,1582627,_fa65365f-ada0-44f3-b637-07e4461b5dd5,ShuntCompensator
+_463d0ec6-294d-42d0-b8f9-5011b8076a34,CP-01,05   NAZ CP-1 B1    036I,true,C1,1582819,_bab78b51-4574-4290-8c08-83cc8a129e23,ShuntCompensator
+_9ce31dcf-6509-48ac-931c-cc0cd05ef6c6,CP-01,05   NCG CP-1 B1    030I,true,C1,1583397,_fa09d52f-6957-4774-83a9-b32bff07fc1f,ShuntCompensator
+_e7aafcd4-f888-4c97-b46a-fdc695974232,RE-02,05   NCG RE-2 B1    021I,true,R2,1583577,_87b9f8b4-a180-4066-8f9a-2d32b5a471c8,ShuntCompensator
+_f9b30377-e103-425d-9839-915a812f5fb9,RE-03,05   NCG RE-3 B1    021I,true,R3,1583579,_87b9f8b4-a180-4066-8f9a-2d32b5a471c8,ShuntCompensator
+_15794155-3f29-4ba8-a4ae-6d2171ac0905,RE-01,05   NCG RE-1 AT-99 021I,true,R1,1583592,_cb650391-dc71-4fb4-95e6-69811cbcc0b2,ShuntCompensator
+_44d35885-1867-4e8d-8439-33d7935ab107,CP-01,05   QVD CP-1 B1    015I,true,C1,1585736,_6bcf0724-bb6d-4896-823b-12b215a0d2e3,ShuntCompensator
+_b60993a5-05c0-47d8-afa3-4e4948be5b15,RE-01,05   QVD RE-1 AT-99 013I,true,R1,1585843,_86d4da9c-16b2-4de2-bf44-7851d5df845c,ShuntCompensator
+_e9d2525a-c7f7-4d64-bd86-099953d3f3f3,RE-02,05   QVD RE-2 AT-98 018I,true,R2,1585845,_86d4da9c-16b2-4de2-bf44-7851d5df845c,ShuntCompensator
+_e305cacc-6fd5-440a-8e4d-f44439106440,CP-01,05   SGD CP-1 B1    015I,true,C1,1586819,_30b7c41f-f12c-4bae-b4cd-471ced5b28b3,ShuntCompensator
+_ccdfe41d-0d80-4d55-9638-dd9a7b9b4f87,RE-01,05   SGD RE-1 AT-99 015I,true,R1,1586895,_27eb1cb1-a1f4-485d-ab47-1d7681e0ca5f,ShuntCompensator
+_18fc0dbf-03c8-4a85-9033-4b3b7ff29748,RE-01,05   SPP RE-1 AT-99 018I,true,R1,1587180,_c4fbaf90-22e1-400f-8297-83f3590976ab,ShuntCompensator
+_cbfb10ed-29af-4db1-a3a3-7c6e033c99b4,CP-01,05   TER CP-1 B1    020I,true,C1,1592642,_ceb26b68-2ea5-4c43-b632-f56a42416900,ShuntCompensator
+_f94bcd11-cee6-4cdf-8f27-6abdf2fd5f4c,CP-01,05   TRS CP-1 B1    033I,true,C1,1593910,_f4731327-d02d-40c6-9abf-edc8e1515984,ShuntCompensator
+_453fcb67-5a87-44ae-8c4c-57f01f04f243,CP-01,05   VHS CP-1 B1    025I,true,C1,1594998,_7d33d8f6-9f21-47ae-a1b9-5220b9e82527,ShuntCompensator
+_7dd220ad-551a-4d49-ba94-12d6cc545972,CP-01,05   VJZ CP-1 B1    025I,true,C1,1596809,_f3e642f1-b511-466a-be95-c9ce43688b1b,ShuntCompensator
+_fdf0070d-a87d-4a0e-99ca-fa288d9f47c7,CP-01,05CGOABG CP-1 B1    002I,true,C1,1598360,_778a2a16-0ee8-468e-9a86-ddb2cacb77f2,ShuntCompensator
+_9458cd85-2c60-4151-92cf-fc75906e2e60,CP-01,05CGOALV CP-1 B1    002I,true,C1,1598708,_cc40587d-6c07-4f4d-b5a1-469493bcadca,ShuntCompensator
+_cfb667e9-55d0-4576-9e17-0f958e3a5e1e,CP-01,05CGOARM CP-1 B1    001I,true,C1,1599146,_7b5bd40d-6012-4d9d-a866-f870b389c4d6,ShuntCompensator
+_79ac2fba-9fbe-4d08-b28b-805374300fdf,CP-01,05CGOCAT CP-1 B1    007I,true,C1,1611629,_b4b0ee81-c6b3-434a-8074-447b8b7a2754,ShuntCompensator
+_c091bde5-4ef7-4a0b-850e-7f9f3804b484,CP-01,05CGODEL CP-1 B2    002I,true,C1,1612396,_857ea574-0019-4d06-a3fa-4430b3569223,ShuntCompensator
+_1b909dbe-9897-458b-aeaf-f3572aab3bc5,CP-01,05CGODLD CP-1 B1    002I,true,C1,1612777,_e44cf2f9-5962-42c1-a98a-7e11c7c0098f,ShuntCompensator
+_ac55830f-8ffa-4fbd-96f9-96bc1864dafd,CP-02,05CGODLD CP-2 B2    002I,true,C2,1612779,_e44cf2f9-5962-42c1-a98a-7e11c7c0098f,ShuntCompensator
+_f2d4f2c0-143e-460a-b54f-c89982b34942,CP-01,05CGOLCS CP-1 B1    001I,true,C1,1614475,_25302199-e027-4bbd-94b4-4fb2d5847acc,ShuntCompensator
+_9bdd0b4c-a3b3-420d-b9fc-b358176108d7,CP-02,05CGONHO CP-2 B1    015I,true,C2,1615257,_e70241e9-b246-4b00-9edb-56fa8bf43b45,ShuntCompensator
+_80543ef9-a438-4f5d-86c6-37fa98510a26,CP-01,05CGONHO CP-1 B1    002I,true,C1,1615299,_25209b94-dbe7-4d68-9bfd-02bf4af237f9,ShuntCompensator
+_45a4f817-274d-4b4a-bb93-550001265f87,CP-03,05CGONHO CP-3 B2    002I,true,C3,1615301,_25209b94-dbe7-4d68-9bfd-02bf4af237f9,ShuntCompensator
+_fc313715-ad0f-4a06-ac36-7c8ab2c23f43,CP-01,05CGOOAS CP-1 B1    013I,true,C1,1615637,_0209e00f-8ec3-49a4-a85c-707878e4afab,ShuntCompensator
+_49c2cff7-0002-42ea-9ea0-c47a37a2630c,CP-01,05CGOOJI CP-1 B1    007I,true,C1,1615946,_cdf69720-61c6-4ba6-9777-f187608218ed,ShuntCompensator
+_a577d08d-cb0f-45b6-a18c-be60015877c0,CP-01,05CGORIF CP-1 B1    001I,true,C1,1616891,_fc9380b2-0a12-4181-8819-27d3f4b4b6f1,ShuntCompensator
+_a03e36b4-c1e3-4ded-aa01-62dd98fc2bfe,CP-02,05CGORIF CP-2 B1    001I,true,C2,1616913,_dffbba2e-07a6-47c7-8780-3bc5003c3346,ShuntCompensator
+_3c44672d-0449-4631-97e0-dcda41615268,CP-01,05CGOTBA CP-1 B1    007I,true,C1,1617760,_abfb58fc-65d1-4c31-b22e-d168055ec829,ShuntCompensator
+_d3e705bd-2c1d-4ac9-b04f-ac8cd677cb95,CP-01,05CGOTHS CP-1 B1    007I,true,C1,1617834,_ab93948b-9cba-4659-94b2-cf458a5c4a54,ShuntCompensator
+_62b880a1-658a-4422-b50a-18010548f8fa,CP-01,05CGOTRE CP-1 B1    1.8I,true,C1,1618175,_c21a1485-f062-498f-98ea-e05399555c9e,ShuntCompensator
+_a0e5b594-07fd-46c5-be93-81d6e2423b26,CP-01,05CGOVCM CP-1 B1    7.5I,true,C1,1618440,_eff9366e-1b67-4a67-af50-2c62c0b2acb8,ShuntCompensator
+_3394c285-16fe-4d9e-a5ac-0873b9071a11,CP-01,05CUAAVO CP-1 B1    015I,true,C1,1619978,_26532003-bb49-4a23-ab04-177eeb1c814e,ShuntCompensator
+_40562675-37c9-49d3-a97f-f428a9746edd,CP-01,05CUABAS CP-1 B1    007I,true,C1,1620426,_e13ada84-a7ac-43a7-a383-e2b44fb72060,ShuntCompensator
+_3740f765-c7c9-4d83-8236-650a6bdcc76a,CP-01,05CUACAS CP-1 B1    002I,true,C1,1620633,_598f7b06-c745-4491-a3b7-5aee8dcef980,ShuntCompensator
+_6ba1fb12-9d97-4391-9140-ab3a1f4f3c46,CP-02,05CUACAS CP-2 B1    002I,true,C2,1620635,_598f7b06-c745-4491-a3b7-5aee8dcef980,ShuntCompensator
+_cc1e483d-fa7d-4e9e-93db-6852b1ed79a3,CP-01,05CUACCD CP-1 B1    002I,true,C1,1620848,_6e4366c4-8305-4892-93cc-4c2dcab830f9,ShuntCompensator
+_49b88f9c-f3b7-46c5-bb53-40e8ec3df85a,CP-01,05CUACHC CP-1 B1    015I,true,C1,1621178,_a460c694-9cce-4112-b9f9-91f1b92b18cc,ShuntCompensator
+_60d11d18-e38d-4c6d-a706-10b935404db5,CP-01,05CUACRC CP-1 B1    001I,true,C1,1622354,_edbd2e39-7420-4310-b39f-1fa9121dcafe,ShuntCompensator
+_4e5ca69c-e81c-4e61-9387-1d8eac0ab0ac,CP-01,05CUADIV CP-1 B1    007I,true,C1,1623238,_bf9ac00f-eea7-47c6-96e3-9d14a0310da8,ShuntCompensator
+_15ec3f72-8c5b-48c0-8a24-4185cf83ecd2,CP-01,05CUAFMR CP-1 B1    002I,true,C1,1623608,_13a26d0a-2040-4526-9b57-b147757437cc,ShuntCompensator
+_b2e465cb-ca66-44c1-9a48-3f5e3510d7a3,CP-01,05CUAHDS CP-1 B1    002I,true,C1,1624489,_27a04123-1cab-414d-92ed-9ddafa483483,ShuntCompensator
+_30e70e8d-cad4-4ff1-b660-8be149520adc,CP-01,05CUALZM CP-1 B1    001I,true,C1,1625481,_abb43a19-6309-4bec-b213-f1e70888cd6d,ShuntCompensator
+_d5896911-870a-46e6-af3e-ff62b9f9896b,CP-01,05CUAMBA CP-1 B1    002I,true,C1,1625720,_5113b4f3-083c-438c-aebb-e3af7c3c32ef,ShuntCompensator
+_b4fa3fd8-2ea3-406d-9d15-63fee0125f08,CP-01,05CUAMCO CP-1 B1    015I,true,C1,1626023,_12889baf-cbd7-43c2-95ff-4abaaca50c12,ShuntCompensator
+_477134e9-cc0a-4836-99bc-87ef8c69606a,CP-02,05CUAMCO CP-2 B2    002I,true,C2,1626053,_f5aa9afd-c055-4baa-95b4-b80454ed4cc8,ShuntCompensator
+_96e9d0eb-f95b-4ecc-bc1b-93c858375a57,CP-01,05CUANCB CP-1 B1    001I,true,C1,1626840,_6fb6faba-e806-4b52-a7fa-ad5300fe794e,ShuntCompensator
+_a9821bf1-feba-4330-93e7-339f7b387cbf,CP-01,05CUANQA CP-1 B1    1.8I,true,C1,1627320,_f783b9dd-8982-4445-9e45-0e6c6884b2c5,ShuntCompensator
+_d4da850f-d39b-4ef2-8296-2d3340b11ba8,CP-01,05CUAOCP CP-1 B1    1.2I,true,C1,1627477,_f383f20e-cb4c-4460-9527-92d6b62c7a0c,ShuntCompensator
+_5f321d57-c2cb-4c50-ad0e-3405c5b63622,CP-01,05CUAPMR CP-1 B1    002I,true,C1,1627901,_c8b53ad6-4c1a-44ce-8090-f3108850fa41,ShuntCompensator
+_fb75e108-f32a-4907-938f-f7f463405cad,CP-01,05CUARCS CP-1 B1    015I,true,C1,1628524,_9070b158-43e1-412e-bd5f-76f4b6998c15,ShuntCompensator
+_90553a49-ef6c-48eb-a149-25548cb9143b,CP-01,05CUASAU CP-1 B1    002I,true,C1,1629170,_ecbd3d48-a8d4-4699-89e2-ebd14decb8fa,ShuntCompensator
+_bceaee4e-fc24-442f-b557-dc7c87e830ba,CP-02,05CUASFB CP-2 B1    7.5I,true,C2,1629326,_4c699858-b245-4e68-a452-7fa4005e59ac,ShuntCompensator
+_f494ad5e-b5b5-4be6-8a33-fb554860c274,CP-01,05CUASFB CP-1 B1    001I,true,C1,1629340,_9c2b1b27-f060-4375-8a82-8fbcd586dc27,ShuntCompensator
+_c26346e9-be8b-4056-9477-7165b2d402db,CP-01,05CUATBL CP-1 B1    002I,true,C1,1629498,_bc5254d3-5f6f-4f65-94a3-8593c30427aa,ShuntCompensator
+_01d6d4f4-6f3a-4ed2-95f8-a97ba01ce53a,CP-01,05DGOATR CP-1 B1    7.5I,true,C1,1630292,_8b442d40-2b5e-49d6-9832-6052b5529b86,ShuntCompensator
+_636d63bf-7495-49b5-a74d-4666affae148,CP-01,05DGOCHA CP-1 B1    001I,true,C1,1631171,_9aeac87b-931c-4153-96a7-aeeb80fa838a,ShuntCompensator
+_ae268990-0bfa-4ed2-9820-047c2dc2f72a,CP-01,05DGOCHL CP-1 B1    7.5I,true,C1,1631335,_77da3cb1-e96e-4933-a7d5-36efb74b4477,ShuntCompensator
+_dfd034b8-2773-4ac1-92c3-638dc4bd1982,CP-01,05DGOCID CP-1 B1    007I,true,C1,1631510,_694327f8-45df-4453-8352-8059cc7ec18a,ShuntCompensator
+_3abdf671-66ce-4c4e-b932-907c83a99a66,CP-01,05DGOCLI CP-1 B     001I,true,C1,1632037,_dfd11393-203f-43ea-aa58-12fa0504a8ee,ShuntCompensator
+_60f8bf27-7f48-4d73-8be9-8c61da30d99d,CP-02,05DGOCLI CP-2 B     002I,true,C2,1632039,_dfd11393-203f-43ea-aa58-12fa0504a8ee,ShuntCompensator
+_bea3d842-3662-403e-9c3f-a3ec850d04a7,CP-01,05DGOCME CP-1 B2    001I,true,C1,1632258,_d49b39a0-fe2e-494a-bca8-2c603d1529ba,ShuntCompensator
+_6bc17522-7531-48e8-aa9f-690ad320ebfb,CP-01,05DGOESL CP-1 B2    001I,true,C1,1633735,_cda9e512-a660-4dff-b583-91430ef4492e,ShuntCompensator
+_bf706a2c-5477-485c-9984-a922655367f5,CP-01,05DGOGVR CP-1 B1    001I,true,C1,1634336,_c6729735-a40f-4ebd-8b1a-4baa8311f6bd,ShuntCompensator
+_8bcbff4d-76cc-42a7-803d-a08d7b13554c,CP-01,05DGOLAF CP-1 B1    001I,true,C1,1634745,_9450d02c-23e0-4100-bf69-e567bd926818,ShuntCompensator
+_6a25ab28-b622-42a7-9fe0-230b2c5aeaa9,CP-01,05DGOMIL CP-1 B1    1.8I,true,C1,1635367,_a0d0cb90-2164-4cb0-8ad6-bf976789f77c,ShuntCompensator
+_33f670b3-e775-49de-9657-43f1ebc24f14,CP-01,05DGOVGR CP-1 B1    7.5I,true,C1,1637183,_daaeee0c-2a31-4456-9a53-454af91b32db,ShuntCompensator
+_3fe43526-6cf6-4587-a622-27f4438557aa,CP-01,05JRZAEP CP-1 B2    002I,true,C1,1637527,_aedaebbb-1452-4976-bb07-4f049792108b,ShuntCompensator
+_dc77a706-e9cf-4330-9567-36cb66f4aa48,CP-01,05JRZAON CP-1 B1    015I,true,C1,1637949,_0f9b3bd9-77ac-414e-87c2-3e6ada4db7f9,ShuntCompensator
+_87a11141-2958-46c3-8f80-b98f233d1160,CP-01,05JRZAZT CP-1 B1    002I,true,C1,1638333,_c4acfef3-4b92-4b12-86c1-4f9380fe8146,ShuntCompensator
+_9b024265-3129-42ef-a63e-846e52d9bbc7,CP-01,05JRZCER CP-1 B1    001I,true,C1,1639479,_3f47cde1-6942-4598-a814-62eabba7634e,ShuntCompensator
+_6937be45-d61c-4967-9d67-8b037f3d9c18,CP-01,05JRZCGR CP-1 B1    7.5I,true,C1,1639672,_02a6fe4f-df7e-4e6d-9118-a26a34f996b0,ShuntCompensator
+_97e06489-2fc3-49b0-bd24-99781651f882,CP-01,05JRZCLG CP-1 B1    018I,true,C1,1640206,_5f424962-552f-4078-b809-a830aed2c14a,ShuntCompensator
+_ece800e8-2fc0-4caa-8254-6e6fcaab8f1c,CP-01,05JRZCVA CP-1 B1    018I,true,C1,1641437,_39387841-4fa5-42d2-a0f3-4797217edff6,ShuntCompensator
+_4b85e641-d45b-411a-ac9c-289ac6975aec,CP-01,05JRZCZL CP-1 B1    020I,true,C1,1641764,_bf42decb-b169-4c40-b6d5-972ddc38adc8,ShuntCompensator
+_0f30dd44-2840-4453-9dc5-a412b248b9e6,CP-01,05JRZFTS CP-1 B1    002I,true,C1,1642471,_26ebd31d-2ed4-43f9-a667-eac42d2879a9,ShuntCompensator
+_09a0225a-9c91-4389-a5f2-7c3b5d179ac0,CP-01,05JRZGAV CP-1 B1    002I,true,C1,1642895,_5bbf2b72-b83c-4e5d-99fd-ecd4783bc641,ShuntCompensator
+_c78fbea0-df61-42c7-ab36-659d4b196a8e,CP-01,05JRZGJO CP-1 B1    015I,true,C1,1643234,_56b3f0bb-de2a-45ff-84f6-113ade8512b3,ShuntCompensator
+_da8b632b-eb99-45be-b06a-44097d2233d4,CP-02,05JRZGNA CP-2 B1    7.5I,true,C2,1643530,_4312d46c-89d7-4456-9e1b-81464b42fc6b,ShuntCompensator
+_83113302-f2ea-479f-817f-ae92126b9117,CP-01,05JRZGNA CP-1 B1    002I,true,C1,1643562,_a63641b0-095d-44a1-bdfc-2ae8daffd6d6,ShuntCompensator
+_6c1dc2a5-e239-4f2f-a7ef-a50855b49171,CP-01,05JRZIGS CP-1 B1    018I,true,C1,1643867,_2e7c68d8-5941-4e59-9340-dffaaf7d82a3,ShuntCompensator
+_87def19e-5921-40cb-9c4f-c1ab3fc318ab,CP-01,05JRZJOS CP-1 B1    7.5I,true,C1,1644690,_d14b3628-2375-4fc0-b887-07b62a96a6af,ShuntCompensator
+_e7e7694f-7963-48a0-a014-d7952195df33,CP-01,05JRZLAG CP-1 B1    002I,true,C1,1645130,_0c37557e-44ff-460a-8fd1-756622c5e16a,ShuntCompensator
+_a0d286e6-1afe-4fec-b095-daf4e96d5efc,CP-02,05JRZLSA CP-2 B1    015I,true,C2,1645818,_bf316bcb-c87a-4a24-81c5-0a21afdba128,ShuntCompensator
+_0d583545-4fe9-4285-b1d0-d6fee580e5ab,CP-01,05JRZLSA CP-1 B1    001I,true,C1,1645835,_7e75e749-e647-48ba-84ad-97e78544b679,ShuntCompensator
+_209e4d87-5ac8-41bc-b391-a63f92677c5f,CP-01,05JRZMTV CP-1 B1    1.8I,true,C1,1646681,_f6956af5-0793-4cc5-bdf9-ed7a56283bb6,ShuntCompensator
+_4bf3d8a3-26ae-48ab-b414-a842df7cfeb7,CP-01,05JRZPAT CP-1 B1    002I,true,C1,1647017,_5e1a628a-23f1-454f-ad51-51c31f596700,ShuntCompensator
+_55b1b4f6-56f1-4618-b5de-ac890986c79c,CP-02,05JRZPAT CP-2 B2    002I,true,C2,1647019,_5e1a628a-23f1-454f-ad51-51c31f596700,ShuntCompensator
+_b73d8ef8-91d8-4745-8280-f4c6f1d64116,CP-01,05JRZPMS CP-1 B1   015I,true,C1,1647324,_64251ecc-0ea1-4bcd-9f6c-e7f162156a90,ShuntCompensator
+_6a24fae5-4966-44f5-8477-41860f5b08d5,CP-01,05JRZRVA CP-1 B1    015I,true,C1,1648317,_8369ea38-46c0-431e-9caf-972fec7c5c1c,ShuntCompensator
+_e37c1f98-bb93-4c4d-a675-d646254ff816,CP-01,05JRZSBV CP-1 B1    6.3I,true,C1,1648629,_fe27437e-e358-420d-99f2-7821d9610a8e,ShuntCompensator
+_c669013f-1751-4c5e-8acf-1ec15b4f8532,CP-01,05JRZSJE CP-1 B1    001I,true,C1,1649230,_072aca2a-2cea-437f-92a8-9f916658a41e,ShuntCompensator
+_34fcb5b5-aa86-4942-8861-52e43c5f3ca9,CP-01,05JRZVEZ CP-1 B1    002I,true,C1,1650699,_21fe32d3-e26f-465c-9d9a-4025de107fae,ShuntCompensator
+_139d17ad-9463-4656-8733-1317304b49d1,CP-02,05JRZVEZ CP-2 B2    002I,true,C2,1650701,_21fe32d3-e26f-465c-9d9a-4025de107fae,ShuntCompensator
+_65b10ecf-2523-4b49-960c-608fee7837bd,CP-01,05JRZVSM CP-1 B1    1.8I,true,C1,1651118,_d644bef3-69d3-4b32-8be6-e064a82ef32c,ShuntCompensator
+_5db5e77e-37dc-4268-8ca8-451361f6c4f8,CP-01,05LGAALL CP-1 B1    015I,true,C1,1652370,_e51cb48d-28fb-4c36-8ad4-73355075c1e5,ShuntCompensator
+_f20d1036-ac63-4369-8dca-7ae0c93c8721,CP-01,05LGABAT CP-1 B1    015I,true,C1,1653006,_9b325721-d7ce-4799-8be0-c2df0276f538,ShuntCompensator
+_3dc02b46-db4d-42ae-9483-e20a033da2c5,CP-01,05LGACEB CP-1 B1    005I,true,C1,1653473,_e201f712-8080-4931-a34d-c351c031d8f9,ShuntCompensator
+_29baf00f-289b-4c1c-9fb1-0cd2ce404376,CP-02,05LGACEB CP-2 B1    001I,true,C2,1653487,_53cb32be-ab20-47d8-8833-8917cf13857d,ShuntCompensator
+_98089fd9-c409-4e8e-87de-b8ca3a234930,CP-01,05LGACFN CP-1 B1    008I,true,C1,1654008,_b0388e77-8e4b-458f-9732-6f8b72f910d1,ShuntCompensator
+_8f93deb0-a2b3-4881-87d2-855efd308392,CP-01,05LGACRN CP-1 B1    001I,true,C1,1654563,_8bb57828-92d1-41ab-ba16-88e7d0459d60,ShuntCompensator
+_3b4e067e-b1aa-40df-b461-f525df59e868,CP-01,05LGACZU CP-1 B1    015I,true,C1,1654759,_01aad68d-f2c9-44e6-8138-83edae249266,ShuntCompensator
+_37641808-d101-42b6-801c-1379d762fd37,CP-01,05LGAFRC CP-1 B1    024I,true,C1,1656466,_c09021d6-33cb-460e-9765-28368a69e7ac,ShuntCompensator
+_264b97af-5cbb-43d3-a789-e4a10d3a4d2f,CP-01,05LGAJND CP-1 B1    001I,true,C1,1657442,_307ae567-bc66-48e5-9edf-a4c802ce51ca,ShuntCompensator
+_7fb6ba32-6c86-4bc6-9b64-49332ddd6f1a,CP-01,05LGALGD CP-1 B1    008I,true,C1,1658019,_fe107a43-2ffc-40e5-b62e-5fb732e34698,ShuntCompensator
+_2e94426d-e3d6-465f-b0af-664f1b63cfb7,CP-01,05LGALRE CP-1 B1    007I,true,C1,1658594,_e6bbb124-312f-4d90-b5b1-6edb1e439ab4,ShuntCompensator
+_b4776030-2b62-4c5a-a3d7-172df75d73a4,CP-01,05LGALUC CP-1 B1    1.2I,true,C1,1659223,_a9845816-0030-4065-b335-24a16ea64cfc,ShuntCompensator
+_ad4e54c6-35b0-4db1-be7b-59da1235194e,CP-02,05LGAPDA CP-2 B1    015I,true,C2,1660544,_15aeaaeb-6bb6-490b-a822-1a7ec53c2ea3,ShuntCompensator
+_5632c8ba-fd25-4314-93e6-01dd12f671d7,CP-01,05LGAPDA CP-1 B1    001I,true,C1,1660574,_8549da9b-3690-4859-91a5-a941f54e58c0,ShuntCompensator
+_cb54d1a9-8b30-4f6c-8e4b-e5bd0ac29005,CP-01,05LGAPRA CP-1 B1    007I,true,C1,1661201,_35a870f0-4565-4391-bb9d-0f7b6f4f95a7,ShuntCompensator
+_bfd06b64-0e29-4b4c-b9ae-be7fb103905e,CP-01,05LGAPSA CP-1 B1    001I,true,C1,1661381,_157306bc-b440-4d4c-9520-4e4d44fb4a58,ShuntCompensator
+_5f1bc5f5-65ab-464d-9671-f4e357c41a39,CP-01,05LGARVO CP-1 B1    1.8I,true,C1,1661769,_bdfe9da4-0fbf-46e6-a933-0bc36bd108d4,ShuntCompensator
+_1ee33a8e-f528-45a6-84cb-f010bafc220e,CP-01,06   ADC CP-1 B1     30I,true,C1,1664574,_25908f66-c13f-41be-b230-ee4cc3ed7dec,ShuntCompensator
+_2131283d-ccf0-4fb6-84e3-99766cb41580,RE-01,06   ADC RE-1        18I,true,R1,1664692,_d35903f0-cccb-4250-b256-4a78ee43745c,ShuntCompensator
+_db8fc1f3-727b-4931-b2f6-9c7114b929e0,RE-02,06   ADC RE-2 A3H30  62I,true,R2,1664747,_3692b3e1-48dc-4453-9f03-796ac4332e5d,ShuntCompensator
+_d2d84732-e94d-4fdf-8ea6-001a77ec9bc4,CP-01,06   AER CP-1 B1     30I,true,C1,1665062,_25818061-5d12-49d8-88ac-3d1195b761f7,ShuntCompensator
+_3a6413a8-3b78-4a4c-840f-ffbfbb9390fc,RE-01,06   AER RE-1 A3G20  50I,true,R1,1665548,_2567217a-ef8b-44c5-8710-0ac2f42ea4d5,ShuntCompensator
+_3c4f9bb3-055f-48f5-82f6-19a1e0c9ed2f,RE-02,06   AER RE-2 A3G30  50I,true,R2,1665550,_2567217a-ef8b-44c5-8710-0ac2f42ea4d5,ShuntCompensator
+_a8242b71-c92c-4eab-8171-8c187052daec,RE-03,06   AER RE-3 A3D80  62I,true,R3,1665552,_2567217a-ef8b-44c5-8710-0ac2f42ea4d5,ShuntCompensator
+_8ff6428b-e7f1-47b2-aebb-a41d5a8741c3,RE-05,06   ALT RE-5 A3500  62I,true,R5,1666758,_cae9dd9e-c8b3-4cde-b619-9ec67446d8cb,ShuntCompensator
+_11b6dce6-2d38-459f-83bd-e41d070583f0,CP-03,06   AMD CP-3 B1     25I,true,C3,1667364,_cde67489-613d-422d-a99b-972174b4ca9c,ShuntCompensator
+_1c01a2bd-d663-4fa4-9ec8-ca4ecb9953f8,CP-04,06   AMD CP-4 B2     20I,true,C4,1667366,_cde67489-613d-422d-a99b-972174b4ca9c,ShuntCompensator
+_2bd1312f-44d6-4e0d-be64-f5dc22c307d4,CP-05,06   AMD CP-5 B4    5.0I,true,C5,1667368,_cde67489-613d-422d-a99b-972174b4ca9c,ShuntCompensator
+_a84e3688-6d63-427e-a9a5-b119020263c5,RE-01,06HUAANP RE-1 B1     60I,true,R1,1667841,_0d3c3b5f-8d68-4529-b5dc-09d8f75df778,ShuntCompensator
+_fb84f621-5dc8-45ac-b37e-ca0f54e9bc02,CP-01,06   ARV CP-1 B1     42I,true,C1,1668736,_f1fe1eb8-0182-4ee5-8f96-02505a9d2b74,ShuntCompensator
+_fddce852-e704-462e-bc3d-fe3f268065da,RE-01,06   CBD RE-1 A3830  75I,true,R1,1705317,_1c447f36-ef72-48d4-8f08-bd448ea972bb,ShuntCompensator
+_e504c13a-a700-44cd-a5c9-a5e6c1204ddd,RE-02,06   CBD RE-2 A3840  75I,true,R2,1705319,_1c447f36-ef72-48d4-8f08-bd448ea972bb,ShuntCompensator
+_66fffe46-c103-4a31-a13d-8f76409e7b1c,RE-03,06   CBD RE-3 A3440  75I,true,R3,1705321,_1c447f36-ef72-48d4-8f08-bd448ea972bb,ShuntCompensator
+_f2b72d58-76f2-4fe0-8a2f-02c65f43622e,CP-01,06   CED CP-1 B1     42I,true,C1,1707388,_04a73bd4-4826-47fc-9351-b123f9958e30,ShuntCompensator
+_26bb651e-ce03-426e-8b1a-73a58c53db87,CP-01,06   CJO CP-1 B2    5.5I,true,C1,1708523,_6ee38cb9-bb65-4d36-ad9d-5a76a6d6e062,ShuntCompensator
+_f9fbd5fe-de25-4e29-a51c-9f7923a0ea9e,CP-02,06   CJO CP-2 B2    5.5I,true,C2,1708525,_6ee38cb9-bb65-4d36-ad9d-5a76a6d6e062,ShuntCompensator
+_00f6e08c-2937-4c1e-98e8-55a69cf75b15,RE-01,06   CJO RE-1 B1    4.5I,true,R1,1708527,_6ee38cb9-bb65-4d36-ad9d-5a76a6d6e062,ShuntCompensator
+_f0f0400c-e576-48f4-8e6b-67c4be27f238,RE-02,06   CJO RE-2 B1    4.5I,true,R2,1708529,_6ee38cb9-bb65-4d36-ad9d-5a76a6d6e062,ShuntCompensator
+_39b1d175-3617-43af-a636-d421ddf0c91a,RE-01,06   CPY RE-1 A3120  60I,true,R1,1709707,_7285ace9-5c70-44ba-af2e-622319ec2adc,ShuntCompensator
+_b1d6705e-c635-47ec-93bd-8838e691901c,RE-02,06   CPY RE-2 A3250  60I,true,R2,1709709,_7285ace9-5c70-44ba-af2e-622319ec2adc,ShuntCompensator
+_c7a8ec91-c488-4bbf-a79b-961fb5fed808,RE-03,06   CPY RE-3 A3G90  66I,true,R3,1709711,_7285ace9-5c70-44ba-af2e-622319ec2adc,ShuntCompensator
+_73c07a86-67aa-4cd5-871e-64479a4cd0c7,RE-04,06   CPY RE-4 A3G80  66I,true,R4,1709713,_7285ace9-5c70-44ba-af2e-622319ec2adc,ShuntCompensator
+_3f322740-2f97-4297-8263-f87ab0b97cde,CP-01,06   CUF CP-1 B1     36I,true,C1,1710122,_6f9e6557-6c8a-4240-b066-656fd8e9331c,ShuntCompensator
+_4a9d5ff5-b86b-4590-9d0f-3529056cd910,CP-01,06   DLS CP-1 B1     19I,true,C1,1710938,_ae461fa9-7a3c-42f4-b100-2f003c497016,ShuntCompensator
+_0f74b0b2-865a-465c-8fdb-fbdbff4dcd0c,CP-02,06   DLS CP-2 B1     19I,true,C2,1710940,_ae461fa9-7a3c-42f4-b100-2f003c497016,ShuntCompensator
+_c2647919-6afc-49b3-94c0-4f1221250986,CP-03,06   DLS CP-3 B2     19I,true,C3,1710942,_ae461fa9-7a3c-42f4-b100-2f003c497016,ShuntCompensator
+_8c2050fa-6a6f-4352-a05d-a189d478cb2e,CP-04,06   DLS CP-4 B2     19I,true,C4,1710944,_ae461fa9-7a3c-42f4-b100-2f003c497016,ShuntCompensator
+_e23789b4-7b9e-47da-bf7f-5c912947ff89,RE-01,06   DMD RE-1 A3G00  75I,true,R1,1711611,_2a99f113-c42c-4772-9524-f497875213ad,ShuntCompensator
+_71f23050-2ef7-445e-b7e3-e5b8eeb403f4,CP-01,06   ECH CP-1 B2     12I,true,C1,1713026,_c26bb73f-4b04-49cc-a5d5-00191013d01f,ShuntCompensator
+_b549700f-a674-4b12-ac32-ffb05be6ef22,CP-02,06   ECH CP-2 B2     12I,true,C2,1713028,_c26bb73f-4b04-49cc-a5d5-00191013d01f,ShuntCompensator
+_eab92e90-fe37-4006-80dc-3c53aac3f2ea,CP-03,06   ECH CP-3 B3     12I,true,C3,1713030,_c26bb73f-4b04-49cc-a5d5-00191013d01f,ShuntCompensator
+_c688b0ce-d9ea-4d03-8a77-89fe5522a616,CP-04,06   ECH CP-4 B3     12I,true,C4,1713032,_c26bb73f-4b04-49cc-a5d5-00191013d01f,ShuntCompensator
+_c28ebace-1aef-42b9-90c4-bade5ffc1969,CP-01,06   ECV CP-1 B1    2.0I,true,C1,1713224,_3bfa13f1-1d3b-41a6-b932-aaaadc84de2a,ShuntCompensator
+_5cdd5f57-57e3-4785-96d8-4fdca2a60106,CP-02,06   ECV CP-2 B1    2.0I,true,C2,1713226,_3bfa13f1-1d3b-41a6-b932-aaaadc84de2a,ShuntCompensator
+_4c86ad5a-310c-4d47-b185-b238dbc98656,CP-01,06   EMA CP-1 B1    2.0I,true,C1,1713516,_fef63df1-6176-498c-9c74-9a8a495094a0,ShuntCompensator
+_1e6c3e0d-9166-424b-89aa-21e1605d7776,CP-02,06   EMA CP-2 B1    2.0I,true,C2,1713518,_fef63df1-6176-498c-9c74-9a8a495094a0,ShuntCompensator
+_f4b645d9-4dee-4b0e-9b6d-9975d2daa1f4,CP-01,06   EMC CP-1 B1     09I,true,C1,1713674,_30dc2d7d-de43-42e9-af4c-8dc2f9b4033d,ShuntCompensator
+_71a66124-db5c-402a-84e4-7658ee8287b3,CP-02,06   EMC CP-2 B1     09I,true,C2,1713676,_30dc2d7d-de43-42e9-af4c-8dc2f9b4033d,ShuntCompensator
+_6427519e-ff93-4486-8b8f-c4235b16df55,CP-01,06   EMP CP-1 B1  13I,true,C1,1714495,_d0b231bc-3c5e-4648-a753-98e3895fc2cf,ShuntCompensator
+_2f7269b5-ef7a-4650-9e94-326445508a33,CP-02,06   EMP CP-2 B2  12I,true,C2,1714497,_d0b231bc-3c5e-4648-a753-98e3895fc2cf,ShuntCompensator
+_688be4c3-3cd9-44c3-b280-975e5c88edd7,CP-01,06   EMQ CP-1 B1    36I,true,C1,1715320,_885a94cf-a364-4f96-a6ff-45a9999765a9,ShuntCompensator
+_f14f3916-1c5e-459f-ad33-7244da2a7534,CP-02,06   EMQ CP-2 B2    36I,true,C2,1715322,_885a94cf-a364-4f96-a6ff-45a9999765a9,ShuntCompensator
+_5aa7b65f-ba3c-40b3-8361-cc3a47e73424,CP-01,06   EMS CP-1 B1    7.5I,true,C1,1715802,_f38f4545-3b41-4f1f-985d-8ec4fcc37f8c,ShuntCompensator
+_ca6ece68-f52f-427a-8534-78b1e9a4cce8,CP-01,06   EMT CP-1 B1     05I,true,C1,1716065,_135b22c0-76e8-4072-9a46-253d8d990dbf,ShuntCompensator
+_9f2af50d-1409-4510-be7b-287d997c8493,CP-01,06   ERY CP-1 B1  2.25I,true,C1,1716673,_1a6e79ca-e398-489f-8c29-8c3197ef7a77,ShuntCompensator
+_4ca7fdb3-71ff-4719-9ef3-6eb0d30555f9,CP-02,06   ERY CP-2 B2  2.25I,true,C2,1716675,_1a6e79ca-e398-489f-8c29-8c3197ef7a77,ShuntCompensator
+_a5fb043e-6f56-4c41-bdb9-b2b8a737dc6d,CP-03,06   ERY CP-3 B3  2.25I,true,C3,1716677,_1a6e79ca-e398-489f-8c29-8c3197ef7a77,ShuntCompensator
+_ec835cb8-74b6-4df0-94d5-e74a3305a223,CP-04,06   ERY CP-4 B4  2.25I,true,C4,1716679,_1a6e79ca-e398-489f-8c29-8c3197ef7a77,ShuntCompensator
+_dd7e0141-4030-4c82-875d-0d5a5700882b,CP-01,06   ESC CP-1 B1     45I,true,C1,1717311,_466a0d56-381d-453a-869f-4b08c25916bb,ShuntCompensator
+_77f543ec-fddd-47ad-995f-aade4198fe6c,RE-01,06   FRO RE-1 A3450  62I,true,R1,1719284,_e46f2040-0429-4cc9-88a3-74f7672c628a,ShuntCompensator
+_a41b412e-b62a-4acf-9fd7-43dbde80ffdf,RE-02,06   FRO RE-2 A3460  62I,true,R2,1719286,_e46f2040-0429-4cc9-88a3-74f7672c628a,ShuntCompensator
+_b986ee58-9f29-4abb-96fc-866fd9bffbd2,RE-01,06   GUE RE-1 A3I70  50I,true,R1,1721716,_33cfc0f5-b6f7-4205-8695-d404d52f3561,ShuntCompensator
+_0d349c60-9f88-42f8-af26-55fbcc1f2426,RE-02,06   GUE RE-2 A36E0  50I,true,R2,1721718,_33cfc0f5-b6f7-4205-8695-d404d52f3561,ShuntCompensator
+_1fc5dbd9-b892-43d1-8d62-63a6aff4b547,RE-03,06   GUE RE-3 A3140  50I,true,R3,1721720,_33cfc0f5-b6f7-4205-8695-d404d52f3561,ShuntCompensator
+_528eb55e-b24d-47ef-88b1-e255107d6e60,RE-04,06   GUE RE-4 A3D90  50I,true,R4,1721722,_33cfc0f5-b6f7-4205-8695-d404d52f3561,ShuntCompensator
+_468c7229-c0da-48ed-a60d-e45fe16cd9e6,RE-01,06   HUI RE-1 A3740  50I,true,R1,1722603,_01796e3e-1f8f-4b5e-816b-c26d8096a5a1,ShuntCompensator
+_3fa46d8f-82e7-4a23-a557-b595b50efcb5,RE-01,06   HUO RE-1 A3270  50I,true,R1,1723183,_a8315c42-3484-44fd-9a03-db9c576dc0e9,ShuntCompensator
+_0af2f37b-c857-441a-8aa1-c9f747c16c2c,CP-01,06   JEP CP-1 B1     30I,true,C1,1724226,_537c9608-1c9a-4d65-9c8a-6afaaa4c87ad,ShuntCompensator
+_1e0e2156-646f-4ad8-9776-bf38fdc6b7b1,RE-01,06   LAM RE-1 A3880  50I,true,R1,1725818,_9f9928ff-076e-4205-8d1f-5a3e4d738bc5,ShuntCompensator
+_e9069793-6874-47fb-a1ee-b87a1e8feae7,RE-02,06   LAM RE-2 A3890  50I,true,R2,1725820,_9f9928ff-076e-4205-8d1f-5a3e4d738bc5,ShuntCompensator
+_4fde873d-e1dc-4cbb-9ee3-587b663ee694,CP-01,06   LIA CP-1 B1    2.0I,true,C1,1746350,_1511aff7-2bb1-4a66-bd40-8deab44266f2,ShuntCompensator
+_13fda250-b44a-4149-8593-70b515f091fc,CP-02,06   LIA CP-2 B1    7.5I,true,C2,1746352,_1511aff7-2bb1-4a66-bd40-8deab44266f2,ShuntCompensator
+_4cd7cc79-bba1-4356-8bd9-6a3d12264507,CP-03,06   LIA CP-3 B1    7.5I,true,C3,1746354,_1511aff7-2bb1-4a66-bd40-8deab44266f2,ShuntCompensator
+_745d9cbb-024f-451c-8150-4d1e3dd18f65,CP-04,06   LIA CP-4 B1    7.5I,true,C4,1746356,_1511aff7-2bb1-4a66-bd40-8deab44266f2,ShuntCompensator
+_c0ab0eee-5967-427b-a63f-64b2619dfbbc,CP-05,06   LIA CP-5 B2    2.0I,true,C5,1746358,_1511aff7-2bb1-4a66-bd40-8deab44266f2,ShuntCompensator
+_0a4b6c09-8668-4ad0-a9dd-f8568ba385ac,CP-06,06   LIA CP-6 B2    7.5I,true,C6,1746360,_1511aff7-2bb1-4a66-bd40-8deab44266f2,ShuntCompensator
+_f9ce77d3-122c-43fa-b5bd-72ba0c4ac563,CP-07,06   LIA CP-7 B2    7.5I,true,C7,1746362,_1511aff7-2bb1-4a66-bd40-8deab44266f2,ShuntCompensator
+_b9470b0d-3a52-4ec0-a2bf-147507a4e3f1,CP-08,06   LIA CP-8 B2    7.5I,true,C8,1746364,_1511aff7-2bb1-4a66-bd40-8deab44266f2,ShuntCompensator
+_847f0f74-bad5-40f6-bc1a-04098bec81c5,RE-01,06   LIA RE-1 B1     33I,true,R1,1746366,_1511aff7-2bb1-4a66-bd40-8deab44266f2,ShuntCompensator
+_27d08c0a-91e8-4aff-846c-0a600ebb3d8a,RE-02,06   LIA RE-2 B2     33I,true,R2,1746368,_1511aff7-2bb1-4a66-bd40-8deab44266f2,ShuntCompensator
+_27792336-c103-42c1-9c1e-033f047aafe0,RE-01,06   LLC RE-1 A3250  50,true,R1,1746653,_db8c6c5f-e83b-4a12-8946-5b34c0b93b4c,ShuntCompensator
+_2ad1fc83-ee1b-4abb-be64-939b851d219f,RE-01,06   MES RE-1 A3L50 100I,true,R1,1748327,_0f37705c-ea59-45fb-98b1-3440c45fe6b4,ShuntCompensator
+_1bb31e4a-f8a6-4d3d-b727-9c1a783eb788,RE-02,06   MES RE-2 A3L60 100I,true,R2,1748329,_0f37705c-ea59-45fb-98b1-3440c45fe6b4,ShuntCompensator
+_1e5a1fb3-540a-4c4c-be52-e884a3aa506c,CP-01,06   MMP CP-1 B1     30I,true,C1,1748640,_eba713d3-906f-4ba2-a615-2ab0327a60d8,ShuntCompensator
+_bacc561f-2848-436d-951c-feea5bb0d295,CP-01,06   MTY CP-1 B1     42I,true,C1,1751193,_296c2999-c441-4e2a-bd84-4ce8c9cb23a1,ShuntCompensator
+_5fdbbac2-91ec-4952-b030-8a1cbda81889,CP-01,06   NIC CP-1 B1     42I,true,C1,1751975,_c7be59ab-4342-4fcb-8b71-d4bf64da9929,ShuntCompensator
+_c97f64df-18e7-4f4c-9c68-6740f9618e60,CP-01,06   NVS CP-1 B1     27I,true,C1,1753879,_42cbf949-e1ec-4bb4-8973-280bbd2b0395,ShuntCompensator
+_0fafd984-4777-48b7-9346-9de6738d32c8,RE-01,06   NVS RE-1        21I,true,R1,1753989,_e3d52467-3074-4df8-b100-674c12d61e10,ShuntCompensator
+_6bcd4c45-0ca1-4fe3-91f5-e6df318e9708,CP-01,06   PEC CP-1 B2    2.0C,true,C1,1754905,_84d02b67-a3a7-446d-a6c7-302e41f3f327,ShuntCompensator
+_7d251f99-deeb-4a8c-b938-a226c055cdb3,RE-01,06   PEC RE-1 B1    7.0I,true,R1,1754907,_84d02b67-a3a7-446d-a6c7-302e41f3f327,ShuntCompensator
+_70aab551-82c1-4b32-b5e2-51aebe2dbeb4,RE-02,06   PEC RE-2 B1    7.0I,true,R2,1754909,_84d02b67-a3a7-446d-a6c7-302e41f3f327,ShuntCompensator
+_ceece04d-3c31-40a3-92dd-e3ce8652431a,RE-03,06   PEC RE-3 B2    7.0I,true,R3,1754911,_84d02b67-a3a7-446d-a6c7-302e41f3f327,ShuntCompensator
+_3a886786-5384-4965-8112-6abb766b96ed,RE-04,06   PEC RE-4 B2    7.0I,true,R4,1754913,_84d02b67-a3a7-446d-a6c7-302e41f3f327,ShuntCompensator
+_56f3168a-fb65-4b26-b3b8-5cc4dd097be7,CP-01,06   PST CP-1 B1    10.I,true,C1,1756947,_f873f162-0c16-4a8d-8bff-0c47d78c240e,ShuntCompensator
+_31e677c0-46d6-46fe-b9b7-8c4a8e796425,RE-02,06   RAP RE-2 A3G10  75I,true,R2,1757960,_1927ebf6-d43e-4fde-90bd-4c7301c9562b,ShuntCompensator
+_3933dfae-297e-408b-83fe-b26bb16705b5,RE-01,06   REC RE-1 A3430  75I,true,R1,1759793,_dbeea793-aa73-45d9-b946-586424684a3b,ShuntCompensator
+_ccfe81a3-3e7f-4a3f-8ffa-7ddc4f7599d1,CP-01,06   RIB CP-1 B1     30I,true,C1,1760661,_8db7288e-cf89-4419-b474-f98cff01569f,ShuntCompensator
+_37a4ad3d-ace9-49f6-89e1-305175e1f061,CP-01,06   SAL CP-1 B1     45I,true,C1,1762244,_10a9e71c-f400-4d72-9bd2-87d83cf30499,ShuntCompensator
+_9aab2a91-9cd7-473c-98c9-73e4f689b287,RE-01,06   TMO RE-1 A3490  62I,true,R1,1764172,_dc88041c-8dae-46a8-b908-67fda520b4c2,ShuntCompensator
+_0d0014db-f160-4c4e-aee5-549c5aa08527,RE-02,06   TMO RE-2 A3790  62I,true,R2,1764174,_dc88041c-8dae-46a8-b908-67fda520b4c2,ShuntCompensator
+_fa591da1-eff4-43f0-b9aa-b01405df54e3,RE-01,06   TMS RE-1 A3120  50I,true,R1,1764714,_6cf8f549-5d50-4b63-8b75-9d341f5f293f,ShuntCompensator
+_430e923d-a452-4dbb-b98c-385a0f25a775,CP-01,06   TSS CP-1 B1     12I,true,C1,1765616,_9e182530-bc10-4f0f-8745-a304802da455,ShuntCompensator
+_2a25b41b-ac0f-4b23-849d-a2b2f4ac7776,CP-01,06   VCG CP-1 B1    20.I,true,C1,1794878,_0b749ab1-1f7f-4d70-a767-cb71d046b1a9,ShuntCompensator
+_d581c06f-233b-4178-b29c-a68da05ec340,RE-01,06   VDG RE-1 A3450  62I,true,R1,1795910,_b7139102-6ba5-4df4-8ad7-914dbd0b22d2,ShuntCompensator
+_06ec34a8-8026-4d6d-b21a-410ffe36052f,RE-02,06   VDG RE-2 A3460  62I,true,R2,1795912,_b7139102-6ba5-4df4-8ad7-914dbd0b22d2,ShuntCompensator
+_1d4cda24-ee04-4de8-9ae6-c4ef10eb8ebf,RE-03,06   VDG RE-3 A3G20  75I,true,R3,1795914,_b7139102-6ba5-4df4-8ad7-914dbd0b22d2,ShuntCompensator
+_8c7ce256-0c6f-4809-8800-68178eefb69f,CP-01,06   VKD CP-1 B1    3.5I,true,C1,1797565,_6007aba2-1a86-4dd1-9d0b-62570d975b8a,ShuntCompensator
+_4362527f-7976-4bd2-9ea6-7729b9f0a780,CP-01,06   VKU CP-1 B1    3.5I,true,C1,1797972,_7ec8f35f-6981-45d1-a9d2-d0145984e20d,ShuntCompensator
+_71c12947-0b62-4a67-8587-dde5ba4c2379,CP-01,06CERCER CP-1 B1      7I,true,C1,1798385,_8a516144-0cce-4c97-983e-0cd7fdd5cd9f,ShuntCompensator
+_7e137b41-79e7-4d37-98f5-7161b1c81382,CP-01,06COAAMI CP-1 B1      8I,true,C1,1800367,_5ef3d164-c8ae-4a84-a149-653f45d5b68b,ShuntCompensator
+_08785fa0-dceb-4ba0-99c4-ab780e861742,CP-03,06COAAUA CP-3 B1     30I,true,C3,1801237,_18b30ae6-53c6-483d-8b61-feee74d0671f,ShuntCompensator
+_7acf6778-2aa7-4e1e-ab19-f8c658bf68a3,CP-01,06COACID CP-1 B1     27I,true,C1,1801977,_77c2187f-c38f-45f9-a8be-519674c86847,ShuntCompensator
+_9fd181e7-b333-40d9-8ade-ed3c5da94110,CP-01,06COALAA CP-1 B1     42I,true,C1,1805837,_11ab84be-39f1-4ea9-9725-49ab7fcc4d9f,ShuntCompensator
+_bcc04b47-fc40-46a9-b098-bac534865af1,CP-01,06COANUL CP-1 B1    018I,true,C1,1809611,_18f75708-be8e-4d75-b686-eb90d97698a7,ShuntCompensator
+_d82b21f1-37ee-4b73-a860-c1bf2cf5127e,CP-01,06COAXOC CP-1 B1   22.5I,true,C1,1811954,_8fe2357a-4afa-4481-80ef-de428c514d59,ShuntCompensator
+_3b7eed00-2b24-460a-abdf-8dc453fadd75,CP-01,06FROANZ CP-1 B1     21I,true,C1,1812330,_ad7935d3-4c51-4a36-98d6-80e491cb8063,ShuntCompensator
+_0602604f-66ca-4ed9-bb06-14a2cfee2afc,CP-01,06FROINV CP-1 B1     42I,true,C1,1814071,_bf148c73-201f-4d81-a7c9-c4e54da9d7b9,ShuntCompensator
+_28fa06f1-d428-4df4-a4d0-2098ea691415,CP-01,06FROMTM CP-1 B1     21I,true,C1,1815641,_c0ef8687-96a9-4b7b-a6e5-7ad8f0fb4e6f,ShuntCompensator
+_f14daec3-6dde-4c68-a3e1-cc77434f2aea,CP-01,06FROREY CP-1 B1     21I,true,C1,1818007,_e0527ba5-e052-43b9-938f-6732c655facc,ShuntCompensator
+_14b2e6f0-ac6f-4d8b-8996-1ca70ff4db8e,CP-01,06HUAAXA CP-1 B1     15I,true,C1,1837985,_697bd67e-bc3a-4d21-9858-ce677db33ab0,ShuntCompensator
+_fe9001a5-d7e6-4972-a2c0-5d890854fc5f,CP-01,06HUAENA CP-1 B1  1.8I,true,C1,1839581,_9d2598d8-895f-496a-8b7e-1cac7a454138,ShuntCompensator
+_5df22555-2c06-4bd4-9241-4757fe23972f,CP-01,06HUAMAN CP-1 B1     15I,true,C1,1842044,_ba261adf-9389-4ef5-b23b-5e9570ddf7ed,ShuntCompensator
+_02e8fc44-41b6-492f-8402-085b5e7702df,CP-01,06MTNALN CP-1 B1    7.5I,true,C1,1850160,_dfbe7bd6-dcde-40bd-9e5a-9b2848b89264,ShuntCompensator
+_b466eb91-a7d5-4137-8377-84dc6a348ee6,CP-01,06MTNLDA CP-1 B1,true,C1,1850437,_ef75ef5c-fdd8-40e7-b305-13bcedfb25a2,ShuntCompensator
+_7ebf3e63-9400-435b-8aab-80bfb83d85c9,CP-01,06MTNVDS CP-1 B1    7.5I,true,C1,1851246,_ee61d99a-05c2-4e57-9765-17059b49cf07,ShuntCompensator
+_817a3434-bb9c-4b01-ac0e-22a1e3d86a82,CP-01,06MTYCEL CP-1 B1     42I,true,C1,1851537,_c06df0b4-6208-4dfb-957b-930428074422,ShuntCompensator
+_b1fa8e40-0dfc-42eb-87f9-061e7b098d77,CP-01,06MTYDON CP-1 B1     21I,true,C1,1851925,_9e56a4e9-7940-470f-b06f-27fdf10300bb,ShuntCompensator
+_041a806f-6113-4c3b-907f-9b759ed00cd5,CP-01,06MTYLEO CP-1 B1     30I,true,C1,1852687,_01acd3b7-343c-4a2d-b478-23c7ed1c21a5,ShuntCompensator
+_16eeb61a-8630-45ab-9810-4bc50e50a1fb,CP-01,06MTYNOG CP-1 B1     42I,true,C1,1853399,_07abc623-d9f4-4110-aea3-3a31167cbfe7,ShuntCompensator
+_111b8f5d-8cb4-405d-a35e-375e9bc6b102,CP-01,06MTYPEM CP-1 B1     30I,true,C1,1854287,_de16d93c-18aa-4f69-a937-67c42422e882,ShuntCompensator
+_82e321d4-c99b-4073-88d1-d6d2719854f5,CP-01,06NESTEC CP-1 B1     21I,true,C1,1855241,_e521d89c-3d46-4629-beca-dff4b6cf678b,ShuntCompensator
+_1b6bb1cb-44e5-4ec3-a24f-437a5ea4ca6f,CP-01,06OCSALM CP-1 B1     15I,true,C1,1855999,_15d81890-d06e-4df6-b36c-78d59351a892,ShuntCompensator
+_f06b9af0-c665-498d-949e-3cc94d4de105,CP-01,06OCSALP CP-1 B1     15I,true,C1,1856260,_be3cbd11-cce9-4655-b41d-e793df2605fb,ShuntCompensator
+_7ce8b5a7-5aad-4060-a481-3b77ceabfa8b,CP-01,06OCSNVD CP-1 B1   10.5I,true,C1,1857652,_6a86573c-9806-4e28-b734-b8fa6db6355c,ShuntCompensator
+_0304cfb1-c128-4d96-8ea3-3295e3b5a9d0,CP-01,06OPCCAT CP-1 B1     42I,true,C1,1860905,_70ca75d8-1c88-4a94-8fea-bea65d205dc6,ShuntCompensator
+_f1ab7ae5-a67e-4dc6-b668-66cb1866d102,CP-01,06OPCEST CP-1 B1     20I,true,C1,1863276,_79ae3ad9-1398-4014-9b95-6fa15a0f479b,ShuntCompensator
+_8a285c09-7fdb-4ff8-b6db-ec33b046da70,CP-01,06OPCLOL CP-1 B1     30I,true,C1,1867828,_15bff4fc-35b6-46ba-b9be-a0685dc5bb80,ShuntCompensator
+_18a3817e-a84d-4e1e-97cf-879d671a5915,CP-01,06OPCMIT CP-1 B1     27I,true,C1,1869357,_f159c86a-aa4e-4adf-8a30-75db5a90ad50,ShuntCompensator
+_3c646c64-8f4a-42cd-bf87-82e32fc93dad,CP-01,06OPCMUN CP-1 B1     31I,true,C1,1870461,_9f330863-4cf2-40eb-9b93-80ea4beb4adc,ShuntCompensator
+_fd0e06d7-a6b8-4e73-80b0-c02ad3670978,CP-01,06OPCROQ CP-1 B1     36I,true,C1,1874281,_df042e2c-4591-437c-96f4-5774ce1d2ec4,ShuntCompensator
+_1858e7c0-a5e9-49ca-b7f9-53c1123f7da4,CP-01,07   TRI 4510   1.8 MVAR,true,C1,1878793,_464aa311-23f6-4c98-8874-6faea24494fc,ShuntCompensator
+_4d0da545-0bda-407d-9930-b5766b0d34f5,CP-02,07   UND 65020 16.2 MVAR,true,C2,1879179,_7eb0eab6-d7ac-4e70-a97e-e525e01fa922,ShuntCompensator
+_f35637d6-31f1-4885-8269-e9d146ea8864,CP-01,07   VLP 4510  1.8 MVAR,true,C1,1880628,_82378377-8d16-4e46-91b8-e03937eb4605,ShuntCompensator
+_1d14a41d-4153-4a7e-bd05-1c57b6a44052,CP-01,07   HLI CB10   24 MVAR,true,C1,1883928,_a36c7764-43a1-46b0-b745-13d178a98567,ShuntCompensator
+_97eee9f9-4880-4511-8e3a-20f4f1125557,CP-01,07   MID CB10   24 MVAR,true,C1,1884180,_52785f23-8a8e-428a-9d96-8cdffeaac430,ShuntCompensator
+_818a1df2-9eec-41cb-af9a-c3633252f96d,CP-01,07   CRV 500 KV 75 MVAR,true,C1,1885787,_bb0aeab8-f44e-4dd2-b020-c0b8acc762c1,ShuntCompensator
+_f336d581-31e4-4267-89ed-ed782e8856e0,RE-07,07   DVR 500 KV 100 MVAR,true,R7,1885947,_63e29cfe-591f-4f81-92c0-44b1c0931304,ShuntCompensator
+_1cf1febe-ece0-4f49-af15-73d9f902a7d9,RE-01,07   DVR RT_15 37.5 MVAR,true,R1,1886111,_b6431325-3ef0-4f67-8cba-2c28bcdf7dc9,ShuntCompensator
+_a943c7c2-7860-4147-ae94-32ab58e66544,RE-02,07   DVR RT_16 37.5 MVAR,true,R2,1886113,_b6431325-3ef0-4f67-8cba-2c28bcdf7dc9,ShuntCompensator
+_4885cf77-8ae6-4c6b-9bad-e46a1f6a68d6,RE-03,07   DVR RT_17 37.5 MVAR,true,R3,1886115,_b6431325-3ef0-4f67-8cba-2c28bcdf7dc9,ShuntCompensator
+_d2e0e661-5abe-4c61-8e4e-b0a3d2a42760,RE-04,07   DVR RT_18 37.5 MVAR,true,R4,1886117,_b6431325-3ef0-4f67-8cba-2c28bcdf7dc9,ShuntCompensator
+_eea432a7-3269-47a3-b7a8-7909d505d98b,RE-05,07   DVR RT_19 37.5 MVAR,true,R5,1886119,_b6431325-3ef0-4f67-8cba-2c28bcdf7dc9,ShuntCompensator
+_c22e8e61-3243-4ebe-a3be-b8c4523b95a5,RE-06,07   DVR RT_20 37.5 MVAR,true,R6,1886121,_b6431325-3ef0-4f67-8cba-2c28bcdf7dc9,ShuntCompensator
+_aa86c212-7122-40d6-b10b-d84d788dfca3,RE-01,07   HND RT_01  25 MVAR,true,R1,1887622,_a074c168-4310-4048-a4af-cf6d1f4fd9f2,ShuntCompensator
+_0cd01c15-56b3-4d1f-983f-677df094d0ae,RE-01,07   MRG RT_01 37.5 MVAR,true,R1,1887924,_889aedb0-79f4-4c28-8ae2-a6554a5a9c63,ShuntCompensator
+_e8c1d39e-2282-4332-b039-30874160cd19,RE-01,07   SRN RT_01 37.5 MVAR,true,R1,1888420,_1a029b28-84fe-4ed5-b3a9-5d646a10b2da,ShuntCompensator
+_44ed6b18-3c3a-4cef-bc59-5c3dfba1271f,RE-02,07   SRN RT_02 37.5 MVAR,true,R2,1888422,_1a029b28-84fe-4ed5-b3a9-5d646a10b2da,ShuntCompensator
+_6b221e59-7e12-4acb-a9ef-2d8f57d12138,RE-03,07   SRN RT_03 37.5 MVAR,true,R3,1888424,_1a029b28-84fe-4ed5-b3a9-5d646a10b2da,ShuntCompensator
+_9e29646d-ce10-484f-b77e-89d8a51f9eb0,RE-04,07   SRN RT_04 37.5 MVAR,true,R4,1888426,_1a029b28-84fe-4ed5-b3a9-5d646a10b2da,ShuntCompensator
+_8fa87ddb-5abe-46e8-b3bf-8c5235be0c91,CP-01,07   VLY NORTH_BC_1,true,C1,1889116,_91edb26f-b50b-446a-87fa-4c1ef4a984e8,ShuntCompensator
+_904a72c3-d8f1-44c9-b5d8-99052404eaca,CP-02,07   VLY SOUTH_BC_2,true,C2,1889118,_91edb26f-b50b-446a-87fa-4c1ef4a984e8,ShuntCompensator
+_98621a5d-bfea-403e-8a54-4b803a1af598,RE-01,07   ESC RT_01 37.5 MVAR,true,R1,1890026,_502d7b0d-a4cb-40c3-becf-4a75ae88db51,ShuntCompensator
+_fdee043a-ca97-4b53-9e62-ae880c0811eb,RE-02,07   ESC RT_02 37.5 MVAR,true,R2,1890028,_502d7b0d-a4cb-40c3-becf-4a75ae88db51,ShuntCompensator
+_d48c34b1-a345-4afd-aeaf-fe9b7783dae7,CP-01,07   MGL CP-NORTH_BC,true,C1,1890427,_77701fcd-41bb-46a3-92ad-1b9a59a08e0a,ShuntCompensator
+_41a543b3-e5c8-47b8-a32d-be311ded8731,CP-02,07   MGL CP-SOUTH_BC,true,C2,1890429,_77701fcd-41bb-46a3-92ad-1b9a59a08e0a,ShuntCompensator
+_1bb3ddeb-e9a6-4d82-8925-13c884c80b7a,RE-01,07   MGL RT_01 37.5 MVAR,true,R1,1890503,_20b9098b-4aae-49b8-b122-419aef583280,ShuntCompensator
+_e2508aa3-986b-457b-97a2-8ff8a42eee42,RE-02,07   MGL RT_02 37.5 MVAR,true,R2,1890505,_20b9098b-4aae-49b8-b122-419aef583280,ShuntCompensator
+_307934e4-e939-40a7-96ba-01b01e48c868,RE-03,07   MGL RT_03 37.5 MVAR,true,R3,1890507,_20b9098b-4aae-49b8-b122-419aef583280,ShuntCompensator
+_c29c8faa-7cd3-4a4a-a7ad-68d3d67037b4,RE-04,07   MGL RT_04 37.5 MVAR,true,R4,1890509,_20b9098b-4aae-49b8-b122-419aef583280,ShuntCompensator
+_e1a6f828-3943-448f-bc59-0d7d2a39dc85,CP-01,07   PQS CAP 1 230KV,true,C1,1892036,_e50ecbfa-ae37-414c-b24f-c49018741a1f,ShuntCompensator
+_4c5d2b54-0e68-4d53-b201-c9c0ea4e1dbf,CP-02,07   PQS CAP 2 230KV,true,C2,1892038,_e50ecbfa-ae37-414c-b24f-c49018741a1f,ShuntCompensator
+_fa8fb2de-af14-4d5b-a0dd-844474c4669e,CP-03,07   PQS CAP 3 230KV,true,C3,1892040,_e50ecbfa-ae37-414c-b24f-c49018741a1f,ShuntCompensator
+_61596345-3f0e-43ab-a153-f6605461680f,CP-04,07   PQS CAP 4 230KV,true,C4,1892042,_e50ecbfa-ae37-414c-b24f-c49018741a1f,ShuntCompensator
+_c4dc01ef-ae29-44c7-a64e-ee6f2ebce45a,CP-01,07   SCT CP_01  21 MVAR,true,C1,1892427,_d4b14074-07c5-460f-9dd3-ef7397087491,ShuntCompensator
+_49e1bf2a-9443-42eb-ac2e-e4ef0f5921bd,CP-02,07   SCT CP_02  21 MVAR,true,C2,1892429,_d4b14074-07c5-460f-9dd3-ef7397087491,ShuntCompensator
+_ddefb415-23d4-4e70-bbe8-74ca50dafd30,RE-09,07   SCT RT_01  125 MVAR,true,R9,1892475,_f7b2d594-2f61-44d7-89e0-b77231a90707,ShuntCompensator
+_ce1a08e2-fce9-4e05-a356-42addecceee9,RE-01,07   SCT RT_01 37.5 MVAR,true,R1,1892515,_464f9317-e3e1-4764-8d64-c62280333223,ShuntCompensator
+_d6dfbadf-4b83-41d5-a6a3-35cce2a43e94,RE-02,07   SCT RT_02 37.5 MVAR,true,R2,1892517,_464f9317-e3e1-4764-8d64-c62280333223,ShuntCompensator
+_8559f747-1d66-4755-b607-87da5d69b5f7,RE-03,07   SCT RT_03 37.5 MVAR,true,R3,1892519,_464f9317-e3e1-4764-8d64-c62280333223,ShuntCompensator
+_cfe2c9a7-95da-4694-a126-d00bc99cae24,RE-04,07   SCT RT_04 37.5 MVAR,true,R4,1892521,_464f9317-e3e1-4764-8d64-c62280333223,ShuntCompensator
+_9e653e9c-4685-4656-924b-b24ba76c3e40,RE-05,07   SCT RT_11 37.5 MVAR,true,R5,1892523,_464f9317-e3e1-4764-8d64-c62280333223,ShuntCompensator
+_3edb75b1-de1d-4b44-a197-90a197387c08,RE-06,07   SCT RT_12 37.5 MVAR,true,R6,1892525,_464f9317-e3e1-4764-8d64-c62280333223,ShuntCompensator
+_3de0ba68-bbfe-4b26-af99-e99ce2419ffe,RE-07,07   SCT RT_13 37.5 MVAR,true,R7,1892527,_464f9317-e3e1-4764-8d64-c62280333223,ShuntCompensator
+_c03b1742-7f90-45b8-8d49-ec3fe2f73638,RE-08,07   SCT RT_14 37.5 MVAR,true,R8,1892529,_464f9317-e3e1-4764-8d64-c62280333223,ShuntCompensator
+_e99bc927-c1fe-44bd-bc2b-2c4b3cd0de40,RE-01,07   HAS RT_01  114 MVAR,true,R1,1894924,_f97f95b3-34b1-418a-a5f3-302d5b4993cf,ShuntCompensator
+_24655496-0ad8-4e81-ac1d-07f682a0bdb4,RE-01,07   PVD RT_01  150 MVAR,true,R1,1895332,_8f438f41-c85f-4419-87ed-f4d2923d1f8d,ShuntCompensator
+_8f5c6b0c-f3cc-49ea-b60f-03e348252b9b,RE-01,07   IVY RT_01  100 MVAR,true,R1,1916507,_51965682-ed24-4d80-9f53-cfa9de104d2f,ShuntCompensator
+_5e3ecd0d-baba-4127-89e4-0d30ea104780,CP-10,BLE_13__C10,true,C1,15948656,_7a3a0fb6-e88e-4719-90ed-c6445c5ab4a5,ShuntCompensator
+_4c9c6cf6-9435-45f4-bb89-671cf1e443e9,CP-20,BLE_13__C20,true,C2,15948658,_7a3a0fb6-e88e-4719-90ed-c6445c5ab4a5,ShuntCompensator
+_74e882cb-5753-4244-a2f2-01be7db5f3ea,CP-20,CAB_CP_20,true,C2,15949770,_43efa06a-8eca-4b36-8658-025db1d41d08,ShuntCompensator
+_4ef51f9c-065a-4be8-a9fd-0657207738b6,CP-10,CAB_CP_10,true,C1,15949902,_02166592-833d-4ca0-bbcd-bcc05aa941cb,ShuntCompensator
+_c6e8b2e6-3616-4123-b0ff-b5e71403ed5c,CP-11,CAD_CP_10A,true,C1,15950598,_4cd73314-3a4f-417a-8822-bb01dd8427d9,ShuntCompensator
+_ba1b6f84-ad84-4403-92a5-53f74b5156e2,CP-10,CAD_CP_10,true,C1,15950812,_7d704d39-8915-456c-8f74-2e7bf6cf5002,ShuntCompensator
+_0936a3b3-d581-4997-8812-d4c1f8c3e17e,CP-20,CAD_CP_20,true,C2,15950814,_7d704d39-8915-456c-8f74-2e7bf6cf5002,ShuntCompensator
+_ecb2d297-13be-452d-988a-c42ef085c1b8,CP-10,CAF_CP_10,true,C1,15951739,_45dce60c-327a-45af-a8e0-6beb85853272,ShuntCompensator
+_baf53dbc-b102-4b88-b4fc-85d9e160cdb6,CP-10,CAR_CP_10,true,C1,15955183,_341a68c0-00fb-401b-b67f-9b39cdc207a9,ShuntCompensator
+_f62d9bf8-d395-4b51-9145-1f31001aff69,CP-10,CAS_CP_10,true,C1,15955838,_7a371e6d-7eef-40b2-a0bc-dc61b2061a2f,ShuntCompensator
+_7f5c18bd-27bd-41ae-8242-c9864cd1715a,CP-10,CRE_CP_10,true,C1,15957147,_de27c042-74dd-4d26-bb5b-20159168a209,ShuntCompensator
+_e9f51f66-78c3-4304-b2db-6b4cf6b4ffad,CP-10,DOM_CP_10,true,C1,16265214,_85bf50b6-2a4e-456f-b842-411442b51af6,ShuntCompensator
+_272f6488-92fe-4e38-abe9-306c23f0e658,RE-10,ELP_RE_10,true,R1,16275589,_070f26b5-d33e-44ae-b712-12bfb23e155b,ShuntCompensator
+_b743088a-0e00-459d-9695-5bfa49f4f9e9,CP-10,ETR_CP_10,true,C1,16283532,_6503ba66-b0b7-41ad-88aa-5615bf85df4a,ShuntCompensator
+_e0909c4f-b7ce-43d6-ae7b-20243720911c,CP-10,LPZ_CP_10,true,C1,16460456,_ef25f555-4e5b-412a-bb83-1c0944e45468,ShuntCompensator
+_adfb56ff-9338-4ad8-a450-6b44e6768666,RE-10,OLA_RE_10,true,R1,16491035,_eaec7dcd-709a-4d26-b53a-8fad1ff92ea8,ShuntCompensator
+_d9066132-ec59-4353-a3b7-70bf95ed4e22,CP-10,PAA_CP_10,true,C1,16492667,_e8aff207-0228-466a-811b-89e86979fc01,ShuntCompensator
+_d297a129-d518-4469-b29b-532be3c5b5a7,CP-20,RCO_CP_20,true,C2,16527295,_2140cab2-1496-43e8-9928-2949b34c705a,ShuntCompensator
+_103a169b-9715-439e-969c-d48015a62a47,CP-10,RCO_CP_10,true,C1,16527297,_2140cab2-1496-43e8-9928-2949b34c705a,ShuntCompensator
+_0eb99d2f-b456-44b1-80ab-16fd48590b01,CP-30,SJC_CP_30,true,C3,16530072,_22bec0aa-e66c-425a-8284-f07a3cdafd7d,ShuntCompensator
+_213b912d-5544-4e55-87ad-003a3a6bca71,CP-50,SJC_CP_50,true,C5,16530074,_22bec0aa-e66c-425a-8284-f07a3cdafd7d,ShuntCompensator
+_2554f6c9-ecd4-4733-a8a1-42330c75fabe,CP-20,SJC_CP_20,true,C2,16530076,_22bec0aa-e66c-425a-8284-f07a3cdafd7d,ShuntCompensator
+_8ca3b721-132b-44f5-a5a2-f9caefa71615,CP-40,SJC_CP__40,true,C4,16530201,_f408f761-caf5-4f36-bf3e-59590c79fbff,ShuntCompensator
+_6f02def9-b576-4038-b870-3c3cafa9ab38,CP-11,SJC_CP__10,true,C1,16530203,_f408f761-caf5-4f36-bf3e-59590c79fbff,ShuntCompensator
+_0f875d36-9587-4017-ab7c-28bca816cbb7,CP-10,SJC_CP_10,true,C1,16530350,_79821476-f256-4fcf-9c46-91c346e9ccdc,ShuntCompensator
+_c12ad961-fe43-4fa9-af8f-cbde2d564fca,RE-30,VIO_RE_30,true,R3,16533558,_35ff116a-b125-4492-8d96-413c135816d9,ShuntCompensator
+_88d826c5-194b-4981-a155-f2af3a3b5a04,CP-01,06   AMT CP-1 B1     15C,true,C1,38156915,_9aaf8481-86d6-48b5-9f3b-13e484858282,ShuntCompensator
+_31e83ec6-9751-4bf5-aed8-3e1215f0603f,CP-02,06   AMT CP-2 B2     12C,true,C2,38156917,_9aaf8481-86d6-48b5-9f3b-13e484858282,ShuntCompensator
+_6850d4df-80ae-4a56-99f8-33b031332c5a,CP-03,06   AMT CP-3 B3    6.0C,true,C3,38156919,_9aaf8481-86d6-48b5-9f3b-13e484858282,ShuntCompensator
+_6cdd8f0b-ae10-443a-9d2a-3d3ad3e0eed9,CP-01,02   NXL CP-1 B1    015I,true,C1,38164861,_c6eeea70-c7b9-43fc-be2a-2b16a18f5dad,ShuntCompensator
+_a903183b-7861-481b-8f10-551e0c5db4e0,CP-02,02   NXL CP-2 B2    015I,true,C2,38164863,_c6eeea70-c7b9-43fc-be2a-2b16a18f5dad,ShuntCompensator
+_349B4CF4-F134-4F23-8065-8532CE96CCB7,CP-01,01   RSL CP-1 T01 009.0,true,C1,38165381,_e901116b-e2f7-4d5a-9d56-9cd9bb979e20,ShuntCompensator
+_1F69286D-2350-4EC1-AAD8-EC1860E849F7,CP-02,01   RSL CP-2 T02 009.0,true,C2,38165396,_e901116b-e2f7-4d5a-9d56-9cd9bb979e20,ShuntCompensator
+_C6F66073-6320-49C6-8C35-52294BE1D8B1,CP-01,01   MLP CP-1 T01 009.0,true,C1,38166734,_46bb0d45-e348-472d-a8da-3180f80c111d,ShuntCompensator
+_552ad5bb-360e-4289-90b4-e37b5bc7a99d,CP-01,01   AMM CP-1 B1     040,true,C1,38170374,_6ee74d23-0c13-4c1a-950e-0df675ea4c5b,ShuntCompensator
+_dc48f446-e753-494b-91e1-bac21b3b02e9,CP-02,01   AMM CP-2 B2     040,true,C2,38170376,_6ee74d23-0c13-4c1a-950e-0df675ea4c5b,ShuntCompensator
+_1397D1D2-D8D6-4BCF-B2AF-1F6ABC271363,CP-01,06COAPIU CP-1 B1   15.3I,true,C1,38173266,_6a846994-34e7-40e6-b877-85f7fe5fcb34,ShuntCompensator
+_71284d32-30c3-43b0-a0d0-6fb295d23df2,CP-01,01   LAR CP-1 T01 003.6,true,C1,38179361,_a860bf9b-cf5c-42f2-8363-a97072ab8cda,ShuntCompensator
+_21673d7e-8be3-4a49-bacb-945a7de53434,CP-01,01TLCTPA CP-1      001.8,true,C1,38179420,_7476c898-72ce-4aac-b5f0-e9ea7cd0c3b4,ShuntCompensator
+_5fd987fb-9703-4223-b1f9-e17d87b8b762,CP-01,01   ACO CP-1 T01 012.6,true,C1,38179563,_ed7dd372-b4b9-4aeb-9cc2-d0c13bc652a3,ShuntCompensator
+_3ec964a7-9948-4d29-af2d-1d911aabdea6,CP-01,03   PTR CP-1 55015 10.C,true,C1,38180873,_6b7dfdac-d367-46aa-98b9-b2b5adb95de9,ShuntCompensator
+_a709348d-7df1-4823-b9bc-622bc1f49684,CP-02,03   PTR CP-2 55025 10.C,true,C2,38180875,_6b7dfdac-d367-46aa-98b9-b2b5adb95de9,ShuntCompensator
+_7cefbcd3-6fff-40bc-9917-1d85e9a0fdf5,CP-01,03QROBOQ CP-1 75010 22.C,true,C1,38228479,_89594b0e-d80a-44c1-aea9-ca9872be6de9,ShuntCompensator
+_C62A6D80-FCC2-46E0-8EF4-98BD32103737,CP-01,03GTOLNT CP-1 75010 45.I,true,C1,38257339,_1e5811c9-8c95-4f79-a1f7-1f23ddb3a0ef,ShuntCompensator
+_1887bd75-2fdd-4d4e-8b26-434a6199972e,CP-01,02PTXCPL CP-1 B1    007,true,C1,38268279,_84f25907-14be-4a8b-a73e-3ad08502b93a,ShuntCompensator
+_1584FE2B-A4C9-4A24-B61B-651A0198877E,CP-01,03GTOLNC CP-1 75010 45.C,true,C1,38274652,_b2a8e03b-0a1c-44b4-8d8e-67ae4083568d,ShuntCompensator
+_3f6205b6-fc3e-4a1e-b7b3-74b8b4523276,CP-02,04HMOMFN CP-2 B1       I,true,C2,38275635,_b9151e67-3751-402c-9fd5-f9e66330201d,ShuntCompensator
+_5D02BBC0-6E1C-48D5-A389-835BB2EF3588,CP-01,05JRZLAP CP-1 B1    002I,true,C1,38391523,_7dac6f39-97a9-4870-a42e-168b418f90ec,ShuntCompensator
+_5C4E301A-EAAB-477D-B746-FACC4895192D,CP-10,MOR_CP_10,true,C1,40202882,_c4dd94c3-947a-431c-8f9b-afc2562c9d66,ShuntCompensator
+_E3182A47-173D-4A29-83D8-36E3AD5DDD19,CP-02,05JRZGAV CP-2 B1    015I,true,C2,40257852,_49379ddd-9e2d-47a8-a221-244fe400c731,ShuntCompensator
+_9287e275-45a4-48e6-8a3a-d9c5d68eafe1,CP-01,05   HSD CP-1 B1    8.5I,true,C1,40476330,_3c9a3f4d-d964-4706-92eb-10a67439e316,ShuntCompensator
+_D3F98251-D439-4DCB-991D-8475676FDBED,CP-01,04CULMZU CP-1 B1       I,true,C1,40824866,_2929c240-f0ad-4e88-b603-f679c8243825,ShuntCompensator
+_3711D9DB-914C-4338-90D7-6DCCF8918676,CP-10,,true,C1,42960295,_CAA936C6-7004-4BF1-B62F-AB9A40550A9D,ShuntCompensator
+_1A9C6D9B-BEDF-430F-BF48-9DD705DEC986,CP-20,,true,C2,42960298,_CAA936C6-7004-4BF1-B62F-AB9A40550A9D,ShuntCompensator
+_421F95AE-33AE-4290-94C7-24C07ACCEE97,CP-01,01   HDG CP-1 K21   006C,true,C1,43919299,_E6C90DE9-5A2D-4F04-B8C4-C0397FC0A408,ShuntCompensator
+_7eb08b3f-5fc0-4cfb-8d16-8b3d1a91a7a0,CP-01,03   MVP CP-1 75010 30.C,true,C1,44243253,_6db0263b-4347-46c7-9736-bbb7f521dcf3,ShuntCompensator
+_5D8C9AA2-E1FD-4ADD-A98A-8E55ED751844,CP-02,07   CNZ 45025  2.4 MVAR,true,C2,44378689,_7484a886-0621-40a1-943a-4dfb50343d7d,ShuntCompensator
+_334FC5E7-AF46-4FD1-A6AD-03129CFBCA72,CP-01,01   CBT CP-1 K21   006C,true,C1,44901837,_7461FE0E-665C-49E5-A53B-B7AA1B4A2689,ShuntCompensator
+_070E8C56-C7E5-474E-A756-0141704FA933,CP-01,03QROSFS CP-1 75010 15.C,true,C1,45120628,_f0cd370d-e723-475c-b189-7dca2a420d4e,ShuntCompensator
+_9DFBE1EC-2989-440D-B260-DC0D3C6EC361,CP-10,RCO_CP_10,true,C1,45280239,_dda92981-1f4e-46b8-ad0f-5b27cfb1c4ec,ShuntCompensator
+_60D079CA-F0E5-47A2-B9C9-E3C92F6D67A5,CP-01,03   MMO CP-1 55010 10.C,true,C1,45495769,_DCC2A08A-8EFE-44C0-B446-EC0A7A8B328B,ShuntCompensator
+_11162C25-B60A-4D15-A070-1A7341A67C12,CP-02,04OBRCRZ CP-2 B1       I,true,C2,45512151,_150818f0-41d4-470c-bc53-0b9b1ce987b9,ShuntCompensator
+_89519E23-429C-4807-832F-781A5D202A72,CP-01,01   MOS CP-1 T01 09.0,true,C1,45704846,_8067db3f-7a37-4da7-a4e5-50f8d5e233fa,ShuntCompensator
+_F7D05B7E-B359-4334-A154-B8CB9C91DD84,CP-02,01   MOS CP-2 T02 09.0,true,C2,45704858,_8067db3f-7a37-4da7-a4e5-50f8d5e233fa,ShuntCompensator
+_9A7F2939-53B3-4AB6-8540-FE162307CBA7,CP-03,01   MOS CP-3 T03 09.0,true,C3,45704867,_8067db3f-7a37-4da7-a4e5-50f8d5e233fa,ShuntCompensator
+_025A23CC-B4EE-4AED-BAD2-87B95AA2F308,CP-01,06   CNS CP-1 B1   12.2C,true,C1,45812465,_5C51B3EE-86E3-4CE6-B766-92F51DAC797A,ShuntCompensator
+_AFFD4449-5B3B-4666-8B9D-F6455503A555,CP-01,03   SLP CP-1 75010 30.I,true,C1,46174758,_c2d9ad63-b3ec-4e1f-a5fc-6b13803412ac,ShuntCompensator
+_E2D1F517-5E04-4CF7-85A6-2C01441553BD,CP-02,05JRZLSA CP-2 B2    001I,true,C2,46329919,_7e75e749-e647-48ba-84ad-97e78544b679,ShuntCompensator
+_E025A266-BF90-48D6-A3AE-A9D1639463F2,CP-01,07COSMIC IN-75010  2.7 MVAR,true,C1,46368908,_b287108c-9b41-4f1c-9308-c5a9d2ff01c0,ShuntCompensator
+_7779E48E-8802-43E5-B414-00728BA2C3B7,CP-02,07COSMIC IN-75020  2.7 MVAR,true,C2,46368910,_b287108c-9b41-4f1c-9308-c5a9d2ff01c0,ShuntCompensator
+_870400A5-706F-4475-8C1D-98F9996445C2,CP-03,07COSMIC IN-75030  2.7 MVAR,true,C3,46368912,_b287108c-9b41-4f1c-9308-c5a9d2ff01c0,ShuntCompensator
+_10E30E9B-9598-438B-B617-18D38D3A42B1,CP-02,05JRZVSM CP-2 B2    1.8I,true,C2,46371107,_d644bef3-69d3-4b32-8be6-e064a82ef32c,ShuntCompensator
+_F9A8910A-02FB-4213-BC36-70312C8B7968,RE-0X,06   GUE RE-X A3I70  00I,true,RX,46874324,_33cfc0f5-b6f7-4205-8695-d404d52f3561,ShuntCompensator
+_e1f875df-1529-4e48-b4c0-07cb2da7cc27,CP-01,06HUAJIM CP-1 B1    7.5I,true,C1,47165649,_abd06efc-cfa8-4bcd-b475-91eb629bdb3c,ShuntCompensator
+_48C88E46-1FDC-4799-B0B6-05B7A73B6F7D,CP-02,05JRZJOS CP-2 B1    1.8I,true,C2,47166538,_76401e87-c2ec-40e4-adc2-b9fb295390d8,ShuntCompensator
+_98D14051-1771-4B53-A474-AC2C92F3C195,CP-01,06FROFND CP-1 B1    7.5I,true,C1,47169991,_3b59ef53-7152-40f5-b3b8-180c43e8ae25,ShuntCompensator
+_5D770544-2F97-4DD3-92CD-16D11DF86B78,CP-02,07   SMN 75020  7.5 MVAR,true,C2,47189478,_a8051c02-2199-4fea-a663-1539e4c616c6,ShuntCompensator
+_06E5E77A-A018-4CC4-B3A2-378F74714B69,CP-02,05JRZMTV CP-2 B1    7.5I,true,C2,47415464,_ddf01a12-d880-4794-bf13-5b14d6fd6760,ShuntCompensator
+_81688768-7636-454B-9DB6-E2CD486B4394,RE-02,07   HAS RT_02  154 MVAR,true,R2,47431239,_f97f95b3-34b1-418a-a5f3-302d5b4993cf,ShuntCompensator
+_3F7F4F0B-3FD9-41B2-91A8-3F28CD184F2C,RE-0V,06   GUE RE-V A36E0  00I,true,RV,47751016,_33cfc0f5-b6f7-4205-8695-d404d52f3561,ShuntCompensator
+_3D7BD879-1592-42A7-B7B1-25A6F8C37687,RE-0Y,06   GUE RE-Y A3140  00I,true,RY,47751019,_33cfc0f5-b6f7-4205-8695-d404d52f3561,ShuntCompensator
+_98AAF1E8-6EE3-4559-A6C9-FAB1F032909F,RE-0Z,06   GUE RE-Z A3D90  00I,true,RZ,47751022,_33cfc0f5-b6f7-4205-8695-d404d52f3561,ShuntCompensator
+_8AFF15A2-D01B-42BD-88CC-941FAEAB2CC4,RE-0X,06   LLC RE-X A3250  00I,true,RX,47751973,_db8c6c5f-e83b-4a12-8946-5b34c0b93b4c,ShuntCompensator
+_94B65705-2CF6-4056-93C9-4694C10EB848,RE-0Y,06   LLC RE-Y A36E0  00I,true,RY,47751976,_db8c6c5f-e83b-4a12-8946-5b34c0b93b4c,ShuntCompensator
+_2FA018F3-D75A-46AA-89C1-BE22BD746E8F,RE-0W,06   LAJ RE-W A3740  00I,true,RW,47826353,_a38bf1f6-b937-48db-85e6-be6f88e30394,ShuntCompensator
+_A8E640A2-C9CE-439A-9F0F-60EE08C4E7FB,RE-0X,06   LAJ RE-X A32F0  00I,true,RX,47826356,_a38bf1f6-b937-48db-85e6-be6f88e30394,ShuntCompensator
+_DEF6B686-1EB7-4759-ABBB-7BB1A932E29A,RE-0Y,06   LAJ RE-Y A3270  00I,true,RY,47826359,_a38bf1f6-b937-48db-85e6-be6f88e30394,ShuntCompensator
+_E104BE28-E480-4434-8B75-30F35E58B6D2,RE-0Z,06   LAJ RE-Z A3D90  00I,true,RZ,47826362,_a38bf1f6-b937-48db-85e6-be6f88e30394,ShuntCompensator
+_55B42F10-6CCE-4545-B3F9-ACD46D5F91D1,RE-0V,06   HUI RE-V A3D10  00I,true,RV,47943047,_01796e3e-1f8f-4b5e-816b-c26d8096a5a1,ShuntCompensator
+_1732B5B7-68C8-44C5-B76E-7EEADFBA17F0,RE-0W,06   HUI RE-W A3D20  00I,true,RW,47943060,_01796e3e-1f8f-4b5e-816b-c26d8096a5a1,ShuntCompensator
+_D53930AF-D156-45EB-A3D2-1937D2B9804C,RE-0X,06   HUI RE-X A3H80  00I,true,RX,47943071,_01796e3e-1f8f-4b5e-816b-c26d8096a5a1,ShuntCompensator
+_7CC60EBD-87C7-49BC-90CE-8F8DD6EEAA43,RE-0Y,06   HUI RE-Y A3I10  00I,true,RY,47943078,_01796e3e-1f8f-4b5e-816b-c26d8096a5a1,ShuntCompensator
+_0F996D7C-92BA-4D4F-A221-3F47AA16D60E,RE-0Z,06   HUI RE-Z A3740  00I,true,RZ,47943117,_01796e3e-1f8f-4b5e-816b-c26d8096a5a1,ShuntCompensator
+_bdba001b-7218-40bf-abc6-082010dab05e,RE-0X,06   TMS RE-X A3120  00I,true,RX,47943329,_6cf8f549-5d50-4b63-8b75-9d341f5f293f,ShuntCompensator
+_DD21E746-8325-43F2-895F-EC2EFF88E8DF,RE-0Y,06   TMS RE-X A3I70  00I,true,RY,47943342,_6cf8f549-5d50-4b63-8b75-9d341f5f293f,ShuntCompensator
+_1228E12D-862C-4321-85CF-9858960DAF24,RE-0X,06   CPY RE-X A3120  00I,true,RX,47943567,_7285ace9-5c70-44ba-af2e-622319ec2adc,ShuntCompensator
+_A91D348E-8C6A-43D2-B01A-AB3F17D40F1D,RE-0Y,06   CPY RE-Y A3250  00I,true,RY,47943572,_7285ace9-5c70-44ba-af2e-622319ec2adc,ShuntCompensator
+_d47fbe59-e0c1-4dd2-9d56-9c14fe8fcf96,CP-01,,false,C1,47964175,_d18128ff-7542-49ff-aac2-99636ea075ec,ShuntCompensator
+_CAA11CBC-3F32-4233-B990-858A00624DE0,CP-01,03QROVYQ CP-1 75010  9.C,true,C1,48335582,_ed422e18-aea3-40b9-9ba6-2c358298931e,ShuntCompensator
+_8e27148a-ed3c-4211-8bd9-f6559aa9ca8a,CP-01,02VERCLU CP-01  7I,true,C1,48374173,_91e3f430-152e-484f-bd31-7665eed6ade4,ShuntCompensator
+_996A560A-CB39-45E6-B2FA-1635F2016A17,CP-01,05CGOGVD CP-1 B1    0.6I,true,C1,48382245,_13c88bc5-97cd-4bee-b6e6-baab6864cc5b,ShuntCompensator
+_96c376d2-0151-4e0f-a4b3-27fd88893f22,CP-01,02VERMGY CP-01  7.5I,true,C1,48413844,_bbd14d69-e491-4322-b4c7-b5680efd65b5,ShuntCompensator
+_7FF49134-0931-4C62-AAC3-6E049B18E4AD,CP-01,05   CML CP-1 B1    015I,true,C1,48537465,_1BC9A0E7-33CA-4614-B891-C35FDA7E1E4A,ShuntCompensator
+_43eeec52-8f8c-48b4-964a-b83e1244e911,CP-03,02SURFCM CP-03 7.5I,true,C3,48646497,_b4ef4c07-54ba-4cb9-90fa-569ad567007c,ShuntCompensator
+_B4AABFFA-185A-4F7B-9570-F8ECB7BBEECE,CP-01,05CUAESZ CP-1 B1    010I,false,C1,48681590,_765091e3-02e4-43ee-b99a-05ba32576c8b,ShuntCompensator
+_F7BB93B4-0E53-4A6C-9AB7-A2A0CBC5FA15,CP-01,05JRZMED CP-1 B1    1.8I,true,C1,49030354,_fa994ff5-0894-4611-873d-4d5d2bd7ad23,ShuntCompensator
+_54096F2E-287D-455F-9BCA-272F1BD8191E,CP-02,05JRZMED CP-2 B2    1.8I,true,C2,49086380,_fa994ff5-0894-4611-873d-4d5d2bd7ad23,ShuntCompensator
+_48E66F46-1981-456E-8E15-9556637311EE,CP-01,07   PAF 45010  1.8 MVAR,true,C1,50356962,_5fdb365f-dd1b-448e-80a9-7ba87ccb9589,ShuntCompensator
+_3B7C9D0B-A985-4E3C-B94A-E347E14260CA,CP-01,03CNTOCL CP-1 45010 1.2.I,true,C1,50556584,_b0d6c8a5-9cef-488f-be0a-82476fc0a327,ShuntCompensator
+_11A4DCC0-ECF3-4064-91D0-DA48AAC4CC50,CP-02,03CNTOCL CP-1 45020 1.2.I,true,C2,50556586,_b0d6c8a5-9cef-488f-be0a-82476fc0a327,ShuntCompensator
+_7FA9B7C6-10DF-4805-BB96-6060BCD22BB5,CP-01,03CNTLOR CP-1 45010 1.2.I,true,C1,50556667,_678d2c8a-a9b4-43f7-8583-6d094ff6ce20,ShuntCompensator
+_DBFBCA4F-DA4C-4B3C-BE32-2AE080B95176,CP-01,03CNTVPS CP-1 45010 1.2.I,true,C1,50556913,_2065a16f-bfd5-4ed3-868b-93ad92cb633f,ShuntCompensator
+_E03A6737-0707-43A8-9BA8-D6207916EEB2,CP-01,03CNTVJU CP-1 45010 2.4.I,true,C1,50556924,_4e9f7748-c08a-40c1-82a3-f8ac4d1b46ac,ShuntCompensator
+_0416798F-08C8-404C-AFD0-12A979A1D8A5,CP-01,03CNTMHR CP-1 45010 1.2.I,true,C1,50562116,_d3394ac1-8ffd-4450-8f3d-d103cb21732c,ShuntCompensator
+_FCC85FBD-C4AC-47B3-958D-88D89AFAA956,CP-01,03CNTLAS CP-1 45010 1.2.I,true,C1,50562202,_ddaa7acc-8343-4476-a096-dc534acd3287,ShuntCompensator
+_03D93869-6208-44A0-BC7F-E7E7FB1FA87C,CP-01,03CNTVHO CP-1 45010 1.2.I,true,C1,50562217,_9d67a0b1-da47-47a2-9ad0-545d07a07318,ShuntCompensator
+_E0606F98-12A9-4B2A-9BC4-BF4547D7978D,CP-01,03CNTSFR CP-1 45010 2.4.I,true,C1,50562294,_957f2735-8e2d-42f9-9f30-1b4d1a0d5a8a,ShuntCompensator
+_BD7663DF-C52E-48B0-818C-9F84FF40C4E4,CP-01,03GTOLNA CP-1 45010 2.4.I,true,C1,50566063,_c0fe74ad-66c0-4b74-82fa-48b324f4f16e,ShuntCompensator
+_EF34A1AB-2D53-4990-A85C-02195767C20E,CP-01,03GTOSFQ CP-1 45010 2.4.I,true,C1,50566159,_6a980d7d-7aac-475a-baa4-5a63cf54dc89,ShuntCompensator
+_E4C7427F-5315-48F0-B569-87AA6C161AA5,CP-01,03GTORTA CP-1 45010 2.4.C,true,C1,50566205,_70835eac-8f10-44e8-a27c-f3606d0f5629,ShuntCompensator
+_0FC92F72-9D7C-460D-A51A-9B12A33B46D8,CP-01,03GTOSRQ CP-1 45010 1.4.I,true,C1,50566230,_982FD574-63C7-42C3-A59E-A781C89BB452,ShuntCompensator
+_91561362-E20F-4632-ABAA-73E80F7538F1,CP-01,03GTOMRA CP-1 45010 2.4.I,true,C1,50566245,_93bada36-6362-4318-a007-7ec2ecef4536,ShuntCompensator
+_D396D038-C491-4C44-AFA2-EBEB2532FA85,CP-01,03GTOLGS CP-1 45010 1.2.I,true,C1,50566265,_80582840-a562-4c02-af51-8dcf95ce5b15,ShuntCompensator
+_68AE21AA-4DB5-49F4-A63C-B94956E247DD,CP-01,03GTOTOO CP-1 45010 2.4.I,true,C1,50566281,_4a82d46c-9d82-4f0e-9249-ac78656229d5,ShuntCompensator
+_626AE563-FD18-401F-8E1F-7F9C91DDAEF0,CP-02,03GTOLGS CP-2 45020 1.2.I,true,C2,50566582,_80582840-a562-4c02-af51-8dcf95ce5b15,ShuntCompensator
+_50398057-B79F-4285-9194-F4F9214E6077,CP-01,03QROCLF CP-1 45010 1.2.I,true,C1,50567756,_ab6ec12d-656f-4b27-a76f-6cd53eea06c0,ShuntCompensator
+_DEB593B9-2F2D-4556-81C3-09A8A959DEFF,CP-02,03QROCLF CP-2 45020 1.2.I,true,C2,50567768,_ab6ec12d-656f-4b27-a76f-6cd53eea06c0,ShuntCompensator
+_29F4C661-975A-4A18-A2B8-5CAD7AC66C1B,CP-01,03GTOJEM CP-1 45010 1.2.I,true,C1,50567789,_43909d4d-3128-4bb4-bdb8-2dc3f791706b,ShuntCompensator
+_37F69082-154B-43A2-8CBE-8B34EE656C22,CP-01,03QRODHD CP-1 45010 2.4.I,true,C1,50568544,_43813e91-42a1-4ded-a810-7da2ab77f5d9,ShuntCompensator
+_E6F94266-346B-49F3-B9F9-C36D7575DCB6,CP-02,03QRODHD CP-2 45020 2.4.I,true,C2,50568547,_43813e91-42a1-4ded-a810-7da2ab77f5d9,ShuntCompensator
+_5CFAC16B-5081-40CF-B238-7BE43358B8DD,CP-01,03GTOLVR CP-1 45010 1.2.I,true,C1,50568876,_a4011718-1943-40c8-ad82-6a228392df85,ShuntCompensator
+_FF6CE817-ADE7-474E-8397-45CEF8B0A663,CP-01,03GTOCYI CP-1 45010 1.2.I,true,C1,50570607,_e85578ad-1a1d-4f9c-8edb-f9728da06d8f,ShuntCompensator
+_782F3E64-61F8-42E7-94F4-1DA295BA9C58,CP-01,03GTOPTI CP-1 55010 1.8.I,true,C1,50573415,_eb388b90-96d7-4664-bce1-f50db3464ba3,ShuntCompensator
+_72520859-E92D-4692-9DBA-7C417CF0C2D7,CP-01,03GTOCAE CP-1 45010 2.4.I,true,C1,50573519,_7f59a202-20d1-40fe-97e8-a46dc70595f8,ShuntCompensator
+_4439A4CB-2DA1-4668-87D9-6DB7731F6B91,CP-01,03GTOPNJ CP-1 45010 1.8.I,true,C1,50573554,_6c980a97-3a4e-433d-8784-ef82d0b764d0,ShuntCompensator
+_12576715-ED5A-4C34-BA1E-06A131CBE0BC,CP-01,03GTOLPS CP-1 55010 2.4.I,true,C1,50573618,_344043d0-5fa8-4eed-a472-95ea6a055a0e,ShuntCompensator
+_6EDC07EA-02DD-4F15-92CA-D4BEC1732032,CP-01,03GTOGRU CP-1 55010 2.4.I,true,C1,50573859,_4cebc1c5-bee2-4ca1-a241-55cf3fc28d63,ShuntCompensator
+_07B232DB-E52E-420D-8CBE-A8B76A090E0A,CP-02,03GTOLPS CP-2 55020 1.2.I,true,C2,50574420,_344043d0-5fa8-4eed-a472-95ea6a055a0e,ShuntCompensator
+_D6C16A2E-0A75-497B-9BD0-AA3CEA4B4AAD,CP-01,03GTOSYL CP-1 55010 1.2.I,true,C1,50574431,_8aed1228-c8e6-4046-95dd-16c52cd7d889,ShuntCompensator
+_1CCA417F-8C9A-4492-A4EF-E21504C66410,CP-01,03GTOCIA CP-1 55010 1.2.I,true,C1,50574442,_e7e331da-83b3-4f7b-89ae-de01094ea716,ShuntCompensator
+_C41B80A0-6F67-43D2-8B6E-89EF98EFB6BF,CP-01,03GTOPQI CP-1 55010 2.4.I,true,C1,50574516,_da22b00c-f30d-4152-ad76-a80cafcafe29,ShuntCompensator
+_530D794D-5F88-48AC-A702-284E1296132B,CP-01,03GTOCHA CP-1 55010 1.2.I,true,C1,50575891,_37ca07e1-44b0-46e6-adad-9f224d12f702,ShuntCompensator
+_D31910DD-B359-4AC1-8A91-7BCF6A9E63EB,CP-02,03QROBNA CP-1 55020 2.4.I,true,C2,50577807,_4359fc3a-8ff9-49a5-8f4e-0aaec1758478,ShuntCompensator
+_B3A1598A-D151-40E0-AC77-07B7CB58783D,CP-02,03QROBVN CP-1 55020 1.2.I,true,C2,50577819,_46817119-afc7-44bb-831e-e9bc3d760898,ShuntCompensator
+_1D3B306B-73C2-4847-BC89-7BF7E36EA45A,CP-02,03QROSFS CP-2 45020 1.2.I,true,C2,50577870,_c213ff0c-8975-437b-81b4-b4fd8cb9707f,ShuntCompensator
+_4CB3D4E3-04AD-4FB8-8BC9-3DFDEFC611F3,CP-01,03QROSFS CP-1 45010 1.2.I,true,C1,50577877,_c213ff0c-8975-437b-81b4-b4fd8cb9707f,ShuntCompensator
+_0C4D0931-0647-4729-AEAF-58C46FF94213,CP-01,03QROMQO CP-1 55020 1.2.I,true,C1,50578045,_6729b7fa-4dc9-44fa-b611-fe4a4b9e8d0e,ShuntCompensator
+_A27F41DE-8C5E-4108-B164-140CA834B1B0,CP-01,03QROSAP CP-1 45010 1.2.I,true,C1,50578214,_5e17f8b3-e727-462f-8a81-98c7a24d493c,ShuntCompensator
+_B518EB8D-3EE4-47A3-88C8-B5C8B49509DC,CP-02,03QROQRE CP-2 45020 1.2.I,true,C2,50578332,_d7202d0a-7de0-426c-8e63-4ea647181b5e,ShuntCompensator
+_94465D59-F7BE-43F2-A7C6-C097EFCB8FD4,CP-01,03QROCOO CP-1 45010 1.2.I,true,C1,50578349,_2ef85bef-3600-4e07-a6fc-7be102135909,ShuntCompensator
+_607EEF71-5A7E-488E-907C-3EE5A30B42A4,CP-01,03QROEZM CP-1 45010 1.2.I,true,C1,50578430,_a2324f47-4297-4707-9b51-e93e853fd209,ShuntCompensator
+_C8390095-F038-4CB7-A785-B41FC3039131,CP-01,03GTOPNV CP-1 45010 2.4.I,true,C1,50578733,_b41cbcda-ca2c-48b7-8260-e137a1c2defb,ShuntCompensator
+_406C5C1E-103C-474C-BB6B-44DB9C050DB4,CP-01,03GTOAPO CP-1 45010 2.4.I,true,C1,50578880,_07a05f4e-ddf1-48fd-bda8-95ab6d801708,ShuntCompensator
+_551771F6-C437-4DB0-BD5D-1ACDF6486442,CP-01,03GTOTRJ CP-1 45010 2.4.C,true,C1,50598535,_6f7337d0-cfc0-487e-9757-a952f2f2fa87,ShuntCompensator
+_6817D71A-4374-485D-B156-21062FE96028,CP-01,03GTOAQM CP-1 45010 1.2.I,true,C1,50599408,_bb40556d-0385-4a5e-8a7e-d7b5890f8e9b,ShuntCompensator
+_665725F4-D396-4D6E-8634-447EF495596D,CP-01,03JNYJRU CP-1 55010 1.2.I,true,C1,50637724,_b221014b-51ea-49ee-921f-8e5b7a592336,ShuntCompensator
+_4DFE0A22-64F9-4187-A173-09B661906830,CP-02,03JNYJDL CP-2 45020 1.2.I,true,C2,50640654,_213b8e93-8382-49c6-8264-53a4d87174b8,ShuntCompensator
+_23F09D68-F1E2-43A1-9446-D8B315D5F876,CP-03,03JNYJDL CP-3 45030 1.2.I,true,C3,50640657,_213b8e93-8382-49c6-8264-53a4d87174b8,ShuntCompensator
+_23139EB6-05AE-4188-A0E4-EFDF79FC4EE4,CP-01,03COCCHY CP-1 45010 0.9.I,true,C1,50640837,_49e599df-dbbc-4bd5-b068-a59e641e27aa,ShuntCompensator
+_41A1FF1C-0A6F-416E-9350-199C6E29C2B2,CP-01,03CNTFAJ CP-1 45010 1.2.I,true,C1,50647993,_e0b36247-e3bb-4a50-b830-655a35d9cbe7,ShuntCompensator
+_2C426046-A969-4B49-A20C-D0053D51BC6D,CP-03,05JRZMTV CP-3 B2    1.2I,true,C3,50894196,_f6956af5-0793-4cc5-bdf9-ed7a56283bb6,ShuntCompensator
+_5A37A507-FD3F-4C00-9E0B-462FCE149A6E,CP-04,07   GOR 45040  2.4 MVAR,true,C4,50914526,_a63fc6a5-176f-4731-a6f6-067ad28264a2,ShuntCompensator
+_81BB46C4-E9FF-417C-BEED-C7B97CA8268B,CP-01,03CNTTEN CP-1 75010 30.C,true,C1,50921609,_749c8f58-25c4-45fc-88cb-1dade5e89ba3,ShuntCompensator
+_FDB3DB0B-9B25-477F-92A7-84A61541BEFF,RE-01,07   IVY RT_01   45 MVAR,true,R1,50959676,_58102CD5-EF57-44DD-9F30-7790F12DA11D,ShuntCompensator
+_AE7E71FD-5326-4BA9-ACF7-53AA40C7BA69,RE-02,07   IVY RT_02   45 MVAR,true,R2,50959678,_58102CD5-EF57-44DD-9F30-7790F12DA11D,ShuntCompensator
+_D1C3769F-F86F-42B0-85D0-B984C4F009A9,RE-03,07   IVY RT_03   45 MVAR,true,R3,50959719,_58102CD5-EF57-44DD-9F30-7790F12DA11D,ShuntCompensator
+_890D9794-1F2F-4450-8877-338ACAF6BFCE,RE-04,07   IVY RT_04   45 MVAR,true,R4,50959721,_58102CD5-EF57-44DD-9F30-7790F12DA11D,ShuntCompensator
+_99C110EA-BAA4-434C-8C82-A49A7F41F2B7,CP-02,05CUACCD CP-2 B2    002I,true,C2,50985521,_6e4366c4-8305-4892-93cc-4c2dcab830f9,ShuntCompensator
+_4FB5E45D-1979-4FF4-9612-2F813468BB75,CP-01,03   PIQ CP-1 75010 30.C,true,C1,51042638,_0BA4B995-88AF-4903-882C-ED9221427435,ShuntCompensator
+_E4DF7366-5088-4184-A0F9-FA377AB5D0E8,CP-20,CAS_CP_20,false,C2,51140564,_7a371e6d-7eef-40b2-a0bc-dc61b2061a2f,ShuntCompensator
+_BA6DC8E4-9429-4F13-8B09-A250CB43D480,CP-01,04   HLD CP-1 B1       I,false,C1,51255224,_91709D2B-F0B6-45E0-BE33-E9EEA2FDFAEE,ShuntCompensator
+_A8FC0DCB-6FC2-486F-9B12-A1E6B61A85EA,CP-01,04   SCL CP-1 B1       I,false,C1,51265313,_9611C37F-63B8-4AD8-A79F-E65103A6BD9D,ShuntCompensator
+_4BCE79A6-1F90-4D17-8A4F-441DDB6B737C,CP-01,04   NGS CP-1 B1       I,false,C1,51279668,_CF0E5B4B-6676-47B1-9540-12718681BEB7,ShuntCompensator
+_a12ccd9a-076b-41f8-a027-0e402780e2f8,CP-01,08   BNV CP-1 B1    029,true,C1,51423287,_6a48d826-e46d-4087-8fbb-d5bd79eec9e0,ShuntCompensator
+_6d7aea77-e8fd-4e3d-89bd-3438d27e030c,CP-01,08   CHH CP-1 B1    031,true,C1,51423716,_a270d4e3-8c98-4c77-b4d8-7b9ab5426866,ShuntCompensator
+_92c52242-7277-4cc4-a490-d4bad47c7198,CP-01,08   CHY CP-1 B1    031,true,C1,51481591,_987166d0-c06d-4c31-8cf6-105bd125452b,ShuntCompensator
+_4A74003C-255A-47CA-8491-2235241F9227,CP-01,03QROQRP CP-1 75010 30.C,true,C1,51487162,_772a948a-2a77-4a88-a56b-37ad89788692,ShuntCompensator
+_FF057A86-3F1E-4B2D-98BE-471146DB496B,CP-01,03QROQRO CP-1 75010 30.C,true,C1,51487177,_25e91c32-0a63-4d6b-96ae-f13805156a08,ShuntCompensator
+_4A0A1F2E-8CB8-45D5-84C4-F46AA08277D8,CP-01,04   HLS CP-1 B1       I,false,C1,51507190,_4166AF66-79AB-45B7-A953-F8A65F75EE66,ShuntCompensator
+_840C2442-649C-4F0F-AE12-67A32F336035,CP-01,03QROPQN CP-1 75010 30.C,true,C1,51591130,_704edab1-6b20-4c53-82d3-e88cf6ddc548,ShuntCompensator
+_C6004A0C-DE11-4183-83E1-FABA55B9E045,CP-03,04CULSPE CP-3 B1       I,true,C3,51594034,_7b24d85d-3bc2-4685-a761-b702ea33aa35,ShuntCompensator
+_40c770b9-6c6c-461b-a76f-4f5cc4c5f542,RE-02,05   SGD RE-2 AT-98 015I,true,R2,51603374,_27eb1cb1-a1f4-485d-ab47-1d7681e0ca5f,ShuntCompensator
+_13273239-96C8-4C09-A80A-5096753D9471,RE-03,06   FRO RE-03    B 400,true,R3,51713698,_e46f2040-0429-4cc9-88a3-74f7672c628a,ShuntCompensator
+_17AB3A8B-85D5-4117-AF71-E82C4045D5FF,CP-01,03QRONTA CP-1 75010 22.5C,true,C1,51741003,_cc314d58-b3d2-4c8b-80ab-cdb06809f7b4,ShuntCompensator
+_4ADAE325-DFBF-4A80-B13B-A3BBBF4FCF7E,CP-01,04   HLU CP-1 B1       I,false,C1,51789346,_C102B602-4385-4BFF-94FD-44908B4ECEB1,ShuntCompensator
+_5845F58E-F094-4348-995A-56043C60FF47,RE-06,06   AMD RE-6 B5   19.5I,true,R6,51844679,_cde67489-613d-422d-a99b-972174b4ca9c,ShuntCompensator
+_AE05436A-1617-4AF4-A204-1FD5FCE47D09,RE-02,06   REC RE-2 B 400  75I,true,R2,51852367,_dbeea793-aa73-45d9-b946-586424684a3b,ShuntCompensator
+_01A83D7A-4BDB-458F-B85B-128997E6F9E2,CP-01,04   HLE CP-1 B1       I,false,C1,51895919,_E4928FB1-3E74-46B7-934A-A54F8782FF10,ShuntCompensator
+_B5E56B00-899D-44CB-982C-B98CE3111F56,CP-01,05JRZSZL CP-1 B1    1.8I,true,C1,51907132,_6B019CB6-37F5-473F-8F65-98B4128C2DA8,ShuntCompensator
+_C4537B18-51C8-4942-B9F7-44B6F4E5CA77,CP-01,04   NVN CP-1 B1       I,false,C1,51988906,_36AC4B55-C29D-4ECC-BBF4-CCC57B066BE7,ShuntCompensator
+_1C02E13E-04E7-46AE-82ED-D921B23C91E1,CP-01,04   HMI CP-1 B1       I,false,C1,52027852,_EA5B73E0-5D20-4CEA-9C47-09516FFADC60,ShuntCompensator
+_3D7B1795-B2F5-4A2C-ACD0-3B6635756A19,CP-01,03QRONTA CP-1 75010   30C,true,C1,52054804,_5d6ffb2a-aa21-4468-b189-9ed37fcee730,ShuntCompensator

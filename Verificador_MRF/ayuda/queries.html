@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<body>
+
+<h1>Información adicional para creación de archivos de datos</h1>
+
+<p>Como se indicó en la introducción, no tenemos la facultad de consultar
+directamente a la base de datos de imm-mage, por esta razón, es necesario
+exportar una serie de archivos csv para realizar las validaciones. A continuación
+se proporcionan las consultas que deben realizarse a mage con la finalidad de
+obtener los archivos necesarios para la ejecución de las validaciones.</p>
+
+<h2>Terminal.csv</h2>
+<code>
+SELECT Terminal.[$rdfId], ConnectivityNode.[$Path] FROM (Terminal WITH SUBTYPES LINK ON  TerminalConnectedToConnectivityNode TO ConnectivityNode WITH SUBTYPES )  WHERE $path like 'Network*';
+</code>
+
+<h2>equipos.csv</h2>
+<code>
+  SELECT CurveData.[$rdfId] FROM CurveData WITH SUBTYPES  WHERE $path like 'Network/.MVAr Capability Curves*';
+  SELECT CurveData.[$rdfId] FROM CurveData WITH SUBTYPES  WHERE $path like 'Network/.Generation*';
+  SELECT sysNetCompanies.[$rdfId] FROM sysNetCompanies WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT sysNetworkConfig.[$rdfId] FROM sysNetworkConfig WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT sysGenPowerPlants.[$rdfId] FROM sysGenPowerPlants WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT GeographicalRegion.[$rdfId], GeographicalRegion.[NAFlag] FROM GeographicalRegion WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT SubGeographicalRegion.[$rdfId],  SubGeographicalRegion.[NAFlag] FROM SubGeographicalRegion WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT LineVoltageLevel.[$rdfId]  FROM LineVoltageLevel WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT ACLineSegment.[$rdfId], ACLineSegment.[NAFlag] FROM ACLineSegment WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT Substation.[$rdfId], Substation.[NAFlag] FROM Substation WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT VoltageLevel.[$rdfId], VoltageLevel.[NAFlag] FROM VoltageLevel WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT ConnectivityNode.[$rdfId] FROM ConnectivityNode WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT BusbarSection.[$rdfId], BusbarSection.[NAFlag] FROM BusbarSection WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT SynchronousMachine.[$rdfId], SynchronousMachine.[NAFlag] FROM SynchronousMachine WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT ConformLoad.[$rdfId], ConformLoad.[NAFlag] FROM ConformLoad WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT NonConformLoad.[$rdfId], NonConformLoad.[NAFlag] FROM NonConformLoad WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT ShuntCompensator.[$rdfId], ShuntCompensator.[NAFlag] FROM ShuntCompensator WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT StaticVarCompensator.[$rdfId], StaticVarCompensator.[NAFlag] FROM StaticVarCompensator WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT SeriesCompensator.[$rdfId], SeriesCompensator.[NAFlag] FROM SeriesCompensator WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT TransformerWinding.[$rdfId], TransformerWinding.[NAFlag] FROM TransformerWinding WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT PowerTransformer.[$rdfId], PowerTransformer.[NAFlag] FROM PowerTransformer WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT TapChanger.[$rdfId], TapChanger.[NAFlag] FROM TapChanger WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT Breaker.[$rdfId], Breaker.[NAFlag] FROM Breaker WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT Disconnector.[$rdfId], Disconnector.[NAFlag]  FROM Disconnector WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT GroundDisconnector.[$rdfId], GroundDisconnector.[NAFlag] FROM GroundDisconnector WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT ReactiveCapabilityCurve.[$rdfId] FROM ReactiveCapabilityCurve WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT SteamTurbine.[$rdfId] FROM SteamTurbine WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT CombinedCyclePlant.[$rdfId] FROM CombinedCyclePlant WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT HydroPowerPlant.[$rdfId] FROM HydroPowerPlant WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT SolarPlant.[$rdfId] FROM SolarPlant WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT ThermalPowerPlant.[$rdfId] FROM ThermalPowerPlant WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT WindPlant.[$rdfId] FROM WindPlant WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT HydroGeneratingUnit.[$rdfId], HydroGeneratingUnit.[NAFlag] FROM HydroGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT SolarGeneratingUnit.[$rdfId], SolarGeneratingUnit.[NAFlag] FROM SolarGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT ThermalGeneratingUnit.[$rdfId], ThermalGeneratingUnit.[NAFlag] FROM ThermalGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT WindGeneratingUnit.[$rdfId], WindGeneratingUnit.[NAFlag] FROM WindGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT BaseVoltage.[$rdfId] FROM BaseVoltage WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT IncrementalHeatRateCurve.[$rdfId] FROM IncrementalHeatRateCurve WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT HydroPowerDischargeCurve.[$rdfId], HydroPowerDischargeCurve.[Name] FROM HydroPowerDischargeCurve WITH SUBTYPES  WHERE $path like 'Network*';
+  SELECT CombinedCycleConfiguration.[$rdfId] FROM CombinedCycleConfiguration WITH SUBTYPES  WHERE $path like 'Network*';
+</code>
+
+<h2>mRID.csv</h2>
+<code>SELECT LineVoltageLevel.[mRID]  FROM LineVoltageLevel WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT ACLineSegment.[mRID], ACLineSegment.[NAFlag] FROM ACLineSegment WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT ConnectivityNode.[mRID] FROM ConnectivityNode WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT BusbarSection.[mRID], BusbarSection.[NAFlag] FROM BusbarSection WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT ConformLoad.[mRID], ConformLoad.[NAFlag] FROM ConformLoad WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT NonConformLoad.[mRID], NonConformLoad.[NAFlag] FROM NonConformLoad WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT ShuntCompensator.[mRID], ShuntCompensator.[NAFlag] FROM ShuntCompensator WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT StaticVarCompensator.[mRID], StaticVarCompensator.[NAFlag] FROM StaticVarCompensator WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT SeriesCompensator.[mRID], SeriesCompensator.[NAFlag] FROM SeriesCompensator WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT PowerTransformer.[mRID], PowerTransformer.[NAFlag] FROM PowerTransformer WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT Breaker.[mRID], Breaker.[NAFlag] FROM Breaker WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT Disconnector.[mRID], Disconnector.[NAFlag]  FROM Disconnector WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT GroundDisconnector.[mRID], GroundDisconnector.[NAFlag] FROM GroundDisconnector WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT CurveData.[mRID] FROM CurveData WITH SUBTYPES  WHERE $path like '/Network/.MVAr Capability Curves*';
+SELECT SteamTurbine.[mRID] FROM SteamTurbine WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT HydroGeneratingUnit.[mRID], HydroGeneratingUnit.[NAFlag] FROM HydroGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT SolarGeneratingUnit.[mRID], SolarGeneratingUnit.[NAFlag] FROM SolarGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT ThermalGeneratingUnit.[mRID], ThermalGeneratingUnit.[NAFlag] FROM ThermalGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT WindGeneratingUnit.[mRID], WindGeneratingUnit.[NAFlag] FROM WindGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';</code>
+
+<h2>SynchronousMachine.csv</h2>
+<code>SELECT SynchronousMachine.[$rdfId], ReactiveCapabilityCurve.[$Path] FROM (SynchronousMachine WITH SUBTYPES LINK ON  ReactiveCapabilityCurveMemberOfSynchronousMachine TO ReactiveCapabilityCurve WITH SUBTYPES )  WHERE $path like 'Network*';
+</code>
+
+<h2>synchmachine_reg_terminal.csv</h2>
+<code>SELECT SynchronousMachine.[$rdfId], SynchronousMachine.[VoltRegStatus], Terminal.[$rdfId] FROM (SynchronousMachine WITH SUBTYPES LINK ON  RegulatingCondEqRegulatesTerminal TO Terminal WITH SUBTYPES )  WHERE $path like 'Network*';
+</code>
+
+<h2>tap_changer_reg_terminal.csv</h2>
+<code>SELECT TapChanger.[$rdfId], TapChanger.[TapMovability], Terminal.[$rdfId] FROM (TapChanger WITH SUBTYPES LINK ON  TapChangerRegulatesTerminal TO Terminal WITH SUBTYPES )  WHERE $path like 'Network*';
+</code>
+
+<h2>shunt_reg_terminal.csv</h2>
+<code>SELECT ShuntCompensator.[$rdfId], ShuntCompensator.[VoltageControlFlag], Terminal.[$rdfId] FROM (ShuntCompensator WITH SUBTYPES LINK ON  RegulatingCondEqRegulatesTerminal TO Terminal WITH SUBTYPES )  WHERE $path like 'Network*';
+</code>
+
+<h2>staticvar_reg_terminal.csv</h2>
+<code>SELECT StaticVarCompensator.[$rdfId], Terminal.[$rdfId] FROM (StaticVarCompensator WITH SUBTYPES LINK ON  RegulatingCondEqRegulatesTerminal TO Terminal WITH SUBTYPES )  WHERE $path like 'Network*';
+</code>
+
+<h2>liga_a_generating.csv</h2>
+<code>SELECT SynchronousMachine.[$rdfId], GeneratingUnit.[$Path] FROM (SynchronousMachine WITH SUBTYPES LINK ON  SynchronousMachineMemberOfGeneratingUnit TO GeneratingUnit WITH SUBTYPES )  WHERE $path like 'Network*';
+</code>
+
+<h2>datos_curvas_capabilidad.csv</h2>
+<code>SELECT CurveData.[$rdfId], CurveData.[xAxisData], CurveData.[y1AxisData], CurveData.[y2AxisData] FROM CurveData WITH SUBTYPES  WHERE $path like 'Network/.MVAr Capability Curves*';
+</code>
+
+<h2>subtipo_unidades_termicas.csv</h2>
+<code>SELECT ThermalGeneratingUnit.[$rdfId], ThermalGeneratingUnit.[PhysicalUnitType] FROM ThermalGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';
+</code>
+
+<h2>tipos_transformadores.csv</h2>
+<code>SELECT PowerTransformer.[$rdfId], PowerTransformer.[transformerType] FROM PowerTransformer WITH SUBTYPES ;</code>
+
+<h2>bandera_agc.csv</h2>
+<code>SELECT HydroGeneratingUnit.[$rdfId], HydroGeneratingUnit.[AGCFlag] FROM HydroGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT SolarGeneratingUnit.[$rdfId], SolarGeneratingUnit.[AGCFlag] FROM SolarGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT ThermalGeneratingUnit.[$rdfId], ThermalGeneratingUnit.[AGCFlag] FROM ThermalGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';
+SELECT WindGeneratingUnit.[$rdfId], WindGeneratingUnit.[AGCFlag] FROM WindGeneratingUnit WITH SUBTYPES  WHERE $path like 'Network*';</code>
+
+<h2>ReactiveCapabilityCurve.csv</h2>
+<code>SELECT ReactiveCapabilityCurve.[$rdfId], SynchronousMachine.[$Path] FROM (ReactiveCapabilityCurve WITH SUBTYPES LINK ON  SynchronousMachineHasDefaultReactiveCapabilityCurve TO SynchronousMachine WITH SUBTYPES )  WHERE $path like 'Network*';
+</code>
+
+<h2>winding_voltage.csv</h2>
+<code>SELECT TransformerWinding.[$rdfId], BaseVoltage.[$Path] FROM (TransformerWinding WITH SUBTYPES LINK ON  ConductingEquipmentUsesABaseVoltage TO BaseVoltage WITH SUBTYPES )  WHERE $path like 'Network*';
+</code>
+
+<h2>aclinesegments_voltage.csv</h2>
+<code>SELECT ACLineSegment.[$rdfId], BaseVoltage.[$Path] FROM (ACLineSegment WITH SUBTYPES LINK ON  ConductingEquipmentUsesABaseVoltage TO BaseVoltage WITH SUBTYPES )  WHERE $path like 'Network*';
+SELECT SeriesCompensator.[$rdfId], BaseVoltage.[$Path] FROM (SeriesCompensator WITH SUBTYPES LINK ON  ConductingEquipmentUsesABaseVoltage TO BaseVoltage WITH SUBTYPES )  WHERE $path like 'Network*';
+</code>
+
+<h2>voltages.csv</h2>
+<code>SELECT VoltageLevel.[$rdfId], BaseVoltage.[$Path] FROM (VoltageLevel WITH SUBTYPES LINK ON  VoltageLevelHasABaseVoltage TO BaseVoltage WITH SUBTYPES )  WHERE $path like 'Network*';
+</code>
+
+
+
+
+</html>

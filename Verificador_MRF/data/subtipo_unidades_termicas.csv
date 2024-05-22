@@ -1,0 +1,781 @@
+"ThermalGeneratingUnit:
+ID","ThermalGeneratingUnit:
+PhysicalUnitType","ThermalGeneratingUnit:
+InternalId","ThermalGeneratingUnit:
+Name","ThermalGeneratingUnit:
+Parent","ThermalGeneratingUnit:
+ObjectType"
+_8c0b2de4-432d-49a9-878a-da337f2beb1e,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",1712831,06EAP-U1 Unit,_77c12a1c-384e-4eab-823b-a892bf31468d,ThermalGeneratingUnit
+_004c6f49-e91b-4abe-b2f4-b9a015b6ad8c,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",1761900,06RRD-U1 Unit,_16157e84-d0a9-434c-86ce-55bb833007ab,ThermalGeneratingUnit
+_013b6fb7-d833-4270-a100-5dc82982b2e4,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",1805860,06LAA-U1 Unit,_b6273668-c7f3-40d7-9c53-f900728b7008,ThermalGeneratingUnit
+_c213cae1-56a7-492b-9fbf-15d4a49dc21d,Gas Turbine (can only burn gas),1881260,07   TDM-U01 Unit,_018bcbda-9a13-4a87-921c-a1c16f58bec9,ThermalGeneratingUnit
+_0b84b96f-250c-417d-a953-a8d7f187bf87,Gas Turbine (can only burn gas),1881261,07   TDM-U02 Unit,_018bcbda-9a13-4a87-921c-a1c16f58bec9,ThermalGeneratingUnit
+_ce63011f-3711-4dd4-9277-ec543a1d8201,Fossil Fired Steam,1881262,07   TDM-U03 Unit,_018bcbda-9a13-4a87-921c-a1c16f58bec9,ThermalGeneratingUnit
+_16d156ed-bd21-4eb1-bc61-a7aae686720e,Gas Turbine (can only burn gas),1881982,07   ALH-U01 Unit,_5ecd043e-62c9-4947-aebe-ab1e095c69dd,ThermalGeneratingUnit
+_1251659e-d55b-4dd5-8020-7f5363a8516b,Gas Turbine (can only burn gas),1882020,07   ARK-U01 Unit,_e2283d17-b837-4ea6-ace7-d466ef82896a,ThermalGeneratingUnit
+_debb8a02-d19a-4076-9be6-a5e7d6202d26,Gas Turbine (can only burn gas),1882166,07   COV-U01 COLMAC Unit,_9947d817-1200-4301-beca-99e191b23042,ThermalGeneratingUnit
+_cddf746b-973d-4315-8556-e56b872975ce,Gas Turbine (can only burn gas),1882573,07   ECR-U01 2 Unit,_6e8d2ca5-d46b-4128-bb19-44a8ca59a3a3,ThermalGeneratingUnit
+_ab842baf-c8ba-4ce3-8692-59ee79ec680d,Gas Turbine (can only burn gas),1882574,07   ECR-U02 2 Unit,_6e8d2ca5-d46b-4128-bb19-44a8ca59a3a3,ThermalGeneratingUnit
+_aacca821-cd71-4923-9064-9b04de5cac9a,Gas Turbine (can only burn gas),1882575,07   ECR-U03 3 Unit,_6e8d2ca5-d46b-4128-bb19-44a8ca59a3a3,ThermalGeneratingUnit
+_b00412f0-9648-4362-b8ce-0e4432a81dff,Gas Turbine (can only burn gas),1882576,07   ECR-U04 3 Unit,_6e8d2ca5-d46b-4128-bb19-44a8ca59a3a3,ThermalGeneratingUnit
+_daed173b-6fd9-471c-bb6b-b5dcf5715bb3,Gas Turbine (can only burn gas),1882577,07   ECR-U05 1 Unit,_6e8d2ca5-d46b-4128-bb19-44a8ca59a3a3,ThermalGeneratingUnit
+_8e45ca48-6d79-46ea-a665-1e0398607f09,Gas Turbine (can only burn gas),1883940,07   HLI-U01 MESA Unit,_cd09afbf-a2ba-4c0f-83be-43da21d74221,ThermalGeneratingUnit
+_c4c7f5ec-982e-4917-9a34-fefb03b6207f,Gas Turbine (can only burn gas),1883941,07   HLI-U02 SIGPLNT Unit,_cd09afbf-a2ba-4c0f-83be-43da21d74221,ThermalGeneratingUnit
+_13c453eb-e64e-41e4-a113-c40942ab7541,Gas Turbine (can only burn gas),1884200,07   MID-U01 LEATHERS Unit,_5d49954c-48c8-4720-85f6-250bcbe9076d,ThermalGeneratingUnit
+_c07d5815-0caf-4972-828b-9a325ad655d6,Gas Turbine (can only burn gas),1884201,07   MID-U02 SALTSEA Unit,_5d49954c-48c8-4720-85f6-250bcbe9076d,ThermalGeneratingUnit
+_e6d7768e-220a-4a52-a669-63669ab53546,Gas Turbine (can only burn gas),1884202,07   MID-U03 VULCAN Unit,_5d49954c-48c8-4720-85f6-250bcbe9076d,ThermalGeneratingUnit
+_395b26b0-f00d-4bd5-834f-fb86c0cc0bcf,Gas Turbine (can only burn gas),1884434,07   NLD-U01 Unit,_fba4b4fb-d002-4d26-b98c-d2bfac0c5c54,ThermalGeneratingUnit
+_efd34cf4-0cda-4dc9-9b72-c70009892d73,Gas Turbine (can only burn gas),1884435,07   NLD-U02 Unit,_fba4b4fb-d002-4d26-b98c-d2bfac0c5c54,ThermalGeneratingUnit
+_fe5f4744-c695-4613-a3da-3cf8e7f04903,Gas Turbine (can only burn gas),1884436,07   NLD-U03 Unit,_fba4b4fb-d002-4d26-b98c-d2bfac0c5c54,ThermalGeneratingUnit
+_12f82634-18e7-4b9b-ac6f-d4b2ce96d4fe,Gas Turbine (can only burn gas),1886155,07   DVR-U01 500 KV Unit,_922aa0c6-6a26-46bd-8e1b-4f4c04254b18,ThermalGeneratingUnit
+_6d8edc59-31db-406b-8c8d-fdac30723d68,Gas Turbine (can only burn gas),1887636,07   HND-U01 BUCKBLVD Unit,_b9951da0-e04c-4ac8-aed8-ac847adda1b9,ThermalGeneratingUnit
+_4b4be148-e27b-4124-994a-5d08fb2b50ae,Gas Turbine (can only burn gas),1888466,07   SRN-U01 MLM 1500 Unit,_17147e22-fd6d-4541-88b6-5429e2ccf4b1,ThermalGeneratingUnit
+_6d63dc6d-57b9-41c6-a594-5430f314fd1d,Gas Turbine (can only burn gas),1888467,07   SRN-U02 MLM 2500 Unit,_17147e22-fd6d-4541-88b6-5429e2ccf4b1,ThermalGeneratingUnit
+_c7601d06-9243-419a-952b-991bba310e20,Gas Turbine (can only burn gas),1889147,07   VLY-U01 IEC Unit,_8b3c3979-7507-4b5d-8bcb-b4a39c4e4a23,ThermalGeneratingUnit
+_a2501d93-c19d-46fe-b5e9-c1aed6aae713,Gas Turbine (can only burn gas),1889753,07   ENC-U02 230 KV Unit,_2ded4633-ef7d-476e-a9ca-307519a6810a,ThermalGeneratingUnit
+_0d627a5e-56bc-4cbd-a431-a9739de0988c,Gas Turbine (can only burn gas),1890594,07   MGL-U01 CS1 Unit,_6d846d6c-c44f-41cf-8eda-0251764a8e9d,ThermalGeneratingUnit
+_ddf78f51-5460-48e0-abc1-8b204ad93027,Gas Turbine (can only burn gas),1890595,07   MGL-U02 CS2 Unit,_6d846d6c-c44f-41cf-8eda-0251764a8e9d,ThermalGeneratingUnit
+_aeb477b3-99a2-49d0-a067-d80dc79146c8,Gas Turbine (can only burn gas),1891496,07   OMS-U01 Unit,_34da2f35-d1fe-46d5-b2da-f95f5e6ef61b,ThermalGeneratingUnit
+_85ea23b7-3a8d-4dfb-bf27-627294b93876,Gas Turbine (can only burn gas),1891497,07   OMS-U02 Unit,_34da2f35-d1fe-46d5-b2da-f95f5e6ef61b,ThermalGeneratingUnit
+_a46442c1-007a-4b18-9a82-cca21e35f0c8,Fossil Fired Steam,1891498,07   OMS-U03 Unit,_34da2f35-d1fe-46d5-b2da-f95f5e6ef61b,ThermalGeneratingUnit
+_189b1362-7f14-4a3a-99c3-eb874c45c8ab,Gas Turbine (can only burn gas),1891499,07   OMS-U04 PIO 23070 Unit,_34da2f35-d1fe-46d5-b2da-f95f5e6ef61b,ThermalGeneratingUnit
+_6f669bb3-c45f-4306-b9a1-3eb6e79a0af7,Gas Turbine (can only burn gas),1891925,07   PLR-U01 Unit,_0b7b75fd-ef6c-4f24-a40e-b40e3dd1edab,ThermalGeneratingUnit
+_45bc97a1-fea5-41a5-97e3-6361c38be333,Gas Turbine (can only burn gas),1891926,07   PLR-U02 Unit,_0b7b75fd-ef6c-4f24-a40e-b40e3dd1edab,ThermalGeneratingUnit
+_74a8b137-0425-40b2-b1c9-e09404cbade7,Fossil Fired Steam,1891927,07   PLR-U03 Unit,_0b7b75fd-ef6c-4f24-a40e-b40e3dd1edab,ThermalGeneratingUnit
+_ae773399-f665-489d-9b7d-c73cfd739967,Gas Turbine (can only burn gas),1893559,07   SOF-U01 VIEJOS Unit,_4d5915de-0fb0-40d5-ba29-fdfb36ade807,ThermalGeneratingUnit
+_538b6e99-6eeb-4392-88ef-29832c419e38,Gas Turbine (can only burn gas),1894948,07   HAS-U01 HARQUA Unit,_e8b28618-11e4-4fd4-bf4b-77be2ac730a6,ThermalGeneratingUnit
+_c2d8a323-29e3-49ef-be12-c179b673a837,Gas Turbine (can only burn gas),1894949,07   HAS-U02 REDH2 Unit,_e8b28618-11e4-4fd4-bf4b-77be2ac730a6,ThermalGeneratingUnit
+_12031f73-6c67-4d5a-a8b7-2141148befd3,Gas Turbine (can only burn gas),1894950,07   HAS-U03 REDH1 Unit,_e8b28618-11e4-4fd4-bf4b-77be2ac730a6,ThermalGeneratingUnit
+_c1820d30-f83d-47d6-90ac-c783867bd813,Gas Turbine (can only burn gas),1894951,07   HAS-U04 ARLING Unit,_e8b28618-11e4-4fd4-bf4b-77be2ac730a6,ThermalGeneratingUnit
+_a36b03b4-6a34-4374-a21b-8be08f572172,Gas Turbine (can only burn gas),1894952,07   HAS-U05 MESQU1 Unit,_e8b28618-11e4-4fd4-bf4b-77be2ac730a6,ThermalGeneratingUnit
+_b0f3fa37-965c-4c2d-90e1-007b40c7e72e,Gas Turbine (can only burn gas),1894953,07   HAS-U06 MESQU2 Unit,_e8b28618-11e4-4fd4-bf4b-77be2ac730a6,ThermalGeneratingUnit
+_beb2fd2a-8583-4f5b-9856-6b7890af3065,Boiling Water Reactor,1895350,07   PVD-U01 Unit,_ef2c8085-83ef-478d-8900-436f34964e73,ThermalGeneratingUnit
+_f118d335-8f52-40a3-a708-5a1a570ab9b0,Boiling Water Reactor,1895351,07   PVD-U02 Unit,_ef2c8085-83ef-478d-8900-436f34964e73,ThermalGeneratingUnit
+_4d135b83-c7fb-43a6-bc18-21875bf73c0a,Boiling Water Reactor,1895352,07   PVD-U03 Unit,_ef2c8085-83ef-478d-8900-436f34964e73,ThermalGeneratingUnit
+_8af13de0-22d1-4455-9b18-6fa75c48bb81,Gas Turbine (can only burn gas),1915716,07   LRE-U01 Unit,_4737fc8b-9f2e-482c-a7bf-dfea2cb30693,ThermalGeneratingUnit
+_45dfb719-31f2-44b1-86f5-a35ad1cd8618,Fossil Fired Steam,1915717,07   LRE-U02 Unit,_4737fc8b-9f2e-482c-a7bf-dfea2cb30693,ThermalGeneratingUnit
+_d4e4dcdd-8af8-4429-8960-6e8b8463688f,Gas Turbine (can only burn gas),1915718,07   LRE-U03 Unit,_4737fc8b-9f2e-482c-a7bf-dfea2cb30693,ThermalGeneratingUnit
+_b0c403bc-89d4-4cea-8ac1-d0e571bf1999,Gas Turbine (can only burn gas),1915832,07   CSS-U01  Unit,_32e2198c-2b6a-4099-a5d7-850a674e4876,ThermalGeneratingUnit
+_11230f5b-2956-422b-a2c9-47c9754cb577,Gas Turbine (can only burn gas),1915833,07   CSS-U02  Unit,_32e2198c-2b6a-4099-a5d7-850a674e4876,ThermalGeneratingUnit
+_071bf45b-edfb-4881-bb73-80da5218f95f,Gas Turbine (can only burn gas),1915834,07   CSS-U03 Unit,_32e2198c-2b6a-4099-a5d7-850a674e4876,ThermalGeneratingUnit
+_8d109fc5-df74-4b85-ad37-e49d0ad80e8b,Gas Turbine (can only burn gas),1915835,07   CSS-U04 Unit,_32e2198c-2b6a-4099-a5d7-850a674e4876,ThermalGeneratingUnit
+_cdabe6bf-fc85-492d-ba17-daa4b34049d7,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",1916766,10EPE-EQ Unit,_c19f5052-2374-46a0-8126-62208f24453f,ThermalGeneratingUnit
+_97ad9b67-14ef-4574-861f-141bb6cc740b,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",1916767,08WES-U1 Unit,_f0dc3dc5-2a83-425a-bace-6010ad8c650f,ThermalGeneratingUnit
+_ebb3bd89-f6d8-4a1c-a8fa-52e0d19e6a18,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",1916768,22   LBR-230 SIQUINAL Unit,_fddd2ab9-9ca6-4953-a60f-662e589839af,ThermalGeneratingUnit
+_4f7a2941-5ff4-4e74-bca3-8cec3a2525cc,Gas Turbine (can only burn gas),2102519,01ARA-U1 Unit,_206fb860-cbe9-4180-8190-c590533ce7e0,ThermalGeneratingUnit
+_57fdb3c4-170e-45a3-bb74-560a684250a0,Gas Turbine (can only burn gas),2102534,01ATE-U1 Unit,_30de1253-464a-47bf-8da5-1cfe212af4ed,ThermalGeneratingUnit
+_203b43ef-6820-44b6-bc37-33249371c65a,Gas Turbine (can only burn gas),2102549,01COA-U1 Unit,_309b710e-ae81-4f47-bdba-3cd814cb3561,ThermalGeneratingUnit
+_653b7352-3fb5-4bbc-aada-2b20d0b5aa50,Gas Turbine (can only burn gas),2102564,01CRU-U1 Unit,_9e884ef7-9afd-4521-973b-e096968d264a,ThermalGeneratingUnit
+_dd6db3c9-34dd-471f-a489-a72f7684e118,Gas Turbine (can only burn gas),2102579,01CTT-U1 Unit,_9b3cc784-9b65-4706-90b7-65cc2e028829,ThermalGeneratingUnit
+_2b35f292-987b-4420-b1d7-85d4008373fa,Gas Turbine (can only burn gas),2102595,01CYO-U1 Unit,_c57ba521-ffa5-485d-b760-5966731f71a5,ThermalGeneratingUnit
+_90550674-9205-4042-aa44-6ea4917d120f,Gas Turbine (can only burn gas),2102608,01CYO-U2 Unit,_c57ba521-ffa5-485d-b760-5966731f71a5,ThermalGeneratingUnit
+_e9006c2f-9cac-4de0-a088-88530acf3634,Gas Turbine (can only burn gas),2102623,01ECA-U1 Unit,_5a01f48f-2f01-41ec-9c6e-9dfbf07ecb68,ThermalGeneratingUnit
+_3d4338b0-f4ba-4eb4-b8d2-b91fe7b25f28,Gas Turbine (can only burn gas),2102641,01GEV-PTA Unit,_ca0e2b91-863e-43c5-8366-d98cc5ce5155,ThermalGeneratingUnit
+_4798c92c-d7fe-4b86-9d50-be158f9aaa8a,Gas Turbine (can only burn gas),2102652,01GEV-U1 Unit,_ca0e2b91-863e-43c5-8366-d98cc5ce5155,ThermalGeneratingUnit
+_86ebc51d-11ac-4330-b113-e749eaf63a6d,Gas Turbine (can only burn gas),2102663,01GEV-U2 Unit,_ca0e2b91-863e-43c5-8366-d98cc5ce5155,ThermalGeneratingUnit
+_a8194388-e3d7-45ca-ac98-69466316f8cb,Gas Turbine (can only burn gas),2102674,01GEV-U3 Unit,_ca0e2b91-863e-43c5-8366-d98cc5ce5155,ThermalGeneratingUnit
+_d29b34fc-00a1-4aec-8fa3-90c395dd403d,Gas Turbine (can only burn gas),2102687,01IZT-U1 Unit,_0554aadf-2aa8-4fc5-9096-778b924f9002,ThermalGeneratingUnit
+_1ba05e4a-c580-4e4e-a824-b26fc8ed9cbb,Gas Turbine (can only burn gas),2102705,01JOL-U1 Unit,_dc615814-0767-4405-b7c1-756321277979,ThermalGeneratingUnit
+_15137dea-8e26-4299-823b-bb2bf8300981,Gas Turbine (can only burn gas),2102718,01JOL-U2 Unit,_dc615814-0767-4405-b7c1-756321277979,ThermalGeneratingUnit
+_eff123e3-5880-4130-b976-18a0192c09f5,Gas Turbine (can only burn gas),2102731,01JOL-U3 Unit,_dc615814-0767-4405-b7c1-756321277979,ThermalGeneratingUnit
+_cf8510ef-fdbd-40c9-b0d1-40b8b8978042,Gas Turbine (can only burn gas),2102744,01JOL-U4 Unit,_dc615814-0767-4405-b7c1-756321277979,ThermalGeneratingUnit
+_16c1abaa-2448-4e73-944e-4dee92f92201,Gas Turbine (can only burn gas),2102762,01LEC-U1 Unit,_e72b98d2-3f75-4159-8924-030a08fd0b7b,ThermalGeneratingUnit
+_897f950a-92a0-447d-a6fe-960dc586c8a5,Gas Turbine (can only burn gas),2102775,01LEC-U2 Unit,_e72b98d2-3f75-4159-8924-030a08fd0b7b,ThermalGeneratingUnit
+_696b5fff-7ec9-404c-86cf-569db983f038,Gas Turbine (can only burn gas),2102788,01LEC-U3 Unit,_e72b98d2-3f75-4159-8924-030a08fd0b7b,ThermalGeneratingUnit
+_b02ab069-b826-46c2-82d3-2255258e1eaa,Gas Turbine (can only burn gas),2102801,01LEC-U4 Unit,_e72b98d2-3f75-4159-8924-030a08fd0b7b,ThermalGeneratingUnit
+_40a9a66f-9f81-4894-9b8b-d83ca64bccd0,Gas Turbine (can only burn gas),2102816,01MAG-U1 Unit,_85e7001f-b4ec-4432-98aa-3c0ace9c7a2a,ThermalGeneratingUnit
+_58abc09b-738a-4164-8e72-45778703f7c5,Gas Turbine (can only burn gas),2102834,01NON-U1 Unit,_d0807846-01e0-4a0e-8692-6980b2a23dab,ThermalGeneratingUnit
+_68673c6e-7963-4d89-a016-15d6a62758e0,Gas Turbine (can only burn gas),2102847,01NON-U2 Unit,_d0807846-01e0-4a0e-8692-6980b2a23dab,ThermalGeneratingUnit
+_5dd564de-79ea-4890-a4dd-a680be3b3e13,Gas Turbine (can only burn gas),2102860,01NON-U3 Unit,_d0807846-01e0-4a0e-8692-6980b2a23dab,ThermalGeneratingUnit
+_11d1a18e-b250-4155-bbf0-9b0315e29a59,Gas Turbine (can only burn gas),2102873,01NON-U4 Unit,_d0807846-01e0-4a0e-8692-6980b2a23dab,ThermalGeneratingUnit
+_9c4bf5fe-a86c-4a30-b5ff-ddc5e1ff6494,Fossil Fired Steam,2102894,01PEO-U1 Unit,_d6e77839-7366-4e5a-9032-95e57d7683c1,ThermalGeneratingUnit
+_1f0c5e0d-cb56-4cc4-a39f-f65a086baeed,Fossil Fired Steam,2102911,01PEO-U2 Unit,_d6e77839-7366-4e5a-9032-95e57d7683c1,ThermalGeneratingUnit
+_f7492834-23ed-4b5a-ae32-64a16f175b60,Fossil Fired Steam,2102928,01PEO-U3 Unit,_d6e77839-7366-4e5a-9032-95e57d7683c1,ThermalGeneratingUnit
+_6e6e98a7-f12f-4195-a8f2-3072a7dd8b8c,Fossil Fired Steam,2102945,01PEO-U4 Unit,_d6e77839-7366-4e5a-9032-95e57d7683c1,ThermalGeneratingUnit
+_71ef0ef5-cd6e-48aa-a2b7-6e0c1c567373,Fossil Fired Steam,2102962,01PEO-U5 Unit,_d6e77839-7366-4e5a-9032-95e57d7683c1,ThermalGeneratingUnit
+_d2f9009b-60ec-4de0-ab43-cc497bfd4c15,Fossil Fired Steam,2102979,01PEO-U6 Unit,_d6e77839-7366-4e5a-9032-95e57d7683c1,ThermalGeneratingUnit
+_b7142346-fc83-4bca-8649-985f027e8f0d,Fossil Fired Steam,2102996,01PEO-U7 Unit,_d6e77839-7366-4e5a-9032-95e57d7683c1,ThermalGeneratingUnit
+_813c1e3d-2f5a-4d6e-9b00-32ed6895cc31,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103024,01PTA-U1 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_fc5d213a-1793-407d-a2e1-593c1882a432,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103035,01PTA-U10 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_319ae8d3-31af-4f49-9a60-06c837437942,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103046,01PTA-U11 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_46b3a1e2-93ab-44ac-8b68-d85efeadd5e5,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103057,01PTA-U12 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_95ee7290-ff59-4b39-834c-e6ec060374ce,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103068,01PTA-U2 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_514fcb7f-ad22-4573-a6b0-c3033e29a427,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103079,01PTA-U3 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_495493cc-ff6d-408d-8407-38b8255defab,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103090,01PTA-U4 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_6bf6025d-9c1b-491a-a6c7-931cf530438d,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103101,01PTA-U5 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_1525e09f-95bb-4fe6-ad19-093e5637a85b,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103112,01PTA-U6 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_b258db8c-e20b-4139-b2c6-051d8ffc9d4f,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103123,01PTA-U7 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_452a3304-a034-477b-bf0f-c0cc22253942,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103134,01PTA-U8 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_726232f3-3694-4f4a-9597-22e3f78bc5e4,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103145,01PTA-U9 Unit,_0858bdb0-e4f8-43aa-b4b2-ead95997d3ab,ThermalGeneratingUnit
+_a7393f8e-925c-4189-82fe-f727c5a0aa05,Gas Turbine (can only burn gas),2103158,01REM-U1 Unit,_0c0e6237-ab69-47aa-8ed9-2070bde3b122,ThermalGeneratingUnit
+_73aa4b7d-7b55-4d6a-ae87-5c5cff95560d,Fossil Fired Steam,2103177,01TUL-U1 Unit,_85d517ba-58bf-4115-807b-81765ee7591f,ThermalGeneratingUnit
+_abc0a4b0-7c8d-4aad-be42-191bea157f70,Fossil Fired Steam,2103194,01TUL-U2 Unit,_85d517ba-58bf-4115-807b-81765ee7591f,ThermalGeneratingUnit
+_809252e9-ce4f-44cd-aa42-01d9180984b3,Fossil Fired Steam,2103211,01TUL-U3 Unit,_85d517ba-58bf-4115-807b-81765ee7591f,ThermalGeneratingUnit
+_6addacb6-5d74-44c0-b53d-719df7444cf6,Fossil Fired Steam,2103228,01TUL-U4 Unit,_85d517ba-58bf-4115-807b-81765ee7591f,ThermalGeneratingUnit
+_6f29cc63-6bc4-4343-addd-3a90ee42d62c,Fossil Fired Steam,2103245,01TUL-U5 Unit,_85d517ba-58bf-4115-807b-81765ee7591f,ThermalGeneratingUnit
+_0535a72b-406a-44f7-8e87-325b5a990cdf,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2103293,01VAE-U3 Unit,_e01b1d44-4415-4ed9-8b47-6ffb1e21ab2b,ThermalGeneratingUnit
+_c13c770e-8e61-492f-b36b-85ebf862e9d9,Gas Turbine (can only burn gas),2103306,01VDM-U8 Unit,_e01b1d44-4415-4ed9-8b47-6ffb1e21ab2b,ThermalGeneratingUnit
+_087abe57-72c8-45ca-9da7-67de72e800ba,Gas Turbine (can only burn gas),2103319,01VAJ-U1 Unit,_b82b432b-6c1b-4208-9b56-033836a82ff9,ThermalGeneratingUnit
+_5caf847f-2f13-4456-b293-f258979c8b40,Gas Turbine (can only burn gas),2103334,01VDF-U1 Unit,_d87d0385-f05f-4d20-92f6-93951a3dec8a,ThermalGeneratingUnit
+_20ca11ad-a4dc-44ad-9d2d-aab06532a349,Gas Turbine (can only burn gas),2103392,01VIC-U1 Unit,_5e80e144-bc92-48c5-96f9-f778d6a334d5,ThermalGeneratingUnit
+_42a1ec22-e540-4daa-a732-6f493e4f5a2f,Combined Cycle Logical Unit (NA Flag should be false),2103436,01TCC-PQ1 Unit,_e1f423ad-7d99-4f6a-8475-37eef15a4d24,ThermalGeneratingUnit
+_5e8dbfac-6d28-4645-ac75-6029f7d6b529,Fossil Fired Steam,2103451,01TCC-U3 Unit,_e1f423ad-7d99-4f6a-8475-37eef15a4d24,ThermalGeneratingUnit
+_ebbabadb-04fb-4b25-9dda-b41c48135909,Gas Turbine (can only burn gas),2103462,01TCC-U8 Unit,_e1f423ad-7d99-4f6a-8475-37eef15a4d24,ThermalGeneratingUnit
+_0be1821d-1972-48f3-8075-32802a98bd8e,Combined Cycle Logical Unit (NA Flag should be false),2103504,01TCC-PQ2 Unit,_2d8e9768-3480-4bb0-b5ac-1eddfef96318,ThermalGeneratingUnit
+_fcaea747-5719-4b16-b866-716b57d6526e,Fossil Fired Steam,2103519,01TCC-U6 Unit,_2d8e9768-3480-4bb0-b5ac-1eddfef96318,ThermalGeneratingUnit
+_47fbe6fd-3df5-4805-a02d-95d2fbd07435,Gas Turbine (can only burn gas),2103530,01TCC-U7 Unit,_2d8e9768-3480-4bb0-b5ac-1eddfef96318,ThermalGeneratingUnit
+_fb1dd32a-d376-4946-a3b7-effd9a292070,Combined Cycle Logical Unit (NA Flag should be false),2103682,01VAE-PQ1 Unit,_7f6f5b9d-d789-4f4c-a4e2-d0e7025becde,ThermalGeneratingUnit
+_499ccaa1-06f4-4b96-9090-67d94fe79adc,Fossil Fired Steam,2103697,01VAE-U4 Unit,_7f6f5b9d-d789-4f4c-a4e2-d0e7025becde,ThermalGeneratingUnit
+_f6f3e9fe-5996-4668-aba6-18dc12f33f4f,Gas Turbine (can only burn gas),2103708,01VAE-U5 Unit,_7f6f5b9d-d789-4f4c-a4e2-d0e7025becde,ThermalGeneratingUnit
+_b0885845-7525-458e-9e4f-40b837bec148,Gas Turbine (can only burn gas),2103719,01VAE-U6 Unit,_7f6f5b9d-d789-4f4c-a4e2-d0e7025becde,ThermalGeneratingUnit
+_c3b764f0-d774-4148-a726-f294b313523b,Gas Turbine (can only burn gas),2103730,01VAE-U7 Unit,_7f6f5b9d-d789-4f4c-a4e2-d0e7025becde,ThermalGeneratingUnit
+_8185c27e-0a48-4eb3-b00d-a46cbb1fc8f8,Combined Cycle Logical Unit (NA Flag should be false),2103809,01VAE-PQ2 Unit,_a5d17646-97fb-4d3d-bfa5-efbf1fb2a86b,ThermalGeneratingUnit
+_e4e30aeb-e302-4853-98fd-a92551231809,Fossil Fired Steam,2103820,01VAE-U10 Unit,_a5d17646-97fb-4d3d-bfa5-efbf1fb2a86b,ThermalGeneratingUnit
+_4b14befa-c05a-4103-b822-4685add58083,Gas Turbine (can only burn gas),2103831,01VAE-U8 Unit,_a5d17646-97fb-4d3d-bfa5-efbf1fb2a86b,ThermalGeneratingUnit
+_f1ba3064-c9d6-408b-8d43-258e54c9f21e,Gas Turbine (can only burn gas),2103842,01VAE-U9 Unit,_a5d17646-97fb-4d3d-bfa5-efbf1fb2a86b,ThermalGeneratingUnit
+_b23720fd-47b4-4373-801b-96f997ae2fe4,Combined Cycle Logical Unit (NA Flag should be false),2103939,01VMD-PQ1 Unit,_d6a16fe5-e7b1-4956-8fc3-081d9979246c,ThermalGeneratingUnit
+_5dee910c-f46f-4453-9c8d-5d58b7fcb302,Gas Turbine (can only burn gas),2103950,01VMD-U1 Unit,_d6a16fe5-e7b1-4956-8fc3-081d9979246c,ThermalGeneratingUnit
+_939691d5-8ab3-4975-b35f-9436b4c2fe05,Gas Turbine (can only burn gas),2103961,01VMD-U2 Unit,_d6a16fe5-e7b1-4956-8fc3-081d9979246c,ThermalGeneratingUnit
+_9159b350-d38e-4591-a4f8-c7f658b15361,Fossil Fired Steam,2103972,01VMD-U3 Unit,_d6a16fe5-e7b1-4956-8fc3-081d9979246c,ThermalGeneratingUnit
+_abef1257-d9bd-43f4-a580-f71ff339280a,Gas Turbine (can only burn gas),2116193,08CHB-U1 Unit,_b2d9afc1-aa97-4ee2-a601-6d26584b5380,ThermalGeneratingUnit
+_b7060de8-df3a-46a1-9d4b-c019c2efc6b1,Gas Turbine (can only burn gas),2116206,08CHB-U2 Unit,_b2d9afc1-aa97-4ee2-a601-6d26584b5380,ThermalGeneratingUnit
+_ccf93409-c732-4c75-9ed8-92052de45dcb,Gas Turbine (can only burn gas),2116219,08CHB-U4 Unit,_b2d9afc1-aa97-4ee2-a601-6d26584b5380,ThermalGeneratingUnit
+_478eb004-e2b8-4e86-a8ea-ea4c6435bdb3,Gas Turbine (can only burn gas),2116236,08CNC-U1 Unit,_cde5e03c-59a5-4af4-acbf-ba4feb8c5e4d,ThermalGeneratingUnit
+_996f516b-7a87-4daf-8edf-7a73abc4143e,Gas Turbine (can only burn gas),2116249,08CNC-U2 Unit,_cde5e03c-59a5-4af4-acbf-ba4feb8c5e4d,ThermalGeneratingUnit
+_60849817-255b-4f77-aab4-fc19504752bb,Gas Turbine (can only burn gas),2116262,08CNC-U5 Unit,_cde5e03c-59a5-4af4-acbf-ba4feb8c5e4d,ThermalGeneratingUnit
+_a458da71-5e9b-41eb-a65c-db23432bc8b6,Gas Turbine (can only burn gas),2116277,08CPC-U1 Unit,_79b3d448-644b-49d5-a141-f624df829e4e,ThermalGeneratingUnit
+_95a9667e-0faa-4158-af50-695298a5f116,Gas Turbine (can only burn gas),2116293,08CRE-U2 Unit,_d10a5175-dcfa-46ba-a83c-fb46a7260458,ThermalGeneratingUnit
+_7948e50c-6750-4855-8ed0-ca248160dc6d,Gas Turbine (can only burn gas),2116306,08CRE-U3 Unit,_d10a5175-dcfa-46ba-a83c-fb46a7260458,ThermalGeneratingUnit
+_5ab3ef9a-9cd3-4fcd-bbf5-ba955f2c577c,Gas Turbine (can only burn gas),2116323,08HRA-U1 Unit,_8825c0e6-a8d6-48f5-8957-7be65cdbb47a,ThermalGeneratingUnit
+_2588af6e-882d-4a9d-9d10-d1bd4249bb69,Gas Turbine (can only burn gas),2116334,08HRA-U2 Unit,_8825c0e6-a8d6-48f5-8957-7be65cdbb47a,ThermalGeneratingUnit
+_1ed778df-3150-493f-abd2-392ab726be7a,Gas Turbine (can only burn gas),2116345,08HRA-U3 Unit,_8825c0e6-a8d6-48f5-8957-7be65cdbb47a,ThermalGeneratingUnit
+_cfd56d36-5c20-4c9f-9ff2-a9dd77a29ebc,Gas Turbine (can only burn gas),2116358,08IKL-U1 Unit,_d8a1bde0-2220-4496-8f14-1f881bb0f1ad,ThermalGeneratingUnit
+_2e31605a-ae43-4359-899b-1db022d9dd92,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2116373,08LRA-U2 Unit,_0ac1c809-cc91-4489-b2cb-e3dd15d0a148,ThermalGeneratingUnit
+_23e63244-59ed-4643-bdf8-2e20c0f3bc6b,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2116386,08LRA-U3 Unit,_0ac1c809-cc91-4489-b2cb-e3dd15d0a148,ThermalGeneratingUnit
+_97cc7975-1c36-47a0-bbea-f8332abea94f,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2116399,08LRA-U4 Unit,_0ac1c809-cc91-4489-b2cb-e3dd15d0a148,ThermalGeneratingUnit
+_0ae6c786-b954-4c16-b276-d1a8a62e4d98,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2116416,08MDA-U1 Unit,_5dcaa958-d303-473d-858b-eb314584ffb7,ThermalGeneratingUnit
+_ca2974bd-f468-4e09-ac41-4de55d6bbcdb,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2116431,08MDA-U2 Unit,_5dcaa958-d303-473d-858b-eb314584ffb7,ThermalGeneratingUnit
+_1e43dd9f-f014-4dd1-9dbf-12784b1164e3,Gas Turbine (can only burn gas),2116446,08MDA-U3 Unit,_5dcaa958-d303-473d-858b-eb314584ffb7,ThermalGeneratingUnit
+_5eb7cc87-a70d-46f8-8e98-4f1a4a40e8ad,Gas Turbine (can only burn gas),2116464,08NIZ-U1 Unit,_7dfb55c6-3543-4ccd-bbe2-78a2ff43d378,ThermalGeneratingUnit
+_4dbb0136-8297-4870-9b8e-14972ebc9596,Gas Turbine (can only burn gas),2116477,08NIZ-U2 Unit,_7dfb55c6-3543-4ccd-bbe2-78a2ff43d378,ThermalGeneratingUnit
+_d37d2388-31d8-4e6b-bb08-62161755a29e,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2116493,08VAD-U1 Unit,_c9d53923-d82c-4b1d-b408-d3a01db34f8e,ThermalGeneratingUnit
+_6cd26d10-92d5-4f58-acf7-fbe361554fcd,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2116508,08VAD-U2 Unit,_c9d53923-d82c-4b1d-b408-d3a01db34f8e,ThermalGeneratingUnit
+_5677426a-8d5f-4c22-82a8-453f7be9081b,Gas Turbine (can only burn gas),2116527,08XUL-U1 Unit,_f30bacf0-6de0-46ae-939c-7cec48a0e40d,ThermalGeneratingUnit
+_952618ff-1c3f-4a62-9d4f-759465b0b205,Gas Turbine (can only burn gas),2116540,08XUL-U2 Unit,_f30bacf0-6de0-46ae-939c-7cec48a0e40d,ThermalGeneratingUnit
+_51760dc1-029e-40ab-ac96-d0ab6bc49b2f,Gas Turbine (can only burn gas),2116553,08XUL-U3 Unit,_f30bacf0-6de0-46ae-939c-7cec48a0e40d,ThermalGeneratingUnit
+_e045d94d-f48c-4c6b-99e4-c703b71f1bf9,Combined Cycle Logical Unit (NA Flag should be false),2116652,08MDP-PTA Unit,_bf39af23-a54f-4536-9c8e-782cc85fc113,ThermalGeneratingUnit
+_84a54d29-9624-4301-8eab-235c27cfff18,Gas Turbine (can only burn gas),2116665,08MDP-U1 Unit,_bf39af23-a54f-4536-9c8e-782cc85fc113,ThermalGeneratingUnit
+_f30ccd12-d734-4f0e-add3-e2fa3c812439,Gas Turbine (can only burn gas),2116676,08MDP-U2 Unit,_bf39af23-a54f-4536-9c8e-782cc85fc113,ThermalGeneratingUnit
+_6f387f65-2ec0-4699-8d4d-894343e1c413,Fossil Fired Steam,2116687,08MDP-U3 Unit,_bf39af23-a54f-4536-9c8e-782cc85fc113,ThermalGeneratingUnit
+_3c5bfe79-5b85-41ba-bbeb-0323eb01396d,Combined Cycle Logical Unit (NA Flag should be false),2116766,08VAD-PTA Unit,_6ab06b66-7c19-4145-828a-3cfe6306c3f5,ThermalGeneratingUnit
+_a6839f6f-6150-4570-920a-d2f4e57853d5,Fossil Fired Steam,2116781,08VAD-U3 Unit,_6ab06b66-7c19-4145-828a-3cfe6306c3f5,ThermalGeneratingUnit
+_e83bcfcc-3515-434b-a8e4-0a43b59fb7bb,Gas Turbine (can only burn gas),2116792,08VAD-U4 Unit,_6ab06b66-7c19-4145-828a-3cfe6306c3f5,ThermalGeneratingUnit
+_c10f3add-6d56-4353-b148-a589a8fc809e,Gas Turbine (can only burn gas),2116803,08VAD-U5 Unit,_6ab06b66-7c19-4145-828a-3cfe6306c3f5,ThermalGeneratingUnit
+_6e4a9960-27e2-46ed-b9bf-b5b3cabaaeb2,Combined Cycle Logical Unit (NA Flag should be false),2116900,08VLT-PTA Unit,_668ea7dd-a547-4ec9-96ca-7c3dc2f15ab0,ThermalGeneratingUnit
+_b5dbcf7c-95d1-4049-a7b4-c798d69ba5ea,Gas Turbine (can only burn gas),2116913,08VLT-U1 Unit,_668ea7dd-a547-4ec9-96ca-7c3dc2f15ab0,ThermalGeneratingUnit
+_ed3c5314-abd6-4789-9b7b-0a04cc191ad4,Gas Turbine (can only burn gas),2116924,08VLT-U2 Unit,_668ea7dd-a547-4ec9-96ca-7c3dc2f15ab0,ThermalGeneratingUnit
+_1af9d00a-ec4b-4cd0-b975-1d790ba78366,Fossil Fired Steam,2116935,08VLT-U3 Unit,_668ea7dd-a547-4ec9-96ca-7c3dc2f15ab0,ThermalGeneratingUnit
+_7ee6e444-90b9-4440-a90a-cbc512f54172,Gas Turbine (can only burn gas),2364582,06ALT-U1 Unit,_87c054e6-4b9e-4730-bb84-36f863f7c97d,ThermalGeneratingUnit
+_fa2e08cd-cd00-4a02-8303-71610738e5ff,Gas Turbine (can only burn gas),2364599,06ALT-U2 Unit,_87c054e6-4b9e-4730-bb84-36f863f7c97d,ThermalGeneratingUnit
+_13a5517e-7ee4-4674-9e4a-91bd672dcf19,Gas Turbine (can only burn gas),2364616,06ALT-U3 Unit,_87c054e6-4b9e-4730-bb84-36f863f7c97d,ThermalGeneratingUnit
+_755029e4-6f61-4cd7-afcf-6350cc4f75fc,Gas Turbine (can only burn gas),2364633,06ALT-U4 Unit,_87c054e6-4b9e-4730-bb84-36f863f7c97d,ThermalGeneratingUnit
+_6dd672a4-ff0e-418c-8d9d-579cb0df57f3,Gas Turbine (can only burn gas),2364652,06ASN-U1 Unit,_f86ebf4a-38e4-4344-b9be-37d43338b209,ThermalGeneratingUnit
+_3f497f96-d9cf-420f-8f6e-fdd335e3751d,Fossil Fired Steam,2364668,06CBD-U1 Unit,_a01ebfbf-ea79-4a24-8c5f-5473013f357c,ThermalGeneratingUnit
+_f6cefbc1-c4df-4884-a9cc-a3872a6b0eba,Fossil Fired Steam,2364681,06CBD-U2 Unit,_a01ebfbf-ea79-4a24-8c5f-5473013f357c,ThermalGeneratingUnit
+_7649a5a0-b934-4525-bc5a-15bc63daa540,Fossil Fired Steam,2364694,06CBD-U3 Unit,_a01ebfbf-ea79-4a24-8c5f-5473013f357c,ThermalGeneratingUnit
+_0fb9641f-c752-47fa-948f-11978bf6e421,Fossil Fired Steam,2364707,06CBD-U4 Unit,_a01ebfbf-ea79-4a24-8c5f-5473013f357c,ThermalGeneratingUnit
+_0c525a23-cd88-4776-9c4b-42d5bbe764a3,Gas Turbine (can only burn gas),2364725,06CDU-U1 Unit,_3848B5B5-3F59-43CC-B161-1471198508A0,ThermalGeneratingUnit
+_c7f44649-4b89-4031-b377-b0cb6f7dfca4,Gas Turbine (can only burn gas),2364738,06CDU-U2 Unit,_3848B5B5-3F59-43CC-B161-1471198508A0,ThermalGeneratingUnit
+_4ec0e8e7-1bc2-4c05-8be7-f9fef04d11ba,Gas Turbine (can only burn gas),2364751,06CDU-U3 Unit,_d3dc420d-92d7-4d71-a18b-5cddb2729c74,ThermalGeneratingUnit
+_c3ea6226-6f70-40ff-a794-c96da9bdcf2e,Gas Turbine (can only burn gas),2364762,06CDU-U4 Unit,_d3dc420d-92d7-4d71-a18b-5cddb2729c74,ThermalGeneratingUnit
+_2cf563dc-beb2-4a2e-9106-326c6243fd38,Gas Turbine (can only burn gas),2364775,06CNK-U1 Unit,_6c5f8c94-7746-4a81-9047-589baed687fc,ThermalGeneratingUnit
+_5866f4c8-98ae-4bd4-9301-475690d5886d,Gas Turbine (can only burn gas),2364791,06CVC-U1 Unit,_4ff972e0-acd0-4aaf-aabe-58322dfd118d,ThermalGeneratingUnit
+_477e73cf-4541-4932-8bfd-07c1b8a8a69c,Gas Turbine (can only burn gas),2364802,06CVC-U2 Unit,_4ff972e0-acd0-4aaf-aabe-58322dfd118d,ThermalGeneratingUnit
+_18198948-d639-4179-b7f1-4c84aaf1b22e,Gas Turbine (can only burn gas),2364813,06CVC-U3 Unit,_4ff972e0-acd0-4aaf-aabe-58322dfd118d,ThermalGeneratingUnit
+_4002da34-5700-4dcb-a22a-5b21b73d3920,Gas Turbine (can only burn gas),2364824,06CVC-U4 Unit,_4ff972e0-acd0-4aaf-aabe-58322dfd118d,ThermalGeneratingUnit
+_44c8c2a3-e98c-4e24-b398-0dd13804c185,Gas Turbine (can only burn gas),2364839,06DUT-U1 Unit,_3e7fa542-97fa-41d8-aa43-8b7551ea8fd4,ThermalGeneratingUnit
+_9d6c8433-7a1a-465d-bab5-9ab2b700963d,Gas Turbine (can only burn gas),2364850,06DUT-U2 Unit,_3e7fa542-97fa-41d8-aa43-8b7551ea8fd4,ThermalGeneratingUnit
+_a8ccb507-ba67-4e4e-8ce1-40ddea938616,Gas Turbine (can only burn gas),2364861,06DUT-U3 Unit,_3e7fa542-97fa-41d8-aa43-8b7551ea8fd4,ThermalGeneratingUnit
+_05ff1fc7-c436-4652-8cbc-1fce030be10f,Gas Turbine (can only burn gas),2364874,06FUN-U1 Unit,_43d0d847-7fc8-42e1-821b-5b3fb5ae5798,ThermalGeneratingUnit
+_66c2e37d-db5d-4597-a8c4-e4d56b663f11,Gas Turbine (can only burn gas),2364897,06GEH-PTA Unit,_32555083-1a3f-4cae-a02e-0cd15b16861f,ThermalGeneratingUnit
+_78aaf7cf-9603-4930-95c4-3e35a6119edb,Gas Turbine (can only burn gas),2364908,06GEH-U1 Unit,_32555083-1a3f-4cae-a02e-0cd15b16861f,ThermalGeneratingUnit
+_6200efdc-f9a8-4ae2-85f6-fd9240494af6,Gas Turbine (can only burn gas),2364919,06GEH-U2 Unit,_32555083-1a3f-4cae-a02e-0cd15b16861f,ThermalGeneratingUnit
+_dd450e97-7c2d-43e4-a5fe-4041661f7d81,Gas Turbine (can only burn gas),2364930,06GEH-U3 Unit,_32555083-1a3f-4cae-a02e-0cd15b16861f,ThermalGeneratingUnit
+_81cfe0ed-eec2-432c-9c98-14d093a7b6a5,Gas Turbine (can only burn gas),2364941,06GEH-U4 Unit,_32555083-1a3f-4cae-a02e-0cd15b16861f,ThermalGeneratingUnit
+_c90bb990-04e4-4db0-b1f2-2868f082e5a4,Gas Turbine (can only burn gas),2364952,06GEH-U5 Unit,_32555083-1a3f-4cae-a02e-0cd15b16861f,ThermalGeneratingUnit
+_055e4630-b909-4b1d-a134-f13ee40a874e,Gas Turbine (can only burn gas),2364963,06GEH-U6 Unit,_32555083-1a3f-4cae-a02e-0cd15b16861f,ThermalGeneratingUnit
+_04668b82-141d-47ea-9ade-262f5b94bb6e,Gas Turbine (can only burn gas),2364974,06GEH-U7 Unit,_32555083-1a3f-4cae-a02e-0cd15b16861f,ThermalGeneratingUnit
+_fa4926c5-0521-404e-8486-674b76f4a27a,Fossil Fired Steam,2364985,06GEH-U8 Unit,_32555083-1a3f-4cae-a02e-0cd15b16861f,ThermalGeneratingUnit
+_6db3b985-fe25-40c4-b7be-1665f3bdb683,Gas Turbine (can only burn gas),2364998,06GPT-U1 Unit,_aad6670c-9548-41d8-b1d5-413f1678f4d8,ThermalGeneratingUnit
+_dd2bad23-798f-4f0d-979b-eb82fcc96777,Gas Turbine (can only burn gas),2365011,06HUI-U6 Unit,_a39d0e76-2590-48d6-94e8-644aee1d2d19,ThermalGeneratingUnit
+_211e33a9-17e7-4500-aac6-71ef270ef13e,Gas Turbine (can only burn gas),2365027,06HUO-U1 Unit,_63f67431-613c-4bae-8ba1-ae8f10c618d5,ThermalGeneratingUnit
+_44a3fc3d-abe4-400b-a0d9-220f21bc95e8,Gas Turbine (can only burn gas),2365040,06HUO-U2 Unit,_63f67431-613c-4bae-8ba1-ae8f10c618d5,ThermalGeneratingUnit
+_946b40a2-b6ad-49d2-a8e8-59620382ec35,Gas Turbine (can only burn gas),2365055,06ICR-U1 Unit,_33f82745-6580-4c63-bfef-7fba589fd925,ThermalGeneratingUnit
+_6a456823-94a9-483c-800a-94fd69e9d3ce,Gas Turbine (can only burn gas),2365068,06KAF-U1 Unit,_3a7b1ad1-e188-4f4f-b02c-bac611e05664,ThermalGeneratingUnit
+_febf5460-b523-465d-880e-76df02f0454a,Gas Turbine (can only burn gas),2365081,06LBA-U1 Unit,_539a8c36-5a5f-46fe-9a7a-6baaecdfb1a9,ThermalGeneratingUnit
+_24f2dc69-3707-464f-b371-7e20daf12cfb,Gas Turbine (can only burn gas),2365095,06LEO-U1 Unit,_6ffa7943-16e2-4806-b145-7417135a9373,ThermalGeneratingUnit
+_1578d568-2834-484e-828a-b8ec31a97ed8,Gas Turbine (can only burn gas),2365108,06LEO-U2 Unit,_6ffa7943-16e2-4806-b145-7417135a9373,ThermalGeneratingUnit
+_91394a89-1e81-4703-bf95-a6f54262f327,Gas Turbine (can only burn gas),2365123,06LMS-U1 Unit,_9e402a67-414b-47c0-9adb-8451b3e00833,ThermalGeneratingUnit
+_d890f380-91cf-44d6-b73b-8317c6ddedd3,Gas Turbine (can only burn gas),2365137,06MON-U1 Unit,_dcbc6b03-311d-41ef-88fb-ea69ac7934c6,ThermalGeneratingUnit
+_d944473a-c847-4a51-8e1b-8d018e3778fe,Gas Turbine (can only burn gas),2365150,06MON-U2 Unit,_dcbc6b03-311d-41ef-88fb-ea69ac7934c6,ThermalGeneratingUnit
+_51bff6ab-7a8d-4ef7-af00-d925151fec3d,Gas Turbine (can only burn gas),2365165,06PCA-U1 Unit,_8a6789b7-9460-4562-b66f-ecbf357fdcb7,ThermalGeneratingUnit
+_5b057312-a4fa-48bc-853c-7e66e45b9e82,Gas Turbine (can only burn gas),2365178,06PSN-U1 Unit,_a238812a-0c9e-47e8-abf6-3c779cc2df84,ThermalGeneratingUnit
+_52559469-5305-4c77-bf48-164cfd87adec,Gas Turbine (can only burn gas),2365191,06PYC-U1 Unit,_6accbe19-6c0d-416d-ad1c-8b778f77d776,ThermalGeneratingUnit
+_96b4bf75-86a6-424d-865d-50c5856bfdcc,Gas Turbine (can only burn gas),2365205,06REB-U1 Unit,_99d67308-2207-4774-a73a-5273e9f4e6b1,ThermalGeneratingUnit
+_89a75fee-643d-4763-a0bb-d9c2813a8b79,Gas Turbine (can only burn gas),2365216,06REB-U2 Unit,_99d67308-2207-4774-a73a-5273e9f4e6b1,ThermalGeneratingUnit
+_142dab80-1213-44bd-9c3a-3cab5f5cc5fa,Fossil Fired Steam,2365232,06REC-U1 Unit,_bcc6d775-3c0a-45a7-9c34-eca7c0596cd5,ThermalGeneratingUnit
+_fab4b99a-cc72-4185-9e1a-1a44de2584f2,Fossil Fired Steam,2365245,06REC-U2 Unit,_bcc6d775-3c0a-45a7-9c34-eca7c0596cd5,ThermalGeneratingUnit
+_007642eb-75d1-41ac-acc4-8e5cabbc2be2,Fossil Fired Steam,2365258,06REC-U3 Unit,_bcc6d775-3c0a-45a7-9c34-eca7c0596cd5,ThermalGeneratingUnit
+_45cd73e9-e49a-4537-a969-3ee0def05ee9,Fossil Fired Steam,2365271,06REC-U4 Unit,_bcc6d775-3c0a-45a7-9c34-eca7c0596cd5,ThermalGeneratingUnit
+_d6ad2c3a-63fc-49e1-a4d6-38c721479258,Gas Turbine (can only burn gas),2365286,06RIB-U3 Unit,_48340363-2703-49f9-ae59-39d8ef65d7a8,ThermalGeneratingUnit
+_cc527b1e-1d85-4544-b0e6-f818a5d504f8,Gas Turbine (can only burn gas),2365307,06RMS-PTA Unit,_b90fa5dd-7222-4c6d-b6e7-6a6b3942f8e8,ThermalGeneratingUnit
+_dfd980c4-5205-4865-9a21-e00f3c83c323,Gas Turbine (can only burn gas),2365318,06RMS-U1 Unit,_b90fa5dd-7222-4c6d-b6e7-6a6b3942f8e8,ThermalGeneratingUnit
+_16f8f475-ab5a-4822-81dc-cb46caf86da0,Gas Turbine (can only burn gas),2365329,06RMS-U2 Unit,_b90fa5dd-7222-4c6d-b6e7-6a6b3942f8e8,ThermalGeneratingUnit
+_4276b7ff-9f3b-4b4b-8ebb-2688d62ece05,Gas Turbine (can only burn gas),2365342,06TEC-U1 Unit,_7ffd9ba7-78b1-43c2-9e48-6d3baa051eea,ThermalGeneratingUnit
+_55e3df40-3240-416a-a27b-4a3f2e714f7c,Gas Turbine (can only burn gas),2365357,06TEG-U1 Unit,_4f0e9509-530b-407e-b9f9-20a241d74664,ThermalGeneratingUnit
+_27cd7fd7-63f8-4e69-8f37-3619f902175c,Gas Turbine (can only burn gas),2365370,06TEP-U2 Unit,_79fcbf34-484b-486a-aba3-2f0adec2c3cb,ThermalGeneratingUnit
+_8a020abe-156d-4651-b897-34eccc7ceb75,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2365383,06TRW-U1 Unit,_6deffc39-d8db-4054-bc00-0fa29593360e,ThermalGeneratingUnit
+_130d8844-aa73-4a52-a099-0e06252bdb95,Combined Cycle Logical Unit (NA Flag should be false),2365434,06ACL-PTA Unit,_8e96978d-d23b-4c52-a2bd-cfd5230b2f09,ThermalGeneratingUnit
+_e9ada519-6c9b-4d5c-ab88-edc68e892407,Gas Turbine (can only burn gas),2365445,06ACL-U1 Unit,_8e96978d-d23b-4c52-a2bd-cfd5230b2f09,ThermalGeneratingUnit
+_a79ddde8-6189-453e-b457-caffc09988cd,Fossil Fired Steam,2365456,06ACL-U2 Unit,_8e96978d-d23b-4c52-a2bd-cfd5230b2f09,ThermalGeneratingUnit
+_c5186809-1703-4850-a6b6-01f64cbdd6b4,Combined Cycle Logical Unit (NA Flag should be false),2366150,06ATC-PTA Unit,_86feb3c3-9883-4cc7-baf0-351d34567538,ThermalGeneratingUnit
+_ee4eb96d-cfce-411b-998c-837db2b483ed,Gas Turbine (can only burn gas),2366161,06ATC-U1 Unit,_86feb3c3-9883-4cc7-baf0-351d34567538,ThermalGeneratingUnit
+_983fdcf4-3329-466f-abda-be90ed9a4ba9,Gas Turbine (can only burn gas),2366172,06ATC-U2 Unit,_86feb3c3-9883-4cc7-baf0-351d34567538,ThermalGeneratingUnit
+_b0933c1b-1b73-4b04-97b7-b2ccbbd18fa4,Gas Turbine (can only burn gas),2366183,06ATC-U3 Unit,_86feb3c3-9883-4cc7-baf0-351d34567538,ThermalGeneratingUnit
+_3c559c62-b71c-4c0a-bae7-166edf1c252a,Gas Turbine (can only burn gas),2366194,06ATC-U4 Unit,_86feb3c3-9883-4cc7-baf0-351d34567538,ThermalGeneratingUnit
+_6537b7f3-42b8-461d-aa65-412ed604993b,Fossil Fired Steam,2366205,06ATC-U5 Unit,_86feb3c3-9883-4cc7-baf0-351d34567538,ThermalGeneratingUnit
+_b505e7ff-731a-43b9-a607-ea0d368f2934,Fossil Fired Steam,2366216,06ATC-U6 Unit,_86feb3c3-9883-4cc7-baf0-351d34567538,ThermalGeneratingUnit
+_9cfaa737-3903-4740-94bf-8d3fc0981de4,Combined Cycle Logical Unit (NA Flag should be false),2366910,06ATV-PTA Unit,_d84e2c13-b04c-4e4f-84ab-9b536819c5ad,ThermalGeneratingUnit
+_1fc5e659-36b5-4d7e-b223-07214e3c4642,Gas Turbine (can only burn gas),2366921,06ATV-U1 Unit,_d84e2c13-b04c-4e4f-84ab-9b536819c5ad,ThermalGeneratingUnit
+_b9d7a538-dd60-471a-a262-c799efd89edc,Gas Turbine (can only burn gas),2366932,06ATV-U2 Unit,_d84e2c13-b04c-4e4f-84ab-9b536819c5ad,ThermalGeneratingUnit
+_9eadcd72-3aa4-47e4-a3eb-1b4015c52abb,Gas Turbine (can only burn gas),2366943,06ATV-U3 Unit,_d84e2c13-b04c-4e4f-84ab-9b536819c5ad,ThermalGeneratingUnit
+_0cf36cf7-8747-47d3-b16a-1642bcdbe6bf,Gas Turbine (can only burn gas),2366954,06ATV-U4 Unit,_d84e2c13-b04c-4e4f-84ab-9b536819c5ad,ThermalGeneratingUnit
+_3b07bc83-536d-438a-af50-2e108519f611,Fossil Fired Steam,2366965,06ATV-U5 Unit,_d84e2c13-b04c-4e4f-84ab-9b536819c5ad,ThermalGeneratingUnit
+_b3c7f98f-c394-4766-9cdc-35fb7930397b,Fossil Fired Steam,2366976,06ATV-U6 Unit,_d84e2c13-b04c-4e4f-84ab-9b536819c5ad,ThermalGeneratingUnit
+_81e67e3d-7743-4439-bb09-09096ed41386,Combined Cycle Logical Unit (NA Flag should be false),2367073,06CAH-PTA Unit,_54ff8705-ea89-4058-bba8-ce240231d1ad,ThermalGeneratingUnit
+_8cd10d09-18c3-452e-a1c6-98a183efcec0,Gas Turbine (can only burn gas),2367086,06CAH-U1 Unit,_54ff8705-ea89-4058-bba8-ce240231d1ad,ThermalGeneratingUnit
+_b4a67691-3633-4284-8185-498963a5e416,Gas Turbine (can only burn gas),2367097,06CAH-U2 Unit,_54ff8705-ea89-4058-bba8-ce240231d1ad,ThermalGeneratingUnit
+_827be06e-3e23-44c2-b25f-735dc5545103,Fossil Fired Steam,2367108,06CAH-U3 Unit,_54ff8705-ea89-4058-bba8-ce240231d1ad,ThermalGeneratingUnit
+_c481b8cf-45a4-4584-b555-8baa095ba880,Combined Cycle Logical Unit (NA Flag should be false),2367159,06CGA-PTA Unit,_0969c0a0-caa5-41d6-9548-e2bb84999354,ThermalGeneratingUnit
+_28e24517-7558-47c1-afed-343c3adbf6c6,Gas Turbine (can only burn gas),2367170,06CGA-U1 Unit,_0969c0a0-caa5-41d6-9548-e2bb84999354,ThermalGeneratingUnit
+_713551bd-2550-4b07-b4bb-9fabd01e787e,Fossil Fired Steam,2367181,06CGA-U2 Unit,_0969c0a0-caa5-41d6-9548-e2bb84999354,ThermalGeneratingUnit
+_6d7162e9-3238-4ea3-bcaa-1c9ee2334979,Combined Cycle Logical Unit (NA Flag should be false),2367232,06CSO-PTA Unit,_b0b2ce77-3ba6-43ed-8844-29583aac8a3f,ThermalGeneratingUnit
+_db8f8b66-9a5f-45d7-8331-6a37ebf95ecf,Gas Turbine (can only burn gas),2367245,06CSO-U1 Unit,_b0b2ce77-3ba6-43ed-8844-29583aac8a3f,ThermalGeneratingUnit
+_e46377d2-812f-4d25-ae56-395f30db0589,Fossil Fired Steam,2367256,06CSO-U2 Unit,_b0b2ce77-3ba6-43ed-8844-29583aac8a3f,ThermalGeneratingUnit
+_80143c35-cb1d-4cbc-bb57-57a8303390ea,Combined Cycle Logical Unit (NA Flag should be false),2367307,06DNO-PTA Unit,_6d9d076b-4c5f-41d8-8c4e-1c8e0fa7ee31,ThermalGeneratingUnit
+_c5c969ba-ed3c-409e-82e6-d436c7f2839b,Gas Turbine (can only burn gas),2367318,06DNO-U1 Unit,_6d9d076b-4c5f-41d8-8c4e-1c8e0fa7ee31,ThermalGeneratingUnit
+_2404a778-90f4-4876-a69c-420df5810fc0,Fossil Fired Steam,2367329,06DNO-U2 Unit,_6d9d076b-4c5f-41d8-8c4e-1c8e0fa7ee31,ThermalGeneratingUnit
+_2f8c2e8c-3b91-4cc5-b762-1d20b2f9d22d,Combined Cycle Logical Unit (NA Flag should be false),2367426,06EAA-PTA Unit,_6eac6fc6-c19c-4901-a667-0d2284b192e9,ThermalGeneratingUnit
+_a631bc41-683e-4f6a-aade-d8b78bcdef77,Gas Turbine (can only burn gas),2367439,06EAA-U1 Unit,_6eac6fc6-c19c-4901-a667-0d2284b192e9,ThermalGeneratingUnit
+_b354a3ed-8a74-463a-a9c9-29f0fd61148d,Gas Turbine (can only burn gas),2367450,06EAA-U2 Unit,_6eac6fc6-c19c-4901-a667-0d2284b192e9,ThermalGeneratingUnit
+_fd4dc1b7-1721-45da-aa8d-b545f76b317b,Fossil Fired Steam,2367461,06EAA-U3 Unit,_6eac6fc6-c19c-4901-a667-0d2284b192e9,ThermalGeneratingUnit
+_3b86410c-d0d0-4a02-8dc1-4f8d8aa45e75,Combined Cycle Logical Unit (NA Flag should be false),2367558,06EMN-PTA Unit,_c10642b7-dbb9-4ff4-9e7a-e593e694bbce,ThermalGeneratingUnit
+_e30f06d6-1d19-42f2-ae47-d44eb43d8302,Gas Turbine (can only burn gas),2367569,06EMN-U1 Unit,_c10642b7-dbb9-4ff4-9e7a-e593e694bbce,ThermalGeneratingUnit
+_6c491277-dda1-4686-968e-fb4581ca320c,Gas Turbine (can only burn gas),2367580,06EMN-U2 Unit,_c10642b7-dbb9-4ff4-9e7a-e593e694bbce,ThermalGeneratingUnit
+_42ce8816-258c-4310-9042-f13a5f93450b,Fossil Fired Steam,2367591,06EMN-U3 Unit,_c10642b7-dbb9-4ff4-9e7a-e593e694bbce,ThermalGeneratingUnit
+_a837b288-4b57-4a9e-93e5-9590c8a4b2be,Combined Cycle Logical Unit (NA Flag should be false),2367924,06HUI-PTA Unit,_8c6ccf65-1544-4fc7-88dc-7ad4dd639f1f,ThermalGeneratingUnit
+_460e2fae-e3b1-4d03-817f-e493b92c7af3,Gas Turbine (can only burn gas),2367935,06HUI-U1 Unit,_8c6ccf65-1544-4fc7-88dc-7ad4dd639f1f,ThermalGeneratingUnit
+_d81b7b43-1d6c-443a-b722-7f195453987d,Gas Turbine (can only burn gas),2367946,06HUI-U2 Unit,_8c6ccf65-1544-4fc7-88dc-7ad4dd639f1f,ThermalGeneratingUnit
+_5db4fedd-efe3-4129-b174-d1a84674fdbc,Gas Turbine (can only burn gas),2367957,06HUI-U3 Unit,_8c6ccf65-1544-4fc7-88dc-7ad4dd639f1f,ThermalGeneratingUnit
+_de55f95f-1adb-4ef3-bc39-12bb7b8ffbbe,Gas Turbine (can only burn gas),2367968,06HUI-U4 Unit,_8c6ccf65-1544-4fc7-88dc-7ad4dd639f1f,ThermalGeneratingUnit
+_6477f04e-37be-4399-b3a0-eb985180c5cf,Fossil Fired Steam,2367979,06HUI-U5 Unit,_8c6ccf65-1544-4fc7-88dc-7ad4dd639f1f,ThermalGeneratingUnit
+_d862fcfd-95c6-40a5-84f1-86495a5ff39e,Combined Cycle Logical Unit (NA Flag should be false),2368030,06IBC-PTA Unit,_132f7a62-dc9b-469f-81e3-8d4c62b45c74,ThermalGeneratingUnit
+_dbb7156e-2e71-443e-96ae-9e983401662b,Gas Turbine (can only burn gas),2368043,06IBC-U1 Unit,_132f7a62-dc9b-469f-81e3-8d4c62b45c74,ThermalGeneratingUnit
+_7149f2ae-74c2-4ea7-85ea-bf91d369bdc4,Fossil Fired Steam,2368054,06IBC-U2 Unit,_132f7a62-dc9b-469f-81e3-8d4c62b45c74,ThermalGeneratingUnit
+_4053ce5e-c952-499f-9b79-daeee7ff45c6,Combined Cycle Logical Unit (NA Flag should be false),2368151,06NRS-PTA Unit,_681c50cb-c802-4cee-9015-38d8f1a32380,ThermalGeneratingUnit
+_31ca9d9c-1f8f-4d25-8d95-cbd2f51d4ac8,Gas Turbine (can only burn gas),2368162,06NRS-U1 Unit,_681c50cb-c802-4cee-9015-38d8f1a32380,ThermalGeneratingUnit
+_ad3b2337-899d-4bf8-8e82-983004b9f30c,Gas Turbine (can only burn gas),2368173,06NRS-U2 Unit,_681c50cb-c802-4cee-9015-38d8f1a32380,ThermalGeneratingUnit
+_78bc25e5-4e05-4471-98ad-1a8c131811ba,Fossil Fired Steam,2368184,06NRS-U3 Unit,_681c50cb-c802-4cee-9015-38d8f1a32380,ThermalGeneratingUnit
+_ee712248-2e90-4561-9292-68d4aab0486c,Combined Cycle Logical Unit (NA Flag should be false),2368281,06PFT-PTA Unit,_05f8a70c-3f9e-44bd-ba5a-fe20d6026865,ThermalGeneratingUnit
+_28168022-96c5-4590-bd17-b10c501b0074,Gas Turbine (can only burn gas),2368294,06PFT-U1 Unit,_05f8a70c-3f9e-44bd-ba5a-fe20d6026865,ThermalGeneratingUnit
+_12e94b23-f769-4f11-a540-391b98b900e5,Gas Turbine (can only burn gas),2368305,06PFT-U2 Unit,_05f8a70c-3f9e-44bd-ba5a-fe20d6026865,ThermalGeneratingUnit
+_2b385d98-620e-47b6-9d60-beda236dcfc4,Fossil Fired Steam,2368316,06PFT-U3 Unit,_05f8a70c-3f9e-44bd-ba5a-fe20d6026865,ThermalGeneratingUnit
+_193571d1-b7ec-49e6-84f3-3fe77dbd6ad7,Combined Cycle Logical Unit (NA Flag should be false),2368495,06PQR-PTA Unit,_5c36069d-32e9-4bc8-b2c0-74be5fbccd95,ThermalGeneratingUnit
+_fc81b8a3-d943-4dfb-ae4b-57ba1cf1aef8,Gas Turbine (can only burn gas),2368506,06PQR-U1 Unit,_5c36069d-32e9-4bc8-b2c0-74be5fbccd95,ThermalGeneratingUnit
+_891aeff0-6046-414d-8d25-9a95a1278554,Gas Turbine (can only burn gas),2368517,06PQR-U2 Unit,_5c36069d-32e9-4bc8-b2c0-74be5fbccd95,ThermalGeneratingUnit
+_66a620b8-9b31-4f45-af61-5c7f041f042c,Gas Turbine (can only burn gas),2368528,06PQR-U3 Unit,_5c36069d-32e9-4bc8-b2c0-74be5fbccd95,ThermalGeneratingUnit
+_329e8989-39ed-4977-a757-3451958fda2b,Fossil Fired Steam,2368539,06PQR-U4 Unit,_5c36069d-32e9-4bc8-b2c0-74be5fbccd95,ThermalGeneratingUnit
+_1dd3e078-0ae2-4403-bde6-83f378c1da0e,Combined Cycle Logical Unit (NA Flag should be false),2368636,06RBC-PTA Unit,_8e1cb007-267d-4105-a274-b01546d6f162,ThermalGeneratingUnit
+_5fcf62fd-17c1-47c1-b749-bf04f326e6f3,Gas Turbine (can only burn gas),2368649,06RBC-U1 Unit,_8e1cb007-267d-4105-a274-b01546d6f162,ThermalGeneratingUnit
+_9f088c1b-d909-48c3-a9ab-22ad4dd29a17,Gas Turbine (can only burn gas),2368660,06RBC-U2 Unit,_8e1cb007-267d-4105-a274-b01546d6f162,ThermalGeneratingUnit
+_833059a6-fa5c-4219-a517-676a58fcd952,Fossil Fired Steam,2368671,06RBC-U3 Unit,_8e1cb007-267d-4105-a274-b01546d6f162,ThermalGeneratingUnit
+_ea1229c3-f247-409c-8327-52dc85909630,Combined Cycle Logical Unit (NA Flag should be false),2368768,06RBT-PTA Unit,_7f50fa05-08c5-4660-8b00-f16897f37727,ThermalGeneratingUnit
+_94821128-0118-4d28-98a4-f959c2ccc7d3,Gas Turbine (can only burn gas),2368781,06RBT-U1 Unit,_7f50fa05-08c5-4660-8b00-f16897f37727,ThermalGeneratingUnit
+_0d390fca-8498-4511-ba67-0fb44e942b43,Gas Turbine (can only burn gas),2368792,06RBT-U2 Unit,_7f50fa05-08c5-4660-8b00-f16897f37727,ThermalGeneratingUnit
+_05931d88-18e5-44f6-992f-f6d80f131945,Fossil Fired Steam,2368803,06RBT-U3 Unit,_7f50fa05-08c5-4660-8b00-f16897f37727,ThermalGeneratingUnit
+_a5ede6fd-3f2e-48b9-a348-fbf3405a697f,Combined Cycle Logical Unit (NA Flag should be false),2368882,06RIB-PQ1 Unit,_3546b4a4-4744-4ef0-8e78-ec026b899d5a,ThermalGeneratingUnit
+_146e8667-80f6-4009-ad67-0d1a9fbb1b17,Fossil Fired Steam,2368895,06RIB-U1 Unit,_3546b4a4-4744-4ef0-8e78-ec026b899d5a,ThermalGeneratingUnit
+_74b41e4d-d5b3-489f-ab10-66d86a0e159e,Fossil Fired Steam,2368906,06RIB-U2 Unit,_3546b4a4-4744-4ef0-8e78-ec026b899d5a,ThermalGeneratingUnit
+_43c49cd6-72fb-4aec-8abe-1ffaf2800402,Gas Turbine (can only burn gas),2368917,06RIB-U4 Unit,_3546b4a4-4744-4ef0-8e78-ec026b899d5a,ThermalGeneratingUnit
+_3a332d8c-f602-4575-a1f9-d0147cfdb239,Combined Cycle Logical Unit (NA Flag should be false),2369611,06TMH-PTA Unit,_9f2fce38-e458-42ee-be02-37c6ab1bc69c,ThermalGeneratingUnit
+_98afb36c-a9de-416e-a44f-5ce3a5be0b27,Gas Turbine (can only burn gas),2369622,06TMH-U1 Unit,_9f2fce38-e458-42ee-be02-37c6ab1bc69c,ThermalGeneratingUnit
+_fda1153a-1a4f-40ef-a865-cc8de1e9aebd,Gas Turbine (can only burn gas),2369633,06TMH-U2 Unit,_9f2fce38-e458-42ee-be02-37c6ab1bc69c,ThermalGeneratingUnit
+_9e84fd11-d2da-40c1-9a1e-7e073c31a5e0,Gas Turbine (can only burn gas),2369644,06TMH-U3 Unit,_9f2fce38-e458-42ee-be02-37c6ab1bc69c,ThermalGeneratingUnit
+_1620cd05-4e59-4c58-af7f-923115b82cbc,Gas Turbine (can only burn gas),2369655,06TMH-U4 Unit,_9f2fce38-e458-42ee-be02-37c6ab1bc69c,ThermalGeneratingUnit
+_5cbfabd1-ef38-4ac5-868a-72405bbfdad2,Fossil Fired Steam,2369666,06TMH-U5 Unit,_9f2fce38-e458-42ee-be02-37c6ab1bc69c,ThermalGeneratingUnit
+_81f1211b-90c4-4594-8f4d-2958f782c653,Fossil Fired Steam,2369677,06TMH-U6 Unit,_9f2fce38-e458-42ee-be02-37c6ab1bc69c,ThermalGeneratingUnit
+_4265b886-c969-4862-9d56-98f3f4007782,Gas Turbine (can only burn gas),2394469,02BPP-U3 Unit,_5dd82026-61f8-44a8-a954-062083c75ebb,ThermalGeneratingUnit
+_07d4b0ab-abfe-48d7-bdcc-a1122e6c2b8d,Gas Turbine (can only burn gas),2394484,02CAX-U1 Unit,_efec91c4-1535-4ffa-aad5-a1894454aa46,ThermalGeneratingUnit
+_23b2184a-a2d9-477a-9114-e206212c2dec,Gas Turbine (can only burn gas),2394495,02CAX-U2 Unit,_efec91c4-1535-4ffa-aad5-a1894454aa46,ThermalGeneratingUnit
+_5fcde4c5-82da-42a3-ae12-04774d9616bd,Gas Turbine (can only burn gas),2394506,02CAX-U3 Unit,_efec91c4-1535-4ffa-aad5-a1894454aa46,ThermalGeneratingUnit
+_b7c1271d-a03d-4716-91e8-5c240a024c45,Gas Turbine (can only burn gas),2394520,02CGC-U1 Unit,_edcb7411-f806-4337-bbac-e036f614be7c,ThermalGeneratingUnit
+_c21d5f22-9763-4ebd-8b42-1de34e1f1b9a,Gas Turbine (can only burn gas),2394531,02CGC-U2 Unit,_edcb7411-f806-4337-bbac-e036f614be7c,ThermalGeneratingUnit
+_9dd23e10-3516-4829-b25f-033432c98da7,Gas Turbine (can only burn gas),2394545,02CGJ-U1 Unit,_66672e33-27ed-4b7e-9525-761d6cfcffbf,ThermalGeneratingUnit
+_e50fe4db-3cd7-4b47-9fb3-1cd9cdf3d271,Gas Turbine (can only burn gas),2394556,02CGJ-U2 Unit,_66672e33-27ed-4b7e-9525-761d6cfcffbf,ThermalGeneratingUnit
+_f240edaf-678c-48ba-83e3-8ba1992afa61,Gas Turbine (can only burn gas),2394570,02CNX-U1 Unit,_b61cfe1e-54a5-4ed0-b6ec-a5283d9fdce5,ThermalGeneratingUnit
+_a42a7777-3ca1-4f9b-93ca-e32a3c4b8a1e,Gas Turbine (can only burn gas),2394581,02CNX-U2 Unit,_b61cfe1e-54a5-4ed0-b6ec-a5283d9fdce5,ThermalGeneratingUnit
+_7d959f02-e5c8-46f9-8abf-24e12e5b320b,Gas Turbine (can only burn gas),2394596,02CPJ-U1 Unit,_ec867e22-432a-491c-945a-2befb976807c,ThermalGeneratingUnit
+_c035c408-d1b8-4b54-a681-a04cd06693be,Gas Turbine (can only burn gas),2394607,02CPJ-U2 Unit,_ec867e22-432a-491c-945a-2befb976807c,ThermalGeneratingUnit
+_04fc9a34-0705-43cc-8942-f15706409010,Gas Turbine (can only burn gas),2394618,02CPJ-U3 Unit,_ec867e22-432a-491c-945a-2befb976807c,ThermalGeneratingUnit
+_88b57fe2-c7d9-4bad-b706-2622ceda1277,Gas Turbine (can only burn gas),2394632,02CPQ-U1 Unit,_51694b50-091f-49f0-8d27-b5b112910ad3,ThermalGeneratingUnit
+_e984f3d5-44f9-4fce-bf3d-de4fe5ef652d,Gas Turbine (can only burn gas),2394643,02CPQ-U2 Unit,_51694b50-091f-49f0-8d27-b5b112910ad3,ThermalGeneratingUnit
+_903ccd78-ba7a-494e-aea7-72e83a96c795,Gas Turbine (can only burn gas),2394657,02CPX-U3 Unit,_694cee4c-a524-4bbe-9c44-afee57583e84,ThermalGeneratingUnit
+_2e952978-3f1a-402f-9259-714a824f0b8f,Gas Turbine (can only burn gas),2394668,02CPX-U4 Unit,_694cee4c-a524-4bbe-9c44-afee57583e84,ThermalGeneratingUnit
+_2049cefd-ac35-4bd1-a3bf-7cf0b5f70717,Gas Turbine (can only burn gas),2394683,02DIN-U4 Unit,_4b4916e5-9c5a-49b1-b6e8-35e67007291a,ThermalGeneratingUnit
+_087f16b2-7f5b-4fa0-b08a-1569c0b7e8b4,Gas Turbine (can only burn gas),2394694,02DIN-U5 Unit,_4b4916e5-9c5a-49b1-b6e8-35e67007291a,ThermalGeneratingUnit
+_0e105749-2088-4e08-8489-99c33f990412,Gas Turbine (can only burn gas),2394705,02DIN-U6 Unit,_4b4916e5-9c5a-49b1-b6e8-35e67007291a,ThermalGeneratingUnit
+_7870f425-f8ee-448d-8871-a8380975dd60,Gas Turbine (can only burn gas),2394718,02GCC-U1 Unit,_a07c17b1-1f9f-45b3-921b-75d766475f4b,ThermalGeneratingUnit
+_edc7b9f3-0ca4-49e6-a9af-b908acc9478e,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2394731,02GCM-U1 Unit,_fbf9224e-aec1-4ca4-889b-643cf00956fe,ThermalGeneratingUnit
+_b2dec226-104a-4c18-9dae-833bf0028aa3,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2394749,02GDM-U1 Unit,_8e8d358a-8322-41fc-bbaf-36798f1e57ec,ThermalGeneratingUnit
+_e7962d1d-a8de-4527-b3f4-e83224252b62,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2394760,02GDM-U2 Unit,_8e8d358a-8322-41fc-bbaf-36798f1e57ec,ThermalGeneratingUnit
+_5be55f58-d22d-4a77-b53c-c2af5b009e2c,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2394771,02GDM-U3 Unit,_8e8d358a-8322-41fc-bbaf-36798f1e57ec,ThermalGeneratingUnit
+_3643fe15-efd2-4970-b60b-89c28fd40d38,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2394782,02GDM-U4 Unit,_8e8d358a-8322-41fc-bbaf-36798f1e57ec,ThermalGeneratingUnit
+_50a236ee-6207-4779-ac7a-32d31c41e2af,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2394793,02GDM-U5 Unit,_8e8d358a-8322-41fc-bbaf-36798f1e57ec,ThermalGeneratingUnit
+_96c9b216-be01-4aff-bb27-20e49218b7a3,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2394804,02GDM-U6 Unit,_8e8d358a-8322-41fc-bbaf-36798f1e57ec,ThermalGeneratingUnit
+_3095ce81-7c72-4777-8af5-25a5cbe50c4b,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2394818,02GEI-U1 Unit,_87856fe8-4400-47ce-b867-3599d097990c,ThermalGeneratingUnit
+_ade4c025-fce8-4398-9bd3-86a2b496ecc3,Gas Turbine (can only burn gas),2394829,02GEI-U2 Unit,_87856fe8-4400-47ce-b867-3599d097990c,ThermalGeneratingUnit
+_b870b1ea-32ec-4bc9-82f2-0a94b6e404be,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2394842,02GLR-U1 Unit,_cb5a0fe6-9d55-482a-afe4-b504008d088e,ThermalGeneratingUnit
+_6aa555bb-3815-451d-a761-49551a27c87f,Gas Turbine (can only burn gas),2394855,02GRE-U1 Unit,_87728dfc-aa58-42be-b7f0-950a3dcb3cce,ThermalGeneratingUnit
+_24c54a00-6d2d-48c1-bdf0-e6a51e076b48,Fossil Fired Steam,2394873,02HMS-U10 Unit,_bbdf6a31-a3e0-4476-934b-07167c06c599,ThermalGeneratingUnit
+_0346f22b-170a-44c7-8650-80f43af60b0b,Fossil Fired Steam,2394884,02HMS-U11 Unit,_bbdf6a31-a3e0-4476-934b-07167c06c599,ThermalGeneratingUnit
+_afe42a4c-b024-4ca2-89f7-c2904cd52860,Fossil Fired Steam,2394903,02HMS-U3 Unit,_bbdf6a31-a3e0-4476-934b-07167c06c599,ThermalGeneratingUnit
+_c2b6d627-e1c6-4c2a-858a-4db964b24967,Fossil Fired Steam,2394914,02HMS-U6 Unit,_bbdf6a31-a3e0-4476-934b-07167c06c599,ThermalGeneratingUnit
+_86dda30c-f713-462e-821c-6b26dee11a62,Fossil Fired Steam,2394925,02HMS-U8 Unit,_bbdf6a31-a3e0-4476-934b-07167c06c599,ThermalGeneratingUnit
+_80cbd311-c88b-4460-9914-53e4816b5e55,Fossil Fired Steam,2394936,02HMS-U9 Unit,_bbdf6a31-a3e0-4476-934b-07167c06c599,ThermalGeneratingUnit
+_8acfdfd7-e13d-4511-8119-8429c7935735,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2394951,02IDB-U1 Unit,_900c1759-7e16-41ba-b6ef-37c337b95dfe,ThermalGeneratingUnit
+_0c921f3c-7d20-4de4-9ed2-c9cb78595958,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2394962,02IDB-U2 Unit,_900c1759-7e16-41ba-b6ef-37c337b95dfe,ThermalGeneratingUnit
+_31e3bc9b-b4fb-4083-b1ec-ff74cf3b94dd,Gas Turbine (can only burn gas),2394973,02IDB-U3 Unit,_900c1759-7e16-41ba-b6ef-37c337b95dfe,ThermalGeneratingUnit
+_18b9751f-8454-4246-be5d-65ede1c34dff,Gas Turbine (can only burn gas),2394986,02IDE-U1 Unit,_8afa8339-e8b7-485c-b7d2-297cef2ee606,ThermalGeneratingUnit
+_945478f8-9088-467e-bbfc-5f46b2e108f2,Gas Turbine (can only burn gas),2394999,02IGP-U1 Unit,_51153df1-f3bd-40c8-a552-cd46b8552f90,ThermalGeneratingUnit
+_3aab4ab4-5c5e-4fd3-9f19-97c947953fdf,Gas Turbine (can only burn gas),2395012,02IQU-U1 Unit,_04bb1e2a-0c4c-49e2-8fa5-ce7df3d874c9,ThermalGeneratingUnit
+_708a195e-e5ff-4f0c-b42e-d3fd76d4816c,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395027,02ISN-U1 Unit,_5fb84efe-a266-4040-bbcd-2fd478e052e6,ThermalGeneratingUnit
+_e608862e-66a0-4d77-ba6a-6711e26b8b89,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395038,02ISN-U2 Unit,_5fb84efe-a266-4040-bbcd-2fd478e052e6,ThermalGeneratingUnit
+_702ecf9f-bc6e-4c64-82e8-c882f947f5b3,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395049,02ISN-U3 Unit,_5fb84efe-a266-4040-bbcd-2fd478e052e6,ThermalGeneratingUnit
+_8f9afed1-553c-4dc2-b0e8-2c457b06a349,Boiling Water Reactor,2395063,02LAV-U1 Unit,_8ba04788-e477-4c92-92a7-bbb47edb56c9,ThermalGeneratingUnit
+_b442d662-63b4-4e04-bcd2-28ff8a69b53b,Boiling Water Reactor,2395074,02LAV-U2 Unit,_8ba04788-e477-4c92-92a7-bbb47edb56c9,ThermalGeneratingUnit
+_b562cff8-c831-4009-88b1-94fd569cce23,Gas Turbine (can only burn gas),2395087,02MDF-U1 Unit,_50f12141-be09-4569-8161-26faf4e3df8c,ThermalGeneratingUnit
+_6c125606-541c-4fbf-8838-48e858870730,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395100,02PCG-U1 Unit,_46b5334e-bdde-49d9-bd95-aa70fdf93ce4,ThermalGeneratingUnit
+_ed2f78f3-535c-42dc-84e8-58e232133f80,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395114,02PEI-U1 Unit,_bfa92fd0-d8d5-4270-a5e3-5a2668249152,ThermalGeneratingUnit
+_ff0fbbe7-f0e9-4efd-a8cd-abc5322b6282,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395125,02PEI-U2 Unit,_bfa92fd0-d8d5-4270-a5e3-5a2668249152,ThermalGeneratingUnit
+_51cbdbdf-e2ad-4dcf-a4de-96bb024b342f,Gas Turbine (can only burn gas),2395139,02PGC-U1 Unit,_4fb1009e-aa03-4568-87cf-51ef35909add,ThermalGeneratingUnit
+_d0a66a84-6dda-49c4-b44d-fb30c78fad3b,Gas Turbine (can only burn gas),2395150,02PGC-U2 Unit,_4fb1009e-aa03-4568-87cf-51ef35909add,ThermalGeneratingUnit
+_d97837c5-a48c-4bf7-ba4b-ddf0d05b8349,Gas Turbine (can only burn gas),2395165,02PMO-U3 Unit,_d7ef29f0-698f-4490-b36f-64a87ad825e3,ThermalGeneratingUnit
+_30756d08-8403-468c-bd04-a0e1a1d3c857,Gas Turbine (can only burn gas),2395176,02PMO-U4 Unit,_d7ef29f0-698f-4490-b36f-64a87ad825e3,ThermalGeneratingUnit
+_f368f596-48f1-456d-8e6e-ebc76bd294fe,Gas Turbine (can only burn gas),2395187,02PMO-U5 Unit,_d7ef29f0-698f-4490-b36f-64a87ad825e3,ThermalGeneratingUnit
+_ec3d3667-f118-4d2c-b98d-e6fa41f9b058,Gas Turbine (can only burn gas),2395204,02PRI-PTA Unit,_754c1935-ea37-41a4-b9c4-1bfef1faa9de,ThermalGeneratingUnit
+_92c7f598-3e3a-4edd-958c-53139c4c64bc,Fossil Fired Steam,2395223,02PRI-U1 Unit,_754c1935-ea37-41a4-b9c4-1bfef1faa9de,ThermalGeneratingUnit
+_43cb9c7a-edae-4147-abd4-ab538f7b650e,Fossil Fired Steam,2395234,02PRI-U2 Unit,_754c1935-ea37-41a4-b9c4-1bfef1faa9de,ThermalGeneratingUnit
+_313259a0-45bc-42cd-9344-2112242cdfc3,Fossil Fired Steam,2395245,02PRI-U3 Unit,_754c1935-ea37-41a4-b9c4-1bfef1faa9de,ThermalGeneratingUnit
+_7603f71b-5c53-4b2c-8f93-4d4ddfffeb86,Gas Turbine (can only burn gas),2395256,02PRI-U4 Unit,_754c1935-ea37-41a4-b9c4-1bfef1faa9de,ThermalGeneratingUnit
+_c909d72f-1ded-42be-9b1e-536a900b7d03,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395269,02PZM-U1 Unit,_63c68929-dcb8-45ac-b56b-92a97e2eba5e,ThermalGeneratingUnit
+_6eb3bc22-62bb-4dc4-9dcc-1cc0434785f9,Gas Turbine (can only burn gas),2395282,02RLC-U1 Unit,_944217f0-c0dd-4890-ad0f-17db46d893c1,ThermalGeneratingUnit
+_23d68f39-5f2d-4f78-b419-2eba1ef61efc,Gas Turbine (can only burn gas),2395295,02RMN-U11 Unit,_40de30eb-f37c-4bfa-bd54-a0821933baeb,ThermalGeneratingUnit
+_91327969-bde4-4d93-94a0-2e7eea09da05,Gas Turbine (can only burn gas),2395308,02RSC-U1 Unit,_92426616-abd8-409b-9017-3e8dcfa28ce3,ThermalGeneratingUnit
+_6659f63f-42f5-4716-9838-f1ec118057b7,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395321,02SBM-U1 Unit,_f1282534-7688-4ab6-abdb-46e5a7e98506,ThermalGeneratingUnit
+_ed51de74-daaa-4d8f-8ca8-767a8aadbe9e,Gas Turbine (can only burn gas),2395334,02SES-U1 Unit,_676ae988-0796-4388-a6a5-7e95e7b130a9,ThermalGeneratingUnit
+_a3381694-5a97-4269-bc1c-b8e249252d92,Gas Turbine (can only burn gas),2395354,02SKY-U1 Unit,_4dc5b7f0-f556-453e-ae64-67c1cd411abb,ThermalGeneratingUnit
+_7e919013-c3e4-46a9-9389-46f9928f69b1,Gas Turbine (can only burn gas),2395365,02SKY-U2 Unit,_4dc5b7f0-f556-453e-ae64-67c1cd411abb,ThermalGeneratingUnit
+_60d05153-7200-4393-b449-c6f03f022108,Gas Turbine (can only burn gas),2395376,02SKY-U3 Unit,_4dc5b7f0-f556-453e-ae64-67c1cd411abb,ThermalGeneratingUnit
+_c20772c2-1b18-4022-abcb-2ddc76443832,Gas Turbine (can only burn gas),2395387,02SKY-U4 Unit,_4dc5b7f0-f556-453e-ae64-67c1cd411abb,ThermalGeneratingUnit
+_807a9dda-b792-4bd7-8841-1fbb0762a482,Gas Turbine (can only burn gas),2395398,02SKY-U5 Unit,_4dc5b7f0-f556-453e-ae64-67c1cd411abb,ThermalGeneratingUnit
+_52ad22c3-3946-4196-b313-5430327f707b,Gas Turbine (can only burn gas),2395409,02SKY-U6 Unit,_4dc5b7f0-f556-453e-ae64-67c1cd411abb,ThermalGeneratingUnit
+_9c94b80f-f7d5-4ceb-9fa6-f095f5fba3ae,Gas Turbine (can only burn gas),2395420,02SKY-U7 Unit,_4dc5b7f0-f556-453e-ae64-67c1cd411abb,ThermalGeneratingUnit
+_41a8b622-ea67-4a4d-a8e2-b06042d327a0,Gas Turbine (can only burn gas),2395431,02SKY-U8 Unit,_4dc5b7f0-f556-453e-ae64-67c1cd411abb,ThermalGeneratingUnit
+_bad005e7-b222-4291-b22e-99a96779a324,Gas Turbine (can only burn gas),2395444,02TOY-U1 Unit,_d9a9f89a-5869-4186-ad71-f1acf2d90d29,ThermalGeneratingUnit
+_2180a1aa-b069-4987-8a78-4d815346850d,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395457,02TRT-U1 Unit,_0bc84aaf-6a94-48d2-92a5-36c4d2ecc535,ThermalGeneratingUnit
+_e08adc36-dabf-4522-9eb9-225a8ee21412,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395474,02TUV-U1 Unit,_2cd07584-f539-49d2-8a1c-08504ed4d05a,ThermalGeneratingUnit
+_42570073-1a72-493d-b8fa-b68933f46410,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395491,02TUV-U2 Unit,_2cd07584-f539-49d2-8a1c-08504ed4d05a,ThermalGeneratingUnit
+_3889b436-5d52-4ff3-b546-e00fcffa6e68,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395508,02TUV-U3 Unit,_2cd07584-f539-49d2-8a1c-08504ed4d05a,ThermalGeneratingUnit
+_7bf70b4d-1406-4f14-b109-74ce3ad5c158,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395525,02TUV-U5 Unit,_2cd07584-f539-49d2-8a1c-08504ed4d05a,ThermalGeneratingUnit
+_32109f42-035f-41bf-bb1c-59afa213cb6b,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395542,02TUV-U6 Unit,_2cd07584-f539-49d2-8a1c-08504ed4d05a,ThermalGeneratingUnit
+_0511e613-0abc-43dd-9213-3a89a27fdf24,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2395561,02TVP-U1 Unit,_7ec53e37-212c-4c91-8cdb-f782b0319da1,ThermalGeneratingUnit
+_91c05974-b286-46b6-9c91-9d9b4e385b2d,Gas Turbine (can only burn gas),2395574,02VEP-U1 Unit,_269adde4-6b68-4283-9598-202ddca71957,ThermalGeneratingUnit
+_add6eff1-548c-4ea9-860c-aeb9c9b00c1e,Combined Cycle Logical Unit (NA Flag should be false),2395625,02ABT-PTA Unit,_394e1d95-ced7-4672-8ab4-c6815300f629,ThermalGeneratingUnit
+_98d320a1-d3c2-4989-a40d-df7cbc101e0d,Gas Turbine (can only burn gas),2395644,02ABT-U1 Unit,_394e1d95-ced7-4672-8ab4-c6815300f629,ThermalGeneratingUnit
+_7cb49e76-d72d-4be1-b714-44a5c09a6638,Fossil Fired Steam,2395655,02ABT-U2 Unit,_394e1d95-ced7-4672-8ab4-c6815300f629,ThermalGeneratingUnit
+_caff2603-fd8c-419c-9338-3c939d417940,Combined Cycle Logical Unit (NA Flag should be false),2395834,02CBE-PTA Unit,_8c6ccb39-eec3-4035-b38d-e9853cfd3b6a,ThermalGeneratingUnit
+_26d5e3b4-c7b6-4960-bd17-5cdd924130f6,Gas Turbine (can only burn gas),2395851,02CBE-U1 Unit,_8c6ccb39-eec3-4035-b38d-e9853cfd3b6a,ThermalGeneratingUnit
+_9d5e48ef-2873-407c-8115-81477b222c12,Gas Turbine (can only burn gas),2395862,02CBE-U2 Unit,_8c6ccb39-eec3-4035-b38d-e9853cfd3b6a,ThermalGeneratingUnit
+_ffae9045-1227-4d76-bbf8-25f60660d645,Gas Turbine (can only burn gas),2395873,02CBE-U3 Unit,_8c6ccb39-eec3-4035-b38d-e9853cfd3b6a,ThermalGeneratingUnit
+_a415ef38-e23e-4f61-b1ed-3ce67c021df2,Fossil Fired Steam,2395884,02CBE-U4 Unit,_8c6ccb39-eec3-4035-b38d-e9853cfd3b6a,ThermalGeneratingUnit
+_6f129977-8cfc-4557-b1ef-871db2fab17d,Combined Cycle Logical Unit (NA Flag should be false),2395981,02DBC-PQ1 Unit,_6743d12a-9d5f-4ae3-a12a-ebef04c073be,ThermalGeneratingUnit
+_a00ea626-b3d5-4c63-b6a0-cfa1a991576c,Gas Turbine (can only burn gas),2395994,02DBC-U1 Unit,_6743d12a-9d5f-4ae3-a12a-ebef04c073be,ThermalGeneratingUnit
+_8369dfe4-66fe-42ab-ac74-2374bdde156a,Gas Turbine (can only burn gas),2396005,02DBC-U2 Unit,_6743d12a-9d5f-4ae3-a12a-ebef04c073be,ThermalGeneratingUnit
+_67ebcb45-6665-4e37-9f8f-b536c155532b,Fossil Fired Steam,2396016,02DBC-U5 Unit,_6743d12a-9d5f-4ae3-a12a-ebef04c073be,ThermalGeneratingUnit
+_47f4d9cf-d485-4dd8-9850-45e535d33de1,Combined Cycle Logical Unit (NA Flag should be false),2396113,02EAT-PTA Unit,_4ddab317-c837-4695-8c41-6e2e113d7d97,ThermalGeneratingUnit
+_c0a05fdf-c4ac-4bbe-ab96-0467350e0e60,Gas Turbine (can only burn gas),2396128,02EAT-U1 Unit,_4ddab317-c837-4695-8c41-6e2e113d7d97,ThermalGeneratingUnit
+_123dc168-31b0-4a14-bed8-a8276f50de22,Gas Turbine (can only burn gas),2396139,02EAT-U2 Unit,_4ddab317-c837-4695-8c41-6e2e113d7d97,ThermalGeneratingUnit
+_f1981338-736e-4794-bf01-cc56a1461302,Fossil Fired Steam,2396150,02EAT-U3 Unit,_4ddab317-c837-4695-8c41-6e2e113d7d97,ThermalGeneratingUnit
+_41fad443-0f77-4c22-829f-254bbf999d0e,Combined Cycle Logical Unit (NA Flag should be false),2396247,02ETS-PTA Unit,_5b3f0a73-75f9-4281-9656-06a7859cb9f5,ThermalGeneratingUnit
+_bb2a347d-539e-4051-9c3d-112af163c1f7,Gas Turbine (can only burn gas),2396262,02ETS-U1 Unit,_5b3f0a73-75f9-4281-9656-06a7859cb9f5,ThermalGeneratingUnit
+_38e9dfe8-83b6-4386-ae42-5b5d64d0ee61,Gas Turbine (can only burn gas),2396273,02ETS-U2 Unit,_5b3f0a73-75f9-4281-9656-06a7859cb9f5,ThermalGeneratingUnit
+_0a8713e7-8c63-47ea-a6b8-1ad0c0821bbe,Fossil Fired Steam,2396284,02ETS-U3 Unit,_5b3f0a73-75f9-4281-9656-06a7859cb9f5,ThermalGeneratingUnit
+_39c1dfe7-4940-41af-9a21-1d9bc88d1e16,Combined Cycle Logical Unit (NA Flag should be false),2396978,02FET-PTA Unit,_6db3a79f-d847-4717-9c80-8c596a26cac1,ThermalGeneratingUnit
+_54f6e806-0738-4d8e-bc81-4167bc325979,Gas Turbine (can only burn gas),2396991,02FET-U1 Unit,_6db3a79f-d847-4717-9c80-8c596a26cac1,ThermalGeneratingUnit
+_87b9af80-8a03-44cc-b095-b2cb25f874b2,Gas Turbine (can only burn gas),2397002,02FET-U2 Unit,_6db3a79f-d847-4717-9c80-8c596a26cac1,ThermalGeneratingUnit
+_aac71585-8fd9-4a60-90d5-38f58a59a876,Fossil Fired Steam,2397013,02FET-U3 Unit,_6db3a79f-d847-4717-9c80-8c596a26cac1,ThermalGeneratingUnit
+_6edb4542-e7ec-4fe0-bd47-e5c03d525a68,Gas Turbine (can only burn gas),2397024,02FET-U4 Unit,_6db3a79f-d847-4717-9c80-8c596a26cac1,ThermalGeneratingUnit
+_5d59eb28-de11-4ffa-8386-af2f92c4e388,Gas Turbine (can only burn gas),2397035,02FET-U5 Unit,_6db3a79f-d847-4717-9c80-8c596a26cac1,ThermalGeneratingUnit
+_0c127268-642a-41c2-8518-a70329b75635,Fossil Fired Steam,2397046,02FET-U6 Unit,_6db3a79f-d847-4717-9c80-8c596a26cac1,ThermalGeneratingUnit
+_cedb74af-6a75-437a-a6e3-d761b673005b,Gas Turbine (can only burn gas),2410458,03ARN-U1 Unit,_89fcc4ff-c657-4a53-819e-e1e99f856c82,ThermalGeneratingUnit
+_c378bae5-3043-47e1-9ad3-8146cb65455e,Gas Turbine (can only burn gas),2410469,03ARN-U2 Unit,_89fcc4ff-c657-4a53-819e-e1e99f856c82,ThermalGeneratingUnit
+_dd4c7afc-7d9c-40f4-a260-0a495eb66aa6,Fossil Fired Steam,2410491,03AZF-U10 Unit,_7a937b27-05aa-441d-80de-4f63137be4fa,ThermalGeneratingUnit
+_6eb738a4-0f44-40dd-ae59-7a2fe409f684,Fossil Fired Steam,2410502,03AZF-U13 Unit,_7a937b27-05aa-441d-80de-4f63137be4fa,ThermalGeneratingUnit
+_2afde70b-e06e-4ac4-aa09-037a6ecf4afb,Fossil Fired Steam,2410513,03AZF-U14 Unit,_7a937b27-05aa-441d-80de-4f63137be4fa,ThermalGeneratingUnit
+_8b8a1332-8355-499d-a0b8-47145f0cc7d2,Fossil Fired Steam,2410524,03AZF-U15 Unit,_7a937b27-05aa-441d-80de-4f63137be4fa,ThermalGeneratingUnit
+_714ba8e0-139f-47ee-9331-52198a816cea,Fossil Fired Steam,2410535,03AZF-U16 Unit,_7a937b27-05aa-441d-80de-4f63137be4fa,ThermalGeneratingUnit
+_c1353af4-5903-45f6-bdf6-650afe3a3fe4,Fossil Fired Steam,2410546,03AZF-U17 Unit,_7a937b27-05aa-441d-80de-4f63137be4fa,ThermalGeneratingUnit
+_c4869d3c-27f4-49bf-a8c7-ff85e6f8445c,Fossil Fired Steam,2410559,03AZF-U18 Unit,_7a937b27-05aa-441d-80de-4f63137be4fa,ThermalGeneratingUnit
+_d320bbb3-e813-4355-9a7d-23f8956c8c19,Fossil Fired Steam,2410570,03AZF-U2 Unit,_7a937b27-05aa-441d-80de-4f63137be4fa,ThermalGeneratingUnit
+_8982b2ad-13f9-48e5-a156-8ffd8bede6d4,Fossil Fired Steam,2410581,03AZF-U6 Unit,_7a937b27-05aa-441d-80de-4f63137be4fa,ThermalGeneratingUnit
+_90263d63-777f-4d68-9e0f-97328543865f,Fossil Fired Steam,2410592,03AZF-U7 Unit,_7a937b27-05aa-441d-80de-4f63137be4fa,ThermalGeneratingUnit
+_0b7c8a2a-58a3-47ab-a674-e8a482ddec48,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410606,03BEO-U1 Unit,_adee08b1-e945-479c-83a7-3201bb33c404,ThermalGeneratingUnit
+_3c33b453-6a02-4074-a5bc-71feefdb421c,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410617,03BEO-U2 Unit,_adee08b1-e945-479c-83a7-3201bb33c404,ThermalGeneratingUnit
+_c2b17b55-3782-445b-8ed6-f7fa7b8f17ce,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410630,03BPS-U1 Unit,_d0b4bc1d-73ef-47ac-b891-eee35a498209,ThermalGeneratingUnit
+_29379f90-c59f-4919-bc7b-c8ff0415c224,Fossil Fired Steam,2410645,03DSP-U1 Unit,_08dae472-13da-430d-b39f-66a09deecdc2,ThermalGeneratingUnit
+_2dd3c9bf-af46-4a48-b96a-c80708ecbc0a,Fossil Fired Steam,2410656,03DSP-U2 Unit,_08dae472-13da-430d-b39f-66a09deecdc2,ThermalGeneratingUnit
+_9f0c8843-92e3-4a3d-b805-cc7774469208,Fossil Fired Steam,2410667,03DSP-U3 Unit,_08dae472-13da-430d-b39f-66a09deecdc2,ThermalGeneratingUnit
+_6fa06597-327f-431f-8d76-5b71506d806f,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410717,03ELT-U1 Unit,_33d9e8de-da96-4d87-b62d-30b781d59d29,ThermalGeneratingUnit
+_c517c490-6323-4b7a-afe7-2b8d9f958e71,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410730,03GVD-U1 Unit,_98782413-977f-4a92-b2da-50beffc4eaf7,ThermalGeneratingUnit
+_a5522227-4d7f-4620-8b79-ad3e24dbded8,Gas Turbine (can only burn gas),2410744,03IBB-U1 Unit,_ac495fb0-4521-4dc6-a493-8f2372d94d29,ThermalGeneratingUnit
+_a9026cc2-72bb-4f51-a7f2-c3e025303e37,Gas Turbine (can only burn gas),2410755,03IBB-U2 Unit,_ac495fb0-4521-4dc6-a493-8f2372d94d29,ThermalGeneratingUnit
+_ddfa5515-fa08-4e34-9b46-961b988bbdef,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410769,03LFL-U1 Unit,_39db8e17-0946-478e-b684-5a15eded0845,ThermalGeneratingUnit
+_e7435d20-0b33-4fa5-ad4a-24ec9e5e1326,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410780,03LFL-U2 Unit,_39db8e17-0946-478e-b684-5a15eded0845,ThermalGeneratingUnit
+_ec8c0a3e-45a9-4400-91a1-933345a82cf2,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410796,03MAM-U10 Unit,_28c03cce-6b09-4603-867c-a54e3d46c2ee,ThermalGeneratingUnit
+_ca996bc3-bcc6-4b0e-975c-f318d5bb6032,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410811,03MAM-U11 Unit,_28c03cce-6b09-4603-867c-a54e3d46c2ee,ThermalGeneratingUnit
+_57e06068-a212-4fee-8258-5187953af006,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410828,03MAM-U12 Unit,_28c03cce-6b09-4603-867c-a54e3d46c2ee,ThermalGeneratingUnit
+_592ad9e0-17ba-48bc-ba4c-657657387f3f,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410845,03MAM-U9 Unit,_28c03cce-6b09-4603-867c-a54e3d46c2ee,ThermalGeneratingUnit
+_104f2b29-45de-4426-bfdd-529d86fca30b,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410863,03PMD-U1 Unit,_63a99c39-c250-46e6-8f63-59e228f0bb5a,ThermalGeneratingUnit
+_c1e096de-3380-46e1-96b7-4eaff223a89f,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410874,03PMD-U2 Unit,_63a99c39-c250-46e6-8f63-59e228f0bb5a,ThermalGeneratingUnit
+_46bb778e-f459-4b84-ae75-3e3882a82ce3,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410889,03PRO-U1 Unit,_777bdc6e-6ed3-4ee9-b92e-18e8f20885e8,ThermalGeneratingUnit
+_1dfe513b-0368-4556-a826-cdc0c2f03cfb,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410900,03PRO-U2 Unit,_777bdc6e-6ed3-4ee9-b92e-18e8f20885e8,ThermalGeneratingUnit
+_94b53e10-8dd5-429d-a266-7b3bf105125e,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410911,03PRO-U3 Unit,_777bdc6e-6ed3-4ee9-b92e-18e8f20885e8,ThermalGeneratingUnit
+_4c68461a-56f9-4989-8804-f1e56daeddb2,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410928,03PWT-U1 Unit,_defead36-d4a0-4fe8-ac6b-762f2d65dc2b,ThermalGeneratingUnit
+_67a19c49-4fdc-4088-8209-3f475c5cecab,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410939,03PWT-U2 Unit,_defead36-d4a0-4fe8-ac6b-762f2d65dc2b,ThermalGeneratingUnit
+_5ad1c24a-5d0d-42fb-a5f3-35a9734a0a9d,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410950,03PWT-U3 Unit,_defead36-d4a0-4fe8-ac6b-762f2d65dc2b,ThermalGeneratingUnit
+_bbef5e9d-079f-4c1f-b9cf-4f390e0572e0,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410961,03PWT-U4 Unit,_defead36-d4a0-4fe8-ac6b-762f2d65dc2b,ThermalGeneratingUnit
+_9712a57e-b96f-4da6-9fbe-d423fe459245,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410972,03PWT-U5 Unit,_defead36-d4a0-4fe8-ac6b-762f2d65dc2b,ThermalGeneratingUnit
+_adb95ed4-1f26-41ef-bb28-7c538cdf38bc,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2410992,03RAE-U1 Unit,_229018c8-0451-49c4-b947-c8b90ce9aa1f,ThermalGeneratingUnit
+_442e85d6-2ac3-44f7-b808-397298a8c764,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411003,03RAE-U2 Unit,_229018c8-0451-49c4-b947-c8b90ce9aa1f,ThermalGeneratingUnit
+_2ed69e8a-ff13-40c3-bd1c-d3c138bed433,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411014,03RAE-U3 Unit,_229018c8-0451-49c4-b947-c8b90ce9aa1f,ThermalGeneratingUnit
+_d5a0a08e-acc5-4902-a262-918fa483d37d,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411025,03RAE-U4 Unit,_229018c8-0451-49c4-b947-c8b90ce9aa1f,ThermalGeneratingUnit
+_205b98fd-afba-40f4-b7f9-b3b1cf6b4092,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411036,03RAE-U5 Unit,_229018c8-0451-49c4-b947-c8b90ce9aa1f,ThermalGeneratingUnit
+_14010e75-b0e5-4913-92d0-0b54e09bb79c,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411047,03RAE-U6 Unit,_229018c8-0451-49c4-b947-c8b90ce9aa1f,ThermalGeneratingUnit
+_b57e0f89-4fa7-4c0f-92ae-49cbedaa7c11,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411058,03RAE-U7 Unit,_229018c8-0451-49c4-b947-c8b90ce9aa1f,ThermalGeneratingUnit
+_95f5070b-ceb6-4f1d-ab80-7a0ee9c162c4,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411069,03RAE-U8 Unit,_229018c8-0451-49c4-b947-c8b90ce9aa1f,ThermalGeneratingUnit
+_108c3d04-6ef3-4162-9a01-5d68d17f60f7,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411084,03RON-U1 Unit,_b46efd9f-1097-4e21-9bef-2ce56f817f05,ThermalGeneratingUnit
+_91a5d001-e7e7-4c2e-9c6c-d3c1ce9a8048,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411095,03RON-U2 Unit,_b46efd9f-1097-4e21-9bef-2ce56f817f05,ThermalGeneratingUnit
+_bd364324-8b57-4d97-a947-05cb7ea66f64,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411106,03RON-U3 Unit,_b46efd9f-1097-4e21-9bef-2ce56f817f05,ThermalGeneratingUnit
+_29001a72-503e-45cf-b2ab-baae19f6e6cc,Gas Turbine (can only burn gas),2411120,03SAU-U2 Unit,_2bb6cf29-de24-4323-bb8e-434e6ad9d1d9,ThermalGeneratingUnit
+_14df43e4-47c4-43ea-b0f5-bbf6dc7f8613,Gas Turbine (can only burn gas),2411131,03SAU-U3 Unit,_2bb6cf29-de24-4323-bb8e-434e6ad9d1d9,ThermalGeneratingUnit
+_0e8b0865-aadc-4ed9-8d10-b769614df6a4,Gas Turbine (can only burn gas),2411147,03SCG-PTA Unit,_ba9daeda-176e-4ee7-b30c-86be0f7bf1cf,ThermalGeneratingUnit
+_3297cab0-63b0-4778-b66b-61aec5e2334f,Gas Turbine (can only burn gas),2411160,03SCG-U1 Unit,_ba9daeda-176e-4ee7-b30c-86be0f7bf1cf,ThermalGeneratingUnit
+_254bcf6f-3c71-49db-9223-40e45ab06cef,Gas Turbine (can only burn gas),2411171,03SCG-U2 Unit,_ba9daeda-176e-4ee7-b30c-86be0f7bf1cf,ThermalGeneratingUnit
+_684c6c9f-83b8-4eba-aff7-c38a4b4ffd82,Gas Turbine (can only burn gas),2411182,03SCG-U3 Unit,_ba9daeda-176e-4ee7-b30c-86be0f7bf1cf,ThermalGeneratingUnit
+_0338796b-5888-43dd-b6cd-260f1dbe1bc1,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411228,03SLM-U3 Unit,_7d8fbb7e-7a2d-47ba-8fe4-5a8cc1f19cfb,ThermalGeneratingUnit
+_03aa7afb-2232-4b2e-9aea-ccc088511fed,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411243,03SLM-U4 Unit,_7d8fbb7e-7a2d-47ba-8fe4-5a8cc1f19cfb,ThermalGeneratingUnit
+_7298c9da-a760-4e62-ac7a-c0f8f4cca72c,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411261,03VDR-U1 Unit,_e5f432f4-352b-47a1-8f6d-0625c340a1ea,ThermalGeneratingUnit
+_246c8676-85cc-4780-ad2c-913c8f75be81,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2411280,03VDR-U2 Unit,_e5f432f4-352b-47a1-8f6d-0625c340a1ea,ThermalGeneratingUnit
+_bdc00067-35b8-4677-8a33-aa56adb64bf6,Combined Cycle Logical Unit (NA Flag should be false),2411440,03BAJ-PTA Unit,_60cd3a7e-7239-4d64-ba06-94d2cfdb1f85,ThermalGeneratingUnit
+_c93aba47-48f9-4bcc-a133-3fd4e798a7df,Fossil Fired Steam,2411453,03BAJ-U1 Unit,_60cd3a7e-7239-4d64-ba06-94d2cfdb1f85,ThermalGeneratingUnit
+_e21db8b0-2523-4d55-ad8a-9f3e9d902069,Gas Turbine (can only burn gas),2411464,03BAJ-U2 Unit,_60cd3a7e-7239-4d64-ba06-94d2cfdb1f85,ThermalGeneratingUnit
+_7ca34272-28f0-4f61-88ab-dbaf6f925f53,Gas Turbine (can only burn gas),2411475,03BAJ-U3 Unit,_60cd3a7e-7239-4d64-ba06-94d2cfdb1f85,ThermalGeneratingUnit
+_a52e35ba-1f8e-4ca6-9cfd-fa36568b68a6,Gas Turbine (can only burn gas),2411486,03BAJ-U4 Unit,_60cd3a7e-7239-4d64-ba06-94d2cfdb1f85,ThermalGeneratingUnit
+_a1a6dc3a-2448-4923-9686-5ba2a0cd592f,Combined Cycle Logical Unit (NA Flag should be false),2411565,03CTI-PTA Unit,_f1c00091-3473-4029-8bd7-e41846babff3,ThermalGeneratingUnit
+_333577d8-658a-40c7-8ea6-31cd4c089787,Fossil Fired Steam,2411576,03CTI-U1 Unit,_f1c00091-3473-4029-8bd7-e41846babff3,ThermalGeneratingUnit
+_664600e1-1e7c-4301-a510-b23b80d34497,Gas Turbine (can only burn gas),2411587,03CTI-U2 Unit,_f1c00091-3473-4029-8bd7-e41846babff3,ThermalGeneratingUnit
+_8efb4d13-c0cb-4b7e-a633-23d494735247,Gas Turbine (can only burn gas),2411598,03CTI-U3 Unit,_f1c00091-3473-4029-8bd7-e41846babff3,ThermalGeneratingUnit
+_2bacfcf8-da48-46cf-bfe8-ea30c50cb4d8,Combined Cycle Logical Unit (NA Flag should be false),2411750,03MAM-PQ1 Unit,_c77dbb7a-a0d1-4f83-bd3a-32d012aca522,ThermalGeneratingUnit
+_8cc593be-b2d9-436c-b10e-febc7e62119e,Fossil Fired Steam,2411769,03MAM-U1 Unit,_c77dbb7a-a0d1-4f83-bd3a-32d012aca522,ThermalGeneratingUnit
+_f0006c41-8ac3-438f-b666-3a1f911357b6,Gas Turbine (can only burn gas),2411780,03MAM-U2 Unit,_c77dbb7a-a0d1-4f83-bd3a-32d012aca522,ThermalGeneratingUnit
+_c8551a6e-7320-405b-86ab-c7a25ff9d09f,Gas Turbine (can only burn gas),2411791,03MAM-U3 Unit,_c77dbb7a-a0d1-4f83-bd3a-32d012aca522,ThermalGeneratingUnit
+_e02e8ff2-68b2-415d-9a38-15eca277da42,Gas Turbine (can only burn gas),2411802,03MAM-U4 Unit,_c77dbb7a-a0d1-4f83-bd3a-32d012aca522,ThermalGeneratingUnit
+_0cab8791-461d-4438-9779-44a84ce844c2,Combined Cycle Logical Unit (NA Flag should be false),2411954,03MAM-PQ2 Unit,_d565b159-3d3b-47ea-8ccb-d1d0ea32da8b,ThermalGeneratingUnit
+_ab8b7da6-ed2a-4ceb-8699-d1a131a16d8b,Fossil Fired Steam,2411973,03MAM-U5 Unit,_d565b159-3d3b-47ea-8ccb-d1d0ea32da8b,ThermalGeneratingUnit
+_db8587fc-894a-4b22-a75f-d8c751dbe6e2,Gas Turbine (can only burn gas),2411984,03MAM-U6 Unit,_d565b159-3d3b-47ea-8ccb-d1d0ea32da8b,ThermalGeneratingUnit
+_d2859386-02b0-4463-accc-4643b4462956,Gas Turbine (can only burn gas),2411995,03MAM-U7 Unit,_d565b159-3d3b-47ea-8ccb-d1d0ea32da8b,ThermalGeneratingUnit
+_e2baccff-05e6-46d4-810b-7d619f66f71b,Gas Turbine (can only burn gas),2412006,03MAM-U8 Unit,_d565b159-3d3b-47ea-8ccb-d1d0ea32da8b,ThermalGeneratingUnit
+_5a95a1c1-7d7a-4a55-87bc-a495d0e26c53,Combined Cycle Logical Unit (NA Flag should be false),2412103,03SAU-PQ2 Unit,_30c1cc77-4add-4d89-a583-cd58ec37811a,ThermalGeneratingUnit
+_cbdcfac9-64cb-4f13-ab4c-b664e3b24016,Gas Turbine (can only burn gas),2412116,03SAU-U5 Unit,_30c1cc77-4add-4d89-a583-cd58ec37811a,ThermalGeneratingUnit
+_cdfb7ef8-9132-4a98-8ebe-3f92ca95f286,Gas Turbine (can only burn gas),2412127,03SAU-U6 Unit,_30c1cc77-4add-4d89-a583-cd58ec37811a,ThermalGeneratingUnit
+_49ba63a6-da25-409c-bff4-d61384c10dcb,Fossil Fired Steam,2412138,03SAU-U7 Unit,_30c1cc77-4add-4d89-a583-cd58ec37811a,ThermalGeneratingUnit
+_86b0095e-d672-40ab-b5ff-654aa8d13bc4,Combined Cycle Logical Unit (NA Flag should be false),2412180,03SAU-PQ3 Unit,_98dfd6a1-35bd-46cc-8731-d4d9bfbdaf9c,ThermalGeneratingUnit
+_c1e0a30e-8e87-4d1c-91f2-83d60c6f8efa,Fossil Fired Steam,2412193,03SAU-U4 Unit,_98dfd6a1-35bd-46cc-8731-d4d9bfbdaf9c,ThermalGeneratingUnit
+_674f1251-a24b-49e0-aa69-cc6a40d174af,Gas Turbine (can only burn gas),2412204,03SAU-U8 Unit,_98dfd6a1-35bd-46cc-8731-d4d9bfbdaf9c,ThermalGeneratingUnit
+_c0112569-bbf8-4c1b-aa78-5b9c7e321d54,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2431883,05BIG-U1 Unit,_bf93dada-4049-4081-bb1b-10be81ad087d,ThermalGeneratingUnit
+_d5975c5c-8460-4b5e-947f-ac57eae1c1e1,Gas Turbine (can only burn gas),2431897,05BIO-U1 Unit,_daf72513-e128-4793-b904-30b9aaaa5dc5,ThermalGeneratingUnit
+_f44cbf84-8bee-445c-a79c-68821a5092aa,Gas Turbine (can only burn gas),2431908,05BIO-U2 Unit,_daf72513-e128-4793-b904-30b9aaaa5dc5,ThermalGeneratingUnit
+_bf8a093c-7726-45c9-b860-4b2a4fe90c47,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2431921,05CTP-U1 Unit,_efaa241f-7bfa-44ee-8adb-712e540340f0,ThermalGeneratingUnit
+_21761a13-052f-4fa2-88ee-bfaf83ef92f2,Gas Turbine (can only burn gas),2431935,05CZU-U1 Unit,_c301273c-7b2a-4e99-ab71-55dad013fb37,ThermalGeneratingUnit
+_f1532bdf-abd8-4fdc-a56b-bd645d794624,Gas Turbine (can only burn gas),2431948,05CZU-U2 Unit,_c301273c-7b2a-4e99-ab71-55dad013fb37,ThermalGeneratingUnit
+_bb7cfa3e-5fb7-44fa-9612-0c1b727ca3a5,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2431974,05EEN-U1 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_f0fca13c-9544-4726-8687-05fee02b6e56,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2431985,05EEN-U10 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_a9f6c5a1-f62c-456e-a6f3-7edb25745562,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2431996,05EEN-U11 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_57719def-c49f-48e8-a8b9-6131ab178828,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432007,05EEN-U12 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_6c3d28c5-0e37-4736-98a7-dbbd8c02bed1,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432018,05EEN-U2 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_8263a889-8a7a-4150-8de3-51594d3c048d,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432029,05EEN-U3 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_298d7e22-6c25-4873-87f5-ce2e7dd8d990,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432040,05EEN-U4 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_83c53e5f-db00-48f9-893d-afaf26448af1,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432051,05EEN-U5 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_9aa2344d-6ec0-463e-b7cb-463bc63a49bb,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432062,05EEN-U6 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_a68cfb40-2c01-4fe7-839f-c9601584d673,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432073,05EEN-U7 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_fbbeb8af-8049-49ff-b3c2-1df8a1c7e61c,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432084,05EEN-U8 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_aad0ec43-c5dd-4d87-a2f0-f4cba8adde1f,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432095,05EEN-U9 Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_eb8b0a45-c460-478b-ad19-c181bd6a0b0d,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432109,05FVL-U4 Unit,_4bf605cd-99f8-48b4-bb13-d7e7dec31528,ThermalGeneratingUnit
+_a862e27e-ae3c-4268-bc5e-7eb574e6fb61,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432128,05FVL-U5 Unit,_4bf605cd-99f8-48b4-bb13-d7e7dec31528,ThermalGeneratingUnit
+_76d49df2-689d-4c7b-9440-0933f4dd9a98,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432150,05GBA-U1 Unit,_c1c8be80-0b64-42b2-8a0a-678056e83182,ThermalGeneratingUnit
+_81571c4c-f456-425d-9235-4e144d4423af,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432161,05GBA-U2 Unit,_c1c8be80-0b64-42b2-8a0a-678056e83182,ThermalGeneratingUnit
+_8e0e7ad0-5c5f-4836-83f7-feadff95fda9,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432174,05GGP-U1 Unit,_68d83547-bb63-4c14-8fdd-5ab5c0f9f7a6,ThermalGeneratingUnit
+_d19c5443-4219-4a2f-8894-f09b43144ce1,Gas Turbine (can only burn gas),2432187,05INJ-U1 Unit,_81103c12-143a-47f5-9f09-ab484ad319eb,ThermalGeneratingUnit
+_1db54765-0500-4a7b-a45a-ced33ae8a86d,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432203,05LED-U1 Unit,_90f174e4-ef2e-443b-a622-83f163d6a6cc,ThermalGeneratingUnit
+_15ace55c-4e61-4906-a792-944dc944d8f2,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432222,05LED-U2 Unit,_90f174e4-ef2e-443b-a622-83f163d6a6cc,ThermalGeneratingUnit
+_50c277d5-195b-4c78-97cc-94eea44563d6,Gas Turbine (can only burn gas),2432246,05LGA-U5 Unit,_37279302-9351-452d-9442-ee2ac61affe1,ThermalGeneratingUnit
+_e9ad780f-e4aa-4670-9195-49330fd64165,Gas Turbine (can only burn gas),2432259,05LGA-U6 Unit,_37279302-9351-452d-9442-ee2ac61affe1,ThermalGeneratingUnit
+_20e2d394-f6ec-4f10-bb2b-81cdc1552810,Gas Turbine (can only burn gas),2432272,05LGA-U7 Unit,_37279302-9351-452d-9442-ee2ac61affe1,ThermalGeneratingUnit
+_62d3771b-9852-45d8-b3df-9bcbcc347371,Gas Turbine (can only burn gas),2432285,05LGA-U8 Unit,_37279302-9351-452d-9442-ee2ac61affe1,ThermalGeneratingUnit
+_0b540489-f0a9-4271-81fb-855a6eeea647,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432300,05PCN-U1 Unit,_822b1fec-dad7-4bf2-9836-5f23f9d38b99,ThermalGeneratingUnit
+_2827902d-8215-475f-8b6c-fe7c4037e0b9,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432313,05PEL-U1 Unit,_eed14f5e-d2a8-44be-96c4-337274f6dbb7,ThermalGeneratingUnit
+_b46b40aa-2400-4c4a-8187-ee1f0935feb5,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432328,05POE-U5 Unit,_3708150e-20a2-4fd9-b63b-3aab62a3c87c,ThermalGeneratingUnit
+_07685d05-60e0-4531-bd9b-44e0bf2ef051,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432339,05POE-U6 Unit,_3708150e-20a2-4fd9-b63b-3aab62a3c87c,ThermalGeneratingUnit
+_c424a60c-7600-46a8-920b-39bfb49463cf,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432350,05POE-U7 Unit,_3708150e-20a2-4fd9-b63b-3aab62a3c87c,ThermalGeneratingUnit
+_770d90f6-012e-485c-8104-2ee79dbfcf14,Gas Turbine (can only burn gas),2432365,05PQE-U2 Unit,_0f92584f-9b2e-44f3-b513-2ce2acc21234,ThermalGeneratingUnit
+_a6f139cf-8e02-47bb-a03c-86701a022019,Gas Turbine (can only burn gas),2432378,05PQE-U3 Unit,_0f92584f-9b2e-44f3-b513-2ce2acc21234,ThermalGeneratingUnit
+_3517980d-da8f-4424-a49d-06e25117cb92,Gas Turbine (can only burn gas),2432391,05PQE-U4 Unit,_0f92584f-9b2e-44f3-b513-2ce2acc21234,ThermalGeneratingUnit
+_149fc0bc-43b5-41f0-a765-ae44bac0f71c,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432406,05STL-U1 Unit,_49a7c44f-effc-4bf7-b83d-56848b3c4b59,ThermalGeneratingUnit
+_f594e071-defc-4a12-b01d-887020b1d158,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432420,05SYC-U1 Unit,_df3b054d-51cb-484b-9c86-74e2ce10edf7,ThermalGeneratingUnit
+_54d50332-6999-4c5d-83cc-01bd97975598,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",2432439,05SYC-U2 Unit,_df3b054d-51cb-484b-9c86-74e2ce10edf7,ThermalGeneratingUnit
+_b49a6d51-2a49-4fb6-bbee-63a483100327,Combined Cycle Logical Unit (NA Flag should be false),2432544,05ENO-PQ1 Unit,_21390c4c-98f5-4a44-ab80-58c27fc722b9,ThermalGeneratingUnit
+_e2712a07-cca0-4c84-82f8-271c0dac03e1,Gas Turbine (can only burn gas),2432557,05ENO-U1 Unit,_21390c4c-98f5-4a44-ab80-58c27fc722b9,ThermalGeneratingUnit
+_0d9e37f2-397f-4b35-93bc-4f857462ae21,Gas Turbine (can only burn gas),2432568,05ENO-U2 Unit,_21390c4c-98f5-4a44-ab80-58c27fc722b9,ThermalGeneratingUnit
+_a3cd23b1-600c-45c4-82d6-8b7bbd3cd82d,Fossil Fired Steam,2432579,05ENO-U3 Unit,_21390c4c-98f5-4a44-ab80-58c27fc722b9,ThermalGeneratingUnit
+_a877f41a-459b-4a51-be9f-caf3bb4ab6be,Combined Cycle Logical Unit (NA Flag should be false),2432630,05ENO-PQ2 Unit,_3f3062ef-35b2-48b1-a7f9-8e3b5e0a36e4,ThermalGeneratingUnit
+_9cf747fd-95bc-4148-9d31-f18da598f9f2,Gas Turbine (can only burn gas),2432643,05ENO-U4 Unit,_3f3062ef-35b2-48b1-a7f9-8e3b5e0a36e4,ThermalGeneratingUnit
+_bce82547-98fc-4ad3-b591-41d262ee2a6a,Fossil Fired Steam,2432654,05ENO-U5 Unit,_3f3062ef-35b2-48b1-a7f9-8e3b5e0a36e4,ThermalGeneratingUnit
+_265894ab-9462-4380-915b-282bb88e3223,Combined Cycle Logical Unit (NA Flag should be false),2432751,05FED-PTA Unit,_0f63aa52-3530-4354-bfaf-e98bafcb1d17,ThermalGeneratingUnit
+_e14f0bad-0e31-42f3-8dc6-92f2e28d9c59,Gas Turbine (can only burn gas),2432764,05FED-U1 Unit,_0f63aa52-3530-4354-bfaf-e98bafcb1d17,ThermalGeneratingUnit
+_af50923d-f66f-43a6-97d5-059632430a05,Gas Turbine (can only burn gas),2432775,05FED-U2 Unit,_0f63aa52-3530-4354-bfaf-e98bafcb1d17,ThermalGeneratingUnit
+_f2725fc5-f53b-4980-9079-27f9feb96c84,Fossil Fired Steam,2432786,05FED-U3 Unit,_0f63aa52-3530-4354-bfaf-e98bafcb1d17,ThermalGeneratingUnit
+_1a79ec87-c4a8-4dd4-b81c-e54bef2404c1,Combined Cycle Logical Unit (NA Flag should be false),2432883,05GPP-PTA Unit,_d5d0c06f-f8dc-4a38-9f03-5127b00cc674,ThermalGeneratingUnit
+_33b29a1f-688e-4974-91b1-8312af79c214,Gas Turbine (can only burn gas),2432894,05GPP-U1 Unit,_d5d0c06f-f8dc-4a38-9f03-5127b00cc674,ThermalGeneratingUnit
+_6b6834eb-0bfa-430e-b8dd-b570feeb60c5,Gas Turbine (can only burn gas),2432905,05GPP-U2 Unit,_d5d0c06f-f8dc-4a38-9f03-5127b00cc674,ThermalGeneratingUnit
+_442c36ca-c5d7-42c0-9342-1b487e6f57d2,Fossil Fired Steam,2432916,05GPP-U3 Unit,_d5d0c06f-f8dc-4a38-9f03-5127b00cc674,ThermalGeneratingUnit
+_f766be41-588c-41aa-8fd2-f48f4d469ac1,Combined Cycle Logical Unit (NA Flag should be false),2433013,05IEL-PTA Unit,_7256001b-82a4-4b6b-bd36-e35e4cecfb28,ThermalGeneratingUnit
+_4f257c22-9686-4f21-a54f-8b929fc98111,Gas Turbine (can only burn gas),2433026,05IEL-U1 Unit,_7256001b-82a4-4b6b-bd36-e35e4cecfb28,ThermalGeneratingUnit
+_42c6cf4b-1310-4cc4-9f7b-ee87647f67a8,Gas Turbine (can only burn gas),2433037,05IEL-U2 Unit,_7256001b-82a4-4b6b-bd36-e35e4cecfb28,ThermalGeneratingUnit
+_c23ba25c-1959-437e-b6dd-7e8f3ea88c39,Fossil Fired Steam,2433048,05IEL-U3 Unit,_7256001b-82a4-4b6b-bd36-e35e4cecfb28,ThermalGeneratingUnit
+_1c00aded-2828-4e17-817d-d93927c6fa35,Combined Cycle Logical Unit (NA Flag should be false),2433145,05KST-PTA Unit,_6bd1a25d-b344-45ab-be9c-41dcb63624a1,ThermalGeneratingUnit
+_15b92887-0890-4131-bf21-88d2fd150c7e,Gas Turbine (can only burn gas),2433156,05KST-U1 Unit,_6bd1a25d-b344-45ab-be9c-41dcb63624a1,ThermalGeneratingUnit
+_4b505583-16fe-4541-a2d4-545e352bcb06,Gas Turbine (can only burn gas),2433167,05KST-U2 Unit,_6bd1a25d-b344-45ab-be9c-41dcb63624a1,ThermalGeneratingUnit
+_b59e6563-21ac-460a-8e62-32a17226e1d1,Fossil Fired Steam,2433178,05KST-U3 Unit,_6bd1a25d-b344-45ab-be9c-41dcb63624a1,ThermalGeneratingUnit
+_c966fe70-07b5-4f33-badb-ae8ef438519d,Combined Cycle Logical Unit (NA Flag should be false),2433872,05NOJ-PTA Unit,_00e181af-3183-4c8b-989d-1180712661c1,ThermalGeneratingUnit
+_3eab10a3-2669-4d6d-9f96-50c6d6184661,Gas Turbine (can only burn gas),2433883,05NOJ-U1 Unit,_00e181af-3183-4c8b-989d-1180712661c1,ThermalGeneratingUnit
+_a2cb3ef2-2773-49f1-9530-3b6d0b4a876c,Gas Turbine (can only burn gas),2433894,05NOJ-U2 Unit,_00e181af-3183-4c8b-989d-1180712661c1,ThermalGeneratingUnit
+_418f210e-d77f-4289-8e26-9e500f423dbd,Fossil Fired Steam,2433905,05NOJ-U3 Unit,_00e181af-3183-4c8b-989d-1180712661c1,ThermalGeneratingUnit
+_60528b73-178b-4bdd-8666-ff5ae90e8022,Gas Turbine (can only burn gas),2433916,05NOJ-U4 Unit,_00e181af-3183-4c8b-989d-1180712661c1,ThermalGeneratingUnit
+_d88bf70d-02da-49b8-a6e8-c326865052f6,Gas Turbine (can only burn gas),2433927,05NOJ-U5 Unit,_00e181af-3183-4c8b-989d-1180712661c1,ThermalGeneratingUnit
+_8a14cb44-620f-4351-ba10-073f3694c77e,Fossil Fired Steam,2433938,05NOJ-U6 Unit,_00e181af-3183-4c8b-989d-1180712661c1,ThermalGeneratingUnit
+_96cfcf98-f078-4335-92b7-a884e08e0b3a,Combined Cycle Logical Unit (NA Flag should be false),2434035,05PTC-PTA Unit,_b0c790b5-9f9b-4353-aade-4ffed7671a54,ThermalGeneratingUnit
+_f58fb3fd-714d-4f8d-8976-2b2634d45e88,Gas Turbine (can only burn gas),2434048,05PTC-U1 Unit,_b0c790b5-9f9b-4353-aade-4ffed7671a54,ThermalGeneratingUnit
+_b0d16bc4-97d4-468d-b5c4-580a57926795,Gas Turbine (can only burn gas),2434059,05PTC-U2 Unit,_b0c790b5-9f9b-4353-aade-4ffed7671a54,ThermalGeneratingUnit
+_dbf5003f-44ef-40f1-8570-061ab5e123d3,Fossil Fired Steam,2434070,05PTC-U3 Unit,_b0c790b5-9f9b-4353-aade-4ffed7671a54,ThermalGeneratingUnit
+_1d5d87fa-aa8c-4f18-ab4b-e25cb89d41bc,Combined Cycle Logical Unit (NA Flag should be false),2434121,05SYD-PQ1 Unit,_5f004476-faf7-4d97-bed5-54d8461e50d8,ThermalGeneratingUnit
+_8feaca52-c094-4116-9dfb-fd4bdff78e69,Gas Turbine (can only burn gas),2434134,05SYD-U3 Unit,_5f004476-faf7-4d97-bed5-54d8461e50d8,ThermalGeneratingUnit
+_dbc7ca51-52d3-41e7-b34e-0415ada0d8b4,Fossil Fired Steam,2434145,05SYD-U4 Unit,_5f004476-faf7-4d97-bed5-54d8461e50d8,ThermalGeneratingUnit
+_fe7dc958-4a91-44c8-b49d-87a9566cdd5d,Combined Cycle Logical Unit (NA Flag should be false),2434196,05SYD-PQ2 Unit,_67b9f723-ef7c-4dc9-b7a4-285c2bfdb432,ThermalGeneratingUnit
+_19e54aa0-0f1d-446e-95d5-b98bf55a8828,Gas Turbine (can only burn gas),2434209,05SYD-U5 Unit,_67b9f723-ef7c-4dc9-b7a4-285c2bfdb432,ThermalGeneratingUnit
+_7918c93f-3730-41c9-baff-707dd165adf2,Fossil Fired Steam,2434220,05SYD-U6 Unit,_67b9f723-ef7c-4dc9-b7a4-285c2bfdb432,ThermalGeneratingUnit
+_0c09e0c3-8f52-4550-97e8-2eebf728feed,Combined Cycle Logical Unit (NA Flag should be false),2434271,05SYD-PQ3 Unit,_39302714-bb09-409e-9fbe-1f85fa5c6ce2,ThermalGeneratingUnit
+_bd8556dc-dda1-4657-ac86-890d6176f4ad,Gas Turbine (can only burn gas),2434284,05SYD-U7 Unit,_39302714-bb09-409e-9fbe-1f85fa5c6ce2,ThermalGeneratingUnit
+_02fefda7-9d89-43e8-890c-7e8ccd4602a7,Fossil Fired Steam,2434295,05SYD-U8 Unit,_39302714-bb09-409e-9fbe-1f85fa5c6ce2,ThermalGeneratingUnit
+_64da64ec-5130-443c-ab7e-fe1b0231e09c,Gas Turbine (can only burn gas),2448022,07   CCM-U10 Unit,_4065d301-2ad3-4ec8-998b-528bb7cd2d4d,ThermalGeneratingUnit
+_50a80b72-ff61-428c-8fcc-a310a4f2d61d,Gas Turbine (can only burn gas),2448037,07   CIP-U01 Unit,_cd81def4-fa66-45b2-9b0d-121d225010cf,ThermalGeneratingUnit
+_5f227d39-805f-46e1-95f4-e5028fea5252,Fossil Fired Steam,2448055,07   CPC-U10 Unit,_052d693a-c736-43a7-a972-a5428fef3c56,ThermalGeneratingUnit
+_de479a13-841f-40c9-923d-3bce5cc417ea,Fossil Fired Steam,2448058,07   CPC-U11 Unit,_052d693a-c736-43a7-a972-a5428fef3c56,ThermalGeneratingUnit
+_9e06a104-6a53-42be-8b80-67a9b2f710f4,Fossil Fired Steam,2448061,07   CPC-U12 Unit,_052d693a-c736-43a7-a972-a5428fef3c56,ThermalGeneratingUnit
+_2f8c4a3f-2a04-49de-82c3-e3f1074ff96b,Fossil Fired Steam,2448064,07   CPC-U13 Unit,_052d693a-c736-43a7-a972-a5428fef3c56,ThermalGeneratingUnit
+_2f7eb4fd-828a-434e-9677-c167b8795dae,Fossil Fired Steam,2448070,07   CPD-U06 Unit,_eeb1fbbf-9b66-47e7-9b7a-e9220efc1ba0,ThermalGeneratingUnit
+_d52c8fff-9ccc-428e-9463-ef1ae3157762,Fossil Fired Steam,2448073,07   CPD-U07 Unit,_eeb1fbbf-9b66-47e7-9b7a-e9220efc1ba0,ThermalGeneratingUnit
+_ae456265-6d2c-45ab-a3a7-6699d92541d8,Fossil Fired Steam,2448079,07   CPT-U08 Unit,_4533b616-7440-4d3b-bcd8-2d109d4531a4,ThermalGeneratingUnit
+_4c929303-0077-418f-8396-dc125aa18112,Fossil Fired Steam,2448082,07   CPT-U09 Unit,_4533b616-7440-4d3b-bcd8-2d109d4531a4,ThermalGeneratingUnit
+_ad069cef-21b9-4215-a3e1-e0ed3fdfd7d8,Fossil Fired Steam,2448087,07   CPU-U05 Unit,_de66b253-902b-42c5-a65a-53352be6faf5,ThermalGeneratingUnit
+_50a42633-b9d5-4247-9528-80b07222c247,Gas Turbine (can only burn gas),2448092,07   ESH-U01 Unit,_b31135c0-4c20-4d9d-a12d-26df18ed5daf,ThermalGeneratingUnit
+_8b6ea41a-954a-4959-9787-f76df7f18c18,Gas Turbine (can only burn gas),2448108,07   GFM-U10 Unit,_7315d9be-3f49-4472-a5a8-ba9ab2c8f5e4,ThermalGeneratingUnit
+_0e43cc90-6b14-4dfa-891a-37760c06b1b8,Gas Turbine (can only burn gas),2448121,07   GFM-U11 Unit,_7315d9be-3f49-4472-a5a8-ba9ab2c8f5e4,ThermalGeneratingUnit
+_0978ab07-5ee3-4817-8cc0-a1b50352028f,Gas Turbine (can only burn gas),2448136,07   LBM-U01 Unit,_0766f293-f9d6-4e3c-b88a-3c273baf1adc,ThermalGeneratingUnit
+_bcbf33b3-c75d-4838-bbba-8c68c80991d0,Gas Turbine (can only burn gas),2448153,07   MXI-U01 Unit,_c27aab0e-1f2d-4181-bf72-1a4c79504b3d,ThermalGeneratingUnit
+_278990db-11ff-4e90-9b8e-69eacca7832f,Gas Turbine (can only burn gas),2448166,07   MXI-U02 Unit,_c27aab0e-1f2d-4181-bf72-1a4c79504b3d,ThermalGeneratingUnit
+_69d7ab1f-400d-4eb3-ac30-e330413e43c0,Gas Turbine (can only burn gas),2448179,07   MXI-U03 Unit,_c27aab0e-1f2d-4181-bf72-1a4c79504b3d,ThermalGeneratingUnit
+_9370d6a5-90ad-4008-a71c-c1ebc587daea,Fossil Fired Steam,2448198,07   PJZ-U05 Unit,_b4db4407-afc0-4153-9a22-10a52d31632c,ThermalGeneratingUnit
+_2c00e5cd-00ea-4c3a-93c1-61aeeee79730,Fossil Fired Steam,2448224,07   PJZ-U06 Unit,_b4db4407-afc0-4153-9a22-10a52d31632c,ThermalGeneratingUnit
+_66f7c94a-36d1-4555-ae2b-27181c6e18c5,Gas Turbine (can only burn gas),2448250,07   PJZ-U07 Unit,_b4db4407-afc0-4153-9a22-10a52d31632c,ThermalGeneratingUnit
+_6f57b082-2299-4b22-88e2-8b30de7a0130,Gas Turbine (can only burn gas),2448276,07   PJZ-U08 Unit,_b4db4407-afc0-4153-9a22-10a52d31632c,ThermalGeneratingUnit
+_24535328-263e-479f-be18-aec57c13415d,Gas Turbine (can only burn gas),2448290,07   PJZ-U09 Unit,_b4db4407-afc0-4153-9a22-10a52d31632c,ThermalGeneratingUnit
+_a16453a3-e20e-4073-ad99-68c28b3bca99,Gas Turbine (can only burn gas),2448311,07   SFC-U01 Unit,_ff8cd044-4e3e-4998-b4a9-d0d16ce29980,ThermalGeneratingUnit
+_0396b1c5-1533-47ec-9e59-a78e40292fdf,Gas Turbine (can only burn gas),2448330,07   TTI-U01 Unit,_47b8c71c-78ee-4679-b222-30dbbd8c0a5f,ThermalGeneratingUnit
+_22dcaf72-b8ac-4a41-8075-1e903d1c196c,Gas Turbine (can only burn gas),2448343,07   TTI-U02 Unit,_47b8c71c-78ee-4679-b222-30dbbd8c0a5f,ThermalGeneratingUnit
+_35cbaebc-3874-424a-a765-da0b126f7fe4,Gas Turbine (can only burn gas),2448356,07   TTI-U04 Unit,_47b8c71c-78ee-4679-b222-30dbbd8c0a5f,ThermalGeneratingUnit
+_3bb00808-16e1-4567-95bb-87dacc371401,Gas Turbine (can only burn gas),2448369,07   TTI-U05 Unit,_47b8c71c-78ee-4679-b222-30dbbd8c0a5f,ThermalGeneratingUnit
+_f554790a-f293-4009-9332-3fa9f8508e23,Gas Turbine (can only burn gas),2448382,07   TTI-U06 Unit,_47b8c71c-78ee-4679-b222-30dbbd8c0a5f,ThermalGeneratingUnit
+_35f37db8-b4df-43eb-9451-94377d17d297,Combined Cycle Logical Unit (NA Flag should be false),2448443,07   BJT-PTA Unit,_347e14ed-0b22-4f9e-9147-e42b28e109b4,ThermalGeneratingUnit
+_5bf1c76f-c552-42bd-9f33-35e1835e7b52,Gas Turbine (can only burn gas),2448456,07   BJT-U01 Unit,_347e14ed-0b22-4f9e-9147-e42b28e109b4,ThermalGeneratingUnit
+_f6803d28-32bf-41f4-b854-ad1793a90a04,Fossil Fired Steam,2448469,07   BJT-U02 Unit,_347e14ed-0b22-4f9e-9147-e42b28e109b4,ThermalGeneratingUnit
+_e4158c26-dd87-4968-bf11-f23b956bbd71,Combined Cycle Logical Unit (NA Flag should be false),2448676,07   CCM-PTA Unit,_72977d7b-a77e-4b8b-98a9-803703d4f5e2,ThermalGeneratingUnit
+_2d6dca91-1b35-40a4-abf4-39e59c160539,Gas Turbine (can only burn gas),2448691,07   CCM-U01 Unit,_72977d7b-a77e-4b8b-98a9-803703d4f5e2,ThermalGeneratingUnit
+_63897298-5823-4e9d-bb72-314a6b8ec686,Gas Turbine (can only burn gas),2448705,07   CCM-U02 Unit,_72977d7b-a77e-4b8b-98a9-803703d4f5e2,ThermalGeneratingUnit
+_27d26811-0a95-4df1-8753-53dd4630a3a9,Gas Turbine (can only burn gas),2448719,07   CCM-U03 Unit,_72977d7b-a77e-4b8b-98a9-803703d4f5e2,ThermalGeneratingUnit
+_261cee57-6c45-45cf-85d3-94d7e7dc3cfe,Fossil Fired Steam,2448733,07   CCM-U04 Unit,_72977d7b-a77e-4b8b-98a9-803703d4f5e2,ThermalGeneratingUnit
+_ff7bc2e4-7d83-4aa8-8313-31613fa5e1ae,Combined Cycle Logical Unit (NA Flag should be false),2448785,07   PJZ-PTA Unit,_fb50d51c-09ab-4252-8511-eeacc06830fa,ThermalGeneratingUnit
+_49cdd6b7-45cf-4816-b9da-3de0ec67b130,Gas Turbine (can only burn gas),2448800,07   PJZ-U10 Unit,_fb50d51c-09ab-4252-8511-eeacc06830fa,ThermalGeneratingUnit
+_70c92d84-a155-4e27-a1be-4a63eb824dab,Fossil Fired Steam,2448814,07   PJZ-U11 Unit,_fb50d51c-09ab-4252-8511-eeacc06830fa,ThermalGeneratingUnit
+_d433dc54-fba8-4345-bf6e-3d25d8b11792,Gas Turbine (can only burn gas),4000242,04CCT-U1 Unit,_72896ecf-72c6-4a9b-9154-a0bda0fed209,ThermalGeneratingUnit
+_127e37db-c9ca-4f0e-8820-d1a3df3a3d38,Gas Turbine (can only burn gas),4000267,04FEH-U1 Unit,_d11ca48f-9d33-4da1-b8b6-71307750e1b2,ThermalGeneratingUnit
+_5c0bf266-56d2-4149-bc4c-ccbabd713d16,Gas Turbine (can only burn gas),4000290,04ICA-U1 Unit,_a3894082-d652-4024-b0ac-76025f8d831a,ThermalGeneratingUnit
+_c4444084-d9a1-4c21-9e52-dcd4d077fb04,Gas Turbine (can only burn gas),4000310,04ICA-U2 Unit,_a3894082-d652-4024-b0ac-76025f8d831a,ThermalGeneratingUnit
+_5e9bb9fe-b2f2-4651-922b-b052112b6399,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",4000334,04MZD-U1 Unit,_c8738e59-ff9d-42c2-92ce-f3a536dbeee1,ThermalGeneratingUnit
+_a7bd4ffe-280e-421d-b5df-542c9237b593,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",4000357,04MZD-U2 Unit,_c8738e59-ff9d-42c2-92ce-f3a536dbeee1,ThermalGeneratingUnit
+_0af4358e-2322-4a69-b02c-d8c6e259d070,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",4000380,04MZD-U3 Unit,_c8738e59-ff9d-42c2-92ce-f3a536dbeee1,ThermalGeneratingUnit
+_fb72bfb4-99a9-4e4d-bbef-49db71b7f026,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",4000505,04PLD-U1 Unit,_d1d7006d-cd88-432e-af61-7a02469dccef,ThermalGeneratingUnit
+_52fc2242-c7c3-4b95-b3b7-f8b73adf1700,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",4000528,04PLD-U2 Unit,_d1d7006d-cd88-432e-af61-7a02469dccef,ThermalGeneratingUnit
+_4cc1cb53-3e3e-43a3-b829-b94e1424f74d,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",4000551,04PLD-U3 Unit,_d1d7006d-cd88-432e-af61-7a02469dccef,ThermalGeneratingUnit
+_ffb7fb5d-6d43-40d4-9438-388e6a6cd402,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",4000574,04PLD-U4 Unit,_d1d7006d-cd88-432e-af61-7a02469dccef,ThermalGeneratingUnit
+_6414b45e-0807-4d5d-8028-e94138eb6aaf,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",4000600,04TPO-U1 Unit,_448eb675-4ed6-4f18-8030-12e10de33fea,ThermalGeneratingUnit
+_06a05283-1266-46f9-b83c-70028b9cd484,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",4000623,04TPO-U2 Unit,_448eb675-4ed6-4f18-8030-12e10de33fea,ThermalGeneratingUnit
+_7969e218-8a4a-45a0-9198-0bd0227ec93e,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",4000649,04UEN-U1 Unit,_f3f0ad77-c729-49a8-adf1-79a1265eb276,ThermalGeneratingUnit
+_76d8fcf9-76f4-4a82-b800-cb2913eed38e,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",4000666,04UEN-U2 Unit,_f3f0ad77-c729-49a8-adf1-79a1265eb276,ThermalGeneratingUnit
+_4629efef-2ba1-4f62-b7c9-b65d7ed7438d,Combined Cycle Logical Unit (NA Flag should be false),4000688,04AGD-PTA Unit,_0e2179ba-ea68-4c25-ad57-cdcb63365d8d,ThermalGeneratingUnit
+_544ed70d-be62-43d2-a343-107ce2df10a4,Gas Turbine (can only burn gas),4000711,04AGD-U1 Unit,_0e2179ba-ea68-4c25-ad57-cdcb63365d8d,ThermalGeneratingUnit
+_909fa034-f542-4cbf-9dea-936fb0ca5727,Gas Turbine (can only burn gas),4000728,04AGD-U2 Unit,_0e2179ba-ea68-4c25-ad57-cdcb63365d8d,ThermalGeneratingUnit
+_3e4ccfee-4cf9-407e-84ce-3e1561f88a38,Fossil Fired Steam,4000745,04AGD-U3 Unit,_0e2179ba-ea68-4c25-ad57-cdcb63365d8d,ThermalGeneratingUnit
+_79a37f13-bde0-488f-a526-91b611eb87d8,Combined Cycle Logical Unit (NA Flag should be false),4000848,04ECC-PTA Unit,_36f40dd1-9178-4c06-a26b-ff9ade6919e6,ThermalGeneratingUnit
+_b392b3dd-753a-4736-a989-11dc91636542,Gas Turbine (can only burn gas),4000868,04ECC-U1 Unit,_36f40dd1-9178-4c06-a26b-ff9ade6919e6,ThermalGeneratingUnit
+_990986b3-d835-440e-9444-32042709ec40,Gas Turbine (can only burn gas),4000885,04ECC-U2 Unit,_36f40dd1-9178-4c06-a26b-ff9ade6919e6,ThermalGeneratingUnit
+_9db435b2-5815-4560-9345-edcde9781fe9,Fossil Fired Steam,4000902,04ECC-U3 Unit,_36f40dd1-9178-4c06-a26b-ff9ade6919e6,ThermalGeneratingUnit
+_d0e44aad-5bee-4da8-aa60-1018e053221a,Combined Cycle Logical Unit (NA Flag should be false),4001005,04ECD-PTA Unit,_f774c122-12e2-40be-8d20-35486bc9a9b5,ThermalGeneratingUnit
+_b17c8d9a-36e4-454b-982f-3686d753b367,Gas Turbine (can only burn gas),4001025,04ECD-U4 Unit,_f774c122-12e2-40be-8d20-35486bc9a9b5,ThermalGeneratingUnit
+_417b9fb7-46e4-478a-a9c8-c1b72e0019ef,Gas Turbine (can only burn gas),4001042,04ECD-U5 Unit,_f774c122-12e2-40be-8d20-35486bc9a9b5,ThermalGeneratingUnit
+_74219670-0331-4734-8fb4-62abf5020126,Fossil Fired Steam,4001059,04ECD-U6 Unit,_f774c122-12e2-40be-8d20-35486bc9a9b5,ThermalGeneratingUnit
+_4764de1f-327d-45ea-ae45-3cf7d0c7fc87,Combined Cycle Logical Unit (NA Flag should be false),4001161,04FEN-PTA Unit,_da4210a9-048d-432d-988c-28fae090e3e0,ThermalGeneratingUnit
+_bac1b925-3598-418a-af5e-2697457aa8fe,Gas Turbine (can only burn gas),4001181,04FEN-U1 Unit,_da4210a9-048d-432d-988c-28fae090e3e0,ThermalGeneratingUnit
+_07166e58-62da-4c0f-918f-ec2182b88576,Fossil Fired Steam,4001198,04FEN-U2 Unit,_da4210a9-048d-432d-988c-28fae090e3e0,ThermalGeneratingUnit
+_6ef04005-d48b-4900-98be-1f8dcb70cd5c,Combined Cycle Logical Unit (NA Flag should be false),4001255,04HLI-PTA Unit,_30ebebc4-c477-4498-b98e-a75e987c9b4b,ThermalGeneratingUnit
+_55a6c244-00eb-45f9-ad69-d639e20bd0af,Gas Turbine (can only burn gas),4001275,04HLI-U1 Unit,_30ebebc4-c477-4498-b98e-a75e987c9b4b,ThermalGeneratingUnit
+_63a056c7-3fce-438b-9bfb-48199f2e71a9,Fossil Fired Steam,4001292,04HLI-U2 Unit,_30ebebc4-c477-4498-b98e-a75e987c9b4b,ThermalGeneratingUnit
+_5a05e786-6a67-440c-8a93-07293e402a7a,Combined Cycle Logical Unit (NA Flag should be false),4001349,04LCG-PQ1 Unit,_3da740e2-d096-4828-b1a2-81de1e0cbc24,ThermalGeneratingUnit
+_8d39579f-c562-4214-8acb-178c4526a366,Gas Turbine (can only burn gas),4001369,04LCG-U1 Unit,_3da740e2-d096-4828-b1a2-81de1e0cbc24,ThermalGeneratingUnit
+_1056d9c7-7d31-432d-8d6f-09bc6b4797b1,Fossil Fired Steam,4001386,04LCG-U2 Unit,_3da740e2-d096-4828-b1a2-81de1e0cbc24,ThermalGeneratingUnit
+_17e5949e-f7bb-4d41-b0c8-900b1199c475,Combined Cycle Logical Unit (NA Flag should be false),4001443,04LCG-PQ2 Unit,_c165230d-649d-4d5b-bb5a-43e17210b83c,ThermalGeneratingUnit
+_3752fb34-f96b-4042-b3a1-a47aa97260ea,Gas Turbine (can only burn gas),4001463,04LCG-U3 Unit,_c165230d-649d-4d5b-bb5a-43e17210b83c,ThermalGeneratingUnit
+_cbb52bf8-3243-44c9-bbff-6c2d4b154379,Fossil Fired Steam,4001480,04LCG-U4 Unit,_c165230d-649d-4d5b-bb5a-43e17210b83c,ThermalGeneratingUnit
+_e164c8ea-685b-4892-9773-8683d4aa1746,Combined Cycle Logical Unit (NA Flag should be false),4001538,04TBT-PTA Unit,_626c416f-f3a8-4ecc-8f96-228aac432fcf,ThermalGeneratingUnit
+_150dcf8a-492b-41fa-a7e7-3f9ba4912632,Gas Turbine (can only burn gas),4001555,04TBT-U1 Unit,_626c416f-f3a8-4ecc-8f96-228aac432fcf,ThermalGeneratingUnit
+_6c5cf3c0-04fd-4c8e-8002-d3af86b97de1,Gas Turbine (can only burn gas),4001572,04TBT-U2 Unit,_626c416f-f3a8-4ecc-8f96-228aac432fcf,ThermalGeneratingUnit
+_1ef01612-d53a-492e-a32f-22998ee6e7be,Fossil Fired Steam,4001589,04TBT-U3 Unit,_626c416f-f3a8-4ecc-8f96-228aac432fcf,ThermalGeneratingUnit
+_9d76d8f5-18a2-4f54-97eb-4734e07968ac,Combined Cycle Logical Unit (NA Flag should be false),4001692,04TPD-PTA Unit,_865a665f-084c-4b87-add6-6aefbc255c88,ThermalGeneratingUnit
+_757a1969-4f95-4e38-a4f0-5dbbdb93d441,Gas Turbine (can only burn gas),4001709,04TPD-U1 Unit,_865a665f-084c-4b87-add6-6aefbc255c88,ThermalGeneratingUnit
+_7bdd4473-46b1-4709-ada3-54eb7ad6fae4,Gas Turbine (can only burn gas),4001726,04TPD-U2 Unit,_865a665f-084c-4b87-add6-6aefbc255c88,ThermalGeneratingUnit
+_06ec1965-34f6-444e-a1ed-8cfa640db5a5,Fossil Fired Steam,4001743,04TPD-U3 Unit,_865a665f-084c-4b87-add6-6aefbc255c88,ThermalGeneratingUnit
+_79e57dde-d373-4cff-9cd6-4fcbae9a6434,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",21427667,07BCSBCU-U01 Unit,_8dee4301-b423-43f0-ad1c-5e627a7063b1,ThermalGeneratingUnit
+_246fbc78-cb81-4c85-9e87-fc5d7f7287b0,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",21427705,07BCSBCU-U02 Unit,_8dee4301-b423-43f0-ad1c-5e627a7063b1,ThermalGeneratingUnit
+_da232f78-2bf2-441d-af3c-efbe4c49c05f,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",21427740,07BCSBCU-U03 Unit,_8dee4301-b423-43f0-ad1c-5e627a7063b1,ThermalGeneratingUnit
+_feeb91e7-d8ea-4bd5-b62a-6cb5e18b0a60,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",21427775,07BCSBCU-U04 Unit,_8dee4301-b423-43f0-ad1c-5e627a7063b1,ThermalGeneratingUnit
+_555d5154-d43e-4d4e-a883-c90f24f620fb,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",21427810,07BCSBCU-U05 Unit,_8dee4301-b423-43f0-ad1c-5e627a7063b1,ThermalGeneratingUnit
+_59cf1461-1c09-4747-9442-16d52281a4f4,Gas Turbine (can only burn gas),21427845,07BCSBCU-U10 Unit,_8dee4301-b423-43f0-ad1c-5e627a7063b1,ThermalGeneratingUnit
+_7344cbbb-92d3-49a0-91e7-aaa15c325f1f,Gas Turbine (can only burn gas),21655142,07BCSVIO-U01 Unit,_6c6edaaf-1ce4-42ed-8f33-7153fd7137cd,ThermalGeneratingUnit
+_fc2732cd-e926-4df1-87db-746221aed30a,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",21768189,07BCSGAO-U01 Unit,_f03bd733-432a-4fe6-ba92-42ad94752a78,ThermalGeneratingUnit
+_6c946b4c-477b-48bc-a570-ed1a77f5f302,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",21768223,07BCSGAO-U02 Unit,_f03bd733-432a-4fe6-ba92-42ad94752a78,ThermalGeneratingUnit
+_b40d50e9-053e-4ae0-9cc5-d7d1d1257da8,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",21768257,07BCSGAO-U03 Unit,_f03bd733-432a-4fe6-ba92-42ad94752a78,ThermalGeneratingUnit
+_e6ed7605-741a-45ee-a7e0-7daf42742038,Fossil Fired Steam,21828669,07BCSPUP-U01 Unit,_0b6c0a0e-f10d-4d26-8e79-0d6716a3a54f,ThermalGeneratingUnit
+_0b294836-0251-443b-8561-372308bc8bcb,Fossil Fired Steam,21828707,07BCSPUP-U02 Unit,_0b6c0a0e-f10d-4d26-8e79-0d6716a3a54f,ThermalGeneratingUnit
+_8837effd-eb17-4f05-93ed-bedbdaebce5b,Fossil Fired Steam,21828745,07BCSPUP-U03 Unit,_0b6c0a0e-f10d-4d26-8e79-0d6716a3a54f,ThermalGeneratingUnit
+_198547ba-3423-474f-9808-8f09df8c7ed3,Gas Turbine (can only burn gas),21828783,07BCSPUP-U04 Unit,_0b6c0a0e-f10d-4d26-8e79-0d6716a3a54f,ThermalGeneratingUnit
+_b84104f2-fc88-4743-8466-5e51f487e776,Gas Turbine (can only burn gas),21828821,07BCSPUP-U05 Unit,_0b6c0a0e-f10d-4d26-8e79-0d6716a3a54f,ThermalGeneratingUnit
+_993d25fe-0466-4b27-914e-73a5e4b5fe38,Gas Turbine (can only burn gas),21839043,07BCSTCB-U01 Unit,_1e3d08d2-143e-43c3-a3c1-d351800cb9f5,ThermalGeneratingUnit
+_b5bdb075-fe95-4186-9487-52c2a9e591ed,Gas Turbine (can only burn gas),21839080,07BCSTCB-U02 Unit,_1e3d08d2-143e-43c3-a3c1-d351800cb9f5,ThermalGeneratingUnit
+_41bc5411-b681-4a86-b630-8dd0a6d03945,Gas Turbine (can only burn gas),21839118,07BCSTCB-U03 Unit,_1e3d08d2-143e-43c3-a3c1-d351800cb9f5,ThermalGeneratingUnit
+_c1e12a3d-d66f-4142-bc99-0eff68d4e7a8,Gas Turbine (can only burn gas),21839154,07BCSTCB-U07 Unit,_1e3d08d2-143e-43c3-a3c1-d351800cb9f5,ThermalGeneratingUnit
+_68cc2308-fe6a-4fad-96d4-c84236281a82,Gas Turbine (can only burn gas),21839187,07BCSTCB-U08 Unit,_1e3d08d2-143e-43c3-a3c1-d351800cb9f5,ThermalGeneratingUnit
+_89242632-46dc-468e-92fc-d7f6704aa800,Gas Turbine (can only burn gas),21839220,07BCSTCB-U09 Unit,_1e3d08d2-143e-43c3-a3c1-d351800cb9f5,ThermalGeneratingUnit
+_5A2135D2-81AF-4410-83DD-3A4C24C3BEDA,Gas Turbine (can only burn gas),38004810,07BCSPUP-U06 Unit,_0b6c0a0e-f10d-4d26-8e79-0d6716a3a54f,ThermalGeneratingUnit
+_926540DC-7772-4E64-8654-357B0245F1C5,Gas Turbine (can only burn gas),38004832,07BCSPUP-U07 Unit,_0b6c0a0e-f10d-4d26-8e79-0d6716a3a54f,ThermalGeneratingUnit
+_96F804B6-7724-49B6-B463-AE449ED09520,Gas Turbine (can only burn gas),38005088,07BCSBCU-U06 Unit,_8dee4301-b423-43f0-ad1c-5e627a7063b1,ThermalGeneratingUnit
+_0A204315-4FF2-41BA-BB38-EA5680C0EE6C,Gas Turbine (can only burn gas),38005119,07BCSBCU-U07 Unit,_8dee4301-b423-43f0-ad1c-5e627a7063b1,ThermalGeneratingUnit
+_3C790067-D15B-42A2-B5AA-7510D73C5C5A,Gas Turbine (can only burn gas),38005149,07BCSBCU-U08 Unit,_8dee4301-b423-43f0-ad1c-5e627a7063b1,ThermalGeneratingUnit
+_1932E2F8-E5D5-4F23-8B30-F57221E130FA,Gas Turbine (can only burn gas),38005179,07BCSBCU-U09 Unit,_8dee4301-b423-43f0-ad1c-5e627a7063b1,ThermalGeneratingUnit
+_480A2504-841B-4C47-BEED-BD24A7EAACC4,Gas Turbine (can only burn gas),38376910,07BCSTCB-U04 Unit,_1e3d08d2-143e-43c3-a3c1-d351800cb9f5,ThermalGeneratingUnit
+_FCFA2668-7D65-4BCA-9A04-6BD84E848ED7,Gas Turbine (can only burn gas),40572328,07   GCV-U03 Unit,_A11E5C1A-12D6-4064-9A57-88BBE293B091,ThermalGeneratingUnit
+_1AFB5C1C-360A-4721-A807-02E7ABEE704D,Gas Turbine (can only burn gas),40668237,07   MKR-U01 Unit,_DA4AF8FD-1978-443D-816C-C477DF2B9071,ThermalGeneratingUnit
+_23359674-5053-4BB8-B35D-D8435A7E5075,Gas Turbine (can only burn gas),40677207,07   TUG-U01 Unit,_5B7E52B1-00B1-4BD5-8607-5106310A063B,ThermalGeneratingUnit
+_7EC4E828-C128-47FB-B9D7-11DDA2B4B6DD,Gas Turbine (can only burn gas),40921478,07   LBM-U02 Unit,_0766f293-f9d6-4e3c-b88a-3c273baf1adc,ThermalGeneratingUnit
+_2961F076-E50D-4D6A-9581-BF705E7F5BA7,Gas Turbine (can only burn gas),40934223,07   PCE-U01 Unit,_18E71246-5EA7-462C-B4B3-CDA97A864721,ThermalGeneratingUnit
+_B5FE9C0E-3410-4B6B-999B-DE6002514A41,Gas Turbine (can only burn gas),41121517,07   PHE-U01 Unit,_1ED7449E-FCC0-4AB0-A633-F48F9A7F1FDE,ThermalGeneratingUnit
+_6B82D16E-1427-407E-8A48-A482FC3F81EA,Gas Turbine (can only burn gas),41475300,07   MCT-U12 Unit,_423CE809-7910-4602-95C3-CA2D5893B413,ThermalGeneratingUnit
+_DC43F725-A7FC-42EA-BA8A-BAEDDAEC5849,Gas Turbine (can only burn gas),41475320,07   MCT-U15 Unit,_423CE809-7910-4602-95C3-CA2D5893B413,ThermalGeneratingUnit
+_1AE507BA-57FA-41D5-AFE3-1E6225856A72,Gas Turbine (can only burn gas),41498976,07   MCC-U01 Unit,_8354DE5E-0A7A-4878-8E7F-2ABC648E13FA,ThermalGeneratingUnit
+_FED310D7-DACF-45F7-9D05-AFF82E888A08,Gas Turbine (can only burn gas),41498996,07   MCC-U14 Unit,_8354DE5E-0A7A-4878-8E7F-2ABC648E13FA,ThermalGeneratingUnit
+_52A82F8F-0D1B-4FAF-BDF0-B15029F53CF3,Gas Turbine (can only burn gas),41587035,07   CMJ-U01 Unit,_63C2D32A-0CA8-4D51-B9AB-65AFFBFFD7BF,ThermalGeneratingUnit
+_80F16208-F6D9-44D5-8EE9-00037BCFA263,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",43404082,02PZM-U2 Unit,_63c68929-dcb8-45ac-b56b-92a97e2eba5e,ThermalGeneratingUnit
+_C7D314D2-E3EC-4D81-9051-8A3330335B12,Gas Turbine (can only burn gas),43934897,06CLR-U1 Unit,_E16F6BE7-106C-4889-A291-05E9A7ED96CE,ThermalGeneratingUnit
+_2398097c-0943-407e-8bcc-13de668ed03a,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",44464233,05EEN-PTA Unit,_c2824d68-c10f-4cdf-972d-fdd6c8574922,ThermalGeneratingUnit
+_82ADB12E-E9C0-420B-879F-34FFAC71157A,Gas Turbine (can only burn gas),44887402,08CHB-U3 Unit,_b2d9afc1-aa97-4ee2-a601-6d26584b5380,ThermalGeneratingUnit
+_AA6742E1-80D9-4B1B-949F-059491CDC549,Gas Turbine (can only burn gas),45161555,07BCSPXL-U01 Unit,_6c6edaaf-1ce4-42ed-8f33-7153fd7137cd,ThermalGeneratingUnit
+_9CD0420D-0D4C-435A-AE4E-1DAECBA3A510,Gas Turbine (can only burn gas),45163242,07BCSSEQ-U01 Unit,_6c6edaaf-1ce4-42ed-8f33-7153fd7137cd,ThermalGeneratingUnit
+_670C5120-636E-4DC6-8AB5-682B26AE8E26,Gas Turbine (can only burn gas),45165926,07BCSDLT-U01 Unit,_6c6edaaf-1ce4-42ed-8f33-7153fd7137cd,ThermalGeneratingUnit
+_155BFA79-3417-4687-A03F-D5578092CCC8,Gas Turbine (can only burn gas),45165928,07BCSSRE-U01 Unit,_6c6edaaf-1ce4-42ed-8f33-7153fd7137cd,ThermalGeneratingUnit
+_0CB48013-5571-45D7-AD9C-1BE634BD715A,Gas Turbine (can only burn gas),45166199,07BCSVGF-U01 Unit,_6c6edaaf-1ce4-42ed-8f33-7153fd7137cd,ThermalGeneratingUnit
+_BAB580B4-FC8F-4A8F-99B3-08A13B785B2B,Gas Turbine (can only burn gas),45242997,07BCSPCH-U01 Unit,_46617B6A-AFF8-44AB-8740-345274F0A50B,ThermalGeneratingUnit
+_E138F494-2FA5-4CDB-845F-E3596981263A,Gas Turbine (can only burn gas),45243020,07BCSPCH-U02 Unit,_46617B6A-AFF8-44AB-8740-345274F0A50B,ThermalGeneratingUnit
+_680B16FC-E43A-4ECE-8FF6-7FBDF3EF86FC,Gas Turbine (can only burn gas),45243022,07BCSPCH-U03 Unit,_46617B6A-AFF8-44AB-8740-345274F0A50B,ThermalGeneratingUnit
+_A6EE656F-20ED-4A00-B12D-17B7453F7D88,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",45341879,03ITA-U1 Unit,_2CE46DCC-380F-4428-94F5-BEAE451414E7,ThermalGeneratingUnit
+_439c90f3-1f2e-4fbd-8939-b3ddceaca245,Combined Cycle Logical Unit (NA Flag should be false),45381144,03ELP-PTA Unit,_b16b66aa-9dc0-4cd9-b95c-555f5677c6ed,ThermalGeneratingUnit
+_5b329223-caee-404e-b08b-55f0b13dcb72,Gas Turbine (can only burn gas),45381211,03ELP-U1 Unit,_b16b66aa-9dc0-4cd9-b95c-555f5677c6ed,ThermalGeneratingUnit
+_1b542ab6-674b-47d2-b947-2d9ab61de011,Gas Turbine (can only burn gas),45381238,03ELP-U2 Unit,_b16b66aa-9dc0-4cd9-b95c-555f5677c6ed,ThermalGeneratingUnit
+_0a2cb182-98f2-4b03-9bad-cc2ea430f23e,Combined Cycle Logical Unit (NA Flag should be false),45438990,02LRP-PTA Unit,_2e6e5769-4cf2-4408-b163-70864cd03149,ThermalGeneratingUnit
+_f5dbb83d-3a56-40cc-96e6-52cfcf2582d4,Gas Turbine (can only burn gas),45439055,02LRP-U3 Unit,_2e6e5769-4cf2-4408-b163-70864cd03149,ThermalGeneratingUnit
+_638cde5c-2344-4dcd-88c7-3059b7ab12dc,Gas Turbine (can only burn gas),45439082,02LRP-U4 Unit,_2e6e5769-4cf2-4408-b163-70864cd03149,ThermalGeneratingUnit
+_1449c65b-266e-41b8-81a9-5a3c7c8fea7f,Fossil Fired Steam,45439109,02LRP-U5 Unit,_2e6e5769-4cf2-4408-b163-70864cd03149,ThermalGeneratingUnit
+_F43C70E5-4E8A-4FAA-BCC7-6FA9086A8ED8,Gas Turbine (can only burn gas),46847487,07   TUG-U02 Unit,_5B7E52B1-00B1-4BD5-8607-5106310A063B,ThermalGeneratingUnit
+_89B13132-1C93-4A30-9B33-68DC9D212B49,Gas Turbine (can only burn gas),46847753,07   GCE-U01 Unit,_56F79713-8113-41DB-A44B-0F531A950BA8,ThermalGeneratingUnit
+_91148355-EB66-41AB-8FC1-590C42BC0A0D,Gas Turbine (can only burn gas),47148067,07   TUO-U01 Unit,_1D0A6451-29A1-40E6-8BD1-A93FA9A40A6F,ThermalGeneratingUnit
+_8AAF9E90-7CBB-4170-8075-72DC075FEFCA,Gas Turbine (can only burn gas),47290381,07   HAS-U07 CHUKAR Unit,_e8b28618-11e4-4fd4-bf4b-77be2ac730a6,ThermalGeneratingUnit
+_277D96C9-9DEA-49B4-86BF-ADC38215FE91,Gas Turbine (can only burn gas),47311816,07   HAS-U08 ARLSOLAR Unit,_e8b28618-11e4-4fd4-bf4b-77be2ac730a6,ThermalGeneratingUnit
+_0C8D4C4E-7748-49C0-966C-69E7794A5A6C,Gas Turbine (can only burn gas),47321492,01OTZ-U1 Unit,_1B36DFBD-DDA3-42CC-ABB3-ED22CD0F50FD,ThermalGeneratingUnit
+_DCB475D3-AA65-417C-8C86-9827D8659A76,Gas Turbine (can only burn gas),47469261,07BCSTCB-U06 Unit,_1e3d08d2-143e-43c3-a3c1-d351800cb9f5,ThermalGeneratingUnit
+_51285C1B-633C-459F-B688-D6510A08D358,Gas Turbine (can only burn gas),47571973,07   ENC-U01 Unit,_2ded4633-ef7d-476e-a9ca-307519a6810a,ThermalGeneratingUnit
+_FD7AD3DA-D852-4BA4-874E-FBAB7A7BDEC6,Gas Turbine (can only burn gas),48341462,07BCSEVG-U01 Unit,_6c6edaaf-1ce4-42ed-8f33-7153fd7137cd,ThermalGeneratingUnit
+_FFC4466A-620E-4475-8C42-7161FB6F0494,Combined Cycle Logical Unit (NA Flag should be false),48351420,06CDU-PTA Unit,_3848B5B5-3F59-43CC-B161-1471198508A0,ThermalGeneratingUnit
+_D012A1C5-C81D-4D1C-8A52-8294567C6802,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",48608252,04UEN-U3 Unit,_f3f0ad77-c729-49a8-adf1-79a1265eb276,ThermalGeneratingUnit
+_BB08CCCE-18E7-4E47-A994-2C870544746D,"Combustion Turbine (can burn liquid fuels as well as gas, e.g., oil, jet fuel etc.)",48608253,04UEN-U4 Unit,_f3f0ad77-c729-49a8-adf1-79a1265eb276,ThermalGeneratingUnit
+_95645CA6-C448-4655-AF17-4B0C1732688A,Gas Turbine (can only burn gas),48849913,07   PND-U01 Unit,_143AC6FA-23AF-4B1C-9FE9-2844ED3A8EA5,ThermalGeneratingUnit
+_F1A8245D-3E7C-46DC-873A-2B979ED16D22,Gas Turbine (can only burn gas),48852899,07   PND-U02 Unit,_143AC6FA-23AF-4B1C-9FE9-2844ED3A8EA5,ThermalGeneratingUnit
+_FFD1775A-3E62-4BC9-AD88-A10BEA771F79,Gas Turbine (can only burn gas),48854408,07   PND-U03 Unit,_143AC6FA-23AF-4B1C-9FE9-2844ED3A8EA5,ThermalGeneratingUnit
+_9204C88E-5843-4B63-A921-80CA649C0E92,Gas Turbine (can only burn gas),48854474,07   PND-U04 Unit,_143AC6FA-23AF-4B1C-9FE9-2844ED3A8EA5,ThermalGeneratingUnit
+_152320A1-68E6-4D7D-8515-CCEEF93A3533,Gas Turbine (can only burn gas),48886163,07   MCI-U01 Unit,_53AF7652-B147-41AD-9C61-2513F3A305C7,ThermalGeneratingUnit
+_A57DACF6-1BCC-4B6C-AC75-1D3C54F6B47E,Gas Turbine (can only burn gas),48887023,07   MCI-U02 Unit,_53AF7652-B147-41AD-9C61-2513F3A305C7,ThermalGeneratingUnit
+_2E8319E7-CE15-4E74-AA06-30AE9067D888,Gas Turbine (can only burn gas),48887875,07   MCI-U03 Unit,_53AF7652-B147-41AD-9C61-2513F3A305C7,ThermalGeneratingUnit
+_99901EF8-0B02-4379-8D08-80EDF7689AAD,Gas Turbine (can only burn gas),48888462,07   MCI-U04 Unit,_53AF7652-B147-41AD-9C61-2513F3A305C7,ThermalGeneratingUnit
+_BB62351A-9CF1-48A8-BB91-D93BBE8B24A3,Gas Turbine (can only burn gas),48895733,07   MCI-U05 Unit,_53AF7652-B147-41AD-9C61-2513F3A305C7,ThermalGeneratingUnit
+_B657D379-EC26-4DAB-82F8-EE09A500E6F9,Gas Turbine (can only burn gas),48895782,07   MCI-U06 Unit,_53AF7652-B147-41AD-9C61-2513F3A305C7,ThermalGeneratingUnit
+_F4C4C254-1D68-44FF-BCC4-152FF6370445,Gas Turbine (can only burn gas),48895828,07   MCI-U07 Unit,_53AF7652-B147-41AD-9C61-2513F3A305C7,ThermalGeneratingUnit
+_5C27A195-1769-4ACE-93FE-6E1CC9162794,Gas Turbine (can only burn gas),48895873,07   MCI-U08 Unit,_53AF7652-B147-41AD-9C61-2513F3A305C7,ThermalGeneratingUnit
+_25DCE077-B028-4670-A5E8-C66591A296E2,Gas Turbine (can only burn gas),50366690,07   GGR-U01 Unit,_5A1920E7-6A82-4AA5-A7E5-B35DCB2BB233,ThermalGeneratingUnit
+_FD8920DF-C517-4660-A802-4F39AC23BA44,Gas Turbine (can only burn gas),50949763,07BCSCRE-U01 Unit,_C38E9D38-D820-4442-A8E9-2F0BC9D78A2B,ThermalGeneratingUnit
+_C369854E-84D7-412D-B174-0C2CAEC1FB8E,Gas Turbine (can only burn gas),51018041,07BCSTCB-U10 Unit,_1e3d08d2-143e-43c3-a3c1-d351800cb9f5,ThermalGeneratingUnit
+_EDC8AFBC-29A4-4B29-B0A0-6B8CD71A4C66,Combined Cycle Logical Unit (NA Flag should be false),51425060,03SAU-CC4,_681E78DD-A664-4EEF-BCFF-B2F280EBD965,ThermalGeneratingUnit
+_F671A287-0008-41F2-9927-128BDB60D250,Gas Turbine (can only burn gas),51425132,03SAU-U10 Unit,_681E78DD-A664-4EEF-BCFF-B2F280EBD965,ThermalGeneratingUnit
+_27F543FF-CE98-4DAC-B333-C24A11A57D58,Gas Turbine (can only burn gas),51425164,03SAU-U11 Unit,_681E78DD-A664-4EEF-BCFF-B2F280EBD965,ThermalGeneratingUnit
+_322AFB23-E9FA-44D9-85BE-CDE8DE0C5FA9,Combined Cycle Logical Unit (NA Flag should be false),51507821,03VDR-PTA Unit,_48D2878F-619B-4F0A-9675-34D5E8E1E2BF,ThermalGeneratingUnit
+_599C24E2-F006-4E56-A61C-616DCEDBC222,Fossil Fired Steam,51507893,03VDR-U6 Unit,_48D2878F-619B-4F0A-9675-34D5E8E1E2BF,ThermalGeneratingUnit
+_7CD39A8B-4C71-48BC-B42D-41ACC89FB27D,Gas Turbine (can only burn gas),51507925,03VDR-U7 Unit,_48D2878F-619B-4F0A-9675-34D5E8E1E2BF,ThermalGeneratingUnit
+_A07AF675-B772-4ECD-89B6-5A8698A38D8E,Combined Cycle Logical Unit (NA Flag should be false),52061565,03SLM-PTA Unit,_25B67D49-C423-4805-AFD9-30389D84D9C5,ThermalGeneratingUnit
+_86334D94-309C-4A7C-8947-3316071FE25D,Fossil Fired Steam,52061638,03SLM-U13 Unit,_25B67D49-C423-4805-AFD9-30389D84D9C5,ThermalGeneratingUnit
+_924C7C9A-0744-47A9-BECD-63EA11A61848,Gas Turbine (can only burn gas),52061670,03SLM-U12 Unit,_25B67D49-C423-4805-AFD9-30389D84D9C5,ThermalGeneratingUnit
+_00BB6832-05FF-4EDB-AA4C-872EC448FD85,Gas Turbine (can only burn gas),52061702,03SLM-U11 Unit,_25B67D49-C423-4805-AFD9-30389D84D9C5,ThermalGeneratingUnit

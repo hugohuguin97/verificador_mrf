@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resource xmlns="http://www.wxwidgets.org/wxxrc" version="2.5.3.0">
+  <object class="wxFrame" name="MainF">
+    <style>wxDEFAULT_FRAME_STYLE|wxTAB_TRAVERSAL</style>
+    <title>Validaciones USO</title>
+    <centered>1</centered>
+    <aui_managed>0</aui_managed>
+    <object class="wxBoxSizer" name="Sizer0">
+      <orient>wxVERTICAL</orient>
+      <object class="sizeritem">
+        <flag>wxEXPAND</flag>
+        <border>5</border>
+        <option>1</option>
+        <object class="wxNotebook" name="main_notebook1">
+          <object class="notebookpage">
+            <label>MAGE</label>
+            <selected>0</selected>
+            <object class="wxPanel" name="MAGE_panel">
+              <style>wxTAB_TRAVERSAL</style>
+              <object class="wxBoxSizer" name="MAGEmSizer">
+                <orient>wxHORIZONTAL</orient>
+                <object class="sizeritem">
+                  <flag>wxEXPAND</flag>
+                  <border>5</border>
+                  <option>1</option>
+                  <object class="wxBoxSizer" name="Param_Sizer">
+                    <orient>wxVERTICAL</orient>
+                    <object class="sizeritem">
+                      <flag>wxALL|wxALIGN_CENTER_HORIZONTAL</flag>
+                      <border>5</border>
+                      <option>0</option>
+                      <object class="wxStaticBitmap" name="logo_cen1">
+                        <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\CENACE-logo-completo.png</bitmap>
+                      </object>
+                    </object>
+                    <object class="sizeritem">
+                      <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                      <border>5</border>
+                      <option>0</option>
+                      <object class="wxStaticBoxSizer" name="path_insumosSizer">
+                        <orient>wxVERTICAL</orient>
+                        <label>Seleccionar insumos</label>
+                        <object class="sizeritem">
+                          <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                          <border>5</border>
+                          <option>0</option>
+                          <object class="wxDirPickerCtrl" name="MAGE_pathSel">
+                            <style>wxDIRP_DEFAULT_STYLE|wxDIRP_DIR_MUST_EXIST</style>
+                            <value>Seleccinar carpeta de MAGE</value>
+                            <message>Seleccionar carpeta</message>
+                          </object>
+                        </object>
+                        <object class="sizeritem">
+                          <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                          <border>0</border>
+                          <option>0</option>
+                          <object class="wxButton" name="bto_preprocesar_archivos">
+                            <label>Procesar Archivos</label>
+                            <default>0</default>
+                            <auth_needed>0</auth_needed>
+                            <markup>0</markup>
+                            <bitmap/>
+                          </object>
+                        </object>
+                      </object>
+                    </object>
+                    <object class="sizeritem">
+                      <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                      <border>5</border>
+                      <option>1</option>
+                      <object class="wxStaticBoxSizer" name="Ceck_Sizer">
+                        <minsize>240,140</minsize>
+                        <orient>wxVERTICAL</orient>
+                        <label>Lista de Validaciones</label>
+                        <object class="sizeritem">
+                          <flag>wxEXPAND</flag>
+                          <border>5</border>
+                          <option>1</option>
+                          <object class="wxBoxSizer" name="Val_Sizer">
+                            <orient>wxVERTICAL</orient>
+                            <object class="sizeritem">
+                              <flag>wxALL|wxEXPAND</flag>
+                              <border>5</border>
+                              <option>0</option>
+                              <object class="wxCheckBox" name="Maestro_checkBox">
+                                <label>Hacer todas las validaciones</label>
+                                <checked>0</checked>
+                              </object>
+                            </object>
+                            <object class="sizeritem">
+                              <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                              <border>5</border>
+                              <option>5</option>
+                              <object class="wxBoxSizer" name="List_Sizer">
+                                <orient>wxHORIZONTAL</orient>
+                                <object class="sizeritem">
+                                  <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                  <border>0</border>
+                                  <option>1</option>
+                                  <object class="wxCheckListBox" name="Val_checkBoxList">
+                                    <content/>
+                                  </object>
+                                </object>
+                                <object class="sizeritem">
+                                  <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                  <border>0</border>
+                                  <option>1</option>
+                                  <object class="wxTextCtrl" name="ValDesc_textCtrl">
+                                    <style>wxTE_MULTILINE|wxTE_READONLY</style>
+                                    <value></value>
+                                  </object>
+                                </object>
+                              </object>
+                            </object>
+                            <object class="sizeritem">
+                              <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                              <border>0</border>
+                              <option>0</option>
+                              <object class="wxButton" name="bto_verificar_mage">
+                                <label>Realizar validaciones</label>
+                                <default>0</default>
+                                <auth_needed>0</auth_needed>
+                                <markup>0</markup>
+                                <bitmap/>
+                              </object>
+                            </object>
+                            <object class="sizeritem">
+                              <flag>wxEXPAND</flag>
+                              <border>5</border>
+                              <option>1</option>
+                              <object class="wxBoxSizer" name="Report_Sizer">
+                                <orient>wxHORIZONTAL</orient>
+                                <object class="sizeritem">
+                                  <flag>wxALL</flag>
+                                  <border>5</border>
+                                  <option>0</option>
+                                  <object class="wxCheckBox" name="Export_checkBox">
+                                    <label>Exportar reporte</label>
+                                    <checked>0</checked>
+                                  </object>
+                                </object>
+                                <object class="sizeritem">
+                                  <flag>wxALL|wxLEFT</flag>
+                                  <border>5</border>
+                                  <option>3</option>
+                                  <object class="wxButton" name="Export_button">
+                                    <label>Exportar archivo</label>
+                                    <default>0</default>
+                                    <auth_needed>0</auth_needed>
+                                    <markup>0</markup>
+                                    <bitmap/>
+                                  </object>
+                                </object>
+                              </object>
+                            </object>
+                          </object>
+                        </object>
+                      </object>
+                    </object>
+                  </object>
+                </object>
+                <object class="sizeritem">
+                  <flag>wxEXPAND</flag>
+                  <border>5</border>
+                  <option>1</option>
+                  <object class="wxBoxSizer" name="Logger_Sizer">
+                    <orient>wxVERTICAL</orient>
+                    <object class="sizeritem">
+                      <flag>wxALL|wxEXPAND</flag>
+                      <border>5</border>
+                      <option>1</option>
+                      <object class="wxTextCtrl" name="mage_log_textCtrl">
+                        <style>wxHSCROLL|wxTE_MULTILINE|wxTE_READONLY</style>
+                        <value></value>
+                      </object>
+                    </object>
+                  </object>
+                </object>
+              </object>
+            </object>
+          </object>
+          <object class="notebookpage">
+            <label>XML</label>
+            <selected>0</selected>
+            <object class="wxPanel" name="XML_panel">
+              <style>wxTAB_TRAVERSAL</style>
+              <object class="wxBoxSizer" name="XMLmSizer1">
+                <orient>wxHORIZONTAL</orient>
+                <object class="sizeritem">
+                  <flag>wxEXPAND</flag>
+                  <border>5</border>
+                  <option>1</option>
+                  <object class="wxBoxSizer" name="Param_Sizer1">
+                    <orient>wxVERTICAL</orient>
+                    <object class="sizeritem">
+                      <flag>wxALL|wxALIGN_CENTER_HORIZONTAL</flag>
+                      <border>5</border>
+                      <option>0</option>
+                      <object class="wxStaticBitmap" name="logo_cen2">
+                        <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\CENACE-logo-completo.png</bitmap>
+                      </object>
+                    </object>
+                    <object class="sizeritem">
+                      <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                      <border>5</border>
+                      <option>0</option>
+                      <object class="wxStaticBoxSizer" name="Data_Sizer1">
+                        <orient>wxVERTICAL</orient>
+                        <label>Seleccionar insumos</label>
+                        <object class="sizeritem">
+                          <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                          <border>5</border>
+                          <option>0</option>
+                          <object class="wxDirPickerCtrl" name="XML_pathSel">
+                            <style>wxDIRP_DEFAULT_STYLE|wxDIRP_DIR_MUST_EXIST|wxDIRP_USE_TEXTCTRL</style>
+                            <value>Seleccionar directorio de XML</value>
+                            <message>Seleccionar carpeta</message>
+                          </object>
+                        </object>
+                        <object class="sizeritem">
+                          <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                          <border>5</border>
+                          <option>0</option>
+                          <object class="wxDirPickerCtrl" name="Data_athSelect1">
+                            <style>wxDIRP_DEFAULT_STYLE|wxDIRP_DIR_MUST_EXIST</style>
+                            <value>Seleccioanr directorio de insumos</value>
+                            <message>Seleccionar carpeta</message>
+                          </object>
+                        </object>
+                      </object>
+                    </object>
+                    <object class="sizeritem">
+                      <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                      <border>5</border>
+                      <option>1</option>
+                      <object class="wxStaticBoxSizer" name="Ceck_Sizer1">
+                        <minsize>240,140</minsize>
+                        <orient>wxHORIZONTAL</orient>
+                        <label>Establecer fecha y hora</label>
+                        <object class="sizeritem">
+                          <flag>wxEXPAND</flag>
+                          <border>5</border>
+                          <option>0</option>
+                          <object class="wxBoxSizer" name="bSizer38">
+                            <orient>wxVERTICAL</orient>
+                            <object class="sizeritem">
+                              <flag>wxALL</flag>
+                              <border>5</border>
+                              <option>0</option>
+                              <object class="wxStaticText" name="start_time_sText">
+                                <label>Hora inicial</label>
+                                <wrap>-1</wrap>
+                              </object>
+                            </object>
+                            <object class="sizeritem">
+                              <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                              <border>5</border>
+                              <option>0</option>
+                              <object class="wxTimePickerCtrl" name="start_tPicker">
+                                <style>wxTP_DEFAULT</style>
+                              </object>
+                            </object>
+                            <object class="sizeritem">
+                              <flag>wxALL</flag>
+                              <border>5</border>
+                              <option>0</option>
+                              <object class="wxStaticText" name="end_time_sText">
+                                <label>Hora final</label>
+                                <wrap>-1</wrap>
+                              </object>
+                            </object>
+                            <object class="sizeritem">
+                              <flag>wxALL|wxEXPAND|wxRIGHT</flag>
+                              <border>5</border>
+                              <option>0</option>
+                              <object class="wxTimePickerCtrl" name="end_tPicker">
+                                <style>wxTP_DEFAULT</style>
+                              </object>
+                            </object>
+                            <object class="sizeritem">
+                              <flag>wxEXPAND</flag>
+                              <border>5</border>
+                              <option>1</option>
+                              <object class="wxBoxSizer" name="bSizer39">
+                                <orient>wxVERTICAL</orient>
+                                <object class="sizeritem">
+                                  <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                  <border>5</border>
+                                  <option>1</option>
+                                  <object class="wxCalendarCtrl" name="Date_calendar">
+                                    <style>wxCAL_MONDAY_FIRST|wxCAL_SEQUENTIAL_MONTH_SELECTION|wxCAL_SHOW_HOLIDAYS|wxCAL_SHOW_SURROUNDING_WEEKS</style>
+                                  </object>
+                                </object>
+                              </object>
+                            </object>
+                          </object>
+                        </object>
+                        <object class="sizeritem">
+                          <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                          <border>5</border>
+                          <option>1</option>
+                          <object class="wxListCtrl" name="XML_ListCtrl">
+                            <style>wxLC_ALIGN_LEFT|wxLC_REPORT</style>
+                          </object>
+                        </object>
+                      </object>
+                    </object>
+                    <object class="sizeritem">
+                      <flag>wxEXPAND</flag>
+                      <border>5</border>
+                      <option>1</option>
+                      <object class="wxBoxSizer" name="Logger_Sizer1">
+                        <orient>wxVERTICAL</orient>
+                        <object class="sizeritem">
+                          <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                          <border>5</border>
+                          <option>0</option>
+                          <object class="wxButton" name="bto_verificar_xml">
+                            <label>Verificar</label>
+                            <default>0</default>
+                            <auth_needed>0</auth_needed>
+                            <markup>0</markup>
+                            <bitmap/>
+                          </object>
+                        </object>
+                        <object class="sizeritem">
+                          <flag>wxALL|wxEXPAND</flag>
+                          <border>5</border>
+                          <option>1</option>
+                          <object class="wxTextCtrl" name="xml_log_textCtrl">
+                            <style>wxHSCROLL|wxTE_MULTILINE|wxTE_READONLY</style>
+                            <value></value>
+                          </object>
+                        </object>
+                      </object>
+                    </object>
+                  </object>
+                </object>
+                <object class="sizeritem">
+                  <flag>wxEXPAND</flag>
+                  <border>5</border>
+                  <option>1</option>
+                  <object class="wxBoxSizer" name="XML_viewer_sizer">
+                    <orient>wxVERTICAL</orient>
+                    <object class="sizeritem">
+                      <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                      <border>5</border>
+                      <option>0</option>
+                      <object class="wxBoxSizer" name="Count_Sizer">
+                        <orient>wxHORIZONTAL</orient>
+                        <object class="sizeritem">
+                          <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                          <border>5</border>
+                          <option>1</option>
+                          <object class="wxStaticBoxSizer" name="Search_BSizer">
+                            <orient>wxHORIZONTAL</orient>
+                            <label>Elementos de busqueda</label>
+                            <object class="sizeritem">
+                              <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                              <border>5</border>
+                              <option>1</option>
+                              <object class="wxSearchCtrl" name="XML_searchCtrl">
+                                <size>200,-1</size>
+                                <value></value>
+                              </object>
+                            </object>
+                            <object class="sizeritem">
+                              <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                              <border>5</border>
+                              <option>0</option>
+                              <object class="wxTextCtrl" name="search_textCtrl">
+                                <size>150,-1</size>
+                                <style>wxTE_READONLY</style>
+                                <value></value>
+                              </object>
+                            </object>
+                          </object>
+                        </object>
+                        <object class="sizeritem">
+                          <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                          <border>5</border>
+                          <option>0</option>
+                          <object class="wxStaticBoxSizer" name="Verif_BSizer">
+                            <orient>wxHORIZONTAL</orient>
+                            <label>Elementos de validaciones</label>
+                            <object class="sizeritem">
+                              <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                              <border>5</border>
+                              <option>0</option>
+                              <object class="wxComboBox" name="verif_cBox">
+                                <value>Validaciones</value>
+                                <content/>
+                              </object>
+                            </object>
+                            <object class="sizeritem">
+                              <flag>wxALL</flag>
+                              <border>5</border>
+                              <option>0</option>
+                              <object class="wxTextCtrl" name="verif_textCtrl">
+                                <size>150,-1</size>
+                                <style>wxTE_READONLY</style>
+                                <value></value>
+                              </object>
+                            </object>
+                          </object>
+                        </object>
+                      </object>
+                    </object>
+                    <object class="sizeritem">
+                      <flag>wxEXPAND | wxALL</flag>
+                      <border>5</border>
+                      <option>1</option>
+                      <object class="unknown" name="XML_TextCtrl"/>
+                    </object>
+                  </object>
+                </object>
+              </object>
+            </object>
+          </object>
+          <object class="notebookpage">
+            <label>RAW</label>
+            <selected>1</selected>
+            <object class="wxPanel" name="RAW_panel">
+              <style>wxTAB_TRAVERSAL</style>
+              <object class="wxBoxSizer" name="RAWmSizer">
+                <orient>wxHORIZONTAL</orient>
+                <object class="sizeritem">
+                  <flag>wxEXPAND</flag>
+                  <border>5</border>
+                  <option>1</option>
+                  <object class="wxNotebook" name="RAW_nb">
+                    <object class="notebookpage">
+                      <label>Comparación</label>
+                      <selected>0</selected>
+                      <object class="wxPanel" name="RAWParameters_Panel">
+                        <style>wxTAB_TRAVERSAL</style>
+                        <bg>#ffffff</bg>
+                        <font>
+                          <style>normal</style>
+                          <weight>normal</weight>
+                          <family>default</family>
+                          <underlined>0</underlined>
+                        </font>
+                        <object class="wxBoxSizer" name="RAWParam_Sizer">
+                          <orient>wxHORIZONTAL</orient>
+                          <object class="sizeritem">
+                            <flag>wxEXPAND</flag>
+                            <border>5</border>
+                            <option>1</option>
+                            <object class="wxBoxSizer" name="RAWParam_Sizer1">
+                              <orient>wxVERTICAL</orient>
+                              <object class="sizeritem">
+                                <flag>wxALL|wxALIGN_CENTER_HORIZONTAL</flag>
+                                <border>5</border>
+                                <option>0</option>
+                                <object class="wxStaticBitmap" name="logo_cen3">
+                                  <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\CENACE-logo-completo.png</bitmap>
+                                </object>
+                              </object>
+                              <object class="sizeritem">
+                                <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                <border>5</border>
+                                <option>0</option>
+                                <object class="wxStaticBoxSizer" name="Data_Sizer112">
+                                  <orient>wxHORIZONTAL</orient>
+                                  <label>Parámetros de control</label>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>10</border>
+                                    <option>1</option>
+                                    <object class="wxCheckListBox" name="_sistema">
+                                      <style>wxLB_SINGLE|wxBORDER_NONE</style>
+                                      <font>
+                                        <style>normal</style>
+                                        <weight>normal</weight>
+                                        <family>default</family>
+                                        <underlined>0</underlined>
+                                      </font>
+                                      <content>
+                                        <item>SIN</item>
+                                        <item>BCA</item>
+                                        <item>BCS</item>
+                                      </content>
+                                    </object>
+                                  </object>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>5</border>
+                                    <option>1</option>
+                                    <object class="wxCheckListBox" name="analisis">
+                                      <style>wxBORDER_NONE</style>
+                                      <font>
+                                        <style>normal</style>
+                                        <weight>normal</weight>
+                                        <family>default</family>
+                                        <underlined>0</underlined>
+                                      </font>
+                                      <content>
+                                        <item>Seleccionar ultimo RAW de SP7</item>
+                                        <item>Seleccionar ultimo RAW de ABB</item>
+                                        <item>Seleccionar RAW</item>
+                                      </content>
+                                    </object>
+                                  </object>
+                                </object>
+                              </object>
+                              <object class="sizeritem">
+                                <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                <border>5</border>
+                                <option>0</option>
+                                <object class="wxStaticBoxSizer" name="Data_Sizer11">
+                                  <orient>wxVERTICAL</orient>
+                                  <label>Seleccionar RAW 1</label>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>5</border>
+                                    <option>1</option>
+                                    <object class="wxDirPickerCtrl" name="RAW_pathSel1">
+                                      <style>wxDIRP_DEFAULT_STYLE|wxDIRP_DIR_MUST_EXIST</style>
+                                      <value></value>
+                                      <message>Seleccionar carpeta</message>
+                                    </object>
+                                  </object>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>5</border>
+                                    <option>1</option>
+                                    <object class="wxCheckBox" name="m_checkBox9">
+                                      <label>El RAW es de ABB</label>
+                                      <checked>0</checked>
+                                    </object>
+                                  </object>
+                                </object>
+                              </object>
+                              <object class="sizeritem">
+                                <flag>wxALL|wxEXPAND</flag>
+                                <border>5</border>
+                                <option>0</option>
+                                <object class="wxStaticBoxSizer" name="Data_Sizer111">
+                                  <orient>wxVERTICAL</orient>
+                                  <label>Seleccionar RAW 2</label>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>5</border>
+                                    <option>1</option>
+                                    <object class="wxDirPickerCtrl" name="RAW_pathSel2">
+                                      <style>wxDIRP_DEFAULT_STYLE|wxDIRP_DIR_MUST_EXIST</style>
+                                      <value>Seleccionar RAW a comparar</value>
+                                      <message>Seleccionar carpeta</message>
+                                    </object>
+                                  </object>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>5</border>
+                                    <option>1</option>
+                                    <object class="wxCheckBox" name="m_checkBox91">
+                                      <label>El RAW es de ABB</label>
+                                      <checked>0</checked>
+                                    </object>
+                                  </object>
+                                </object>
+                              </object>
+                              <object class="sizeritem">
+                                <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                <border>5</border>
+                                <option>0</option>
+                                <object class="wxButton" name="bto_leer_RAWs">
+                                  <label>Leer RWAs</label>
+                                  <default>0</default>
+                                  <auth_needed>0</auth_needed>
+                                  <markup>0</markup>
+                                  <bitmap/>
+                                </object>
+                              </object>
+                              <object class="sizeritem">
+                                <flag>wxALL|wxEXPAND</flag>
+                                <border>5</border>
+                                <option>1</option>
+                                <object class="wxStaticBoxSizer" name="Data_Sizer1111">
+                                  <orient>wxVERTICAL</orient>
+                                  <label>Validaciones</label>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>5</border>
+                                    <option>0</option>
+                                    <object class="wxCheckBox" name="m_checkBox911">
+                                      <label>Exportar reporte</label>
+                                      <checked>0</checked>
+                                    </object>
+                                  </object>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>5</border>
+                                    <option>0</option>
+                                    <object class="wxButton" name="m_button18111">
+                                      <label>Comparar RAWs</label>
+                                      <default>0</default>
+                                      <auth_needed>0</auth_needed>
+                                      <markup>0</markup>
+                                      <bitmap/>
+                                    </object>
+                                  </object>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>5</border>
+                                    <option>0</option>
+                                    <object class="wxButton" name="m_button1811">
+                                      <label>Comparar parámetros</label>
+                                      <default>0</default>
+                                      <auth_needed>0</auth_needed>
+                                      <markup>0</markup>
+                                      <bitmap/>
+                                    </object>
+                                  </object>
+                                </object>
+                              </object>
+                            </object>
+                          </object>
+                          <object class="sizeritem">
+                            <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                            <border>5</border>
+                            <option>1</option>
+                            <object class="wxTextCtrl" name="raw_log_textCtrl">
+                              <style>wxTE_MULTILINE|wxTE_READONLY</style>
+                              <value></value>
+                            </object>
+                          </object>
+                        </object>
+                      </object>
+                    </object>
+                    <object class="notebookpage">
+                      <label>Diagrama de subestación</label>
+                      <selected>1</selected>
+                      <object class="wxPanel" name="RAWDiagram_Panel">
+                        <style>wxTAB_TRAVERSAL</style>
+                        <font>
+                          <style>normal</style>
+                          <weight>normal</weight>
+                          <family>default</family>
+                          <underlined>0</underlined>
+                        </font>
+                        <object class="wxBoxSizer" name="Diagram_Sizer">
+                          <orient>wxVERTICAL</orient>
+                          <object class="sizeritem">
+                            <flag>wxEXPAND</flag>
+                            <border>5</border>
+                            <option>1</option>
+                            <object class="wxBoxSizer" name="RAW_Sizer">
+                              <orient>wxHORIZONTAL</orient>
+                              <object class="sizeritem">
+                                <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                <border>5</border>
+                                <option>1</option>
+                                <object class="wxBoxSizer" name="Portada_BSizer">
+                                  <orient>wxVERTICAL</orient>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxALIGN_CENTER_HORIZONTAL</flag>
+                                    <border>5</border>
+                                    <option>0</option>
+                                    <object class="wxStaticBitmap" name="logo_cen31">
+                                      <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\CENACE-logo-completo.png</bitmap>
+                                    </object>
+                                  </object>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>5</border>
+                                    <option>1</option>
+                                    <object class="wxStaticBoxSizer" name="Bus_BSizer">
+                                      <orient>wxVERTICAL</orient>
+                                      <label>Buses</label>
+                                      <object class="sizeritem">
+                                        <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                        <border>5</border>
+                                        <option>0</option>
+                                        <object class="wxSearchCtrl" name="RAW_searchCtrl">
+                                          <style>wxTE_PROCESS_ENTER</style>
+                                          <enabled>0</enabled>
+                                          <value></value>
+                                        </object>
+                                      </object>
+                                      <object class="sizeritem">
+                                        <flag>wxEXPAND</flag>
+                                        <border>5</border>
+                                        <option>1</option>
+                                        <object class="wxBoxSizer" name="bSizer29">
+                                          <orient>wxVERTICAL</orient>
+                                          <object class="sizeritem">
+                                            <flag>wxEXPAND | wxALL</flag>
+                                            <border>5</border>
+                                            <option>1</option>
+                                            <object class="wxPanel" name="elm_panel">
+                                              <size>-1,100</size>
+                                              <style>wxTAB_TRAVERSAL</style>
+                                            </object>
+                                          </object>
+                                        </object>
+                                      </object>
+                                    </object>
+                                  </object>
+                                </object>
+                              </object>
+                              <object class="sizeritem">
+                                <flag>wxEXPAND</flag>
+                                <border>5</border>
+                                <option>1</option>
+                                <object class="wxBoxSizer" name="mRama_textSizer">
+                                  <orient>wxVERTICAL</orient>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>5</border>
+                                    <option>0</option>
+                                    <object class="wxStaticText" name="rama_Stext">
+                                      <style>wxALIGN_LEFT</style>
+                                      <font>
+                                        <size>14</size>
+                                        <style>normal</style>
+                                        <weight>bold</weight>
+                                        <family>default</family>
+                                        <underlined>0</underlined>
+                                      </font>
+                                      <label></label>
+                                      <wrap>-1</wrap>
+                                    </object>
+                                  </object>
+                                  <object class="sizeritem">
+                                    <flag>wxEXPAND</flag>
+                                    <border>5</border>
+                                    <option>1</option>
+                                    <object class="wxStaticBoxSizer" name="Branch_BSizer">
+                                      <orient>wxVERTICAL</orient>
+                                      <label>Ramas de los buses</label>
+                                      <object class="sizeritem">
+                                        <flag>wxEXPAND</flag>
+                                        <border>5</border>
+                                        <option>1</option>
+                                        <object class="wxBoxSizer" name="raw_listSizer">
+                                          <orient>wxHORIZONTAL</orient>
+                                          <object class="sizeritem">
+                                            <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                            <border>5</border>
+                                            <option>1</option>
+                                            <object class="wxStaticBoxSizer" name="RAW1_listBSizer">
+                                              <orient>wxVERTICAL</orient>
+                                              <label>RAW 1</label>
+                                              <object class="sizeritem">
+                                                <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                                <border>5</border>
+                                                <option>1</option>
+                                                <object class="wxListCtrl" name="RAW1_listCtrl">
+                                                  <style>wxLC_ALIGN_LEFT|wxLC_AUTOARRANGE|wxLC_REPORT|wxVSCROLL</style>
+                                                </object>
+                                              </object>
+                                            </object>
+                                          </object>
+                                          <object class="sizeritem">
+                                            <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                            <border>5</border>
+                                            <option>1</option>
+                                            <object class="wxStaticBoxSizer" name="RAW2_listBSizer">
+                                              <orient>wxVERTICAL</orient>
+                                              <label>RAW 2</label>
+                                              <object class="sizeritem">
+                                                <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                                <border>5</border>
+                                                <option>1</option>
+                                                <object class="wxListCtrl" name="RAW2_listCtrl">
+                                                  <style>wxLC_ALIGN_LEFT|wxLC_AUTOARRANGE|wxLC_REPORT|wxVSCROLL</style>
+                                                </object>
+                                              </object>
+                                            </object>
+                                          </object>
+                                        </object>
+                                      </object>
+                                      <object class="sizeritem">
+                                        <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                        <border>5</border>
+                                        <option>0</option>
+                                        <object class="wxStaticText" name="subRama_Stext">
+                                          <font>
+                                            <size>12</size>
+                                            <style>normal</style>
+                                            <weight>normal</weight>
+                                            <family>default</family>
+                                            <underlined>1</underlined>
+                                          </font>
+                                          <label></label>
+                                          <wrap>-1</wrap>
+                                        </object>
+                                      </object>
+                                    </object>
+                                  </object>
+                                </object>
+                              </object>
+                            </object>
+                          </object>
+                          <object class="sizeritem">
+                            <flag>wxEXPAND</flag>
+                            <border>5</border>
+                            <option>1</option>
+                            <object class="wxBoxSizer" name="Diag_Sizer">
+                              <orient>wxHORIZONTAL</orient>
+                              <object class="sizeritem">
+                                <flag>wxEXPAND</flag>
+                                <border>0</border>
+                                <option>1</option>
+                                <object class="wxStaticBoxSizer" name="RAW1_BSizer">
+                                  <orient>wxVERTICAL</orient>
+                                  <label>RAW 1</label>
+                                  <object class="sizeritem">
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                    <border>0</border>
+                                    <option>1</option>
+                                    <object class="wxSimplebook" name="RAW1_panel"/>
+                                  </object>
+                                </object>
+                              </object>
+                              <object class="sizeritem">
+                                <flag>wxEXPAND</flag>
+                                <border>5</border>
+                                <option>1</option>
+                                <object class="wxStaticBoxSizer" name="RAW2_BSizer">
+                                  <orient>wxVERTICAL</orient>
+                                  <label>RAW 2</label>
+                                  <object class="sizeritem">
+                                    <flag>wxEXPAND | wxALL</flag>
+                                    <border>5</border>
+                                    <option>1</option>
+                                    <object class="wxSimplebook" name="RAW2_panel"/>
+                                  </object>
+                                </object>
+                              </object>
+                            </object>
+                          </object>
+                        </object>
+                      </object>
+                    </object>
+                  </object>
+                </object>
+              </object>
+            </object>
+          </object>
+        </object>
+      </object>
+    </object>
+    <object class="wxMenuBar" name="main_menu">
+      <object class="wxMenu" name="m_menu_file">
+        <label>Archivo</label>
+        <object class="wxMenuItem" name="m_menu_file_new">
+          <label>Nuevo</label>
+          <accel>Ctrl+N</accel>
+          <help></help>
+          <bitmap></bitmap>
+        </object>
+        <object class="wxMenuItem" name="m_menu_file_open">
+          <label>Abrir</label>
+          <accel>Ctrl+O</accel>
+          <help></help>
+          <bitmap></bitmap>
+        </object>
+        <object class="wxMenuItem" name="m_menu_file_save">
+          <label>Guardar</label>
+          <accel>Ctrl+S</accel>
+          <help></help>
+        </object>
+        <object class="wxMenuItem" name="m_menu_file_saveas">
+          <label>Guardar como</label>
+          <accel>Ctrl+Shift+S</accel>
+          <help></help>
+        </object>
+        <object class="separator"/>
+        <object class="wxMenuItem" name="m_menu_file_exit">
+          <label>Salir</label>
+          <accel>Alt+F4</accel>
+          <help></help>
+          <bitmap></bitmap>
+        </object>
+      </object>
+      <object class="wxMenu" name="m_menu_edit">
+        <label>Editar</label>
+      </object>
+      <object class="wxMenu" name="menu_ayuda">
+        <label>Ayuda</label>
+        <object class="wxMenuItem" name="introduccion">
+          <label>Introducción</label>
+          <accel></accel>
+          <help></help>
+          <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\info.png</bitmap>
+        </object>
+        <object class="wxMenuItem" name="queries">
+          <label>Queries</label>
+          <accel></accel>
+          <help></help>
+          <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\info.png</bitmap>
+        </object>
+      </object>
+    </object>
+    <object class="wxStatusBar" name="statusBarRAW">
+      <style>wxSTB_SIZEGRIP</style>
+      <fields>1</fields>
+    </object>
+  </object>
+</resource>
