@@ -1,0 +1,2465 @@
+Subestaciones en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw
+{'02BDG', '06LCM', '05GGP', '03CPN', '06PRF', '06MCR'}
+Subestaciones en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw
+{'03N55', '10EPE', '03N47', '03N37', '03N09', '05CMD', '03N48', '03B05', '03S11', '03N07', '03N29', '03N43', '03N40', '02TAP', '03N39', '03N62', '04TAP', '03S05', '03N42', '03N34', '03N44', '03N51', '03B18', '03B22', '03J08', '03N24', '03N31', '03N25', '03N56', '03N46', '03N41', '03J04', '03N21', '03N67', '03N53', '03N58', '03N57', '05IMC', '05ED2', '03N45', '03N54', '03N30', '03N28', '03N38', '03N36'}
+Subestacion 06LAA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06LAA-138'}
+Subestacion 01CAB con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01CAB-23   52070   01CAB-0.4', '01CAB-23   52050   01CAB-0.4', '01CAB-23   52030   01CAB-0.4', '01CAB-23   52080   01CAB-0.4', '01CAB-23   52040   01CAB-0.4', '01CAB-23   52010   01CAB-0.4', '01CAB-23   52060   01CAB-0.4'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 01CBT con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01CBT-85   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 01CRG con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01CPM-230   93N50   01CRG-230', '01ATK-230   93N40   01CRG-230', '01CRG-230   93NE0   01VAE-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01CRG-230   93N50   01CPM-230', '01CRG-230   93FC0   01CRG-230', '01CRG-230   93N40   01ATK-230'}
+Subestacion 01DOG con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01DOG-400   A3010   01LCP-400', '01DOG-400   A3219   01DOG-400', '01DOG-400   A3019   01DOG-400', '01DOG-400   A3229   01DOG-400'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01LCP-400   A3010   01DOG-400'}
+Subestacion 01OTM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01OTM-230   93JU0   01OTM-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 01JAM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01JAM-85   73B90   01VRN-85', '01JAM-230   93C70   01VER-230', '01JAM-85   73A60   01VRN-85', '01JAM-230   93C80   01VER-230', '01JAM-85   73F50   01PCC-85'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01VER-230   93C70   01JAM-230', '01VRN-85   73B90   01JAM-85', '01VRN-85   73A60   01JAM-85', '01VER-230   93C80   01JAM-230'}
+Subestacion 01LAP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01LAP-400   A3FC0   01LAP-400'}
+Subestacion 01LCP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01DOG-400   A3010   01LCP-400', '01LCP-230   93JF0   01PEO-230', '01LCP-230   93JE0   01PEO-230', '01LCP-400   A3JN0   01PEO-400', '01LCP-400   A3JM0   01PEO-400', '01LCP-230   93070   02ITP-230', '01LCP-230   93080   02ITP-230', '01LCP-400   A3JK0   01PEO-400', '01LCP-115   73870   01ATS-115', '01LCP-400   A3JV0   01PEO-400', '01LCP-400   A3JL0   01PEO-400', '01LCP-400   A3JW0   01PEO-400', '01LCP-400   A3200   03CRP-400'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03CRP-400   A3200   01LCP-400', '02ITP-230   93080   01LCP-230', '01LCP-400   A3010   01DOG-400', '01ATS-115   73870   01LCP-115', '02ITP-230   93070   01LCP-230'}
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01LCP-400   A2060   01PEO-20', '01LCP-230   92020   01PEO-20', '01LCP-230   92010   01PEO-20', '01LCP-400   A2050   01PEO-20', '01LCP-400   A2030   01PEO-20', '01LCP-400   A2040   01PEO-20', '01LCP-400   A2070   01PEO-23'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01LCP-400   C 1', '01LCP-230   C 1', '01LCP-400   C 2'}
+Subestacion 01MOS con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01MOS-23   C 2', '01MOS-23   C 4', '01MOS-23   C 3', '01MOS-23   C 5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01MOS-23   C 8', '01MOS-23   C 9', '01MOS-23   C10', '01MOS-23   C11'}
+Subestacion 01NON con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01NON-6.6   C 1', '01NON-6.6   C 2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01NON-6.6   C 4', '01NON-6.6   C 6'}
+Subestacion 01NOP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01NOP-400   A3FC0   01NOP-400'}
+Subestacion 01OTZ con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01OTZ-23   53030   01VAJ-23'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01OTZ-23   53AB0   01VAJ-23'}
+Subestacion 01PCC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01NON-85   73F00   01PCC-85', '01JAM-85   73F50   01PCC-85'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01PCC-85   73F00   01NON-85'}
+Subestacion 01PEO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01LCP-230   93JF0   01PEO-230', '01LCP-230   93JE0   01PEO-230', '01LCP-400   A3JN0   01PEO-400', '01LCP-400   A3JW0   01PEO-400', '01LCP-400   A3JM0   01PEO-400', '01LCP-400   A3JK0   01PEO-400', '01LCP-400   A3JV0   01PEO-400', '01LCP-400   A3JL0   01PEO-400', '01PEO-400   A3BY9   01PEO-400'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01PEO-400   A2070   01PEO-23', '01PEO-230   92010   01PEO-20', '01PEO-400   A2030   01PEO-20', '01PEO-400   A2060   01PEO-20', '01PEO-230   92020   01PEO-20', '01PEO-400   A2050   01PEO-20', '01PEO-400   A2040   01PEO-20'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01LCP-400   A2060   01PEO-20', '01LCP-230   92020   01PEO-20', '01LCP-230   92010   01PEO-20', '01LCP-400   A2050   01PEO-20', '01LCP-400   A2030   01PEO-20', '01LCP-400   A2040   01PEO-20', '01LCP-400   A2070   01PEO-23'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01PEO-400   C 2', '01PEO-400   C 1', '01PEO-230   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 01PHP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01PHP-400   A3370   02PRD-400', '01PHP-400   A3W70   01TUL-400', '01PHP-85   73BA0   01PIR-85'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PRD-400   A3370   01PHP-400', '01TUL-400   A3W70   01PHP-400'}
+Subestacion 01PIR con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01PHP-85   73BA0   01PIR-85'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 01PIT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01PIT-400'}
+Subestacion 01RES con diferencias encontradas:
+Subestacion 01TCC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01TCC-230   93JX0   01TCC-230', '01TCC-230   93JY0   01TCC-230', '01TCC-230   93J40   01TCC-230', '01TCC-230   93JW0   01TCC-230', '01TCC-230   93J20   01TCC-230', '01TCC-230   93J10   01TCC-230', '01TCC-230   93JU0   01TCC-230', '01TCC-230   93J30   01TCC-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 01TEX con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01TEX-230   93120   01TTH-230', '01TEX-400   A3860   02MPT-400', '01TEX-400   A3960   02LRP-400'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01TTH-230   93120   01TEX-230', '02LRP-400   A3960   01TEX-400', '02MPT-400   A3860   01TEX-400', '01TEX-400   A3FC0   01TEX-400'}
+Subestacion 01TOP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01TAX-230   93160   01TOP-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01TOP-230   93160   01TAX-230', '01TOP-400   A3FC0   01TOP-400'}
+Subestacion 01VAE con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01VAE-85   73AB0   01VDM-85', '01VAE-230   93110   03MAN-230', '01CRG-230   93NE0   01VAE-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03MAN-230   93110   01VAE-230'}
+Subestacion 01VAJ con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01OTZ-23   53030   01VAJ-23', '01SKP-85   73J60   01VAJ-85'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01VAJ-85   73J60   01SKP-85', '01OTZ-23   53AB0   01VAJ-23'}
+Subestacion 01VDM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01VAE-85   73AB0   01VDM-85'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01VDM-85   73AB0   01VDM-85'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'01VDM-85   C 2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 01XAL con diferencias encontradas:
+Subestacion 01ZIC con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'01ZIC-23   C 8'}
+Subestacion 02ANG con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02ANG-400'}
+Subestacion 02BII con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02BII-34.5'}
+Subestacion 02BSU con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02BSU-34.5'}
+Subestacion 02CZM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02CZM-400'}
+Subestacion 02DED con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02DED-34.5'}
+Subestacion 02EDO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02EDO-115   73P80   02BJU-115', '02EDO-115   73P90   02BJU-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02BJU-115   73P80   02EDO-115', '02BJU-115   73P90   02EDO-115', '02EDO-400   A3OP0   02EDO-400'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02EDO-400'}
+Subestacion 02EDP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02EDP-34.5'}
+Subestacion 02EDS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02EDS-34.5'}
+Subestacion 02EES con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02EES-34.5'}
+Subestacion 02GLR con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02GLR-13.8   C 2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 02IPO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02IPO-400   A3E00   02IPO-400', '02ERT-115   73500   02IPO-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02IPO-115   73500   02ERT-115', '02IPO-400   A3OP0   02IPO-400'}
+    generadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02IPO-CE'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 02JUI con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02JUI-400   A3019   02JUI-400', '02JUI-230   93950   02MSP-230', '02JUI-400   A3029   02JUI-400', '02JUI-230   93000   02JUD-230', '02JUI-400   A3039   02JUI-400'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02JUD-230   93000   02JUI-230', '02MSP-230   93950   02JUI-230'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02JUI-400'}
+Subestacion 02LAV con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02LAV-400'}
+Subestacion 02LVN con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02LVN-34.5'}
+Subestacion 02MID con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02MID-400   A3060   02MPS-400', '02MID-115   73890   02CLS-115', '02MID-400   A3160   02MPS-400', '02MID-115   73870   02CVN-115', '02MID-115   73880   02MAS-115', '02MID-115   73450   02SUB-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02CVN-115   73870   02MID-115', '02MAS-115   73880   02MID-115', '02CLS-115   73890   02MID-115', '02MID-400   A3060   02MPD-400', '02MID-400   A3160   02MPD-400', '02SUB-115   73450   02MID-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02MID-400'}
+Subestacion 02MMT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02MMT-400'}
+Subestacion 02MPD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02MPD-400   A3JU0   02MPS-400', '02MPD-400   A3JB0   02MPS-400'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02MID-400   A3060   02MPD-400', '02MID-400   A3160   02MPD-400'}
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02MPD-400   A2030   02MPS-15', '02MPD-400   A2020   02MPS-15', '02MPD-400   A2050   02MPS-15', '02MPD-400   A2010   02MPS-15', '02MPD-400   A2060   02MPS-15', '02MPD-400   A2040   02MPS-15', '02MPD-400   A2070   02MPS-1'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02MPD-400'}
+Subestacion 02MPS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02MPD-400   A3JU0   02MPS-400', '02MID-400   A3060   02MPS-400', '02MID-400   A3160   02MPS-400', '02MPD-400   A3JB0   02MPS-400', '02MPS-115   73940   02JUY-115', '02MPS-115   73930   02MEZ-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02MEZ-115   73930   02MPS-115', '02JUY-115   73940   02MPS-115'}
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02MPS-400   A2030   02MPS-15', '02MPS-400   A2070   02MPS-1', '02MPS-400   A2040   02MPS-15', '02MPS-400   A2050   02MPS-15', '02MPS-400   A2010   02MPS-15', '02MPS-400   A2060   02MPS-15', '02MPS-400   A2020   02MPS-15'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02MPD-400   A2030   02MPS-15', '02MPD-400   A2020   02MPS-15', '02MPD-400   A2050   02MPS-15', '02MPD-400   A2010   02MPS-15', '02MPD-400   A2060   02MPS-15', '02MPD-400   A2040   02MPS-15', '02MPD-400   A2070   02MPS-1'}
+Subestacion 02PBD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02PBD-115   73630   02AMZ-115', '02PBD-400   A3919   02PBD-400', '02PBD-115   73640   02BOE-115', '02PBD-400   A3910   02PBD-400', '02PBD-115   73890   02GAN-115', '02PBD-115   73000   02ECN-115', '02PBD-115   73860   02NOR-115', '02PBD-115   73160   02INT-115', '02PBD-400   A3929   02PBD-400'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02NOR-115   73860   02PBD-115', '02AMZ-115   73630   02PBD-115', '02GAN-115   73890   02PBD-115', '02PBD-400   A3460   02PBD-400', '02BOE-115   73640   02PBD-115', '02INT-115   73160   02PBD-115', '02ECN-115   73000   02PBD-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PBD-400'}
+Subestacion 02PDQ con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PDQ-34.5'}
+Subestacion 02PRD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PRD-400'}
+Subestacion 02PZM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02PZM-34.5   53130   02CTM-34.5', '02PZM-34.5   53020   02AMZ-34.5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02CTM-34.5   53130   02PZM-34.5'}
+Subestacion 02SES con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02SES-115   C 2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 02SUD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02SUD-34.5'}
+Subestacion 02TCL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02TCL-115   73560   02ORT-115', '02TCL-115   73010   02GAN-115', '02TCL-400   A3U39   02TCL-400', '02TCL-115   73390   02CPO-115', '02TCL-400   A3U29   02TCL-400', '02TCL-115   73980   02GAN-115', '02TCL-400   A3519   02TCL-400', '02TCL-115   73820   02BGB-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02GAN-115   73010   02TCL-115', '02ORT-115   73560   02TCL-115', '02GAN-115   73980   02TCL-115', '02BGB-115   73820   02TCL-115', '02CPO-115   73390   02TCL-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TCL-400'}
+Subestacion 02THP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02THP-400'}
+Subestacion 02TMD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02TMD-400   A3269   02TMD-400', '02TMD-400   A3JS0   02TMD-400', '02TMD-230   93740   02CIG-230', '02TMD-400   A3JR0   02TMD-400', '02TMD-230   93650   02PTU-230', '02TMD-230   93700   02JDD-230', '02TMD-400   A3369   02TMD-400'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TMD-400   A3OP0   02TMT-400', '02JDD-230   93700   02TMD-230', '02PTU-230   93650   02TMD-230', '02CIG-230   93740   02TMD-230'}
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02TMD-400   A2030   02TMT-9.9'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TMD-400'}
+Subestacion 02TMT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TMD-400   A3OP0   02TMT-400'}
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02TMD-400   A2030   02TMT-9.9'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TMT-400   A2030   02TMT-9.9'}
+Subestacion 02TRP con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TRP-230   C 2'}
+Subestacion 02TSP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TSP-34.5'}
+Subestacion 02TTE con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TTE-400'}
+Subestacion 02TUV con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TUV-6.9   C 2', '02TUV-6.9   C 6'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TUV-400'}
+Subestacion 02CPJ con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02CPJ-13.8   43AB0   02CPJ-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 02JUD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02JUD-13.8'}
+Subestacion 02MIU con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02MIU-115   72020   02MIU-34.5'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02MIU-34.5   C 2'}
+Subestacion 02ARC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02ARC-115   73280   02PYS-115'}
+Subestacion 02AZA con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02AZA-13.8   C 2', '02AZA-13.8   C 3'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 02CIV con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02BDG-115   73B20   02CIV-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 02MZL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02MZL-230'}
+Subestacion 02PIC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PIC-230   93OP0   02PIC-230'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PIC-230'}
+Subestacion 02PYS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02ARC-115   73280   02PYS-115'}
+Subestacion 02TXO con diferencias encontradas:
+Subestacion 02YCP con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02YCP-13.8   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02YCP-13.8   C 2'}
+Subestacion 02AMZ con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02PBD-115   73630   02AMZ-115', '02PZM-34.5   53020   02AMZ-34.5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02AMZ-115   73630   02PBD-115'}
+Subestacion 02PEE con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02PEE-34.5   C 2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PEE-34.5   C 1'}
+Subestacion 02TPY con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02TPY-115   72020   02TPY-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02TPY-13.8   C 2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 02CHT con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02CHT-115   72030   02CHT-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02CHT-13.8   C 3'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 02FCM con diferencias encontradas:
+Subestacion 02JAA con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02JAA-34.5   C 3'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02JAA-34.5   C 1'}
+Subestacion 02KLV con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02KLV-13.8'}
+Subestacion 02MCL con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02MCL-115   72020   02MCL-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02MCL-13.8   C 2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 02PII con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PII-115   72030   02PII-13.8'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PII-13.8   C 3'}
+Subestacion 02PSD con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02PSD-13.8   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PSD-115   C 1'}
+Subestacion 02PTM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02THP-115   73780   02PTM-115', '02CGO-115   73320   02PTM-115', '02PTM-115   73AA0   02TAE-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PTM-115   73780   02THP-115', '02PTM-115   73320   02CGO-115'}
+Subestacion 02TAE con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02THP-115   73120   02TAE-115', '02THP-115   73110   02TAE-115', '02PTM-115   73AA0   02TAE-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TAE-115   73120   02THP-115', '02TAE-115   73110   02THP-115'}
+Subestacion 02ZOP con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02ZOP-115   72020   02ZOP-34.5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02ZOP-34.5   C 2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 02ZPD con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02ZPD-115   72030   02ZPD-34.5'}
+Subestacion 02CLU con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02CLU-115'}
+Subestacion 02MDG con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02MDG-115   73100   02TJR-115', '02MDG-115   73100   02MDG-115', '02MDG-115   73100   02PDT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TAP-115   73100   02MDG-115'}
+Subestacion 02OXP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02OXP-13.8'}
+Subestacion 02PDT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02MDG-115   73100   02PDT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TAP-115   73100   02PDT-115'}
+Subestacion 02PIN con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02PIN-115   72020   02PIN-34.5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PIN-115   72030   02PIN-34.5'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02PIN-34.5   C 3'}
+Subestacion 02TJR con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'02MDG-115   73100   02TJR-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'02TAP-115   73100   02TJR-115'}
+Subestacion 03APT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03APT-400'}
+Subestacion 03ARI con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03ARI-34.5   53120   03ARI-34.5'}
+Subestacion 03ATN con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ATN-400   A3SL0   03ATN-400'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03ATN-400   A3OP0   03ATN-400'}
+    generadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ATN-CE'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03ATN-400'}
+Subestacion 03ATQ con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03ATQ-400', '03ATQ-69'}
+Subestacion 03AZF con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03AZF-115   73410   03AZF-115'}
+Subestacion 03BCD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03BCD-115   73860   03FVS-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03BCD-115   73860   03N34-115'}
+Subestacion 03CBL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03CBL-400'}
+Subestacion 03CGM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03CGM-115'}
+Subestacion 03CRP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03CRP-400'}
+Subestacion 03DMN con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03DMN-115   73550   03CHK-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03CHK-115   73550   03DMN-115', '03DMN-34.5   53010   03DMN-34.5'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03DMN-34.5'}
+Subestacion 03ECP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03ECP-13.8   4310   03ECP-13.8'}
+Subestacion 03EPS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03EPS-400'}
+Subestacion 03EPT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03EPT-34.5'}
+Subestacion 03FOJ con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03FOJ-23'}
+Subestacion 03GDU con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03GDU-69'}
+Subestacion 03GUI con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03GUI-23   C 2'}
+Subestacion 03ITA con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ITA-13.8   42010   03ITA-6.6', '03ITA-115   72020   03ITA-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    generadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ITA-U1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ITA-13.8   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03ITA-115   C 1'}
+Subestacion 03KDA con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03KDA-230   93430   03AGS-230', '03KDA-400   A3SL0   03KDA-400', '03KDA-115   73740   03ISF-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03AGS-230   93430   03KDA-230', '03KDA-400   A3OP0   03KDA-400', '03ISF-115   73740   03KDA-115'}
+    generadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03KDA-CE'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03KDA-400'}
+Subestacion 03LFL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03LFL-13.8   43180   03LJY-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03LFL-13.8   43120   03LJY-13.8'}
+Subestacion 03LYE con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03LYE-400'}
+Subestacion 03MFP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03MFP-400'}
+Subestacion 03MPM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03MPM-400'}
+Subestacion 03MTA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03MTA-400'}
+Subestacion 03NUM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03NUM-115   73400   03AVT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03B05-115   73400   03NUM-115'}
+Subestacion 03NVT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03NVT-115   73880   03BAN-115', '03NVT-230   93SL0   03NVT-230', '03NVT-230   93930   03TED-230', '03NVT-115   73140   03GYS-115', '03NVT-115   73990   03FLA-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03NVT-230   93OP0   03NVT-230', '03FLA-115   73990   03NVT-115', '03GYS-115   73140   03NVT-115', '03TED-230   93930   03NVT-230', '03BAN-115   73880   03NVT-115'}
+    generadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03NVT-CE'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 03PMY con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03PMY-400'}
+Subestacion 03POS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03POS-400'}
+Subestacion 03RAE con diferencias encontradas:
+    generadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03RAE-U1', '03RAE-U6', '03RAE-U2', '03RAE-U5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 03SLM con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SLM-400   A2120   03SLM-19'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03SLM-400   A2130   03SLM-19', '03SLM-400   A2110   03SLM-19'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SLM-19   C12', '03SLM-19   C11'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03SLM-19   C 3', '03SLM-19   C 2'}
+Subestacion 03SMD con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03SMD-230   92010   03SMD-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03SMD-400'}
+Subestacion 03SPI con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SPI-115   73660   03LOG-115', '03SPI-230   93N10   03SLD-230', '03SPI-115   73410   03VTS-115', '03SPI-115   73840   03DLC-115', '03SPI-115   73610   03COI-115', '03SPI-230   93380   03SLD-230', '03SPI-115   73630   03SEI-115', '03SPI-230   93SL0   03SPI-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03SLD-230   93N10   03SPI-230', '03N43-115   73840   03SPI-115', '03SEI-115   73630   03SPI-115', '03COI-115   73610   03SPI-115', '03LOG-115   73660   03SPI-115', '03N38-115   73410   03SPI-115', '03SPI-230   93OP0   03SPI-230', '03SLD-230   93380   03SPI-230'}
+    generadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SPI-CE'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03SPI-C1'}
+Subestacion 03TED con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03TED-400'}
+Subestacion 03TLJ con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03TLJ-230   9210   03TLJ-23'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03TLJ-230   92020   03TLJ-23'}
+Subestacion 03TSN con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03TSN-69'}
+Subestacion 03UPP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03UPP-161   83230   03CPT-161', '03UPP-115   73710   03MRR-115', '03UPP-161   83210   03CPT-161'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03MRR-115   73710   03UPP-115', '03CPT-161   83210   03UPP-161', '03CPT-161   83230   03UPP-161'}
+Subestacion 03VDR con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03VDR-230   92070   03VDR-16.6'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03VDR-230   92070   03VDR-16'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03VDR-19   C 6', '03VDR-16.6   C 7'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 03VQE con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03VQE-23'}
+Subestacion 03ZRP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03ZRP-115'}
+Subestacion 03ACE con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ACE-115   73850   03N22-115', '03ACE-115   73850   03MLS-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N22-115   73850   03ACE-115', '03ACE-115   73850   03N24-115'}
+Subestacion 03ALU con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ALU-115   73860   03LTI-115', '03ALU-115   73860   03N27-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03ALU-115   73860   03N28-115'}
+Subestacion 03AVN con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03AVN-115   73840   03P3M-115', '03AVN-115   73840   03VAT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03AVN-115   73840   03N46-115'}
+Subestacion 03BLA con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03BLA-115   73120   03BOL-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03BLA-115   73120   03N07-115'}
+Subestacion 03BOL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03BOL-115   73120   03TLO-115', '03BLA-115   73120   03BOL-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03BOL-115   73120   03N07-115'}
+Subestacion 03CAL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03CAL-115'}
+Subestacion 03CDM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03CDM-115   73840   03DIC-115', '03CDM-115   73840   03PAP-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03CDM-115   73840   03N54-115'}
+Subestacion 03CMZ con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03CMZ-115   73930   03VAR-115', '03CMZ-115   73930   03GDL-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03CMZ-115   73930   03N21-115'}
+Subestacion 03CSF con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03CSF-115   73410   03N35-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03CSF-115   73410   03N36-115'}
+Subestacion 03DIC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03CDM-115   73840   03DIC-115', '03DIC-115   73840   03HER-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03DIC-115   73840   03N55-115'}
+Subestacion 03DLC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03DLC-115   73840   03SHU-115', '03SPI-115   73840   03DLC-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03DLC-115   73840   03N43-115'}
+Subestacion 03DXM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03DXM-115   73410   03N35-115', '03DXM-115   73410   03VTS-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03DXM-115   73410   03N37-115'}
+Subestacion 03EAT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03EAT-115   73510   03TEN-115', '03EAT-115   73510   03LAM-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03EAT-115   73510   03N39-115'}
+Subestacion 03ELE con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ELE-115   73970   03SLO-115', '03ELE-115   73970   03SPR-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03ELE-115   73970   03N62-115'}
+Subestacion 03FAJ con diferencias encontradas:
+Subestacion 03FNO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03FNO-115   73290   03FRI-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03FNO-115   73290   03N67-115'}
+Subestacion 03FRI con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03FRI-115   73290   03FRN-115', '03FNO-115   73290   03FRI-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03FRI-115   73290   03N67-115'}
+Subestacion 03FRN con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03FRI-115   73290   03FRN-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03FRN-115   73290   03N67-115'}
+Subestacion 03FVS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03BCD-115   73860   03FVS-115', '03FVS-115   73860   03N32-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03FVS-115   73860   03N34-115'}
+Subestacion 03GDL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03CMZ-115   73930   03GDL-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03GDL-115   73930   03N21-115'}
+Subestacion 03GRP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03GRP-115   73860   03TIS-115', '03GRP-115   73860   03N32-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03GRP-115   73860   03N31-115'}
+Subestacion 03HER con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03HER-115   73840   03TQT-115', '03DIC-115   73840   03HER-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03HER-115   73840   03N56-115'}
+Subestacion 03HIT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03HIT-115   73510   03SEL-115', '03HIT-115   73510   03SGB-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03HIT-115   73510   03N42-115'}
+Subestacion 03KRP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03KRP-115   73840   03N52-115', '03KRP-115   73840   03N49-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03KRP-115   73840   03N51-115'}
+Subestacion 03LAM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03LAM-115   73510   03SEL-115', '03EAT-115   73510   03LAM-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03LAM-115   73510   03N40-115'}
+Subestacion 03LAS con diferencias encontradas:
+Subestacion 03LOR con diferencias encontradas:
+Subestacion 03LTI con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ALU-115   73860   03LTI-115', '03LTI-115   73860   03TIS-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03LTI-115   73860   03N29-115'}
+Subestacion 03MAB con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03MAB-115   73840   03N27-115', '03MAB-115   73840   03TQT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03MAB-115   73840   03N58-115'}
+Subestacion 03MBL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03MBL-115   73840   03VAT-115', '03MBL-115   73840   03N49-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03MBL-115   73840   03N48-115'}
+Subestacion 03MHR con diferencias encontradas:
+Subestacion 03MLS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03MLS-115   73850   03SPT-115', '03ACE-115   73850   03MLS-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N24-115   73850   03MLS-115'}
+Subestacion 03MRA con diferencias encontradas:
+Subestacion 03N10 con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03N10-115   73450   03PNO-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N09-115   73450   03N10-115'}
+Subestacion 03N11 con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03N11-115   73450   03PNO-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N09-115   73450   03N11-115'}
+Subestacion 03N27 con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03MAB-115   73840   03N27-115', '03ALU-115   73860   03N27-115', '03SLP-115   73860   03N27-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N27-115   73860   03N28-115', '03N27-115   73860   03SLP-115', '03N27-115   73840   03N58-115'}
+Subestacion 03N32 con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03FVS-115   73860   03N32-115', '03GRP-115   73860   03N32-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N31-115   73860   03N32-115', '03N32-115   73860   03N34-115'}
+Subestacion 03N35 con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03N35-115   73410   03NTP-115', '03CSF-115   73410   03N35-115', '03DXM-115   73410   03N35-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N35-115   73410   03N36-115', '03N35-115   73410   03N37-115'}
+Subestacion 03N49 con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03KRP-115   73840   03N49-115', '03MBL-115   73840   03N49-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N48-115   73840   03N49-115', '03N49-115   73840   03N51-115'}
+Subestacion 03N52 con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03N52-115   73840   03PAP-115', '03KRP-115   73840   03N52-115', '03SLP-115   73840   03N52-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N51-115   73840   03N52-115', '03N52-115   73840   03SLP-115', '03N52-115   73840   03N53-115'}
+Subestacion 03NTP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03N35-115   73410   03NTP-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03NTP-115   73410   03N36-115'}
+Subestacion 03OCL con diferencias encontradas:
+Subestacion 03P3M con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03AVN-115   73840   03P3M-115', '03P3M-115   73840   03SHU-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N45-115   73840   03P3M-115'}
+Subestacion 03PAP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03N52-115   73840   03PAP-115', '03CDM-115   73840   03PAP-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N53-115   73840   03PAP-115'}
+Subestacion 03PNO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03N10-115   73450   03PNO-115', '03N11-115   73450   03PNO-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N09-115   73490   03PNO-115'}
+Subestacion 03SEL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03LAM-115   73510   03SEL-115', '03HIT-115   73510   03SEL-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N41-115   73510   03SEL-115'}
+Subestacion 03SFR con diferencias encontradas:
+Subestacion 03SGB con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03HIT-115   73510   03SGB-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N42-115   73510   03SGB-115'}
+Subestacion 03SHU con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03DLC-115   73840   03SHU-115', '03P3M-115   73840   03SHU-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N44-115   73840   03SHU-115'}
+Subestacion 03SLO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ELE-115   73970   03SLO-115', '03SLP-115   73830   03SLO-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N62-115   73970   03SLO-115', '03SLO-115   73830   03SLP-115'}
+Subestacion 03SPR con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ELE-115   73970   03SPR-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N62-115   73970   03SPR-115'}
+Subestacion 03SPT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SPT-115   73850   03VRT-115', '03MLS-115   73850   03SPT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N25-115   73850   03SPT-115'}
+Subestacion 03TEN con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03EAT-115   73510   03TEN-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N39-115   73510   03TEN-115'}
+Subestacion 03TIS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03GRP-115   73860   03TIS-115', '03LTI-115   73860   03TIS-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N30-115   73860   03TIS-115'}
+Subestacion 03TLO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03BOL-115   73120   03TLO-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N07-115   73120   03TLO-115'}
+Subestacion 03TQT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03MAB-115   73840   03TQT-115', '03HER-115   73840   03TQT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N57-115   73840   03TQT-115'}
+Subestacion 03VAR con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03CMZ-115   73930   03VAR-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N21-115   73930   03VAR-115'}
+Subestacion 03VAT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03MBL-115   73840   03VAT-115', '03AVN-115   73840   03VAT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03VAT-115   73840   03N47-115'}
+Subestacion 03VHO con diferencias encontradas:
+Subestacion 03VJU con diferencias encontradas:
+Subestacion 03VPS con diferencias encontradas:
+Subestacion 03VRT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SPT-115   73850   03VRT-115', '03VTP-115   73610   03VRT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03VRT-115   73610   03VTP-115', '03N25-115   73850   03VRT-115'}
+Subestacion 03VTS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03DXM-115   73410   03VTS-115', '03SPI-115   73410   03VTS-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03N38-115   73410   03VTS-115'}
+Subestacion 03CHY con diferencias encontradas:
+Subestacion 03CPT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03UPP-161   83230   03CPT-161', '03UPP-161   83210   03CPT-161'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03CPT-161   83210   03UPP-161', '03CPT-161   83230   03UPP-161'}
+Subestacion 03APO con diferencias encontradas:
+Subestacion 03AQM con diferencias encontradas:
+Subestacion 03AVT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03NUM-115   73400   03AVT-115', '03AVT-115   73400   03USM-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03AVT-115   73400   03B05-115'}
+Subestacion 03CAE con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03CAE-115   73320   03PEM-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03B22-115   73320   03CAE-115'}
+Subestacion 03CLY con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03AP1-115   73330   03CLY-115', '03CLY-115   73320   03PEM-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03B22-115   73320   03CLY-115', '03CLY-115   73330   03AP1-115'}
+Subestacion 03CYA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03CYA-115'}
+Subestacion 03CYI con diferencias encontradas:
+Subestacion 03DNN con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03DNN-115   73540   03LAL-115', '03DNN-115   73540   03GRH-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03GRH-115   73540   03DNN-115'}
+Subestacion 03EME con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03EME-115   73440   03SMS-115'}
+Subestacion 03GJA con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03GJA-13.8   C 6'}
+Subestacion 03GRH con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03DNN-115   73540   03GRH-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03GRH-115   73540   03DNN-115', '03GRH-115   73540   03GRH-115', '03GRH-115   73540   03B18-115'}
+Subestacion 03IRI con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03IRI-115   73540   03LAL-115', '03LFR-115   73F50   03IRI-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03IRI-115   73F50   03LFR-115', '03B18-115   73540   03IRI-115'}
+Subestacion 03JEM con diferencias encontradas:
+Subestacion 03LAL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03IRI-115   73540   03LAL-115', '03DNN-115   73540   03LAL-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03B18-115   73540   03LAL-115'}
+Subestacion 03LGS con diferencias encontradas:
+Subestacion 03LJY con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ICL-115   73L60   03LJY-115', '03LFL-13.8   43180   03LJY-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03LJY-115   73L60   03ICL-115', '03LFL-13.8   43120   03LJY-13.8'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03LJY-13.8   C19', '03LJY-13.8   C17'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03LJY-13.8   C 2', '03LJY-13.8   C 3'}
+Subestacion 03LNA con diferencias encontradas:
+Subestacion 03LVR con diferencias encontradas:
+Subestacion 03PEM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03CLY-115   73320   03PEM-115', '03CAE-115   73320   03PEM-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03B22-115   73320   03PEM-115'}
+Subestacion 03PNJ con diferencias encontradas:
+Subestacion 03PNV con diferencias encontradas:
+Subestacion 03PTI con diferencias encontradas:
+Subestacion 03RTA con diferencias encontradas:
+Subestacion 03SFQ con diferencias encontradas:
+Subestacion 03SMS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SMS-115   73340   03MAL-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03EME-115   73440   03SMS-115', '03MAL-115   73340   03SMS-115'}
+Subestacion 03SRQ con diferencias encontradas:
+Subestacion 03TOO con diferencias encontradas:
+Subestacion 03TRJ con diferencias encontradas:
+Subestacion 03USM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03AVT-115   73400   03USM-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03B05-115   73400   03USM-115', '03USM-115   73400   03USM-115'}
+Subestacion 03BRC con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03BRC-23   C 2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03BRC-115   C 1'}
+Subestacion 03CHA con diferencias encontradas:
+Subestacion 03CIA con diferencias encontradas:
+Subestacion 03ESJ con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ESJ-69   63660   03HON-69', '03GUD-69   63690   03ESJ-69'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03ESJ-69   63690   03GUD-69', '03ESJ-69   63660   03J08-69'}
+Subestacion 03GRU con diferencias encontradas:
+Subestacion 03HON con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ESJ-69   63660   03HON-69', '03HON-69   63660   03HYL-69'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03HON-69   63660   03J08-69'}
+Subestacion 03HYL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03HON-69   63660   03HYL-69'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03HYL-69   63660   03J08-69'}
+Subestacion 03J16 con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03J16-69   63170   03SPB-69'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03J04-69   63170   03J16-69'}
+Subestacion 03JDL con diferencias encontradas:
+Subestacion 03JRU con diferencias encontradas:
+Subestacion 03LPS con diferencias encontradas:
+Subestacion 03PQI con diferencias encontradas:
+Subestacion 03SPB con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SPB-69   63170   03TIT-69', '03J16-69   63170   03SPB-69'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03J04-69   63170   03SPB-69'}
+Subestacion 03SYL con diferencias encontradas:
+Subestacion 03TIT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SPB-69   63170   03TIT-69'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03J04-69   63170   03TIT-69'}
+Subestacion 03ACR con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ACR-115   73290   03TMY-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03ACR-115   73290   03S05-115'}
+Subestacion 03AET con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03MVP-115   73C20   03AET-115', '03AET-115   73PT0   03ARL-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03AET-115   73C20   03MVP-115'}
+Subestacion 03ARL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03AET-115   73PT0   03ARL-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 03BNA con diferencias encontradas:
+Subestacion 03BVN con diferencias encontradas:
+Subestacion 03CLF con diferencias encontradas:
+Subestacion 03COO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03MHU-115   73520   03COO-115', '03COO-115   73520   03QMR-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03COO-115   73520   03MHU-115'}
+Subestacion 03DHD con diferencias encontradas:
+Subestacion 03EZM con diferencias encontradas:
+Subestacion 03JUR con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03JUR-115   72020   03JUR-13.8'}
+Subestacion 03MQO con diferencias encontradas:
+Subestacion 03NGA con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03NGA-115   C 2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03NGA-115   C 3'}
+Subestacion 03PER con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03PER-115   73180   03QRO-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03QRO-115   73180   03PER-115', '03PER-115   73180   03PER-115'}
+Subestacion 03PON con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03CPN-115   73290   03PON-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03PON-115   C 1'}
+Subestacion 03PPG con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03PPG-115   73290   03SJP-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03SJP-115   73290   03PPG-115', '03PPG-115   73290   03PPG-115'}
+Subestacion 03QMR con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03COO-115   73520   03QMR-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 03QRE con diferencias encontradas:
+Subestacion 03QRO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03QRO-115   73PT0   03SAT-115', '03PER-115   73180   03QRO-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03QRO-115   73180   03PER-115'}
+Subestacion 03QRP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03QRP-400'}
+Subestacion 03S10 con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03S10-115   73080   03VTC-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03S10-115   73080   03S11-115'}
+Subestacion 03SAP con diferencias encontradas:
+Subestacion 03SAT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03QRO-115   73PT0   03SAT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 03SAU con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SAU-230   C 1', '03SAU-20   C10', '03SAU-13.8   C11'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03SAU-230   C 8'}
+Subestacion 03SFS con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SFS-115   C40'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03SFS-115   C 1'}
+Subestacion 03SJI con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SJI-115   73080   03VTC-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03S11-115   73080   03SJI-115'}
+Subestacion 03SJP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SJP-115   73300   03TMY-115', '03PPG-115   73290   03SJP-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03SJP-115   73290   03PPG-115', '03SJP-115   73300   03S05-115'}
+Subestacion 03TMY con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03ACR-115   73290   03TMY-115', '03SJP-115   73300   03TMY-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03S05-115   73300   03TMY-115'}
+Subestacion 03VTC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'03SJI-115   73080   03VTC-115', '03S10-115   73080   03VTC-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'03S11-115   73080   03VTC-115'}
+Subestacion 04AGD con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04AGD-16.5   42010   04AGD-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04AGD-230   92010   04AGD-16.5', '04AGD-230   92020   04AGD-16.5', '04AGD-230   92030   04AGD-16.5'}
+Subestacion 04BAC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04BAC-400   A3N70   04ECC-400', '04BAC-400   A3N60   04ECC-400', '04BAC-230   93F20   04ECC-230', '04BAC-115   73450   04VDY-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04ECC-400   A3N70   04BAC-400', '04ECC-400   A3N60   04BAC-400', '04ECC-230   93F20   04BAC-230', '04BAC-115   73450   04TAP-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04BAC-400'}
+Subestacion 04CHO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04CHO-400'}
+Subestacion 04COC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04COC-115', '04COC-13.8'}
+Subestacion 04COT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04COT-13.8', '04COT-115'}
+Subestacion 04CUT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04CUT-115   73860   04CUN-115', '04CUT-230   93710   04GMD-230', '04CUT-230   93730   04GMD-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04CUT-230   93OP0   04CUT-230', '04GMD-230   93710   04CUT-230', '04CUN-115   73860   04CUT-115', '04GMD-230   93730   04CUT-230'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04CUT-13.8'}
+Subestacion 04GMD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04GMD-13.8'}
+Subestacion 04HBL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04HBL-13.8'}
+Subestacion 04HGA con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04HGA-115   73J30   04NTO-115', '04HGA-115   73400   04CUC-115', '04CHO-400   A3N40   04HGA-400', '04HGA-115   73410   04CUC-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04CUC-115   73410   04HGA-115', '04CUC-115   73400   04HGA-115', '04NTO-115   73J30   04HGA-115', '04HGA-400   A3N40   04CHO-400', '04HGA-230   93OP0   04HGA-230'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04HGA-230', '04HGA-400'}
+Subestacion 04HLC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04HLC-115'}
+Subestacion 04HLI con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04HLI-115   72020   04HLI-13.8'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04HLI-13.8', '04HLI-230'}
+Subestacion 04HLT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04HLT-115', '04HLT-13.8'}
+Subestacion 04LMD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04LMD-13.8'}
+Subestacion 04LMI con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04LMI-13.8'}
+Subestacion 04LOU con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04LOU-230'}
+Subestacion 04MZD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04MZD-400', '04MZD-13.8'}
+Subestacion 04NGA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04NGA-13.8'}
+Subestacion 04NRI con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04NRI-230'}
+Subestacion 04PLD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04PLD-230'}
+Subestacion 04PNO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04PNO-230', '04PNO-13.8'}
+Subestacion 04SCN con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04SCN-115'}
+Subestacion 04SSA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04SSA-13.8'}
+Subestacion 04STA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04STA-13.8', '04STA-230'}
+Subestacion 04BMO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04BMO-115   73150   04SRA-115', '04BMO-115   73150   04GSV-115', '04BMO-115   73150   04BMO-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04TAP-115   73150   04BMO-115'}
+Subestacion 04CUC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04CUC-115'}
+Subestacion 04GML con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04GML-34.5   C 3'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04GML-34.5   C 2'}
+Subestacion 04GSV con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04BMO-115   73150   04GSV-115', '04GSV-115   73250   04LVS-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04LVS-115   73250   04GSV-115', '04GSV-115   73150   04TAP-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04GSV-115'}
+Subestacion 04HVF con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04HVF-115'}
+Subestacion 04QLA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04QLA-115'}
+Subestacion 04SRA con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04BMO-115   73150   04SRA-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04SRA-115   73150   04TAP-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04SRA-115'}
+Subestacion 04AGI con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04AGI-115'}
+Subestacion 04ANT con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04ANT-115   72020   04ANT-13.8'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04ANT-13.8   C 2'}
+Subestacion 04ASE con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04ASE-13.8'}
+Subestacion 04BZI con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04BZI-13.8'}
+Subestacion 04CBA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04CBA-13.8'}
+Subestacion 04CCA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04CCA-13.8'}
+Subestacion 04HLD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04HLD-115'}
+Subestacion 04HLE con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04HLE-115'}
+Subestacion 04LCH con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04LCH-13.8'}
+Subestacion 04LLB con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04LLB-13.8'}
+Subestacion 04MFN con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04MFN-115'}
+Subestacion 04MMU con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04MMU-115   7210   04MMU-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04MMU-115   72010   04MMU-13.8'}
+Subestacion 04NGN con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04NGN-115'}
+Subestacion 04NGS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04NGS-115'}
+Subestacion 04PPA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04PPA-115'}
+Subestacion 04SBC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04SBC-115'}
+Subestacion 04SBT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04SBT-115'}
+Subestacion 04SNY con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04SNY-115'}
+Subestacion 04SPP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04SPP-115'}
+Subestacion 04LMT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04LMT-115'}
+Subestacion 04LMU con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04LMU-13.8   C 5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04LMU-13.8   C 3'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04LMU-115'}
+Subestacion 04VCM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04VCM-115   73450   04VDY-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04VCM-115   73450   04TAP-115'}
+Subestacion 04VDY con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04VCM-115   73450   04VDY-115', '04VDY-115   73450   04VDY-115', '04BAC-115   73450   04VDY-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'04VDY-115   73450   04TAP-115'}
+Subestacion 05AND con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05AND-115'}
+Subestacion 05AOD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05AOD-115', '05AOD-13.8'}
+Subestacion 05AVL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05AVL-13.8'}
+Subestacion 05CAP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CAP-13.8'}
+Subestacion 05CGD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05ASO-115   73450   05CGD-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CGD-115   73450   05ASO-115', '05CGD-230   93OP0   05CGD-230'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CGD-230', '05CGD-13.8', '05CGD-115'}
+Subestacion 05CHD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CHD-115', '05CHD-13.8'}
+Subestacion 05CPO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CPO-13.8'}
+Subestacion 05CUN con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CUN-13.8'}
+Subestacion 05DGD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05DGD-115', '05DGD-13.8'}
+Subestacion 05ELD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05ELD-34.5   53AB0   05TND-34.5', '05ELD-34.5   53AB0   05TSO-34.5', '05ELD-34.5   53AB0   05TDS-34.5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05ELD-230   92010   05ELD-34.5', '05ELD-230   92020   05ELD-34.5', '05ELD-230   92030   05ELD-34.5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05ELD-230   92020   05TSO-34.5', '05ELD-230   92010   05TDS-34.5', '05ELD-230   92030   05TND-34.5'}
+Subestacion 05END con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05END-230   93JO0   05KST-230', '05END-230   93JP0   05KST-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05END-230   92010   05KST-18', '05END-230   92020   05KST-18', '05END-230   92030   05KST-16.5'}
+Subestacion 05ENO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05ENO-400'}
+Subestacion 05FED con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05FED-230   93JM0   05FED-230', '05FED-230   93JN0   05FED-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 05FVL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05FVL-13.8', '05FVL-115'}
+Subestacion 05GPL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05GPL-115   73100   05ABA-115', '05GPL-115   73410   05CZU-115', '05GPL-115   73600   05FRC-115', '05GPL-115   73070   05FZA-115', '05GPL-230   93JU0   05GPP-230', '05GPL-115   73330   05ABA-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05ABA-115   73330   05GPL-115', '05CZU-115   73410   05GPL-115', '05ABA-115   73100   05GPL-115', '05FRC-115   73600   05GPL-115', '05FZA-115   73070   05GPL-115'}
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05GPL-230   92020   05GPP-13.8', '05GPL-230   92030   05GPP-13.8', '05GPL-230   92010   05GPP-13.8'}
+Subestacion 05GPP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05GPL-230   93JU0   05GPP-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05GPP-230   92020   05GPP-13.8', '05GPP-230   92030   05GPP-13.8', '05GPP-230   92010   05GPP-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05GPL-230   92020   05GPP-13.8', '05GPL-230   92030   05GPP-13.8', '05GPL-230   92010   05GPP-13.8'}
+Subestacion 05HCP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05HCP-400'}
+Subestacion 05JOM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'04MZD-400   A3A30   05JOM-400', '05JOM-115   73960   05DGU-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05JOM-400   A3A30   04MZD-400', '05JOM-230   93OP0   05JOM-230', '05DGU-115   73960   05JOM-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05JOM-400'}
+Subestacion 05KST con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05END-230   93JO0   05KST-230', '05END-230   93JP0   05KST-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05KST-230   92030   05KST-16.5', '05KST-230   92010   05KST-18', '05KST-230   92020   05KST-18'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05END-230   92030   05KST-16.5', '05END-230   92020   05KST-18', '05END-230   92010   05KST-18'}
+Subestacion 05LEN con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05LEN-34.5'}
+Subestacion 05MCZ con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05MCZ-115   73710   05BJZ-115', '05MCZ-115   73730   05BJZ-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05MCZ-230   93OP0   05MCZ-230', '05BJZ-115   73730   05MCZ-115', '05BJZ-115   73710   05MCZ-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05MCZ-13.8', '05MCZ-400', '05MCZ-230'}
+Subestacion 05MES con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05MES-230'}
+Subestacion 05MVI con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05MVI-400'}
+Subestacion 05NAZ con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05NAZ-115'}
+Subestacion 05NCE con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05NCE-230   93JB0   05NOJ-230', '05NCE-230   93JA0   05NOJ-230', '05NCE-230   93660   05SYD-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05NCE-230   93660   05SYC-230'}
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05NCE-230   92030   05NOJ-18', '05NCE-230   92020   05NOJ-18', '05NCE-230   92040   05NOJ-18', '05NCE-230   92060   05NOJ-18', '05NCE-230   92010   05NOJ-18', '05NCE-230   92050   05NOJ-18'}
+Subestacion 05NCG con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05NCG-230   92010   05NCG-1', '05NCG-115   72010   05NCG-1', '05NCG-13.8   42010   05NCG-1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05NCG-230', '05NCG-115', '05NCG-13.8'}
+Subestacion 05NOJ con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05NCE-230   93JA0   05NOJ-230', '05NCE-230   93JB0   05NOJ-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05NOJ-230   92040   05NOJ-18', '05NOJ-230   92010   05NOJ-18', '05NOJ-230   92020   05NOJ-18', '05NOJ-230   92050   05NOJ-18', '05NOJ-230   92030   05NOJ-18', '05NOJ-230   92060   05NOJ-18'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05NCE-230   92040   05NOJ-18', '05NCE-230   92060   05NOJ-18', '05NCE-230   92010   05NOJ-18', '05NCE-230   92050   05NOJ-18', '05NCE-230   92030   05NOJ-18', '05NCE-230   92020   05NOJ-18'}
+Subestacion 05QVD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05QVD-13.8', '05QVD-115'}
+Subestacion 05SGD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05SGD-115', '05SGD-13.8'}
+Subestacion 05SPP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05SPP-13.8'}
+Subestacion 05SYC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05SYC-230   93JB0   05SYD-230', '05SYC-230   93JA0   05SYD-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05SYC-230   93300   05SYS-230', '05NCE-230   93660   05SYC-230'}
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05SYC-230   92340   05SYD-1', '05SYC-230   92560   05SYD-1', '05SYC-230   92780   05SYD-1'}
+Subestacion 05SYD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05SYC-230   93JB0   05SYD-230', '05NCE-230   93660   05SYD-230', '05SYD-230   93300   05SYS-230', '05SYC-230   93JA0   05SYD-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05SYD-230   92560   05SYD-1', '05SYD-230   92780   05SYD-1', '05SYD-230   92340   05SYD-1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05SYC-230   92340   05SYD-1', '05SYC-230   92560   05SYD-1', '05SYC-230   92780   05SYD-1'}
+Subestacion 05SYS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05SYD-230   93300   05SYS-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05SYC-230   93300   05SYS-230'}
+Subestacion 05TDS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05ELD-34.5   53AB0   05TDS-34.5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05ELD-230   92010   05TDS-34.5'}
+Subestacion 05TER con diferencias encontradas:
+Subestacion 05TND con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05ELD-34.5   53AB0   05TND-34.5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05ELD-230   92030   05TND-34.5'}
+Subestacion 05TRS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05TRS-115'}
+Subestacion 05TSO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05ELD-34.5   53AB0   05TSO-34.5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05ELD-230   92020   05TSO-34.5'}
+Subestacion 05VHS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05VHS-34.5'}
+Subestacion 05VJZ con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05VJZ-115'}
+Subestacion 05ABG con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05ABG-13.8'}
+Subestacion 05ALV con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05ALV-13.8'}
+Subestacion 05ARM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05ARM-13.8'}
+Subestacion 05BOQ con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05BOQ-4.16   23AB0   05BQL-4.16'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05BOQ-4.16   23AB0   05BOQ-4.16'}
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05BOQ-4.16   22010   05BQL-13.8'}
+Subestacion 05BQL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05BOQ-4.16   23AB0   05BQL-4.16'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05BQL-13.8   42010   05BQL-4.16'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05BOQ-4.16   22010   05BQL-13.8'}
+Subestacion 05CAT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CAT-115'}
+Subestacion 05DEL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05DEL-13.8'}
+Subestacion 05DLD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05DLD-13.8'}
+Subestacion 05LCS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05LCS-34.5'}
+Subestacion 05NHO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05NHO-115', '05NHO-34.5'}
+Subestacion 05OAS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05OAS-115'}
+Subestacion 05OJI con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05OJI-34.5   C 3'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05OJI-34.5   C 2'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05OJI-115'}
+Subestacion 05RIF con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05RIF-13.8', '05RIF-34.5'}
+Subestacion 05TBA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05TBA-115'}
+Subestacion 05THS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05THS-115'}
+Subestacion 05VCM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05VCM-115'}
+Subestacion 05AVO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05AVO-115'}
+Subestacion 05BAS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05BAS-115'}
+Subestacion 05CAS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CAS-115   73530   05IMC-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CAS-23.9'}
+Subestacion 05CCD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CCD-23.9'}
+Subestacion 05CHC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CHC-115'}
+Subestacion 05CRC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CRC-34.5'}
+Subestacion 05DIV con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05DIV-115'}
+Subestacion 05FMR con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05FMR-23.9'}
+Subestacion 05HDS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05HDS-23.9'}
+Subestacion 05LZM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05LZM-34.5'}
+Subestacion 05MBA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05MBA-34.5'}
+Subestacion 05MCO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05MCO-115', '05MCO-34.5'}
+Subestacion 05NCB con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05NCB-34.5'}
+Subestacion 05PMR con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05PMR-23.9'}
+Subestacion 05POE con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05POE-13.8   43080   05POE-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05POE-13.8   43-80   05POE-13.8'}
+Subestacion 05RCS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05RCS-115'}
+Subestacion 05SAU con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05SAU-23.9'}
+Subestacion 05SFB con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05SFB-34.5'}
+Subestacion 05TBL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05TBL-23.9'}
+Subestacion 05CDM con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05CDM-115   72020   05CDM-4.16', '05CDM-115   72010   05CDM-4.16'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CDM-115   72010   05CMD-4.16', '05CDM-115   72020   05CMD-4.16'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05CDM-4.16   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 05CHA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CHA-34.5'}
+Subestacion 05CID con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CID-115'}
+Subestacion 05CLI con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CLI-34.5'}
+Subestacion 05CME con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CME-13.8'}
+Subestacion 05ESL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05ESL-34.5'}
+Subestacion 05GVR con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05GVR-34.5'}
+Subestacion 05LAF con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05LAF-34.5'}
+Subestacion 05VGR con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05VGR-115'}
+Subestacion 05AEP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05AEP-13.8'}
+Subestacion 05AON con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05AON-115'}
+Subestacion 05APR con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05APR-115   73630   05IGS-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05IGS-115   73630   05APR-115', '10EPE-115   73130   05APR-115'}
+Subestacion 05AZT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05AZT-13.8'}
+Subestacion 05CER con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CER-13.8'}
+Subestacion 05CGR con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CGR-115'}
+Subestacion 05CLG con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CLG-115'}
+Subestacion 05CVA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CVA-115'}
+Subestacion 05CZL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CZL-115'}
+Subestacion 05FTS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05FTS-115   73230   05TEC-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CSI-115   73230   05FTS-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05FTS-13.8'}
+Subestacion 05GJO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05GJO-115'}
+Subestacion 05GNA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05GNA-34.5', '05GNA-115'}
+Subestacion 05IGS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05IGS-115'}
+Subestacion 05JOS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05JOS-115'}
+Subestacion 05LAG con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05LAG-13.8'}
+Subestacion 05LSA con diferencias encontradas:
+Subestacion 05PAT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05PAT-13.8'}
+Subestacion 05PMS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05PMS-115'}
+Subestacion 05RVA con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05VJZ-115   73080   05RVA-115', '05VJZ-115   73090   05RVA-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'10EPE-115   73280   05RVA-115', '05RVA-115   73090   05VJZ-115', '05RVA-115   73080   05VJZ-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05RVA-115'}
+Subestacion 05SBV con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05SBV-115'}
+Subestacion 05SJE con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05SJE-34.5'}
+Subestacion 05TEC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05VJZ-115   73030   05TEC-115', '05FTS-115   73230   05TEC-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CSI-115   73230   05TEC-115', '05TEC-115   73030   05VJZ-115'}
+Subestacion 05ALL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05ALL-115'}
+Subestacion 05BAT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05BAT-115'}
+Subestacion 05CEB con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CEB-115', '05CEB-13.8'}
+Subestacion 05CFN con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CFN-115'}
+Subestacion 05CRN con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05GGP-13.8   43050   05CRN-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CRN-13.8'}
+Subestacion 05CZU con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CZU-115'}
+Subestacion 05EDU con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05EDU-115   72020   05EDU-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05EDU-115   72020   05ED2-13.8'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05EDU-13.8   C 2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 05FRC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05FRC-115'}
+Subestacion 05LGA con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05NAZ-115   73470   05LGA-115', '05LGA-115   73A70   05LGB-115', '05LGA-115   73A40   05LGD-115', '05LGA-115   73A80   05LGB-115', '05LGA-115   73A60   05LGD-115', '05LGA-115   73A10   05LGB-115', '05LGA-115   73A30   05LGB-115', '05LGA-115   73A50   05LGB-115', '05LGA-115   73A20   05LGD-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05LGA-115   73AB0   05LGB-115', '05LGA-115   73AB0   05LGD-115', '05LGA-115   73470   05NAZ-115'}
+Subestacion 05LGB con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05LGA-115   73A70   05LGB-115', '05LGA-115   73A80   05LGB-115', '05LGA-115   73A10   05LGB-115', '05LGA-115   73A30   05LGB-115', '05LGA-115   73A50   05LGB-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05LGA-115   73AB0   05LGB-115'}
+Subestacion 05LGD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'05LGA-115   73A60   05LGD-115', '05LGA-115   73A20   05LGD-115', '05LGD-115   73080   05SCT-115', '05LGA-115   73A40   05LGD-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05SCT-115   73080   05LGD-115', '05LGA-115   73AB0   05LGD-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05LGD-115'}
+Subestacion 05LRE con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05LRE-115'}
+Subestacion 05PDA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05PDA-115', '05PDA-34.5'}
+Subestacion 05PRA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05PRA-115'}
+Subestacion 05PSA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05PSA-13.8'}
+Subestacion 05RVO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05RVO-13.8'}
+Subestacion 05VDS con diferencias encontradas:
+Subestacion 06ADC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ADC-400', '06ADC-138', '06ADC-230'}
+Subestacion 06AER con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06AER-400', '06AER-138'}
+Subestacion 06ALT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ALT-400'}
+Subestacion 06AMD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06AMD-34.5'}
+Subestacion 06AMT con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06AMT-34.5   52010   06AMT-1', '06AMT-230   92010   06AMT-1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06AMT-34.5   52010   06AMT-0.1', '06AMT-230   92010   06AMT-0.1'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06AMT-34.5'}
+Subestacion 06ANP con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06ANP-400   A2020   06ANP-1', '06ANP-115   72010   06ANP-1', '06ANP-13.8   42010   06ANP-1', '06ANP-400   A2010   06ANP-1', '06ANP-115   72020   06ANP-1', '06ANP-13.8   42020   06ANP-1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ANP-13.8   42010   06ANP-0.1', '06ANP-115   72020   06ANP-0.1', '06ANP-115   72010   06ANP-0.1', '06ANP-400   A2020   06ANP-0.1', '06ANP-400   A2010   06ANP-0.1', '06ANP-13.8   42020   06ANP-0.1'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ANP-400'}
+Subestacion 06ASN con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06ASN-13.2   43BC0   06VOT-13.2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ASN-13.2   43AB0   06VOT-13.2'}
+Subestacion 06CBD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CBD-400'}
+Subestacion 06CCD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06CCD-115   73S50   06PBT-115', '06CCD-115   73S40   06PBT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CCD-115   73AB0   06PBC-115'}
+Subestacion 06CCL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CCL-115   73AB0   06PBT-115', '06CCL-115   73AB0   06PBO-115', '06CCL-115   73AB0   06PBU-115', '06CCL-115   73AB0   06PBD-115', '06CCL-115   73AB0   06PBC-115'}
+Subestacion 06CDU con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06CDU-400   A3E60   06LCM-400', '06CDU-400   A3E50   06LCM-400'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CDU-400   A3E50   06HUI-400', '06CDU-400   A3E60   06HUI-400'}
+Subestacion 06CED con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CED-115'}
+Subestacion 06CGA con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06CGA-230   92010   06CGA-19'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CGA-230   92010   06CGA-20'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06CGA-19   C 3'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CGA-20   C 3'}
+Subestacion 06CJO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CJO-34.5'}
+Subestacion 06CLR con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06CLR-23.5   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CLR-23.5   C 4'}
+Subestacion 06CNK con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06CNK-13.8   C 4'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CNK-13.8   C 1'}
+Subestacion 06CNS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CNS-34.5'}
+Subestacion 06CPY con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CPY-400'}
+Subestacion 06CUF con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CUF-138'}
+Subestacion 06CYN con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06CYN-115   73JA0   06CYN-115', '06PBC-115   73480   06CYN-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CYN-115   73AB0   06CYN-115', '06CYN-115   73480   06PBC-115'}
+Subestacion 06DEP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06DEP-400   A3L50   06DEP-400'}
+Subestacion 06DLS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06DLS-34.5'}
+Subestacion 06DMD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06DMD-400'}
+Subestacion 06DUT con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06DUT-13.8   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06DUT-13.8   C 5'}
+Subestacion 06ECH con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ECH-34.5'}
+Subestacion 06ECV con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ECV-34.5'}
+Subestacion 06EMC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06EMC-34.5'}
+Subestacion 06EMP con diferencias encontradas:
+Subestacion 06ERY con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06ERY-34.5   52010   06ERY-1', '06ERY-400   A2020   06ERY-1', '06ERY-34.5   52020   06ERY-1', '06ERY-400   A2010   06ERY-1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ERY-400   A2010   06ERY-0.1', '06ERY-400   A2020   06ERY-0.1', '06ERY-34.5   52020   06ERY-0.1', '06ERY-34.5   52010   06ERY-0.1'}
+Subestacion 06ESC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ESC-115'}
+Subestacion 06FRO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06FRO-400'}
+Subestacion 06GUE con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06GUE-115   73680   06ESR-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ESR-115   73680   06GUE-115', '06GUE-400   A3OP0   06GUE-400'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06GUE-400'}
+Subestacion 06HUI con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06HUI-400   A3JA0   06HUI-400', '06HUI-400   A3JB0   06LCM-400', '06HUI-400   A3JB0   06HUI-400', '06HUI-400   A3JA0   06LCM-400'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CDU-400   A3E50   06HUI-400', '06CDU-400   A3E60   06HUI-400'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06HUI-400'}
+Subestacion 06JEP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06JEP-115'}
+Subestacion 06LAJ con diferencias encontradas:
+Subestacion 06LAM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06LAM-400'}
+Subestacion 06LIA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06LIA-34.5'}
+Subestacion 06LLC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06LLC-400'}
+Subestacion 06MES con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06MES-400'}
+Subestacion 06MMP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06MMP-138'}
+Subestacion 06MTY con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06MTY-115'}
+Subestacion 06NIC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06NIC-115'}
+Subestacion 06NVS con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06NVS-138   83120   06ACD-138', '06NVS-138   83890   06PNG-138', '06NVS-138   83280   06AUA-138'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ACD-138   83120   06NVS-138', '06AUA-138   83280   06NVS-138'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06NVS-230', '06NVS-138'}
+Subestacion 06PCA con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06PCA-115   73660   06ETK-115', '06PCA-115   73670   06ETK-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ETK-115   73660   06PCA-115'}
+Subestacion 06PCD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06PCD-230   93JU0   06PRF-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06PCD-230   C 1', '06PCD-230   C 2'}
+Subestacion 06PEC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06PEC-34.5'}
+Subestacion 06PQT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06PQT-115   73JA0   06PQT-115', '06PQT-115   73100   06APO-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06APO-115   73100   06PQT-115'}
+Subestacion 06PST con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06PST-34.5'}
+Subestacion 06RAP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06RAP-400'}
+Subestacion 06REC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06REC-400'}
+Subestacion 06RIB con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06RIB-138   83480   06PIC-138', '06RIB-138   83660   06NVP-138', '06RIB-138   83490   06RBP-138'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06PIC-138   83480   06RIB-138', '06NVP-138   83660   06RIB-138', '06RBP-138   83490   06RIB-138', '06RIB-13.8   43AB0   06RIB-13.8'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06RIB-138'}
+Subestacion 06SAL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06SAL-115'}
+Subestacion 06TMO con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06TMO-115   72020   06TMO-1', '06TMO-400   A2020   06TMO-1', '06TMO-13.8   42020   06TMO-1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06TMO-400   A2020   06TMO-0.1', '06TMO-115   72020   06TMO-0.1', '06TMO-13.8   42020   06TMO-0.1'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06TMO-400'}
+Subestacion 06TMS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06TMS-400'}
+Subestacion 06VCG con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06VCG-34.5'}
+Subestacion 06VDG con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06VDG-400'}
+Subestacion 06VKD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06VKD-34.5'}
+Subestacion 06VKU con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06VKU-34.5'}
+Subestacion 06CER con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CER-115'}
+Subestacion 06AMI con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06AMI-138'}
+Subestacion 06AUA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06AUA-138'}
+Subestacion 06CID con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CID-138'}
+Subestacion 06CRO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06CVC-138   83930   06CRO-138', '06REC-138   83160   06CRO-138', '06CRO-138   83JU0   06MCR-138'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CRO-138   83140   06FTE-138', '06CRO-138   83160   06REC-138', '06CRO-138   83930   06CVC-138', '06CRO-138   83140   06NAV-138'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CRO-138   C 4'}
+Subestacion 06FTE con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06LBA-13.8   43AB0   06FTE-13.8', '06FTE-138   83140   06MCR-138'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CRO-138   83140   06FTE-138', '06FTE-13.8   43AB0   06LBA-13.8'}
+Subestacion 06NAV con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06MDS-138   83150   06NAV-138', '06NUR-230   93030   06NAV-230', '06MCR-138   83140   06NAV-138', '06NUR-230   93630   06NAV-230', '06REC-230   93570   06NAV-230', '06REC-230   93560   06NAV-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06NAV-230   93560   06REC-230', '06NAV-230   93570   06REC-230', '06NAV-230   93630   06NUR-230', '06NAV-138   83150   06MDS-138', '06NAV-230   93030   06NUR-230', '06CRO-138   83140   06NAV-138'}
+Subestacion 06NUL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06NUL-138'}
+Subestacion 06PIU con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06PIU-138'}
+Subestacion 06PNE con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06PNE-34.5   C 3'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06PNE-34.5   C 1'}
+Subestacion 06PNG con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06REC-230   93250   06PNG-230', '06NVS-138   83890   06PNG-138'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06PNG-230   93250   06REC-230'}
+Subestacion 06XOC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06XOC-115'}
+Subestacion 06ANZ con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ANZ-138'}
+Subestacion 06FND con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06FND-115'}
+Subestacion 06INV con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06INV-138'}
+Subestacion 06MTM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06MTM-138'}
+Subestacion 06REY con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06REY-138'}
+Subestacion 06AXA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06AXA-115'}
+Subestacion 06ENA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ENA-13.8'}
+Subestacion 06ETK con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06PCA-115   73660   06ETK-115', '06PCA-115   73670   06ETK-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ETK-115   73660   06PCA-115', '06ETK-115   73670   06GPT-115'}
+Subestacion 06GPT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ETK-115   73670   06GPT-115'}
+Subestacion 06JIM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06JIM-115'}
+Subestacion 06MAN con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06MAN-115'}
+Subestacion 06PCN con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06PCN-115   72010   06PCN-13.8'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06PCN-13.8   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06PCN-115   C 2'}
+Subestacion 06TPC con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06TPC-115   72060   06TPC-1', '06TPC-230   92050   06TPC-1', '06TPC-13.8   42060   06TPC-1', '06TPC-13.8   42050   06TPC-1', '06TPC-115   72050   06TPC-1', '06TPC-230   92060   06TPC-1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06TPC-230   92060   06TPC-0.1', '06TPC-115   72050   06TPC-0.1', '06TPC-13.8   42060   06TPC-0.1', '06TPC-115   72060   06TPC-0.1', '06TPC-230   92050   06TPC-0.1', '06TPC-13.8   42050   06TPC-0.1'}
+Subestacion 06ALN con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ALN-115'}
+Subestacion 06VDS con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06VDS-115'}
+Subestacion 06CEL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CEL-115'}
+Subestacion 06DON con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06DON-115'}
+Subestacion 06LEO con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06LEO-115'}
+Subestacion 06NOG con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06NOG-115'}
+Subestacion 06PBC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06RGM-115   73S40   06PBC-115', '06PBC-115   73480   06CYN-115', '06PBC-115   73S50   06CDT-115', '06RGM-115   73S50   06PBC-115', '06PBC-115   73S40   06CDT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CDT-115   73AB0   06PBC-115', '06PBC-115   73S40   06RGM-115', '06CCD-115   73AB0   06PBC-115', '06PBC-115   73S50   06RGM-115', '06CYN-115   73480   06PBC-115', '06CCL-115   73AB0   06PBC-115'}
+Subestacion 06PBD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06PBD-115   73490   06PBU-115', '06PBD-115   73480   06PBU-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CCL-115   73AB0   06PBD-115'}
+Subestacion 06PBO con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06PBO-115   73480   06PBU-115', '06PBO-115   73490   06PBU-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CCL-115   73AB0   06PBO-115'}
+Subestacion 06PBT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06CCD-115   73S50   06PBT-115', '06PBT-115   73S50   06CDT-115', '06PBT-115   73S40   06CDT-115', '06CCD-115   73S40   06PBT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CCL-115   73AB0   06PBT-115'}
+Subestacion 06PBU con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06PBD-115   73490   06PBU-115', '06PBO-115   73480   06PBU-115', '06PBD-115   73480   06PBU-115', '06PBO-115   73490   06PBU-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CCL-115   73AB0   06PBU-115'}
+Subestacion 06PEM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06PEM-115'}
+Subestacion 06TEC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06TEC-115'}
+Subestacion 06ALP con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ALP-115'}
+Subestacion 06NVD con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06NVD-115'}
+Subestacion 06ACP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06ACP-115   73430   06ALE-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ACP-115   73010   06ALE-115'}
+Subestacion 06ALE con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06CIS-115   73430   06ALE-115', '06MTP-115   73430   06ALE-115', '06ACP-115   73430   06ALE-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ALE-115   73430   06MTP-115', '06ALE-115   73430   06CIS-115', '06ACP-115   73010   06ALE-115'}
+Subestacion 06CAT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CAT-115'}
+Subestacion 06CDT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06PBC-115   73S40   06CDT-115', '06PBT-115   73S50   06CDT-115', '06PBC-115   73S50   06CDT-115', '06PBT-115   73S40   06CDT-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06CDT-115   73AB0   06PBC-115'}
+Subestacion 06EST con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06EST-115'}
+Subestacion 06LOL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06LOL-115'}
+Subestacion 06MIT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06MIT-115'}
+Subestacion 06ROQ con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ROQ-115'}
+Subestacion 06VOT con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06ASN-13.2   43BC0   06VOT-13.2'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'06ASN-13.2   43AB0   06VOT-13.2'}
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'06VOT-115   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 08BLM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08BLM-13.8', '08BLM-115'}
+Subestacion 08CHY con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08CHY-115   73790   08AVP-115'}
+Subestacion 08CPC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08CPC-230   93JV0   08SLC-230', '08CPC-230   93JS0   08SLC-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08CPC-230   92010   08CPC-16'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08SLC-230   92010   08CPC-16'}
+Subestacion 08DZT con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08DZT-400'}
+Subestacion 08ESA con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08ESA-115   73150   08CBU-115', '02TSP-400   A3Q00   08ESA-400', '02TSP-400   A3Q10   08ESA-400', '08ESA-230   93210   08KAH-230', '08CAS-115   73A90   08ESA-115', '08ESA-400   A3SL0   08ESA-400', '08ESA-230   93SL0   08ESA-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08ESA-115   73A90   08CAS-115', '08ESA-400   A3Q00   02TSP-400', '08ESA-400   A3Q10   02TSP-400', '08CBU-115   73150   08ESA-115', '08KAH-230   93210   08ESA-230', '08ESA-400   A3P20   08ESA-400', '08ESA-230   93P10   08ESA-230'}
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08ESA-400   A2070   08ESA-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08ESA-400   A2070   08ESA-1', '08ESA-230   92070   08ESA-1'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08ESA-400', '08ESA-230', '08ESA-13.8'}
+Subestacion 08IZL con diferencias encontradas:
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08KIM-115   72010   08IZL-34.5'}
+    generadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08IZL-C1'}
+Subestacion 08KBL con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08KBL-115'}
+Subestacion 08KIM con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08IZL-115   73860   08KIM-115', '08KIM-115   7310   08KIM-115', '08KIM-115   73500   08NCM-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08KIM-115   73860   08IZL-115', '08NCM-115   73500   08KIM-115', '08KIM-115   73OP0   08KIM-115'}
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08KIM-115   72010   08KIM-34.5'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08KIM-115   72010   08IZL-34.5'}
+    generadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08KIM-CE', '08KIM-C1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 08KOP con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08KOP-13.8   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08KOP-13.8   C 2'}
+Subestacion 08LRA con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08LRA-230'}
+Subestacion 08MDP con diferencias encontradas:
+    cargas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08MDP-230   C 1'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+Subestacion 08NIZ con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08NIZ-115   73780   08PTP-115', '08NIZ-115   73700   08HAA-115', '08NIZ-115   73470   08BNI-115', '08NIZ-115   73480   08TIN-115', '08NIZ-115   73C20   08PMO-115', '08NIZ-115   73800   08CNC-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08PMO-115   73C20   08NIZ-115', '08BNI-115   73470   08NIZ-115', '08PTP-115   73780   08NIZ-115', '08CNC-115   73800   08NIZ-115', '08HAA-115   73700   08NIZ-115', '08TIN-115   73480   08NIZ-115', '08NIZ-115   73OP0   08NIZ-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08NIZ-230', '08NIZ-13.8', '08NIZ-115'}
+Subestacion 08PCN con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08PCN-13.8', '08PCN-115'}
+Subestacion 08PTE con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08PTE-115'}
+Subestacion 08RMY con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08RMY-400'}
+Subestacion 08SLC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08CPC-230   93JV0   08SLC-230', '08CPC-230   93JS0   08SLC-230'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    transformadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08SLC-230   92010   08CPC-16'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08SLC-230'}
+Subestacion 08SUR con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08SUR-115'}
+Subestacion 08TIC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08TIC-230', '08TIC-13.8', '08TIC-400'}
+Subestacion 08VAD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08CEX-115   73T40   08VAD-115', '08VAD-230   93JD0   08VAD-230', '08UAY-115   73490   08VAD-115', '08VAD-230   93JC0   08VAD-230', '08VAD-115   73830   08TUM-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08VAD-115   73490   08UAY-115', '08TUM-115   73830   08VAD-115', '08VAD-115   73T40   08CEX-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08VAD-230'}
+Subestacion 08VDD con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08SAE-115   73T20   08VDD-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08VDD-115   73T20   08SAE-115', '08VDD-115   73AB0   08VDD-115'}
+Subestacion 08XUL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08XUL-115   73250   08INS-115', '08XUL-115   73260   08CTE-115', '08XUL-115   73SL0   08XUL-115', '08XUL-115   73A80   08XPU-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08XUL-115   73OP0   08XUL-115', '08XPU-115   73A80   08XUL-115', '08INS-115   73250   08XUL-115', '08CTE-115   73260   08XUL-115'}
+    generadores:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08XUL-CE'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> set()
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08XUL-115', '08XUL-13.8', '08XUL-230'}
+Subestacion 08CNR con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08CNR-115'}
+Subestacion 08CRE con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08CRE-115   73OP0   08CRE-115'}
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08CRE-115'}
+Subestacion 08CYL con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08LRA-115   73140   08CYL-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08CYL-115   73140   08LRA-115', '08CYL-115   73140   08CYL-115'}
+Subestacion 08PYU con diferencias encontradas:
+Subestacion 08AVP con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08CHY-115   73790   08AVP-115'}
+Subestacion 08CEK con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08CEK-115'}
+Subestacion 08CLC con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> {'08PCN-115   73790   08CLC-115'}
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08CLC-115   73790   08PCN-115', '08CLC-115   73790   08CLC-115'}
+Subestacion 08CNC con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08CNC-115'}
+Subestacion 08PJU con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08PJU-115'}
+Subestacion 08TUM con diferencias encontradas:
+    sw_sunts:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'08TUM-115'}
+Subestacion 05CSI con diferencias encontradas:
+    lineas:
+      Equipos en 03May2024_ABB_CS.raw que no estan en 29Abr2024_CS_v2.raw -> set()
+      Equipos en 29Abr2024_CS_v2.raw que no estan en 03May2024_ABB_CS.raw -> {'05CSI-115   73230   05TEC-115', '05CSI-115   73230   05FTS-115'}

@@ -2,7 +2,7 @@
 <resource xmlns="http://www.wxwidgets.org/wxxrc" version="2.5.3.0">
   <object class="wxFrame" name="MainF">
     <style>wxDEFAULT_FRAME_STYLE|wxTAB_TRAVERSAL</style>
-    <title>Validaciones USO</title>
+    <title>Validaciones MRF</title>
     <centered>1</centered>
     <aui_managed>0</aui_managed>
     <object class="wxBoxSizer" name="Sizer0">
@@ -30,7 +30,7 @@
                       <border>5</border>
                       <option>0</option>
                       <object class="wxStaticBitmap" name="logo_cen1">
-                        <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\CENACE-logo-completo.png</bitmap>
+                        <bitmap></bitmap>
                       </object>
                     </object>
                     <object class="sizeritem">
@@ -164,6 +164,7 @@
                   <border>5</border>
                   <option>1</option>
                   <object class="wxBoxSizer" name="Logger_Sizer">
+                    <minsize>400,-1</minsize>
                     <orient>wxVERTICAL</orient>
                     <object class="sizeritem">
                       <flag>wxALL|wxEXPAND</flag>
@@ -197,7 +198,7 @@
                       <border>5</border>
                       <option>0</option>
                       <object class="wxStaticBitmap" name="logo_cen2">
-                        <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\CENACE-logo-completo.png</bitmap>
+                        <bitmap></bitmap>
                       </object>
                     </object>
                     <object class="sizeritem">
@@ -223,6 +224,8 @@
                           <option>0</option>
                           <object class="wxDirPickerCtrl" name="Data_athSelect1">
                             <style>wxDIRP_DEFAULT_STYLE|wxDIRP_DIR_MUST_EXIST</style>
+                            <enabled>0</enabled>
+                            <hidden>1</hidden>
                             <value>Seleccioanr directorio de insumos</value>
                             <message>Seleccionar carpeta</message>
                           </object>
@@ -431,7 +434,7 @@
                   <object class="wxNotebook" name="RAW_nb">
                     <object class="notebookpage">
                       <label>Comparación</label>
-                      <selected>0</selected>
+                      <selected>1</selected>
                       <object class="wxPanel" name="RAWParameters_Panel">
                         <style>wxTAB_TRAVERSAL</style>
                         <bg>#ffffff</bg>
@@ -454,7 +457,7 @@
                                 <border>5</border>
                                 <option>0</option>
                                 <object class="wxStaticBitmap" name="logo_cen3">
-                                  <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\CENACE-logo-completo.png</bitmap>
+                                  <bitmap></bitmap>
                                 </object>
                               </object>
                               <object class="sizeritem">
@@ -465,41 +468,100 @@
                                   <orient>wxHORIZONTAL</orient>
                                   <label>Parámetros de control</label>
                                   <object class="sizeritem">
-                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
-                                    <border>10</border>
+                                    <flag>wxEXPAND</flag>
+                                    <border>5</border>
                                     <option>1</option>
-                                    <object class="wxCheckListBox" name="_sistema">
-                                      <style>wxLB_SINGLE|wxBORDER_NONE</style>
-                                      <font>
-                                        <style>normal</style>
-                                        <weight>normal</weight>
-                                        <family>default</family>
-                                        <underlined>0</underlined>
-                                      </font>
-                                      <content>
-                                        <item>SIN</item>
-                                        <item>BCA</item>
-                                        <item>BCS</item>
-                                      </content>
+                                    <object class="wxBoxSizer" name="sistem_Sizer">
+                                      <orient>wxVERTICAL</orient>
+                                      <object class="sizeritem">
+                                        <flag>wxALL|wxALIGN_CENTER_HORIZONTAL</flag>
+                                        <border>5</border>
+                                        <option>0</option>
+                                        <object class="wxStaticText" name="sistem_SText">
+                                          <label>Seleccionar sistema</label>
+                                          <wrap>-1</wrap>
+                                        </object>
+                                      </object>
+                                      <object class="sizeritem">
+                                        <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                        <border>10</border>
+                                        <option>1</option>
+                                        <object class="wxCheckListBox" name="_sistema">
+                                          <style>wxLB_SINGLE|wxBORDER_NONE</style>
+                                          <font>
+                                            <style>normal</style>
+                                            <weight>normal</weight>
+                                            <family>default</family>
+                                            <underlined>0</underlined>
+                                          </font>
+                                          <content>
+                                            <item>SIN</item>
+                                            <item>BCA</item>
+                                            <item>BCS</item>
+                                          </content>
+                                        </object>
+                                      </object>
+                                    </object>
+                                  </object>
+                                  <object class="sizeritem">
+                                    <flag>wxEXPAND</flag>
+                                    <border>5</border>
+                                    <option>1</option>
+                                    <object class="wxBoxSizer" name="control_Sizer">
+                                      <orient>wxVERTICAL</orient>
+                                      <object class="sizeritem">
+                                        <flag>wxALL|wxALIGN_CENTER_HORIZONTAL</flag>
+                                        <border>5</border>
+                                        <option>0</option>
+                                        <object class="wxStaticText" name="control_Sizer">
+                                          <label>Control de RAW</label>
+                                          <wrap>-1</wrap>
+                                        </object>
+                                      </object>
+                                      <object class="sizeritem">
+                                        <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                        <border>5</border>
+                                        <option>1</option>
+                                        <object class="wxCheckListBox" name="analisis">
+                                          <style>wxBORDER_NONE</style>
+                                          <font>
+                                            <style>normal</style>
+                                            <weight>normal</weight>
+                                            <family>default</family>
+                                            <underlined>0</underlined>
+                                          </font>
+                                          <content>
+                                            <item>Seleccionar ultimo RAW de SP7</item>
+                                            <item>Seleccionar ultimo RAW de ABB</item>
+                                            <item>Seleccionar RAW</item>
+                                          </content>
+                                        </object>
+                                      </object>
                                     </object>
                                   </object>
                                   <object class="sizeritem">
                                     <flag>wxALL|wxEXPAND|wxLEFT</flag>
                                     <border>5</border>
                                     <option>1</option>
-                                    <object class="wxCheckListBox" name="analisis">
-                                      <style>wxBORDER_NONE</style>
-                                      <font>
-                                        <style>normal</style>
-                                        <weight>normal</weight>
-                                        <family>default</family>
-                                        <underlined>0</underlined>
-                                      </font>
-                                      <content>
-                                        <item>Seleccionar ultimo RAW de SP7</item>
-                                        <item>Seleccionar ultimo RAW de ABB</item>
-                                        <item>Seleccionar RAW</item>
-                                      </content>
+                                    <object class="wxBoxSizer" name="tol_Sizer">
+                                      <orient>wxVERTICAL</orient>
+                                      <object class="sizeritem">
+                                        <flag>wxALL|wxALIGN_CENTER_HORIZONTAL</flag>
+                                        <border>5</border>
+                                        <option>0</option>
+                                        <object class="wxStaticText" name="param_Stext">
+                                          <label>Tolerancia de párametros</label>
+                                          <wrap>-1</wrap>
+                                        </object>
+                                      </object>
+                                      <object class="sizeritem">
+                                        <flag>wxALL|wxALIGN_CENTER_HORIZONTAL</flag>
+                                        <border>5</border>
+                                        <option>0</option>
+                                        <object class="wxTextCtrl" name="param_textCtrl">
+                                          <value></value>
+                                        </object>
+                                      </object>
                                     </object>
                                   </object>
                                 </object>
@@ -525,8 +587,8 @@
                                     <flag>wxALL|wxEXPAND|wxLEFT</flag>
                                     <border>5</border>
                                     <option>1</option>
-                                    <object class="wxCheckBox" name="m_checkBox9">
-                                      <label>El RAW es de ABB</label>
+                                    <object class="wxCheckBox" name="raw_flag1">
+                                      <label>El RAW es formato SP7</label>
                                       <checked>0</checked>
                                     </object>
                                   </object>
@@ -553,8 +615,8 @@
                                     <flag>wxALL|wxEXPAND|wxLEFT</flag>
                                     <border>5</border>
                                     <option>1</option>
-                                    <object class="wxCheckBox" name="m_checkBox91">
-                                      <label>El RAW es de ABB</label>
+                                    <object class="wxCheckBox" name="raw_flag2">
+                                      <label>El RAW es formato SP7</label>
                                       <checked>0</checked>
                                     </object>
                                   </object>
@@ -592,8 +654,8 @@
                                     <flag>wxALL|wxEXPAND|wxLEFT</flag>
                                     <border>5</border>
                                     <option>0</option>
-                                    <object class="wxButton" name="m_button18111">
-                                      <label>Comparar RAWs</label>
+                                    <object class="wxButton" name="comp_topol_bto">
+                                      <label>Comparar topología</label>
                                       <default>0</default>
                                       <auth_needed>0</auth_needed>
                                       <markup>0</markup>
@@ -604,7 +666,7 @@
                                     <flag>wxALL|wxEXPAND|wxLEFT</flag>
                                     <border>5</border>
                                     <option>0</option>
-                                    <object class="wxButton" name="m_button1811">
+                                    <object class="wxButton" name="comp_param_bto">
                                       <label>Comparar parámetros</label>
                                       <default>0</default>
                                       <auth_needed>0</auth_needed>
@@ -630,7 +692,7 @@
                     </object>
                     <object class="notebookpage">
                       <label>Diagrama de subestación</label>
-                      <selected>1</selected>
+                      <selected>0</selected>
                       <object class="wxPanel" name="RAWDiagram_Panel">
                         <style>wxTAB_TRAVERSAL</style>
                         <font>
@@ -658,7 +720,7 @@
                                     <border>5</border>
                                     <option>0</option>
                                     <object class="wxStaticBitmap" name="logo_cen31">
-                                      <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\CENACE-logo-completo.png</bitmap>
+                                      <bitmap></bitmap>
                                     </object>
                                   </object>
                                   <object class="sizeritem">
@@ -667,15 +729,36 @@
                                     <option>1</option>
                                     <object class="wxStaticBoxSizer" name="Bus_BSizer">
                                       <orient>wxVERTICAL</orient>
-                                      <label>Buses</label>
+                                      <label>Ramas</label>
                                       <object class="sizeritem">
-                                        <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                        <flag>wxEXPAND</flag>
                                         <border>5</border>
                                         <option>0</option>
-                                        <object class="wxSearchCtrl" name="RAW_searchCtrl">
-                                          <style>wxTE_PROCESS_ENTER</style>
-                                          <enabled>0</enabled>
-                                          <value></value>
+                                        <object class="wxBoxSizer" name="ramas_Sizer1">
+                                          <orient>wxHORIZONTAL</orient>
+                                          <object class="sizeritem">
+                                            <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                            <border>5</border>
+                                            <option>1</option>
+                                            <object class="wxSearchCtrl" name="RAW_searchCtrl">
+                                              <style>wxTE_PROCESS_ENTER</style>
+                                              <enabled>0</enabled>
+                                              <value></value>
+                                            </object>
+                                          </object>
+                                          <object class="sizeritem">
+                                            <flag>wxALL</flag>
+                                            <border>5</border>
+                                            <option>0</option>
+                                            <object class="wxButton" name="diff_branch_bto">
+                                              <enabled>0</enabled>
+                                              <label>Mostrar diferencia de ramas</label>
+                                              <default>0</default>
+                                              <auth_needed>0</auth_needed>
+                                              <markup>0</markup>
+                                              <bitmap/>
+                                            </object>
+                                          </object>
                                         </object>
                                       </object>
                                       <object class="sizeritem">
@@ -700,7 +783,7 @@
                                 </object>
                               </object>
                               <object class="sizeritem">
-                                <flag>wxEXPAND</flag>
+                                <flag>wxALL|wxEXPAND|wxLEFT</flag>
                                 <border>5</border>
                                 <option>1</option>
                                 <object class="wxBoxSizer" name="mRama_textSizer">
@@ -723,14 +806,14 @@
                                     </object>
                                   </object>
                                   <object class="sizeritem">
-                                    <flag>wxEXPAND</flag>
+                                    <flag>wxALL|wxEXPAND|wxLEFT</flag>
                                     <border>5</border>
                                     <option>1</option>
                                     <object class="wxStaticBoxSizer" name="Branch_BSizer">
                                       <orient>wxVERTICAL</orient>
-                                      <label>Ramas de los buses</label>
+                                      <label>Ramas adyacentes</label>
                                       <object class="sizeritem">
-                                        <flag>wxEXPAND</flag>
+                                        <flag>wxALL|wxEXPAND|wxLEFT</flag>
                                         <border>5</border>
                                         <option>1</option>
                                         <object class="wxBoxSizer" name="raw_listSizer">
@@ -794,13 +877,13 @@
                             </object>
                           </object>
                           <object class="sizeritem">
-                            <flag>wxEXPAND</flag>
+                            <flag>wxALL|wxEXPAND|wxLEFT</flag>
                             <border>5</border>
                             <option>1</option>
                             <object class="wxBoxSizer" name="Diag_Sizer">
                               <orient>wxHORIZONTAL</orient>
                               <object class="sizeritem">
-                                <flag>wxEXPAND</flag>
+                                <flag>wxALL|wxEXPAND|wxLEFT</flag>
                                 <border>0</border>
                                 <option>1</option>
                                 <object class="wxStaticBoxSizer" name="RAW1_BSizer">
@@ -815,8 +898,8 @@
                                 </object>
                               </object>
                               <object class="sizeritem">
-                                <flag>wxEXPAND</flag>
-                                <border>5</border>
+                                <flag>wxALL|wxEXPAND|wxLEFT</flag>
+                                <border>0</border>
                                 <option>1</option>
                                 <object class="wxStaticBoxSizer" name="RAW2_BSizer">
                                   <orient>wxVERTICAL</orient>
@@ -884,13 +967,13 @@
           <label>Introducción</label>
           <accel></accel>
           <help></help>
-          <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\info.png</bitmap>
+          <bitmap></bitmap>
         </object>
         <object class="wxMenuItem" name="queries">
           <label>Queries</label>
           <accel></accel>
           <help></help>
-          <bitmap>D:\E0139.CENACE\My Documents\Mis imágenes\iconos\info.png</bitmap>
+          <bitmap></bitmap>
         </object>
       </object>
     </object>

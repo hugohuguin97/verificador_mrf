@@ -19,7 +19,7 @@ import wx.stc
 class MainF ( wx.Frame ):
 
 	def __init__( self, parent ):
-		wx.Frame.__init__ ( self, parent, id = wx.ID_ANY, title = u"Validaciones USO", pos = wx.DefaultPosition, size = wx.Size( -1,-1 ), style = wx.DEFAULT_FRAME_STYLE|wx.TAB_TRAVERSAL )
+		wx.Frame.__init__ ( self, parent, id = wx.ID_ANY, title = u"Validaciones MRF", pos = wx.DefaultPosition, size = wx.Size( -1,-1 ), style = wx.DEFAULT_FRAME_STYLE|wx.TAB_TRAVERSAL )
 
 		self.SetSizeHints( wx.Size( 720,400 ), wx.Size( -1,-1 ) )
 
@@ -33,7 +33,7 @@ class MainF ( wx.Frame ):
 
 		Param_Sizer = wx.BoxSizer( wx.VERTICAL )
 
-		self.logo_cen1 = wx.StaticBitmap( self.MAGE_panel, wx.ID_ANY, wx.Bitmap( u"D:\\E0139.CENACE\\My Documents\\Mis imágenes\\iconos\\CENACE-logo-completo.png", wx.BITMAP_TYPE_ANY ), wx.DefaultPosition, wx.DefaultSize, 0 )
+		self.logo_cen1 = wx.StaticBitmap( self.MAGE_panel, wx.ID_ANY, wx.NullBitmap, wx.DefaultPosition, wx.DefaultSize, 0 )
 		Param_Sizer.Add( self.logo_cen1, 0, wx.ALL|wx.ALIGN_CENTER_HORIZONTAL, 5 )
 
 		path_insumosSizer = wx.StaticBoxSizer( wx.StaticBox( self.MAGE_panel, wx.ID_ANY, u"Seleccionar insumos" ), wx.VERTICAL )
@@ -92,6 +92,7 @@ class MainF ( wx.Frame ):
 
 		Logger_Sizer = wx.BoxSizer( wx.VERTICAL )
 
+		Logger_Sizer.SetMinSize( wx.Size( 400,-1 ) )
 		self.mage_log_textCtrl = wx.TextCtrl( self.MAGE_panel, wx.ID_ANY, wx.EmptyString, wx.DefaultPosition, wx.DefaultSize, wx.HSCROLL|wx.TE_MULTILINE|wx.TE_READONLY )
 		Logger_Sizer.Add( self.mage_log_textCtrl, 1, wx.ALL|wx.EXPAND, 5 )
 
@@ -108,7 +109,7 @@ class MainF ( wx.Frame ):
 
 		Param_Sizer1 = wx.BoxSizer( wx.VERTICAL )
 
-		self.logo_cen2 = wx.StaticBitmap( self.XML_panel, wx.ID_ANY, wx.Bitmap( u"D:\\E0139.CENACE\\My Documents\\Mis imágenes\\iconos\\CENACE-logo-completo.png", wx.BITMAP_TYPE_ANY ), wx.DefaultPosition, wx.DefaultSize, 0 )
+		self.logo_cen2 = wx.StaticBitmap( self.XML_panel, wx.ID_ANY, wx.NullBitmap, wx.DefaultPosition, wx.DefaultSize, 0 )
 		Param_Sizer1.Add( self.logo_cen2, 0, wx.ALL|wx.ALIGN_CENTER_HORIZONTAL, 5 )
 
 		Data_Sizer1 = wx.StaticBoxSizer( wx.StaticBox( self.XML_panel, wx.ID_ANY, u"Seleccionar insumos" ), wx.VERTICAL )
@@ -117,6 +118,9 @@ class MainF ( wx.Frame ):
 		Data_Sizer1.Add( self.XML_pathSel, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 		self.Data_athSelect1 = wx.DirPickerCtrl( Data_Sizer1.GetStaticBox(), wx.ID_ANY, u"Seleccioanr directorio de insumos", u"Seleccionar carpeta", wx.DefaultPosition, wx.DefaultSize, wx.DIRP_DEFAULT_STYLE|wx.DIRP_DIR_MUST_EXIST )
+		self.Data_athSelect1.Enable( False )
+		self.Data_athSelect1.Hide()
+
 		Data_Sizer1.Add( self.Data_athSelect1, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
@@ -262,22 +266,55 @@ class MainF ( wx.Frame ):
 
 		RAWParam_Sizer1 = wx.BoxSizer( wx.VERTICAL )
 
-		self.logo_cen3 = wx.StaticBitmap( self.RAWParameters_Panel, wx.ID_ANY, wx.Bitmap( u"D:\\E0139.CENACE\\My Documents\\Mis imágenes\\iconos\\CENACE-logo-completo.png", wx.BITMAP_TYPE_ANY ), wx.DefaultPosition, wx.DefaultSize, 0 )
+		self.logo_cen3 = wx.StaticBitmap( self.RAWParameters_Panel, wx.ID_ANY, wx.NullBitmap, wx.DefaultPosition, wx.DefaultSize, 0 )
 		RAWParam_Sizer1.Add( self.logo_cen3, 0, wx.ALL|wx.ALIGN_CENTER_HORIZONTAL, 5 )
 
 		Data_Sizer112 = wx.StaticBoxSizer( wx.StaticBox( self.RAWParameters_Panel, wx.ID_ANY, u"Parámetros de control" ), wx.HORIZONTAL )
+
+		sistem_Sizer = wx.BoxSizer( wx.VERTICAL )
+
+		self.sistem_SText = wx.StaticText( Data_Sizer112.GetStaticBox(), wx.ID_ANY, u"Seleccionar sistema", wx.DefaultPosition, wx.DefaultSize, 0 )
+		self.sistem_SText.Wrap( -1 )
+
+		sistem_Sizer.Add( self.sistem_SText, 0, wx.ALL|wx.ALIGN_CENTER_HORIZONTAL, 5 )
 
 		_sistemaChoices = [u"SIN", u"BCA", u"BCS"]
 		self._sistema = wx.CheckListBox( Data_Sizer112.GetStaticBox(), wx.ID_ANY, wx.DefaultPosition, wx.DefaultSize, _sistemaChoices, wx.LB_SINGLE|wx.BORDER_NONE )
 		self._sistema.SetFont( wx.Font( wx.NORMAL_FONT.GetPointSize(), wx.FONTFAMILY_DEFAULT, wx.FONTSTYLE_NORMAL, wx.FONTWEIGHT_NORMAL, False, wx.EmptyString ) )
 
-		Data_Sizer112.Add( self._sistema, 1, wx.ALL|wx.EXPAND|wx.LEFT, 10 )
+		sistem_Sizer.Add( self._sistema, 1, wx.ALL|wx.EXPAND|wx.LEFT, 10 )
+
+
+		Data_Sizer112.Add( sistem_Sizer, 1, wx.EXPAND, 5 )
+
+		control_Sizer = wx.BoxSizer( wx.VERTICAL )
+
+		self.control_Sizer = wx.StaticText( Data_Sizer112.GetStaticBox(), wx.ID_ANY, u"Control de RAW", wx.DefaultPosition, wx.DefaultSize, 0 )
+		self.control_Sizer.Wrap( -1 )
+
+		control_Sizer.Add( self.control_Sizer, 0, wx.ALL|wx.ALIGN_CENTER_HORIZONTAL, 5 )
 
 		analisisChoices = [u"Seleccionar ultimo RAW de SP7", u"Seleccionar ultimo RAW de ABB", u"Seleccionar RAW"]
 		self.analisis = wx.CheckListBox( Data_Sizer112.GetStaticBox(), wx.ID_ANY, wx.DefaultPosition, wx.DefaultSize, analisisChoices, 0|wx.BORDER_NONE )
 		self.analisis.SetFont( wx.Font( wx.NORMAL_FONT.GetPointSize(), wx.FONTFAMILY_DEFAULT, wx.FONTSTYLE_NORMAL, wx.FONTWEIGHT_NORMAL, False, wx.EmptyString ) )
 
-		Data_Sizer112.Add( self.analisis, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
+		control_Sizer.Add( self.analisis, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
+
+
+		Data_Sizer112.Add( control_Sizer, 1, wx.EXPAND, 5 )
+
+		tol_Sizer = wx.BoxSizer( wx.VERTICAL )
+
+		self.param_Stext = wx.StaticText( Data_Sizer112.GetStaticBox(), wx.ID_ANY, u"Tolerancia de párametros", wx.DefaultPosition, wx.DefaultSize, 0 )
+		self.param_Stext.Wrap( -1 )
+
+		tol_Sizer.Add( self.param_Stext, 0, wx.ALL|wx.ALIGN_CENTER_HORIZONTAL, 5 )
+
+		self.param_textCtrl = wx.TextCtrl( Data_Sizer112.GetStaticBox(), wx.ID_ANY, wx.EmptyString, wx.DefaultPosition, wx.DefaultSize, 0 )
+		tol_Sizer.Add( self.param_textCtrl, 0, wx.ALL|wx.ALIGN_CENTER_HORIZONTAL, 5 )
+
+
+		Data_Sizer112.Add( tol_Sizer, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
 		RAWParam_Sizer1.Add( Data_Sizer112, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
@@ -287,8 +324,8 @@ class MainF ( wx.Frame ):
 		self.RAW_pathSel1 = wx.DirPickerCtrl( Data_Sizer11.GetStaticBox(), wx.ID_ANY, wx.EmptyString, u"Seleccionar carpeta", wx.DefaultPosition, wx.DefaultSize, wx.DIRP_DEFAULT_STYLE|wx.DIRP_DIR_MUST_EXIST )
 		Data_Sizer11.Add( self.RAW_pathSel1, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
-		self.m_checkBox9 = wx.CheckBox( Data_Sizer11.GetStaticBox(), wx.ID_ANY, u"El RAW es de ABB", wx.DefaultPosition, wx.DefaultSize, 0 )
-		Data_Sizer11.Add( self.m_checkBox9, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
+		self.raw_flag1 = wx.CheckBox( Data_Sizer11.GetStaticBox(), wx.ID_ANY, u"El RAW es formato SP7", wx.DefaultPosition, wx.DefaultSize, 0 )
+		Data_Sizer11.Add( self.raw_flag1, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
 		RAWParam_Sizer1.Add( Data_Sizer11, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
@@ -298,8 +335,8 @@ class MainF ( wx.Frame ):
 		self.RAW_pathSel2 = wx.DirPickerCtrl( Data_Sizer111.GetStaticBox(), wx.ID_ANY, u"Seleccionar RAW a comparar", u"Seleccionar carpeta", wx.DefaultPosition, wx.DefaultSize, wx.DIRP_DEFAULT_STYLE|wx.DIRP_DIR_MUST_EXIST )
 		Data_Sizer111.Add( self.RAW_pathSel2, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
-		self.m_checkBox91 = wx.CheckBox( Data_Sizer111.GetStaticBox(), wx.ID_ANY, u"El RAW es de ABB", wx.DefaultPosition, wx.DefaultSize, 0 )
-		Data_Sizer111.Add( self.m_checkBox91, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
+		self.raw_flag2 = wx.CheckBox( Data_Sizer111.GetStaticBox(), wx.ID_ANY, u"El RAW es formato SP7", wx.DefaultPosition, wx.DefaultSize, 0 )
+		Data_Sizer111.Add( self.raw_flag2, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
 		RAWParam_Sizer1.Add( Data_Sizer111, 0, wx.ALL|wx.EXPAND, 5 )
@@ -312,11 +349,11 @@ class MainF ( wx.Frame ):
 		self.m_checkBox911 = wx.CheckBox( Data_Sizer1111.GetStaticBox(), wx.ID_ANY, u"Exportar reporte", wx.DefaultPosition, wx.DefaultSize, 0 )
 		Data_Sizer1111.Add( self.m_checkBox911, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
-		self.m_button18111 = wx.Button( Data_Sizer1111.GetStaticBox(), wx.ID_ANY, u"Comparar RAWs", wx.DefaultPosition, wx.DefaultSize, 0 )
-		Data_Sizer1111.Add( self.m_button18111, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
+		self.comp_topol_bto = wx.Button( Data_Sizer1111.GetStaticBox(), wx.ID_ANY, u"Comparar topología", wx.DefaultPosition, wx.DefaultSize, 0 )
+		Data_Sizer1111.Add( self.comp_topol_bto, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
-		self.m_button1811 = wx.Button( Data_Sizer1111.GetStaticBox(), wx.ID_ANY, u"Comparar parámetros", wx.DefaultPosition, wx.DefaultSize, 0 )
-		Data_Sizer1111.Add( self.m_button1811, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
+		self.comp_param_bto = wx.Button( Data_Sizer1111.GetStaticBox(), wx.ID_ANY, u"Comparar parámetros", wx.DefaultPosition, wx.DefaultSize, 0 )
+		Data_Sizer1111.Add( self.comp_param_bto, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
 		RAWParam_Sizer1.Add( Data_Sizer1111, 1, wx.ALL|wx.EXPAND, 5 )
@@ -331,7 +368,7 @@ class MainF ( wx.Frame ):
 		self.RAWParameters_Panel.SetSizer( RAWParam_Sizer )
 		self.RAWParameters_Panel.Layout()
 		RAWParam_Sizer.Fit( self.RAWParameters_Panel )
-		self.RAW_nb.AddPage( self.RAWParameters_Panel, u"Comparación", False )
+		self.RAW_nb.AddPage( self.RAWParameters_Panel, u"Comparación", True )
 		self.RAWDiagram_Panel = wx.Panel( self.RAW_nb, wx.ID_ANY, wx.DefaultPosition, wx.DefaultSize, wx.TAB_TRAVERSAL )
 		self.RAWDiagram_Panel.SetFont( wx.Font( wx.NORMAL_FONT.GetPointSize(), wx.FONTFAMILY_DEFAULT, wx.FONTSTYLE_NORMAL, wx.FONTWEIGHT_NORMAL, False, wx.EmptyString ) )
 
@@ -341,17 +378,27 @@ class MainF ( wx.Frame ):
 
 		Portada_BSizer = wx.BoxSizer( wx.VERTICAL )
 
-		self.logo_cen31 = wx.StaticBitmap( self.RAWDiagram_Panel, wx.ID_ANY, wx.Bitmap( u"D:\\E0139.CENACE\\My Documents\\Mis imágenes\\iconos\\CENACE-logo-completo.png", wx.BITMAP_TYPE_ANY ), wx.DefaultPosition, wx.DefaultSize, 0 )
+		self.logo_cen31 = wx.StaticBitmap( self.RAWDiagram_Panel, wx.ID_ANY, wx.NullBitmap, wx.DefaultPosition, wx.DefaultSize, 0 )
 		Portada_BSizer.Add( self.logo_cen31, 0, wx.ALL|wx.ALIGN_CENTER_HORIZONTAL, 5 )
 
-		Bus_BSizer = wx.StaticBoxSizer( wx.StaticBox( self.RAWDiagram_Panel, wx.ID_ANY, u"Buses" ), wx.VERTICAL )
+		Bus_BSizer = wx.StaticBoxSizer( wx.StaticBox( self.RAWDiagram_Panel, wx.ID_ANY, u"Ramas" ), wx.VERTICAL )
+
+		ramas_Sizer1 = wx.BoxSizer( wx.HORIZONTAL )
 
 		self.RAW_searchCtrl = wx.SearchCtrl( Bus_BSizer.GetStaticBox(), wx.ID_ANY, wx.EmptyString, wx.DefaultPosition, wx.DefaultSize, wx.TE_PROCESS_ENTER )
 		self.RAW_searchCtrl.ShowSearchButton( True )
 		self.RAW_searchCtrl.ShowCancelButton( False )
 		self.RAW_searchCtrl.Enable( False )
 
-		Bus_BSizer.Add( self.RAW_searchCtrl, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
+		ramas_Sizer1.Add( self.RAW_searchCtrl, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
+
+		self.diff_branch_bto = wx.Button( Bus_BSizer.GetStaticBox(), wx.ID_ANY, u"Mostrar diferencia de ramas", wx.DefaultPosition, wx.DefaultSize, 0 )
+		self.diff_branch_bto.Enable( False )
+
+		ramas_Sizer1.Add( self.diff_branch_bto, 0, wx.ALL, 5 )
+
+
+		Bus_BSizer.Add( ramas_Sizer1, 0, wx.EXPAND, 5 )
 
 		bSizer29 = wx.BoxSizer( wx.VERTICAL )
 
@@ -376,13 +423,15 @@ class MainF ( wx.Frame ):
 
 		mRama_textSizer.Add( self.rama_Stext, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
-		Branch_BSizer = wx.StaticBoxSizer( wx.StaticBox( self.RAWDiagram_Panel, wx.ID_ANY, u"Ramas de los buses" ), wx.VERTICAL )
+		Branch_BSizer = wx.StaticBoxSizer( wx.StaticBox( self.RAWDiagram_Panel, wx.ID_ANY, u"Ramas adyacentes" ), wx.VERTICAL )
 
 		raw_listSizer = wx.BoxSizer( wx.HORIZONTAL )
 
 		RAW1_listBSizer = wx.StaticBoxSizer( wx.StaticBox( Branch_BSizer.GetStaticBox(), wx.ID_ANY, u"RAW 1" ), wx.VERTICAL )
 
 		self.RAW1_listCtrl = wx.ListCtrl( RAW1_listBSizer.GetStaticBox(), wx.ID_ANY, wx.DefaultPosition, wx.DefaultSize, wx.LC_ALIGN_LEFT|wx.LC_AUTOARRANGE|wx.LC_REPORT|wx.VSCROLL )
+		self.RAW1_listCtrl.SetMinSize( wx.Size( 200,-1 ) )
+
 		RAW1_listBSizer.Add( self.RAW1_listCtrl, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
@@ -391,13 +440,15 @@ class MainF ( wx.Frame ):
 		RAW2_listBSizer = wx.StaticBoxSizer( wx.StaticBox( Branch_BSizer.GetStaticBox(), wx.ID_ANY, u"RAW 2" ), wx.VERTICAL )
 
 		self.RAW2_listCtrl = wx.ListCtrl( RAW2_listBSizer.GetStaticBox(), wx.ID_ANY, wx.DefaultPosition, wx.DefaultSize, wx.LC_ALIGN_LEFT|wx.LC_AUTOARRANGE|wx.LC_REPORT|wx.VSCROLL )
+		self.RAW2_listCtrl.SetMinSize( wx.Size( 200,-1 ) )
+
 		RAW2_listBSizer.Add( self.RAW2_listCtrl, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
 		raw_listSizer.Add( RAW2_listBSizer, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
-		Branch_BSizer.Add( raw_listSizer, 1, wx.EXPAND, 5 )
+		Branch_BSizer.Add( raw_listSizer, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 		self.subRama_Stext = wx.StaticText( Branch_BSizer.GetStaticBox(), wx.ID_ANY, wx.EmptyString, wx.DefaultPosition, wx.DefaultSize, 0 )
 		self.subRama_Stext.Wrap( -1 )
@@ -407,10 +458,10 @@ class MainF ( wx.Frame ):
 		Branch_BSizer.Add( self.subRama_Stext, 0, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
-		mRama_textSizer.Add( Branch_BSizer, 1, wx.EXPAND, 5 )
+		mRama_textSizer.Add( Branch_BSizer, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
-		RAW_Sizer.Add( mRama_textSizer, 1, wx.EXPAND, 5 )
+		RAW_Sizer.Add( mRama_textSizer, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
 		Diagram_Sizer.Add( RAW_Sizer, 1, wx.EXPAND, 5 )
@@ -424,7 +475,7 @@ class MainF ( wx.Frame ):
 		RAW1_BSizer.Add( self.RAW1_panel, 1, wx.ALL|wx.EXPAND|wx.LEFT, 0 )
 
 
-		Diag_Sizer.Add( RAW1_BSizer, 1, wx.EXPAND, 0 )
+		Diag_Sizer.Add( RAW1_BSizer, 1, wx.ALL|wx.EXPAND|wx.LEFT, 0 )
 
 		RAW2_BSizer = wx.StaticBoxSizer( wx.StaticBox( self.RAWDiagram_Panel, wx.ID_ANY, u"RAW 2" ), wx.VERTICAL )
 
@@ -433,16 +484,16 @@ class MainF ( wx.Frame ):
 		RAW2_BSizer.Add( self.RAW2_panel, 1, wx.EXPAND |wx.ALL, 5 )
 
 
-		Diag_Sizer.Add( RAW2_BSizer, 1, wx.EXPAND, 5 )
+		Diag_Sizer.Add( RAW2_BSizer, 1, wx.ALL|wx.EXPAND|wx.LEFT, 0 )
 
 
-		Diagram_Sizer.Add( Diag_Sizer, 1, wx.EXPAND, 5 )
+		Diagram_Sizer.Add( Diag_Sizer, 1, wx.ALL|wx.EXPAND|wx.LEFT, 5 )
 
 
 		self.RAWDiagram_Panel.SetSizer( Diagram_Sizer )
 		self.RAWDiagram_Panel.Layout()
 		Diagram_Sizer.Fit( self.RAWDiagram_Panel )
-		self.RAW_nb.AddPage( self.RAWDiagram_Panel, u"Diagrama de subestación", True )
+		self.RAW_nb.AddPage( self.RAWDiagram_Panel, u"Diagrama de subestación", False )
 
 		RAWmSizer.Add( self.RAW_nb, 1, wx.EXPAND, 5 )
 
@@ -490,11 +541,11 @@ class MainF ( wx.Frame ):
 
 		self.menu_ayuda = wx.Menu()
 		self.introduccion = wx.MenuItem( self.menu_ayuda, wx.ID_ANY, u"Introducción", wx.EmptyString, wx.ITEM_NORMAL )
-		self.introduccion.SetBitmap( wx.Bitmap( u"D:\\E0139.CENACE\\My Documents\\Mis imágenes\\iconos\\info.png", wx.BITMAP_TYPE_ANY ) )
+		self.introduccion.SetBitmap( wx.NullBitmap )
 		self.menu_ayuda.Append( self.introduccion )
 
 		self.queries = wx.MenuItem( self.menu_ayuda, wx.ID_ANY, u"Queries", wx.EmptyString, wx.ITEM_NORMAL )
-		self.queries.SetBitmap( wx.Bitmap( u"D:\\E0139.CENACE\\My Documents\\Mis imágenes\\iconos\\info.png", wx.BITMAP_TYPE_ANY ) )
+		self.queries.SetBitmap( wx.NullBitmap )
 		self.menu_ayuda.Append( self.queries )
 
 		self.main_menu.Append( self.menu_ayuda, u"Ayuda" )

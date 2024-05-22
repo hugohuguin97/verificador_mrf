@@ -96,6 +96,11 @@ class XML_panel(wx.lib.scrolledpanel.ScrolledPanel):
         self.mf = main_frame
         self.parent = parent
         
+        # Agrgar imagen de CENACE
+        icons_path = path.join(ruta_base, "iconos")
+        cen_bm = path.join(icons_path,"CENACE-logo-completo.png")
+        self.mf.logo_cen2.SetBitmap(wx.Bitmap( cen_bm, wx.BITMAP_TYPE_ANY ))
+        
         self.log = log
         self.xml_log_textCtrl = self.mf.xml_log_textCtrl
         txt_handler = CustomConsoleLogHandler(self.xml_log_textCtrl)

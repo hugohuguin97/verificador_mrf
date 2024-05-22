@@ -20,11 +20,18 @@ import subprocess
 from src.val_MAGE import MAGE_panel
 from src.val_XML import XML_panel
 from src.val_RAW import RAW_panel
+from src.threads import EVT_RESULT_ID
+from shutil import copyfile, rmtree, move
 
 ruta_base = path.dirname(path.abspath(__file__))
 ruta_xrc = path.join(ruta_base,"main_app.xrc")
 log = logging.getLogger("validaciones_uso")
 log.setLevel(logging.INFO)
+
+def EVT_RESULT(win, func):
+    """Define Result Event."""
+    win.Connect(-1, -1, EVT_RESULT_ID, func)
+
 
 # Implementing MainF
 class MainFrameMainF( main_app.MainF ):
@@ -34,6 +41,20 @@ class MainFrameMainF( main_app.MainF ):
         
         self.estado_ayuda = 0
         self.ruta_base = ruta_base
+        
+        # Agrega figuras al menu
+        icons_path = path.join(ruta_base, "iconos")
+        file_bm = path.join(icons_path,"archivo.png")
+        open_bm = path.join(icons_path,"abrir.png")
+        exit_bm = path.join(icons_path,"exit.png")
+        info_bm = path.join(icons_path,"info.png")
+        self.m_menu_file_new.SetBitmap(wx.Bitmap( file_bm, wx.BITMAP_TYPE_ANY ))
+        self.m_menu_file_open.SetBitmap(wx.Bitmap( open_bm, wx.BITMAP_TYPE_ANY ))
+        self.m_menu_file_exit.SetBitmap(wx.Bitmap( exit_bm, wx.BITMAP_TYPE_ANY ))
+        self.introduccion.SetBitmap(wx.Bitmap( info_bm, wx.BITMAP_TYPE_ANY ))
+        self.queries.SetBitmap(wx.Bitmap( info_bm, wx.BITMAP_TYPE_ANY ))
+        
+        
         self.Bind(wx.EVT_MENU, lambda event: self.abrir_ayuda(event, "instrucciones.html"), self.introduccion)
         self.Bind(wx.EVT_MENU, lambda event: self.abrir_ayuda(event, "queries.html"), self.queries)
 
@@ -42,6 +63,7 @@ class MainFrameMainF( main_app.MainF ):
         self.raw_panel = RAW_panel(self, self)
         
         # self.archivos_requeridos = set()
+        EVT_RESULT(self, self.ThreadResult)
 
     def abrir_ayuda(self, event, archivo):
         """Abre un archivo html de ayuda en una nueva ventana.
@@ -70,15 +92,46 @@ class MainFrameMainF( main_app.MainF ):
         else:
             self.SetStatusText('Proceso ocupado, espere a finalizar el anterior.')
 
-    # def OnOpen(self, event):
+    def ThreadResult(self, event):
 
-    #     if self._estadoOtherFrame == 0:
-    #         frame = OtherFrame(u"Recuperar casos históricos",
-    #             wx.GetTopLevelParent(self), self)
-    #     else:
-    #         self.SetStatusText(u'La ventana de recuperación de casos históricos'
-    #             u' ya está abierta')
-            
+        # print(event.completed)
+        # print(event.data)
+        
+        if event.completed is None:
+            self.SetStatusText('La actividad fue abortada')
+
+        # elif event.completed is True:
+        #     self.SetStatusText(u'Terminó la actividad')
+        #     if event.data and event.data['ACTIVIDAD'] == 'VERIFICADOR':
+        #         self._carpeta_final = event.data['CARPETA_FINAL']
+        #         self._val_ejecutado = True
+        #         self._validaciones = event.data['VALIDACIONES']
+        #         if self._modo.GetSelection() == 1:
+        #             self.mainPanel._upload.Enable()
+        #         elif (self._modo.GetSelection() == 0 or self._modo.GetSelection() == 3):
+        #             self.mainPanel._upload_2.Enable()
+        #     elif event.data and event.data['ACTIVIDAD'] == 'UPDATER':
+        #         self._current_sha = event.data['SHA_FINAL']
+        #     elif event.data and event.data['ACTIVIDAD'] == 'UPLOADER_PRUEBA':
+
+        #         log.info('Limpiando directorio temporal')
+        #         try:
+        #             rmtree(event.data['CARPETA_TEMPORAL'])
+        #         except:
+        #             pass
+        #         log.info('Termino la limpieza del directorio temporal')
+        #     elif event.data and event.data['ACTIVIDAD'] == 'READ_EXT':
+
+        #         self.mainPanel._start.Enable()
+        #         self.mainPanel._upoload_mongo.Enable()
+
+        elif event.completed is False:
+            self.SetStatusText(u'Ocurrió un error')
+
+        if event.data and event.data['ACTIVIDAD'] == 'VERIFICADOR':
+            self._verificado = True
+
+        self.worker = None
             
 class AyudaFrame(wx.Frame):
     """Clase que permite abrir una ventana de ayuda desde la ventana principal"""

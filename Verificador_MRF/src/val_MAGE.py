@@ -91,6 +91,12 @@ class MAGE_panel(wx.lib.scrolledpanel.ScrolledPanel):
         # wx.lib.scrolledpanel.ScrolledPanel.__init__(self, parent)
         super().__init__(parent)
         self.mf = main_frame
+        
+        # Agrgar imagen de CENACE
+        icons_path = path.join(ruta_base, "iconos")
+        cen_bm = path.join(icons_path,"CENACE-logo-completo.png")
+        self.mf.logo_cen1.SetBitmap(wx.Bitmap( cen_bm, wx.BITMAP_TYPE_ANY ))
+        
         self.log = log
         self.mage_log_textCtrl = self.mf.mage_log_textCtrl
         txt_handler = CustomConsoleLogHandler(self.mage_log_textCtrl)
